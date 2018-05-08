@@ -47,9 +47,9 @@ function get_invoices($supplier_id, $to, $all=true)
 		".TB_PREF."supp_trans.reference,
 		".TB_PREF."supp_trans.tran_date,
 		$value as Balance,
-		IF ((TO_DAYS('$todate') - TO_DAYS($due)) >= 0,$value,0) AS Due,
-		IF ((TO_DAYS('$todate') - TO_DAYS($due)) >= $PastDueDays1,$value,0) AS Overdue1,
-		IF ((TO_DAYS('$todate') - TO_DAYS($due)) >= $PastDueDays2,$value,0) AS Overdue2
+		IF ((TO_DAYS('$todate') - TO_DAYS($due)) > 0,$value,0) AS Due,
+		IF ((TO_DAYS('$todate') - TO_DAYS($due)) > $PastDueDays1,$value,0) AS Overdue1,
+		IF ((TO_DAYS('$todate') - TO_DAYS($due)) > $PastDueDays2,$value,0) AS Overdue2
 
 		FROM ".TB_PREF."suppliers,
 			".TB_PREF."payment_terms,
@@ -256,7 +256,7 @@ function print_aged_supplier_analysis()
 		$pg->skin      = $graph_skin;
 		$pg->built_in  = false;
 		$pg->latin_notation = ($decseps[$_SESSION["wa_current_user"]->prefs->dec_sep()] != ".");
-		$filename = company_path(). "/pdf_files/". uniqid("").".png";
+		$filename = company_path(). "/pdf_files/". random_id().".png";
 		$pg->display($filename, true);
 		$w = $pg->width / 1.5;
 		$h = $pg->height / 1.5;

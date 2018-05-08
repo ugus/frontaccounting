@@ -1,0 +1,4065 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FrontAccounting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-08 15:59+0200\n"
+"PO-Revision-Date: 2011-02-13 21:53+0800\n"
+"Last-Translator: Felix Ye <felix@mixpwr.com>\n"
+"Language-Team: MixPwr (http://www.mixpwr.com)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Simplified Chinese\n"
+"X-Poedit-Country: China\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-KeywordsList: _\n"
+
+msgid " and "
+msgstr " 和"
+
+msgid "&Access Setup"
+msgstr "访问权限"
+
+msgid "&Add or Edit "
+msgstr "添加或编辑"
+
+msgid "&Aged Customer Analysis"
+msgstr "旧客户户口分析"
+
+msgid "&Aged Supplier Analyses"
+msgstr "旧供应商分析"
+
+msgid "&Attach Documents"
+msgstr "附件"
+
+msgid "&Backup and Restore"
+msgstr "备份和恢复"
+
+msgid "&Balance Sheet"
+msgstr "资产负债表"
+
+msgid "&Budget Entry"
+msgstr "预算条目输入"
+
+msgid "&Company Setup"
+msgstr "公司设置"
+
+msgid "&Currencies"
+msgstr "货币"
+
+msgid "&Delivery Against Sales Orders"
+msgstr "根据销售订单送货"
+
+msgid "&Display Setup"
+msgstr "显示设置"
+
+msgid "&Email Delivery Note"
+msgstr "发送电子邮件送货单"
+
+msgid "&Email Sales Invoice"
+msgstr "电邮发送销售发票"
+
+msgid "&Email This Invoice"
+msgstr "电邮发送此发票"
+
+msgid "&Email This Order"
+msgstr "电子邮件此订单"
+
+msgid "&Email This Quotation"
+msgstr "电子邮件发送此报价"
+
+msgid "&Email This Remittance"
+msgstr "电子邮件发出这张汇款"
+
+msgid "&Exchange Rates"
+msgstr "汇率"
+
+msgid "&Fiscal Years"
+msgstr "会计年度"
+
+msgid "&GL Accounts"
+msgstr "总帐(GL)帐户"
+
+msgid "&Invoice Against Sales Delivery"
+msgstr "根据货物配送开具发票"
+
+msgid "&Items"
+msgstr "产品"
+
+msgid "&Items and Inventory"
+msgstr "库存"
+
+msgid "&Journal Entry"
+msgstr "日记条目输入"
+
+msgid "&Journal Inquiry"
+msgstr "日记查询"
+
+msgid "&Manufacturing"
+msgstr "生产"
+
+msgid "&Order Status Listing"
+msgstr "订单状况清单"
+
+msgid "&Payment Report"
+msgstr "付款报告"
+
+msgid "&Payments"
+msgstr "付款"
+
+msgid "&Payments to Suppliers"
+msgstr "向供应商付款"
+
+msgid "&Print Delivery Note"
+msgstr "打印送货单"
+
+msgid "&Print Sales Invoice"
+msgstr "打印销售发票"
+
+msgid "&Print Sales Orders"
+msgstr "发电子邮件给客户"
+
+msgid "&Print Sales Quotations"
+msgstr "打印销售报价"
+
+msgid "&Print This Credit Note"
+msgstr "打印此信用票据"
+
+msgid "&Print This Invoice"
+msgstr "打印此发票"
+
+msgid "&Print This Order"
+msgstr "打印此订单"
+
+msgid "&Print This Quotation"
+msgstr "打印此报价"
+
+msgid "&Print This Receipt"
+msgstr "打印此收据"
+
+msgid "&Print This Remittance"
+msgstr "打印这张汇款"
+
+msgid "&Printers"
+msgstr "打印机"
+
+msgid "&Profit and Loss Statement"
+msgstr "损益表"
+
+msgid "&Purchases"
+msgstr "采购"
+
+msgid "&Receive Items on this Purchase Order"
+msgstr "接收对本采购订单项目"
+
+msgid "&Reconcile Bank Account"
+msgstr "核对银行账户"
+
+msgid "&Revaluation of Currency Accounts"
+msgstr "重估外币账户"
+
+msgid "&Sales"
+msgstr "销售"
+
+msgid "&Salesman Listing"
+msgstr "业务员列表"
+
+msgid "&Select an existing dimension"
+msgstr "选择现有的需求"
+
+msgid "&Suppliers"
+msgstr "供应商"
+
+msgid "&Taxes"
+msgstr "税务"
+
+msgid "&Units of Measure"
+msgstr "计量单位:"
+
+msgid "&View This Credit Note"
+msgstr "查看此信用票据"
+
+msgid "&View This Delivery"
+msgstr "查看此送货"
+
+msgid "&View This Invoice"
+msgstr "查看本发票"
+
+msgid "&View This Order"
+msgstr "查看本订单"
+
+msgid "&View This Quotation"
+msgstr "查看此报价"
+
+msgid "&View this Delivery"
+msgstr "查看此配送"
+
+msgid "&View this Invoice"
+msgstr "查看此发票"
+
+msgid "&View this adjustment"
+msgstr "查看此调整"
+
+msgid "&View this credit note"
+msgstr "查看此信用票据"
+
+msgid "&View this order"
+msgstr "查看此订单"
+
+msgid "&Void a Transaction"
+msgstr "废止一个交易"
+
+msgid "&Work Centres"
+msgstr "工作中心"
+
+msgid "'%s' file should be read-only"
+msgstr "'%s' 的文件应该是只读"
+
+msgid "'%s' is not writeable"
+msgstr "'%s'是不可写"
+
+msgid ", Please correct it"
+msgstr "请更正"
+
+msgid "A new item has been added."
+msgstr "一个新项目已被添加。"
+
+msgid "A new supplier has been added."
+msgstr "一个新的供应商已添加。"
+
+msgid "A new user has been added."
+msgstr "一个新的用户已添加。"
+
+msgid "Abbreviation"
+msgstr "代号"
+
+msgid "Access Level"
+msgstr "访问级别"
+
+msgid "Access Level:"
+msgstr "访问权限:"
+
+msgid "Access Levels Extensions"
+msgstr "访问级别扩展"
+
+msgid "Access setup"
+msgstr "访问设置"
+
+msgid "Account"
+msgstr "帐户"
+
+msgid "Account &Tags"
+msgstr "帐户标签"
+
+msgid "Account Code"
+msgstr "帐户代码"
+
+msgid "Account Code 2:"
+msgstr "帐目编码2"
+
+msgid "Account Code:"
+msgstr "帐目编码:"
+
+msgid "Account Group:"
+msgstr "帐户组:"
+
+msgid "Account Name"
+msgstr "帐户名称"
+
+msgid "Account Name:"
+msgstr "帐目名称:"
+
+msgid "Account Tags"
+msgstr "帐户标签"
+
+msgid "Account Tags:"
+msgstr "帐户标签:"
+
+msgid "Account Type:"
+msgstr "帐户类型:"
+
+msgid "Account data has been updated."
+msgstr "账户数据已被更新。"
+
+msgid "Account status:"
+msgstr "帐户状态:"
+
+msgid "Accumulated"
+msgstr "累计发出值"
+
+msgid "Action"
+msgstr "操作"
+
+msgid "Action id"
+msgstr "活动ID"
+
+msgid "Activated for '%s'"
+msgstr "激活'%s'的"
+
+msgid "Activity Since"
+msgstr "活动始于"
+
+msgid "Actual Price"
+msgstr "实际价格"
+
+msgid "Add Account"
+msgstr "新增帐户"
+
+msgid "Add New Customer"
+msgstr "添加新客户"
+
+msgid "Add New Supplier Details"
+msgstr "添加新的供应商信息"
+
+msgid "Add and Manage &Customers"
+msgstr "添加和管理客户"
+
+msgid "Add new"
+msgstr "新增到"
+
+msgid "Add to Credit Note"
+msgstr "新增信贷的注"
+
+msgid "Add to Invoice"
+msgstr "添加到发票"
+
+msgid "Additional Costs"
+msgstr "额外费用"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Address:"
+msgstr "地址:"
+
+msgid "Addresses"
+msgstr "地址"
+
+msgid "Adjustment Account"
+msgstr "调整帐户"
+
+msgid "Aged Customer Analysis"
+msgstr "旧客户分析"
+
+msgid "Aged Supplier Analysis"
+msgstr "旧供应商分析"
+
+msgid "All"
+msgstr "所有"
+
+msgid "All Areas"
+msgstr "全部地区"
+
+msgid "All Locations"
+msgstr "所有地点"
+
+msgid "All Orders"
+msgstr "所有订单"
+
+msgid "All Sales Types"
+msgstr "所有销售类型"
+
+msgid "All branches"
+msgstr "各分公司"
+
+msgid "All companies data has been successfully updated"
+msgstr "所有公司的资料已成功更新"
+
+msgid "Allocate"
+msgstr "配置"
+
+msgid "Allocated"
+msgstr "配置"
+
+msgid "Allocation"
+msgstr "分配"
+
+msgid "Allocation of"
+msgstr "配置"
+
+msgid "Allocation of %s # %d"
+msgstr "配置 %s # %d "
+
+msgid "Allocations"
+msgstr "分配"
+
+msgid "Amount"
+msgstr "金额"
+
+msgid "Amount Total"
+msgstr "总计"
+
+msgid "Amount max:"
+msgstr "最大数额:"
+
+msgid "Amount min:"
+msgstr "最小数额:"
+
+msgid "Amounts in thousands"
+msgstr "金额单位:千"
+
+msgid "Annual Expense Breakdown"
+msgstr "年费用分解"
+
+msgid "Any browser is supported"
+msgstr "任何浏览器的支持"
+
+msgid "Any server is supported"
+msgstr "支持任何服务器"
+
+msgid "April"
+msgstr "四月"
+
+msgid "Are you sure you want to delete company no. "
+msgstr "你确定要删除公司No."
+
+msgid "Area"
+msgstr "地区"
+
+msgid "Area Name"
+msgstr "区域名称"
+
+msgid "Area Name:"
+msgstr "区域名称:"
+
+msgid "Attach Documents"
+msgstr "添加附件"
+
+msgid "Attached File"
+msgstr "附件"
+
+msgid "Attaching documents"
+msgstr "附件"
+
+msgid "Attachment has been deleted."
+msgstr "附件已被删除。"
+
+msgid "Attachment has been inserted."
+msgstr "附件已上传。"
+
+msgid "Attachment has been updated."
+msgstr "附件已更新。"
+
+msgid "August"
+msgstr "八月"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Authorization timeout"
+msgstr "登录超时"
+
+msgid "Auto update"
+msgstr "自动更新"
+
+msgid "Automatic Revaluation Currency Accounts"
+msgstr "自动重估外币账户"
+
+msgid "Automatic exchange rate update:"
+msgstr "汇率自动更新:"
+
+msgid "Automatically put balance on back order"
+msgstr "为了自动地把背面的平衡"
+
+msgid "Available"
+msgstr "可用"
+
+msgid "Available version"
+msgstr "可用版本"
+
+msgid "BOM for item:"
+msgstr "物料清单(BOM)的项目:"
+
+msgid "Backup and Restore Database"
+msgstr "备份和恢复数据库"
+
+msgid "Backup paths have not been set correctly."
+msgstr "备份路径没有被正确设置。"
+
+msgid "Backup scripts maintenance"
+msgstr "维护备份脚本"
+
+msgid "Backup successfully generated."
+msgstr "备份成功生成。"
+
+msgid "Balance"
+msgstr "平衡"
+
+msgid "Balance Sheet"
+msgstr "资产负债表"
+
+msgid "Balance Sheet Drilldown"
+msgstr "资产负债表"
+
+msgid "Bank"
+msgstr "银行"
+
+msgid "Bank &Accounts"
+msgstr "银行帐号"
+
+msgid "Bank Account"
+msgstr "银行帐户"
+
+msgid "Bank Account &Inquiry"
+msgstr "银行帐户查询"
+
+msgid "Bank Account &Transfers"
+msgstr "银行帐户转帐"
+
+msgid "Bank Account Currency:"
+msgstr "银行帐户的货币:"
+
+msgid "Bank Account GL Code:"
+msgstr "银行账户总帐(GL)代码:"
+
+msgid "Bank Account Name:"
+msgstr "银行帐户名称:"
+
+msgid "Bank Account Number:"
+msgstr "银行帐号:"
+
+msgid "Bank Accounts"
+msgstr "银行帐户"
+
+msgid "Bank Address"
+msgstr "银行地址"
+
+msgid "Bank Address:"
+msgstr "银行地址:"
+
+msgid "Bank Charge:"
+msgstr "银行收费:"
+
+msgid "Bank Charges Account:"
+msgstr "银行收费帐目:"
+
+msgid "Bank Name/Account:"
+msgstr "银行名称/帐号:"
+
+msgid "Bank Name:"
+msgstr "银行名称:"
+
+msgid "Bank account has been updated"
+msgstr "银行帐户已被更新"
+
+msgid "Bank account transfers"
+msgstr "银行账户转账"
+
+msgid "Bank accounts"
+msgstr "银行账户"
+
+msgid "Bank deposits"
+msgstr "银行存款"
+
+msgid "Bank payments"
+msgstr "银行付款"
+
+msgid "Bank transactions view"
+msgstr "银行交易查看"
+
+msgid "Banking & GL configuration"
+msgstr "银行及总帐(GL)配置"
+
+msgid "Banking & GL transactions"
+msgstr "银行及总帐(GL)交易"
+
+msgid "Banking &Reports"
+msgstr "银行报告"
+
+msgid "Basic Data"
+msgstr "基本数据"
+
+msgid "Batch"
+msgstr "批"
+
+msgid "Begin"
+msgstr "开始"
+
+msgid "Begin:"
+msgstr "开始:"
+
+msgid "Bill Of Materials"
+msgstr "材料清单(BOM)"
+
+msgid "Bill of Materials"
+msgstr "物料清单 (BOM)"
+
+msgid "Bill of materials reports"
+msgstr "物料清单 (BOM)报告"
+
+msgid "Billing Address:"
+msgstr "帐单地址:"
+
+msgid "Branch"
+msgstr "分公司"
+
+msgid "Branch Contact Information"
+msgstr "分公司联系信息"
+
+msgid "Branch Delivery Address"
+msgstr "科送货地址"
+
+msgid "Branch Name"
+msgstr "分公司名称"
+
+msgid "Branch Short Name:"
+msgstr "分公司简称:"
+
+msgid "Branch:"
+msgstr "分公司:"
+
+msgid "Branches"
+msgstr "分公司"
+
+msgid "Browser type"
+msgstr "浏览器类型"
+
+msgid "Budget"
+msgstr "财政预算案"
+
+msgid "Budget edition"
+msgstr "预算"
+
+msgid "CREDIT NOTE"
+msgstr "信用票据（欠条）"
+
+msgid "CREDIT NOTE #%d"
+msgstr "信用记录 #%d"
+
+msgid "Can't delete backup file."
+msgstr "无法删除备份文件。"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel Delivery"
+msgstr "取消交货"
+
+msgid "Cancel Edition"
+msgstr "取消"
+
+msgid "Cancel Invoice"
+msgstr "取消发票"
+
+msgid "Cancel Order"
+msgstr "取消订单"
+
+msgid "Cancel Quotation"
+msgstr "取消报价"
+
+msgid "Cancel any quantites not delivered"
+msgstr "取消任何分位数不传递"
+
+msgid "Cancel changes"
+msgstr "取消更改"
+
+msgid "Cancel edition"
+msgstr "取消"
+
+msgid "Canceled."
+msgstr "取消。"
+
+msgid "Cannot create database"
+msgstr "无法建立数据库"
+
+msgid "Cannot create new company due to bugs in sql file."
+msgstr "无法建立新的公司由于在SQL文件的错误。"
+
+msgid "Cannot delete this POS because it is used in users setup."
+msgstr "无法删除此POS，因为它是在用户安装使用。"
+
+msgid "Cannot delete this account because it is used by one or more Taxes."
+msgstr "无法删除此帐户，因为它是由一个或更多的税使用。"
+
+msgid "Cannot open connection to printer"
+msgstr "无法打开连接到打印机"
+
+msgid "Cannot open the configuration file - "
+msgstr "无法打开配置文件 -"
+
+msgid "Cannot open the extension setup file '%s' for writing."
+msgstr "无法打开用于写入扩展安装文件'%s'的。"
+
+msgid "Cannot open the languages file - "
+msgstr "无法打开语言文件 -"
+
+msgid "Cannot rename company subdirectory"
+msgstr "无法重新命名公司子目录"
+
+msgid "Cannot rename subdirectory to temporary name."
+msgstr "不能重命名子目录临时名称。"
+
+msgid "Cannot update extensions list for company '%s'."
+msgstr "无法更新扩展'%s'的公司名单。"
+
+msgid "Cannot update system extensions list."
+msgstr "无法更新系统扩展名列表。"
+
+msgid "Cannot write to the configuration file - "
+msgstr "无法写入到配置文件 -"
+
+msgid "Cannot write to the extensions setup file '%s'."
+msgstr "无法写入到扩展安装文件'%s'的。"
+
+msgid "Cannot write to the language file - "
+msgstr "无法写入语言文件 -"
+
+msgid "Cash account:"
+msgstr "现金帐户:"
+
+msgid "Cash invoice"
+msgstr "现金发票"
+
+msgid "Cash payment"
+msgstr "现金支付"
+
+msgid "Cash sale"
+msgstr "现金销售"
+
+msgid "Category"
+msgstr "分类"
+
+msgid "Category Description:"
+msgstr "类别描述:"
+
+msgid "Category Short Name:"
+msgstr "分类简称:"
+
+msgid "Category has been deleted"
+msgstr "类别已被删除"
+
+msgid "Category/Items"
+msgstr "类别/项目"
+
+msgid "Change password"
+msgstr "修改密码"
+
+msgid "Charge Branch"
+msgstr "收费科"
+
+msgid "Charge To"
+msgstr "收费向"
+
+msgid "Charges"
+msgstr "收费"
+
+msgid "Charset encoding"
+msgstr "编码字符集"
+
+msgid "Chart of &Accounts"
+msgstr "会计图表"
+
+msgid "Check"
+msgstr "检查"
+
+msgid "Click here to Login Again."
+msgstr "点击这里重新登录。"
+
+msgid "Clone"
+msgstr "克隆"
+
+msgid "Clone This Item"
+msgstr "克隆此项目"
+
+msgid "Clone This Role"
+msgstr "克隆这个角色"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Close Balance"
+msgstr "结存"
+
+msgid "Close This Work Order"
+msgstr "关闭此工作单"
+
+msgid "Closing Year"
+msgstr "截止年份"
+
+msgid "Code"
+msgstr "守则"
+
+msgid "Comments"
+msgstr "评论"
+
+msgid "Comments:"
+msgstr "评论:"
+
+msgid "Commit Order Changes"
+msgstr "提交订单变更"
+
+msgid "Commit Quotations Changes"
+msgstr "提交报价更变"
+
+msgid "Company"
+msgstr "公司"
+
+msgid "Company GL setup"
+msgstr "公司总帐(GL)设置"
+
+msgid "Company Logo:"
+msgstr "公司标志:"
+
+msgid "Company Setup"
+msgstr "公司设置"
+
+msgid "Company has been updated."
+msgstr "公司已被更新。"
+
+msgid "Company internal"
+msgstr "公司内部"
+
+msgid "Company parameters"
+msgstr "公司参数"
+
+msgid "Company setup"
+msgstr "公司设置"
+
+msgid "Company setup has been updated."
+msgstr "公司设置已被更新。"
+
+msgid "Company subdirectories consistency"
+msgstr "公司子目录一致性"
+
+msgid "Compare to"
+msgstr "对比"
+
+msgid "Component"
+msgstr "组件"
+
+msgid "Component of selected kit has been updated."
+msgstr "选择的套件组件已被更新。"
+
+msgid "Component:"
+msgstr "组件:"
+
+msgid "Compression:"
+msgstr "压缩:"
+
+msgid "Confirm Delivery and Invoice"
+msgstr "确认订单交货数量及产生发票"
+
+msgid "Confirm Order Quantities and Make &Delivery"
+msgstr "确认订单报价和配送"
+
+msgid "Confirm changes"
+msgstr "确认订单修改"
+
+msgid "Contact"
+msgstr "联系"
+
+msgid "Contact &Categories"
+msgstr "联系人类别"
+
+msgid "Contact Categories"
+msgstr "联系人类别"
+
+msgid "Contact Data"
+msgstr "联系人数据"
+
+msgid "Contact Person"
+msgstr "联系人"
+
+msgid "Contact Person:"
+msgstr "联系人:"
+
+msgid "Contact Phone Number:"
+msgstr "联系电话:"
+
+msgid "Contact categories"
+msgstr "联系类别"
+
+msgid "Contact data"
+msgstr "联系人数据"
+
+msgid "Contact reference cannot be empty."
+msgstr "联系引用不能是空的。"
+
+msgid "Content information for package '%s'"
+msgstr "内容信息包'%s'"
+
+msgid "Contribution"
+msgstr "贡献"
+
+msgid "Cost"
+msgstr "成本"
+
+msgid "Cost has been updated."
+msgstr "成本已更新。"
+
+msgid "Costed Bill Of Material Inquiry"
+msgstr "物料清品成本查询"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Country:"
+msgstr "国家:"
+
+msgid "Create Backup"
+msgstr "创建备份"
+
+msgid "Create Invoices"
+msgstr "创建发票"
+
+msgid "Create and Print Recurrent Invoices"
+msgstr "创建和打印周期性发票"
+
+msgid "Create backup"
+msgstr "创建备份"
+
+msgid "Create/Update &Companies"
+msgstr "创建/更新公司"
+
+msgid "Create/Update Company"
+msgstr "创建/更新公司"
+
+msgid "Credit"
+msgstr "信用"
+
+msgid "Credit &Status Setup"
+msgstr "信用状态设置"
+
+msgid "Credit No."
+msgstr "信用票据号"
+
+msgid "Credit Note # %d has been processed"
+msgstr "信用票据#%d已经处理"
+
+msgid "Credit Note Date"
+msgstr "信用票据意日期"
+
+msgid "Credit Note Total"
+msgstr "信用债券总"
+
+msgid "Credit Note Type"
+msgstr "信用记录类型"
+
+msgid "Credit Note has been updated"
+msgstr "信用票据已更新"
+
+msgid "Credit Notes"
+msgstr "欠条"
+
+msgid "Credit Status"
+msgstr "信用状态"
+
+msgid "Credit Status:"
+msgstr "信用状况:"
+
+msgid "Credit sale"
+msgstr "赊销"
+
+msgid "Credits"
+msgstr "信用"
+
+msgid "Currencies"
+msgstr "货币"
+
+msgid "Currency"
+msgstr "货币"
+
+msgid "Currency Abbreviation:"
+msgstr "货币缩写:"
+
+msgid "Currency Filter"
+msgstr "货币过滤器"
+
+msgid "Currency Name"
+msgstr "货币名称"
+
+msgid "Currency Name:"
+msgstr "货币名称:"
+
+msgid "Currency Symbol:"
+msgstr "货币符号:"
+
+msgid "Current"
+msgstr "现在的"
+
+msgid "Current Credit:"
+msgstr "当前信贷状况:"
+
+msgid "Current database version"
+msgstr "当前数据库版本"
+
+msgid "Current status:"
+msgstr "目前状态:"
+
+msgid "Cust Ord"
+msgstr "客户订单"
+
+msgid "Cust Order Ref"
+msgstr "客户订单参考号"
+
+msgid "Cust Ref"
+msgstr "客户参考号"
+
+msgid "Cust no"
+msgstr "客户No"
+
+msgid "Customer"
+msgstr "客户"
+
+msgid "Customer &Balances"
+msgstr "客户结余"
+
+msgid "Customer &Branches"
+msgstr "客户分公司"
+
+msgid "Customer &Detail Listing"
+msgstr "列出客户资料"
+
+msgid "Customer &Payments"
+msgstr "客户支付"
+
+msgid "Customer Allocation &Inquiry"
+msgstr "客户配置查询"
+
+msgid "Customer Allocations"
+msgstr "客户配置"
+
+msgid "Customer Balances"
+msgstr "客户余额"
+
+msgid "Customer Branches"
+msgstr "客户分公司"
+
+msgid "Customer Currency:"
+msgstr "顾客货币:"
+
+msgid "Customer Details Listing"
+msgstr "列出客户资料"
+
+msgid "Customer Discount:"
+msgstr "客户折扣:"
+
+msgid "Customer Name"
+msgstr "客户名称"
+
+msgid "Customer Name:"
+msgstr "客户名称:"
+
+msgid "Customer Payment #%d"
+msgstr "客户付款 #%d"
+
+msgid "Customer Postal Address"
+msgstr "客户邮政编码"
+
+msgid "Customer Ref"
+msgstr "客户参考"
+
+msgid "Customer Short Name:"
+msgstr "客户简称:"
+
+msgid "Customer Transaction &Inquiry"
+msgstr "客户交易查询"
+
+msgid "Customer Transactions"
+msgstr "客户交易"
+
+msgid "Customer and Sales &Reports"
+msgstr "客户和销售报告"
+
+msgid "Customer branch"
+msgstr "客户分公司"
+
+msgid "Customer branches"
+msgstr "客户分公司"
+
+msgid "Customer payments allocation"
+msgstr "客户付款配置"
+
+msgid "Customer payments entry"
+msgstr "输入客户付款项"
+
+msgid "Customer payments report"
+msgstr "客户付款的报告"
+
+msgid "Customer status report"
+msgstr "客户状态报告"
+
+msgid "Customer status:"
+msgstr "客户状态:"
+
+msgid "Customer's Currency:"
+msgstr "客户的货币:"
+
+msgid "Customer:"
+msgstr "客户:"
+
+msgid "Customers in"
+msgstr "客户于"
+
+msgid "DELIVERY"
+msgstr "交货"
+
+msgid "DELIVERY NOTE"
+msgstr "送货单"
+
+msgid "DISPATCH NOTE #%d"
+msgstr "发货单 #%d"
+
+msgid "Database Host"
+msgstr "数据库主机"
+
+msgid "Database Name"
+msgstr "数据库的名称"
+
+msgid "Database Password"
+msgstr "数据库密码"
+
+msgid "Database User"
+msgstr "数据库用户"
+
+msgid "Database auth file"
+msgstr "数据库auth档案"
+
+msgid "Database backup failed."
+msgstr "数据库备份失败。"
+
+msgid "Database backup/restore"
+msgstr "数据库备份/还原"
+
+msgid "Database structure seems to be not upgraded to current version"
+msgstr "数据库结构似乎没有升级到最新版本"
+
+msgid "Database upgrade finished."
+msgstr "数据库升级完成。"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Date Paid"
+msgstr "日支付"
+
+msgid "Date Required By"
+msgstr "需要通过日期"
+
+msgid "Date Uploaded"
+msgstr "上传日期"
+
+msgid "Date to Use From"
+msgstr "使用日期从"
+
+msgid "Date to Use From:"
+msgstr "使用日期从:"
+
+msgid "Date:"
+msgstr "日期:"
+
+msgid "Days"
+msgstr "天"
+
+msgid "Debit"
+msgstr "借方"
+
+msgid "Debit Account"
+msgstr "付款帐户"
+
+msgid "Debugging mode"
+msgstr "调试模式"
+
+msgid "December"
+msgstr "十二月"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Default Inventory Location:"
+msgstr "默认库存地点:"
+
+msgid "Default Language"
+msgstr "默认语言"
+
+msgid "Default Rate (%)"
+msgstr "默认率（%）"
+
+msgid "Default Rate:"
+msgstr "默认率:"
+
+msgid "Default Shipping Company:"
+msgstr "默认物流公司:"
+
+msgid "Default account"
+msgstr "默认帐户"
+
+msgid "Default cash account"
+msgstr "默认现金帐户"
+
+msgid "Default currency account:"
+msgstr "默认的货币帐户:"
+
+msgid "Default status"
+msgstr "默认状态"
+
+msgid "Del Date"
+msgstr "删除日期"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete Backup"
+msgstr "删除备份"
+
+msgid "Delete Company Logo:"
+msgstr "删除公司标志:"
+
+msgid "Delete Customer"
+msgstr "删除客户"
+
+msgid "Delete Image:"
+msgstr "删除图片:"
+
+msgid "Delete Supplier"
+msgstr "删除供应商"
+
+msgid "Delete This Item"
+msgstr "删除此项目"
+
+msgid "Delete This Role"
+msgstr "删除此角色"
+
+msgid "Delete This Work Order"
+msgstr "删除此工作单"
+
+msgid "Delete account"
+msgstr "删除帐户"
+
+msgid "Delete supplier data if have been never used"
+msgstr "删除供应商的数据，如果没有用过了"
+
+msgid "Deleted."
+msgstr "删除。"
+
+msgid "Deliver From Location"
+msgstr "提供从地点"
+
+msgid "Deliver Into Location"
+msgstr "交货到地点"
+
+msgid "Delivered"
+msgstr "发货"
+
+msgid "Delivered To"
+msgstr "交货到"
+
+msgid "Delivery"
+msgstr "交货"
+
+msgid "Delivery #"
+msgstr "送货#"
+
+msgid "Delivery # %d has been entered."
+msgstr "交货#%d已经进来了。"
+
+msgid "Delivery Date:"
+msgstr "交货日期:"
+
+msgid "Delivery Details"
+msgstr "交货细节"
+
+msgid "Delivery Note"
+msgstr "送货单"
+
+msgid "Delivery Note # %d has been updated."
+msgstr "送货单#%d已经更新。"
+
+msgid "Delivery Note Items"
+msgstr "送货单项目"
+
+msgid "Delivery Note No."
+msgstr "送货单号"
+
+msgid "Delivery Notes"
+msgstr "送货单"
+
+msgid "Delivery To"
+msgstr "交货到"
+
+msgid "Delivery Total"
+msgstr "交货总额"
+
+msgid "Demand"
+msgstr "需求"
+
+msgid "Description"
+msgstr "说明"
+
+msgid "Descriptive Name:"
+msgstr "描述性的名称:"
+
+msgid "Detail"
+msgstr "详细"
+
+msgid "Detail:"
+msgstr "详细说明:"
+
+msgid "Dimension &Inquiry"
+msgstr "需求查询"
+
+msgid "Dimension &Reports"
+msgstr "需求报告"
+
+msgid "Dimension &Summary"
+msgstr "需求摘要"
+
+msgid "Dimension &Tags"
+msgstr "需求标签"
+
+msgid "Dimension Reference:"
+msgstr "需求参考:"
+
+msgid "Dimension Tags"
+msgstr "需求标签"
+
+msgid "Dimension entry"
+msgstr "输入需求"
+
+msgid "Dimension reports"
+msgstr "需求报告"
+
+msgid "Dimension tags"
+msgstr "需求标签"
+
+msgid "Dimension view"
+msgstr "需求视图"
+
+msgid "Dimensions configuration"
+msgstr "需求配置"
+
+msgid "Direct &Delivery"
+msgstr "直接配送"
+
+msgid "Direct &Invoice"
+msgstr "直接开具发票"
+
+msgid "Disable this Branch:"
+msgstr "禁用此分公司:"
+
+msgid "Disabled"
+msgstr "禁用"
+
+msgid "Discount"
+msgstr "折扣"
+
+msgid "Discount %"
+msgstr "折扣 %"
+
+msgid "Discount Percent:"
+msgstr "折扣百分比:"
+
+msgid "Dispatch Date"
+msgstr "发运日期"
+
+msgid "Display Setup"
+msgstr "显示设置"
+
+msgid "Display preferences"
+msgstr "显示设置"
+
+msgid "Dissallow Invoices"
+msgstr "Dissallow发票"
+
+msgid "Document Language:"
+msgstr "文档语言:"
+
+msgid "Dots"
+msgstr "点图"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Download Backup"
+msgstr "下载备份"
+
+msgid "DueDate"
+msgstr "日期"
+
+msgid "E&mail as Packing Slip"
+msgstr "邮件发送装箱单"
+
+msgid "E-mail"
+msgstr "电子邮件"
+
+msgid "E-mail:"
+msgstr "电邮:"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit new record with current data"
+msgstr "编辑与当前数据的新纪录"
+
+msgid "Editable description:"
+msgstr "编辑说明:"
+
+msgid "Email"
+msgstr "电邮"
+
+msgid "Email Address:"
+msgstr "电邮地址:"
+
+msgid "Email Customers"
+msgstr "发电子邮件给客户"
+
+msgid "Email Locations"
+msgstr "用电子邮件发送位置"
+
+msgid "Email this Work Order"
+msgstr "用电子邮件发送此工作单"
+
+msgid "End"
+msgstr "结束"
+
+msgid "End Date"
+msgstr "结束日期"
+
+msgid "End:"
+msgstr "结束:"
+
+msgid "Enter &Another Adjustment"
+msgstr "输入及另一调整"
+
+msgid "Enter &Another Direct Invoice"
+msgstr "输入另一直销发票"
+
+msgid "Enter &Another Purchase Order"
+msgstr "输入另一采购订单"
+
+msgid "Enter Another &Credit Note"
+msgstr "进入另一个信用票据"
+
+msgid "Enter Another &Customer Payment"
+msgstr "输入另一个与客户付款"
+
+msgid "Enter Another Credit Note"
+msgstr "输入其他信用卡注"
+
+msgid "Enter Another Invoice"
+msgstr "输入其他发票"
+
+msgid "Enter Credit Note"
+msgstr "输入信用卡注"
+
+msgid "Enter Delivery Details and Confirm Order"
+msgstr "输入送货详情及确认订单"
+
+msgid "Enter Invoice"
+msgstr "输入发票"
+
+msgid "Enter Supplier Invoice"
+msgstr "输入供应商发票"
+
+msgid "Enter a &New Direct Invoice"
+msgstr "输入新的直销发票"
+
+msgid "Enter a &New Order"
+msgstr "输入一个新订单"
+
+msgid "Enter a &New Template Invoice"
+msgstr "输入一个新的发票模板"
+
+msgid "Enter a &new dimension"
+msgstr "输入一个新的需求"
+
+msgid "Enter a New &Quotation"
+msgstr "输入新的及报价"
+
+msgid "Enter a New Sales Invoice"
+msgstr "输入一个新的销售发票"
+
+msgid "Enter a New Sales Quotation"
+msgstr "输入一个新的销售报价"
+
+msgid "Enter a new password to chang"
+msgstr "输入新的密码更改"
+
+msgid "Enter a new work order"
+msgstr "输入新的工作单"
+
+msgid "Enter another additional cost."
+msgstr "输入其他额外成本。"
+
+msgid "Enter requested day of delivery"
+msgstr "输入要求的交货日"
+
+msgid "Error connecting to Database: "
+msgstr "无法连接到数据库:"
+
+msgid "Error creating Database: "
+msgstr "错误创建数据库:"
+
+msgid "Error logging"
+msgstr "错误记录"
+
+msgid "Error removing Database: "
+msgstr "错误删除数据库:"
+
+msgid "Exchange Rate"
+msgstr "汇率"
+
+msgid "Exchange Rate:"
+msgstr "汇率:"
+
+msgid "Exchange Rates"
+msgstr "汇率"
+
+msgid "Exchange Variance"
+msgstr "汇率"
+
+msgid "Exchange rate table changes"
+msgstr "汇率变动表"
+
+msgid "Extension"
+msgstr "扩展"
+
+msgid "Extension data has been updated."
+msgstr "扩展数据已被更新。"
+
+msgid "Extension has been installed."
+msgstr "扩展已安装。"
+
+msgid "Extensions system"
+msgstr "系统扩展"
+
+msgid "Fax"
+msgstr "传真"
+
+msgid "Fax No"
+msgstr "传真"
+
+msgid "Fax Number:"
+msgstr "传真号码:"
+
+msgid "February"
+msgstr "二月"
+
+msgid "File successfully deleted."
+msgstr "文件成功删除。"
+
+msgid "File was not uploaded into the system."
+msgstr "文件没有上传到系统中。"
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Filetype"
+msgstr "文件类型"
+
+msgid "First"
+msgstr "第一页"
+
+msgid "First Name:"
+msgstr "名:"
+
+msgid "Fiscal years maintenance"
+msgstr "维护会计年度"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Foreign Item Codes"
+msgstr "外部项目编码"
+
+msgid "Fr"
+msgstr "五"
+
+msgid "Freight cost cannot be less than zero"
+msgstr "货运成本不能小于零"
+
+msgid "From"
+msgstr "从"
+
+msgid "From Account"
+msgstr "From 帐目"
+
+msgid "From Customer:"
+msgstr "From 客户:"
+
+msgid "From product"
+msgstr "From 产品"
+
+msgid "From:"
+msgstr "来自:"
+
+msgid "Full Name"
+msgstr "姓名"
+
+msgid "GL"
+msgstr "总帐(GL)"
+
+msgid "GL &Inquiry"
+msgstr "总帐(GL)查询"
+
+msgid "GL Account"
+msgstr "总帐(GL)帐户"
+
+msgid "GL Account &Classes"
+msgstr "总帐(GL)帐目"
+
+msgid "GL Account &Groups"
+msgstr "总帐(GL)帐户和组"
+
+msgid "GL Account &Transactions"
+msgstr "总帐(GL)帐户交易"
+
+msgid "GL Account Transactions"
+msgstr "总帐(GL)帐户交易"
+
+msgid "GL Account tags"
+msgstr "总帐(GL)帐户标签"
+
+msgid "GL account classes"
+msgstr "总帐(GL)帐目类别"
+
+msgid "GL account groups"
+msgstr "总帐(GL)账户组"
+
+msgid "GL accounts edition"
+msgstr "总帐(GL)帐户"
+
+msgid "GRN Valuation Report"
+msgstr "库存产品估值报告"
+
+msgid "General Ledger"
+msgstr "总帐"
+
+msgid "General Ledger &Reports"
+msgstr "总帐报告"
+
+msgid "General Ledger Inquiry"
+msgstr "总帐查询"
+
+msgid "General contact data"
+msgstr "一般联系信息"
+
+msgid "Get"
+msgstr "获取"
+
+msgid "Get current ECB rate"
+msgstr "获取当前欧洲央行利率"
+
+msgid "Grand Total"
+msgstr "订单总计"
+
+msgid "Graphics"
+msgstr "图形"
+
+msgid "Greater than "
+msgstr "大于"
+
+msgid "Group"
+msgstr "组"
+
+msgid "Group ID"
+msgstr "组ID"
+
+msgid "Group Name"
+msgstr "组名称"
+
+msgid "Group Name:"
+msgstr "组名:"
+
+msgid "Group/Account Name"
+msgstr "帐户名称"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Home page"
+msgstr "主页"
+
+msgid "Horizontal bars"
+msgstr "横线"
+
+msgid "Host"
+msgstr "主机"
+
+msgid "Host name or IP"
+msgstr "主机名或IP"
+
+msgid "Http server type"
+msgstr "HTTP服务器类型"
+
+msgid "Hundredths Name:"
+msgstr "百分之名称:"
+
+msgid "INVOICE"
+msgstr "发票"
+
+msgid "If this does not happen"
+msgstr "如没有发生"
+
+msgid "In case of no gettext support, php emulation is used"
+msgstr "在没有gettext支持的情况下，使用PHP的仿真"
+
+msgid "Included"
+msgstr "包括"
+
+msgid "Income"
+msgstr "收入"
+
+msgid "Info"
+msgstr "信息"
+
+msgid "Inputs"
+msgstr "输入"
+
+msgid "Inquiries and Reports"
+msgstr "查询及报告"
+
+msgid "Insert New Item"
+msgstr "插入新项目"
+
+msgid "Insert New Role"
+msgstr "插入新角色"
+
+msgid "Install/Activate &Extensions"
+msgstr "安装/激活扩展"
+
+msgid "Install/Activate &Themes"
+msgstr "安装/激活主题"
+
+msgid "Install/Update &Languages"
+msgstr "安装/更新语言"
+
+msgid "Installation path"
+msgstr "安装路径"
+
+msgid "Insufficient stock"
+msgstr "存货不足"
+
+msgid "Inv Date"
+msgstr "发票日期"
+
+msgid "Inventory"
+msgstr "库存"
+
+msgid "Inventory &Adjustments"
+msgstr "库存调整"
+
+msgid "Inventory &Planning Report"
+msgstr "库存产品计划报告"
+
+msgid "Inventory &Reports"
+msgstr "库存产品估值报告"
+
+msgid "Inventory &Sales Report"
+msgstr "库存销售报告"
+
+msgid "Inventory &Valuation Report"
+msgstr "库存产品估值报告"
+
+msgid "Inventory Account"
+msgstr "仓存账户"
+
+msgid "Inventory Item &Movements"
+msgstr "库存产品移动"
+
+msgid "Inventory Item &Status"
+msgstr "库存产品状况"
+
+msgid "Inventory Item Sales prices"
+msgstr "库存产品销售价格"
+
+msgid "Inventory Item Status"
+msgstr "库存项目状态"
+
+msgid "Inventory Location &Transfers"
+msgstr "库存地点转移"
+
+msgid "Inventory Location Transfers"
+msgstr "库存地点转移"
+
+msgid "Inventory Planning Report"
+msgstr "库存产品计划报告"
+
+msgid "Inventory Sales Report"
+msgstr "库存产品估值报告"
+
+msgid "Inventory Valuation Report"
+msgstr "库存产品估值报告"
+
+msgid "Inventory adjustments"
+msgstr "库存调整"
+
+msgid "Inventory analytics"
+msgstr "库存分析"
+
+msgid "Inventory configuration"
+msgstr "库存配置"
+
+msgid "Inventory location transfers"
+msgstr "库存地点转移"
+
+msgid "Inventory locations changes"
+msgstr "仓存地点转移"
+
+msgid "Inventory movement types"
+msgstr "仓存物品移动"
+
+msgid "Inventory operations"
+msgstr "盘点作业"
+
+msgid "Inventory valuation report"
+msgstr "仓存物品估值报告"
+
+msgid "Invoice"
+msgstr "发票"
+
+msgid "Invoice # %d has been entered."
+msgstr "发票#%d已经进来了。"
+
+msgid "Invoice Date"
+msgstr "发票日期"
+
+msgid "Invoice No."
+msgstr "发票号码"
+
+msgid "Invoice OK"
+msgstr "发票行"
+
+msgid "Invoice Total"
+msgstr "发票总计"
+
+msgid "Invoiced"
+msgstr "开具发票"
+
+msgid "Invoices"
+msgstr "发票"
+
+msgid "Is exempt"
+msgstr "获豁免"
+
+msgid "Item"
+msgstr "项目"
+
+msgid "Item &Categories"
+msgstr "产品分类"
+
+msgid "Item Code"
+msgstr "产品编号"
+
+msgid "Item Description"
+msgstr "项目说明"
+
+msgid "Item Ta&x Types"
+msgstr "税务种类"
+
+msgid "Item categories"
+msgstr "产品分类"
+
+msgid "Item code has been sucessfully deleted."
+msgstr "项目代码已被成功删除。"
+
+msgid "Item code has been updated."
+msgstr "项目代码已被更新。"
+
+msgid "Item description cannot be empty."
+msgstr "项目说明不能为空。"
+
+msgid "Item has been updated."
+msgstr "项目已更新。"
+
+msgid "Item standard costs"
+msgstr "项目标准成本"
+
+msgid "Item status:"
+msgstr "产品状态:"
+
+msgid "Item tax type definitions"
+msgstr "定义产品目税项类型"
+
+msgid "Items Defaults"
+msgstr "默认物品"
+
+msgid "January"
+msgstr "一月"
+
+msgid "Journal Entry"
+msgstr "日记条目"
+
+msgid "Journal Inquiry"
+msgstr "日记账查询"
+
+msgid "July"
+msgstr "七月"
+
+msgid "June"
+msgstr "六月"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Language Code"
+msgstr "语言代码"
+
+msgid "Language File"
+msgstr "语言文件"
+
+msgid "Language Name"
+msgstr "语言名称"
+
+msgid "Language configuration consistency"
+msgstr "语言配置的一致性"
+
+msgid "Last"
+msgstr "最后一页"
+
+msgid "Last Created"
+msgstr "最后建立"
+
+msgid "Last Name:"
+msgstr "姓:"
+
+msgid "Last Visit"
+msgstr "上次访问"
+
+msgid "Legal Text on Invoice:"
+msgstr "具有法律效力发票:"
+
+msgid "Less than "
+msgstr "小于"
+
+msgid "Line Details"
+msgstr "行明细"
+
+msgid "Line Total"
+msgstr "线总"
+
+msgid "Line Value"
+msgstr "行值"
+
+msgid "Lines"
+msgstr "曲线图"
+
+msgid "List of &Journal Entries"
+msgstr "日记条目列表"
+
+msgid "List of Journal Entries"
+msgstr "输入日记帐列表"
+
+msgid "Location"
+msgstr "地点"
+
+msgid "Location Code"
+msgstr "地点代码"
+
+msgid "Location Code:"
+msgstr "地点代码:"
+
+msgid "Location Name"
+msgstr "地点名称"
+
+msgid "Location Name:"
+msgstr "地点名称:"
+
+msgid "Log file is not writeable"
+msgstr "日志文件不可写"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Login -->"
+msgstr "登录"
+
+msgid "Login Timeout:"
+msgstr "登录超时:"
+
+msgid "Login as user: demouser and password: password"
+msgstr "登录用户名:demouser 密码:password"
+
+msgid "Logout"
+msgstr "退出"
+
+msgid "Mailing Address:"
+msgstr "通讯地址:"
+
+msgid "Main  Menu"
+msgstr "主目录"
+
+msgid "Main Menu"
+msgstr "主目录"
+
+msgid "Main config file"
+msgstr "主要配置文件"
+
+msgid "Maintenance"
+msgstr "维护"
+
+msgid "Make &Delivery Against This Order"
+msgstr "对这一订单进行配送"
+
+msgid "Make &Invoice Against This Delivery"
+msgstr "对这个配送开具发票"
+
+msgid "Make &Sales Order Against This Quotation"
+msgstr "对这个订单报价"
+
+msgid "Manual journal entries"
+msgstr "输入手动日记条目"
+
+msgid "Manufacture work centres"
+msgstr "制造工作中心"
+
+msgid "Manufactured"
+msgstr "已生产"
+
+msgid "Manufacturing"
+msgstr "生产"
+
+msgid "Manufacturing &Reports"
+msgstr "生产报告"
+
+msgid "Manufacturing analytics"
+msgstr "生产分析"
+
+msgid "Manufacturing configuration"
+msgstr "生产配置"
+
+msgid "Manufacturing cost inquiry"
+msgstr "生产成本调查"
+
+msgid "Manufacturing operations view"
+msgstr "生产业务视图"
+
+msgid "Manufacturing transations"
+msgstr "生产交易"
+
+msgid "March"
+msgstr "三月"
+
+msgid "Max. delivery"
+msgstr "最大交货"
+
+msgid "Memo:"
+msgstr "备注:"
+
+msgid "Missing %s translation file."
+msgstr "缺少 %s 的翻译文件。"
+
+msgid "Missing system locale: %s"
+msgstr "丢失的系统语言环境: %s"
+
+msgid "Mo"
+msgstr "一"
+
+msgid "Modifying Credit Invoice # %d."
+msgstr "修改信用发票号码为 #%d"
+
+msgid "Modifying Customer Credit Note #%d"
+msgstr "修改客户信用票据#%d"
+
+msgid "Modifying Delivery Note # %d."
+msgstr "修改为#%d送货单"
+
+msgid "Modifying Sales Invoice # %d."
+msgstr "修改销售发票号码为#%d"
+
+msgid "Modifying Sales Order # %d"
+msgstr "修改#%d的销售订单"
+
+msgid "Modifying Sales Quotation # %d"
+msgstr "修改#%d的销售报价"
+
+msgid "Months."
+msgstr "月。"
+
+msgid "MySQL version"
+msgstr "MySQL版本"
+
+msgid "N/A"
+msgstr "? /阿"
+
+msgid "NO INVOICING"
+msgstr "无发票"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Name (to appear on reports):"
+msgstr "名称（出现在报告）:"
+
+msgid "Name and Address"
+msgstr "名称及地址"
+
+msgid "Net Tax"
+msgstr "赋税实征净额"
+
+msgid "New Company Logo (.jpg)"
+msgstr "新的公司标识（.jpg）"
+
+msgid "New Sales Order Entry"
+msgstr "新的销售订单输入"
+
+msgid "New Sales Quotation Entry"
+msgstr "进入新的销售报价"
+
+msgid "New account"
+msgstr "新账户"
+
+msgid "New account has been added."
+msgstr "新账户已添加。"
+
+msgid "New account type has been added"
+msgstr "新的帐户类型已添加"
+
+msgid "New alias code has been created."
+msgstr "新的别名代码已创建。"
+
+msgid "New company has been created."
+msgstr "新公司已创建。"
+
+msgid "New component has been added to selected kit."
+msgstr "新的组件已被添加。"
+
+msgid "New contact category has been added"
+msgstr "新添加了联系人类别"
+
+msgid "New credit status has been added"
+msgstr "新的信用状况已添加"
+
+msgid "New currency has been added"
+msgstr "增加了新货币"
+
+msgid "New customer"
+msgstr "新客户"
+
+msgid "New item"
+msgstr "新项目"
+
+msgid "New item category has been added"
+msgstr "新的项目类别已添加"
+
+msgid "New item code has been added."
+msgstr "新项目的代码已被添加。"
+
+msgid "New item tax type has been added"
+msgstr "新项目已新增税种"
+
+msgid "New kit"
+msgstr "新套件"
+
+msgid "New location has been added"
+msgstr "增加了新的位置"
+
+msgid "New movement type has been added"
+msgstr "新的移动类型已添加"
+
+msgid "New point of sale has been added"
+msgstr "新的销售点已被添加"
+
+msgid "New printer definition has been created"
+msgstr "新的打印机定义已创建"
+
+msgid "New quick entry has been added"
+msgstr "快捷输入已经增加"
+
+msgid "New quick entry line has been added"
+msgstr "新的快速输入行已添加"
+
+msgid "New recurrent invoice has been added"
+msgstr "新增加了周期性的发票"
+
+msgid "New role"
+msgstr "新角色"
+
+msgid "New sales area has been added"
+msgstr "新的销售区域增加了"
+
+msgid "New sales group has been added"
+msgstr "新的销售组已被添加"
+
+msgid "New sales type has been added"
+msgstr "增加了新的销售类型"
+
+msgid "New security role has been added."
+msgstr "新的安全规则已被添加。"
+
+msgid "New supplier"
+msgstr "新的供应商"
+
+msgid "New tag has been added"
+msgstr "已添加新的标签"
+
+msgid "New tax group has been added"
+msgstr "新的税收组已被添加"
+
+msgid "New tax type has been added"
+msgstr "新税种已添加"
+
+msgid "New unit has been added"
+msgstr "增加了新单位"
+
+msgid "New work center has been added"
+msgstr "新增加了工作中心"
+
+msgid "Next"
+msgstr "下一页"
+
+msgid "No"
+msgstr "否"
+
+msgid "No Account Group Filter"
+msgstr "无会计科目组过滤器"
+
+msgid "No Category Filter"
+msgstr "无类别过滤器"
+
+msgid "No Currency Filter"
+msgstr "没有货币过滤器"
+
+msgid "No Customer Filter"
+msgstr "没有顾客过滤器"
+
+msgid "No Dimension Filter"
+msgstr "没有需求滤波器"
+
+msgid "No Graphics"
+msgstr "没有图形"
+
+msgid "No Location Filter"
+msgstr "没有地区过滤器"
+
+msgid "No Revaluation was needed"
+msgstr "无必要重估"
+
+msgid "No Sales Folk Filter"
+msgstr "没有销售组滤波器"
+
+msgid "No Supplier Filter"
+msgstr "没有供应商筛选"
+
+msgid "No Type Filter"
+msgstr "没有类型过滤"
+
+msgid "No Users Filter"
+msgstr "没有用户过滤器"
+
+msgid "No general ledger transactions have been created for"
+msgstr "没有总帐交易已创建"
+
+msgid "No payment Link"
+msgstr "没有付款链接"
+
+msgid "No records"
+msgstr "没有记录"
+
+msgid "No recurrent invoices are due."
+msgstr "没有周期性的发票。"
+
+msgid "No tags defined."
+msgstr "没有标签定义。"
+
+msgid "Notes:"
+msgstr "注释:"
+
+msgid "November"
+msgstr "十一月"
+
+msgid "Number"
+msgstr "数"
+
+msgid "October"
+msgstr "十月"
+
+msgid "Ok"
+msgstr "确定"
+
+msgid "On Hand"
+msgstr "在手上"
+
+msgid "On Order"
+msgstr "订购"
+
+msgid "Only documents can be printed."
+msgstr "只有文件可以打印。"
+
+msgid "Optional"
+msgstr "可选"
+
+msgid "Ord Date"
+msgstr "订单日期"
+
+msgid "Order"
+msgstr "订单"
+
+msgid "Order #"
+msgstr "订单#"
+
+msgid "Order # %d has been entered."
+msgstr "订单#%d已经进来了。"
+
+msgid "Order # %d has been updated."
+msgstr "订单#%d已经更新。"
+
+msgid "Order Currency"
+msgstr "订购货币"
+
+msgid "Order Date"
+msgstr "订购日期"
+
+msgid "Order Delivery Details"
+msgstr "订单交货细节"
+
+msgid "Order No."
+msgstr "订单号"
+
+msgid "Order Price"
+msgstr "订购价格"
+
+msgid "Order Status Listing"
+msgstr "订单状况清单"
+
+msgid "Order Total"
+msgstr "订单总计"
+
+msgid "Ordered"
+msgstr "已订"
+
+msgid "Ordered On"
+msgstr "订单于"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Our Customer No:"
+msgstr "我们的客户编号:"
+
+msgid "Our Order No"
+msgstr "我司订单编号"
+
+msgid "Our VAT No."
+msgstr "我司增值税号"
+
+msgid "Outputs"
+msgstr "输出"
+
+msgid "Outstanding"
+msgstr "未处理"
+
+msgid "Outstanding GRNs Report"
+msgstr "未完成收货单报告"
+
+msgid "Over"
+msgstr "超过"
+
+msgid "P&rint as Packing Slip"
+msgstr "打印装箱单"
+
+msgid "PACKING SLIP"
+msgstr "装箱单"
+
+msgid "PDF/Printer"
+msgstr "PDF/打印机"
+
+msgid "PHP version"
+msgstr "PHP版本"
+
+msgid "POS Name"
+msgstr "POS的名称"
+
+msgid "POS location"
+msgstr "POS的位置"
+
+msgid "POS settings"
+msgstr "POS设置"
+
+msgid "PURCHASE ORDER"
+msgstr "采购订单"
+
+msgid "Pa&yment Terms"
+msgstr "付款条款"
+
+msgid "Package Details"
+msgstr "包资料"
+
+msgid "Package type"
+msgstr "包类型"
+
+msgid "Paid on purchases"
+msgstr "支付购买"
+
+msgid "Parent Item"
+msgstr "父项"
+
+msgid "Password cannot be changed in demo mode."
+msgstr "密码在演示模式不能更改。"
+
+msgid "Password changes"
+msgstr "密码更改"
+
+msgid "Password:"
+msgstr "密码:"
+
+msgid "Pay To"
+msgstr "支付给"
+
+msgid "Pay To:"
+msgstr "支付给"
+
+msgid "Payable Account:"
+msgstr "应付帐户:"
+
+msgid "Payment Link"
+msgstr "付款链接"
+
+msgid "Payment Report"
+msgstr "付款报告"
+
+msgid "Payment Terms"
+msgstr "付款条款"
+
+msgid "Payment Type"
+msgstr "付款方式"
+
+msgid "Payment terms"
+msgstr "付款条款"
+
+msgid "Payment terms:"
+msgstr "付款条款:"
+
+msgid "Payment type:"
+msgstr "付款方式:"
+
+msgid "Payments"
+msgstr "付款"
+
+msgid "Period"
+msgstr "期间"
+
+msgid "Phone"
+msgstr "电话"
+
+msgid "Phone No"
+msgstr "电话"
+
+msgid "Phone Number"
+msgstr "电话号码"
+
+msgid "Phone Number:"
+msgstr "电话号码:"
+
+msgid "Phone:"
+msgstr "电话:"
+
+msgid "Physical Address:"
+msgstr "实际地址:"
+
+msgid "Pie"
+msgstr "饼图"
+
+msgid "Place Delivery"
+msgstr "交货地点"
+
+msgid "Place Order"
+msgstr "下订单"
+
+msgid "Please contact System Administrator."
+msgstr "请联系系统管理员。"
+
+msgid "Please login here"
+msgstr "请在这里登录"
+
+msgid "Point of Sale Name"
+msgstr "销售点名称"
+
+msgid "Point of sales definitions"
+msgstr "销售点的定义"
+
+msgid "Port"
+msgstr "端口"
+
+msgid "Preferences"
+msgstr "显示设置"
+
+msgid "Prepayment"
+msgstr "预付款"
+
+msgid "Prev"
+msgstr "上一页"
+
+msgid "Price"
+msgstr "价格"
+
+msgid "Price List"
+msgstr "价格表"
+
+msgid "Price List:"
+msgstr "价格表:"
+
+msgid "Price Listing"
+msgstr "价格清单"
+
+msgid "Price before Tax"
+msgstr "税前价格"
+
+msgid "Price:"
+msgstr "价格:"
+
+msgid "Print"
+msgstr "打印"
+
+msgid "Print &Invoices/Credit Notes"
+msgstr "打印和发票/信用票据（欠条）"
+
+msgid "Print &Receipt"
+msgstr "打印收据"
+
+msgid "Print &Statements"
+msgstr "打印结单"
+
+msgid "Print &Work Orders"
+msgstr "打印工作单"
+
+msgid "Print Out Date"
+msgstr "打印日期"
+
+msgid "Print Purchase &Orders"
+msgstr "打印采购订单"
+
+msgid "Print Receipt"
+msgstr "打印收据"
+
+msgid "Print Receipts"
+msgstr "打印收据"
+
+msgid "Print Remittance"
+msgstr "打印汇款"
+
+msgid "Print Remittances"
+msgstr "打印汇款"
+
+msgid "Print as Quote"
+msgstr "打印为报价"
+
+msgid "Print this Work Order"
+msgstr "打印此工作单"
+
+msgid "Printer"
+msgstr "打印机"
+
+msgid "Printer Description"
+msgstr "打印机描述"
+
+msgid "Printer Locations"
+msgstr "打印机位置"
+
+msgid "Printer Name"
+msgstr "打印机名称"
+
+msgid "Printer Queue"
+msgstr "打印机队列"
+
+msgid "Printers configuration"
+msgstr "打印机配置"
+
+msgid "Proceed"
+msgstr "继续进行"
+
+msgid "Process"
+msgstr "工艺"
+
+msgid "Process Additional Cost"
+msgstr "进度的额外成本"
+
+msgid "Process Credit Note"
+msgstr "处理信用卡注"
+
+msgid "Process Invoice"
+msgstr "执行发票"
+
+msgid "Process allocations"
+msgstr "配置过程"
+
+msgid "Production."
+msgstr "生产。"
+
+msgid "Profit and Loss Statement"
+msgstr "损益表"
+
+msgid "Provision"
+msgstr "供应"
+
+msgid "Purchase &Order Entry"
+msgstr "输入采购订单"
+
+msgid "Purchase Account:"
+msgstr "采购帐号:"
+
+msgid "Purchase Order"
+msgstr "采购订单"
+
+msgid "Purchase Order Entry"
+msgstr "采购订单输入"
+
+msgid "Purchase Order No."
+msgstr "采购订单号"
+
+msgid "Purchase Orders &Inquiry"
+msgstr "采购订单查询"
+
+msgid "Purchase analytics"
+msgstr "购买分析"
+
+msgid "Purchase configuration"
+msgstr "采购配置"
+
+msgid "Purchase order entry"
+msgstr "采购订单输入"
+
+msgid "Purchase price changes"
+msgstr "采购价格变动"
+
+msgid "Purchase receive"
+msgstr "采购接收"
+
+msgid "Purchase transactions"
+msgstr "采购交易"
+
+msgid "Purchased"
+msgstr "已采购"
+
+msgid "Purchasing"
+msgstr "采购"
+
+msgid "Purchasing &Pricing"
+msgstr "采购价格"
+
+msgid "QUOTE"
+msgstr "报价"
+
+msgid "Qty Received"
+msgstr "已接收数量"
+
+msgid "Qty Yet To Invoice"
+msgstr "数量尚未发票"
+
+msgid "Quantity"
+msgstr "数量"
+
+msgid "Quantity On Hand"
+msgstr "手部数量"
+
+msgid "Quantity Received"
+msgstr "接收数量"
+
+msgid "Quantity Required"
+msgstr "所需数量"
+
+msgid "Query size must be integer and greater than zero."
+msgstr "查询大小必须是大于零的整数。"
+
+msgid "Quick Entry"
+msgstr "快速入口"
+
+msgid "Quick production."
+msgstr "快速的生产。"
+
+msgid "Quotation # %d has been entered."
+msgstr "报价#%d已经输入了。"
+
+msgid "Quotation # %d has been updated."
+msgstr "报价#%d已经更新。"
+
+msgid "Quotation Date:"
+msgstr "报价日期:"
+
+msgid "Quotation Delivery Details"
+msgstr "报价交货细节"
+
+msgid "Quotation No."
+msgstr "报价单号"
+
+msgid "Quote #"
+msgstr "报价#"
+
+msgid "Quote Date"
+msgstr "报价日期"
+
+msgid "Quote Total"
+msgstr "小计"
+
+msgid "RECEIPT"
+msgstr "收据"
+
+msgid "REMITTANCE"
+msgstr "汇款"
+
+msgid "Re-Order Level"
+msgstr "再订购水平"
+
+msgid "Receipt No."
+msgstr "贷帐单"
+
+msgid "Receivable Account:"
+msgstr "应收账款:"
+
+msgid "Receive"
+msgstr "接收"
+
+msgid "Received"
+msgstr "收稿"
+
+msgid "Received / Sign"
+msgstr "已接收/注册"
+
+msgid "Recommended"
+msgstr "推荐"
+
+msgid "Records %d-%d of %d"
+msgstr "记录 %d-%d of %d"
+
+msgid "Recurrent &Invoices"
+msgstr "周期性发票"
+
+msgid "Recurrent Invoices"
+msgstr "周期性发票"
+
+msgid "Recurrent invoices definitions"
+msgstr "定义周期性发票"
+
+msgid "Ref"
+msgstr "参考"
+
+msgid "Reference"
+msgstr "参考"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Refresh Inquiry"
+msgstr "刷新查询"
+
+msgid "Released Date"
+msgstr "发布日期"
+
+msgid "Released."
+msgstr "发布"
+
+msgid "Remittance No."
+msgstr "汇款号"
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "Repeat password:"
+msgstr "重复密码:"
+
+msgid "Report Date"
+msgstr "报告日期"
+
+msgid "Report Period"
+msgstr "报告期"
+
+msgid "Reports and Analysis"
+msgstr "报告和分析"
+
+msgid "Requested Delivery"
+msgstr "请求交货"
+
+msgid "Required"
+msgstr "要求"
+
+msgid "Required "
+msgstr "要求"
+
+msgid "Required Delivery Date"
+msgstr "要求交货日期"
+
+msgid "Reset"
+msgstr "复位"
+
+msgid "Restore Backup"
+msgstr "还原备份"
+
+msgid "Restore backup completed."
+msgstr "还原备份完成。"
+
+msgid "Restricted access"
+msgstr "受限制的访问"
+
+msgid "Revaluate Currencies"
+msgstr "重估货币"
+
+msgid "Revaluation of Currency Accounts"
+msgstr "重估外币账户"
+
+msgid "Right to left"
+msgstr "从右到左"
+
+msgid "S&etup"
+msgstr "设置"
+
+msgid "SALES INVOICE #%d"
+msgstr "销售发票 #%d"
+
+msgid "SALES ORDER"
+msgstr "销售订单"
+
+msgid "SALES QUOTATION"
+msgstr "销售报价"
+
+msgid "SQL script execution failed in line %d: %s"
+msgstr "SQL脚本执行失败的行%d:%s的"
+
+msgid "Sa"
+msgstr "六"
+
+msgid "Sales"
+msgstr "销售"
+
+msgid "Sales &Areas"
+msgstr "销售区域"
+
+msgid "Sales &Groups"
+msgstr "销售组"
+
+msgid "Sales &Order Entry"
+msgstr "销售订单输入"
+
+msgid "Sales &Persons"
+msgstr "业务员"
+
+msgid "Sales &Pricing"
+msgstr "销售价格"
+
+msgid "Sales &Quotation Entry"
+msgstr "销售报价单输入"
+
+msgid "Sales Area:"
+msgstr "销售区域:"
+
+msgid "Sales Areas"
+msgstr "销售地区"
+
+msgid "Sales Group:"
+msgstr "销售组:"
+
+msgid "Sales Groups"
+msgstr "销售团队"
+
+msgid "Sales Invoice"
+msgstr "销售发票"
+
+msgid "Sales Invoice # %d has been updated."
+msgstr "销售发票#%d已经更新。"
+
+msgid "Sales Order #%d"
+msgstr "销售订单 #%d"
+
+msgid "Sales Order &Inquiry"
+msgstr "销售订单查询"
+
+msgid "Sales Order Entry"
+msgstr "销售订单输入"
+
+msgid "Sales Person"
+msgstr "业务员"
+
+msgid "Sales Person:"
+msgstr "业务员:"
+
+msgid "Sales Quotation"
+msgstr "销售报价"
+
+msgid "Sales Quotation #%d"
+msgstr "销售报价 #%d"
+
+msgid "Sales Quotation I&nquiry"
+msgstr "销售报价查询"
+
+msgid "Sales Quotation Items"
+msgstr "销售报价项目"
+
+msgid "Sales T&ypes"
+msgstr "销售种类"
+
+msgid "Sales Type"
+msgstr "销售类型"
+
+msgid "Sales Type Name"
+msgstr "销售类型名称"
+
+msgid "Sales Type/Price List:"
+msgstr "销售类型/价格表:"
+
+msgid "Sales Type:"
+msgstr "销售类型:"
+
+msgid "Sales Types"
+msgstr "销售类型"
+
+msgid "Sales analytical reports"
+msgstr "销售分析报告"
+
+msgid "Sales configuration"
+msgstr "销售配置"
+
+msgid "Sales deliveries edition"
+msgstr "销售交货"
+
+msgid "Sales freehand credit notes"
+msgstr "供应商信用票据"
+
+msgid "Sales groups changes"
+msgstr "销售组更改"
+
+msgid "Sales invoices edition"
+msgstr "销售发票"
+
+msgid "Sales orders edition"
+msgstr "销售订单"
+
+msgid "Sales prices edition"
+msgstr "业务员"
+
+msgid "Sales prices listing"
+msgstr "销售价格清单"
+
+msgid "Sales quotations"
+msgstr "销售报价"
+
+msgid "Sales related reports"
+msgstr "销售相关报告"
+
+msgid "Sales staff listing"
+msgstr "销售人员列表"
+
+msgid "Sales transactions"
+msgstr "销售交易"
+
+msgid "Sales transactions view"
+msgstr "查看销售交易"
+
+msgid "Sales types"
+msgstr "销售种类"
+
+msgid "Salesman"
+msgstr "推销员"
+
+msgid "Salesman Listing"
+msgstr "推销员列表"
+
+msgid "Save Role"
+msgstr "保存角色"
+
+msgid "Save changes to work order"
+msgstr "将更改保存到工作单"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search All Deliveries"
+msgstr "搜索所有交货"
+
+msgid "Search All Sales Orders"
+msgstr "搜索所有销售订单"
+
+msgid "Search All Sales Quotations"
+msgstr "搜索所有销售报价"
+
+msgid "Search Customer List"
+msgstr "搜寻客户名单"
+
+msgid "Search Item List"
+msgstr "搜索物品列表"
+
+msgid "Search Outstanding Dimensions"
+msgstr "搜寻未完成需求"
+
+msgid "Search Outstanding Purchase Orders"
+msgstr "搜索杰出采购订单"
+
+msgid "Search Outstanding Sales Orders"
+msgstr "搜寻未完成销售定单"
+
+msgid "Search Purchase Orders"
+msgstr "搜索采购订单"
+
+msgid "Search Supplier List"
+msgstr "搜索供应商名单"
+
+msgid "Search Work Orders"
+msgstr "搜寻工作单"
+
+msgid "Sec Phone"
+msgstr "电话2"
+
+msgid "Secondary Phone"
+msgstr "第二个电话"
+
+msgid "Secondary Phone Number:"
+msgstr "电话号码2:"
+
+msgid "Security role has been sucessfully deleted."
+msgstr "安全规则被成功删除。"
+
+msgid "Security role has been updated."
+msgstr "安全规则已被更新。"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Select A Different &Order"
+msgstr "选择一个其他订单"
+
+msgid "Select A Different &Quotation"
+msgstr "选择其他报价"
+
+msgid "Select A Different Delivery"
+msgstr "选择其他配送"
+
+msgid "Select Another &Delivery For Invoicing"
+msgstr "选择要开发票的另一个配送单"
+
+msgid "Select Another &Invoice to Modify"
+msgstr "选择另一个要修改的发票"
+
+msgid "Select Delivery to Invoice"
+msgstr "选择要开发票的配送单"
+
+msgid "Select a Sales Order to Delivery"
+msgstr "选择一个销售订单到交货"
+
+msgid "Select a Supplier: "
+msgstr "选择供应商:"
+
+msgid "Select a currency :"
+msgstr "选择一个货币:"
+
+msgid "Select a customer: "
+msgstr "选择一个客户:"
+
+msgid "Select a different delivery"
+msgstr "选择其他配送"
+
+msgid "Select a different delivery to invoice"
+msgstr "为另一个配送开发票"
+
+msgid "Select a different purchase order for receiving goods against"
+msgstr "为要接收的货物选择一个其他采购单"
+
+msgid "Select a different sales order to delivery"
+msgstr "选择其他的销售订单到配送"
+
+msgid "Select a sale kit:"
+msgstr "选择一个销售工具包:"
+
+msgid "Select a supplier:"
+msgstr "选择供应商:"
+
+msgid "Select another &work order"
+msgstr "选择另一个和工作单"
+
+msgid "Select backup file first."
+msgstr "先选择备份文件。"
+
+msgid "Select customer"
+msgstr "选择客户"
+
+msgid "Select customer branch"
+msgstr "选择客户分公司"
+
+msgid "Select documents"
+msgstr "选择文件"
+
+msgid "Select or &Add"
+msgstr "选择或附加"
+
+msgid "Select supplier"
+msgstr "选择供应商"
+
+msgid "Select this customer and return to document entry."
+msgstr "选择这客户，并返回到文档条目输入。"
+
+msgid "Select this supplier and return to document entry."
+msgstr "选择该供应商，并返回到文档的条目。"
+
+msgid "Selected account group has been deleted"
+msgstr "选择帐户组已被删除"
+
+msgid "Selected account has been deleted"
+msgstr "选择的账户已被删除"
+
+msgid "Selected account type has been updated"
+msgstr "选择帐户类型已更新"
+
+msgid "Selected company has been deleted"
+msgstr "选定的公司已被删除"
+
+msgid "Selected component has been updated"
+msgstr "选定的组件已更新"
+
+msgid "Selected contact category has been updated"
+msgstr "选定的联系人类别已更新"
+
+msgid "Selected credit status has been deleted"
+msgstr "选定的信用状况已被删除"
+
+msgid "Selected credit status has been updated"
+msgstr "选定的信用状况已更新"
+
+msgid "Selected currency has been deleted"
+msgstr "选择货币已被删除"
+
+msgid "Selected currency settings has been updated"
+msgstr "选择货币设置已更新"
+
+msgid "Selected customer branch has been updated"
+msgstr "选的客户分行已更新"
+
+msgid "Selected customer has been deleted."
+msgstr "选腐肉客户已被删除。"
+
+msgid "Selected extension has been successfully deleted"
+msgstr "选择的扩展已被成功删除"
+
+msgid "Selected fiscal year has been updated"
+msgstr "选择会计年度已更新"
+
+msgid "Selected item category has been deleted"
+msgstr "选择项目类别已被删除"
+
+msgid "Selected item category has been updated"
+msgstr "选择项目类别已更新"
+
+msgid "Selected item has been deleted."
+msgstr "所选项目已被删除。"
+
+msgid "Selected item tax type has been deleted"
+msgstr "所选项目税种已被删除"
+
+msgid "Selected item tax type has been updated"
+msgstr "所选项目税种已更新"
+
+msgid "Selected location has been deleted"
+msgstr "选定的位置已被删除"
+
+msgid "Selected location has been updated"
+msgstr "选定的位置已更新"
+
+msgid "Selected movement type has been updated"
+msgstr "选择移动类型已更新"
+
+msgid "Selected payment terms have been updated"
+msgstr "选择付款条件已更新"
+
+msgid "Selected point of sale has been deleted"
+msgstr "选定的销售点已被删除"
+
+msgid "Selected point of sale has been updated"
+msgstr "选定的销售点已更新"
+
+msgid "Selected printer definition has been deleted"
+msgstr "选择打印机的定义已被删除"
+
+msgid "Selected printer definition has been updated"
+msgstr "选择打印机的定义已经更新"
+
+msgid "Selected quick entry has been deleted"
+msgstr "选择快速进入已被删除"
+
+msgid "Selected quick entry has been updated"
+msgstr "快捷输入已经更新"
+
+msgid "Selected quick entry line has been deleted"
+msgstr "选择快速输入行已被删除"
+
+msgid "Selected quick entry line has been updated"
+msgstr "快速输入行已更新"
+
+msgid "Selected recurrent invoice has been deleted"
+msgstr "选择周期性的发票已被删除"
+
+msgid "Selected recurrent invoice has been updated"
+msgstr "选择周期性发票已更新"
+
+msgid "Selected sales area has been deleted"
+msgstr "选定的销售区域已被删除"
+
+msgid "Selected sales area has been updated"
+msgstr "选定的销售地区已更新"
+
+msgid "Selected sales group has been deleted"
+msgstr "选择销售组已被删除"
+
+msgid "Selected sales group has been updated"
+msgstr "选择销售组已更新"
+
+msgid "Selected sales type has been updated"
+msgstr "选中的销售类型已更新"
+
+msgid "Selected tag has been deleted"
+msgstr "选择的标签已被删除"
+
+msgid "Selected tag settings have been updated"
+msgstr "选择的标签设置已更新"
+
+msgid "Selected tax group has been deleted"
+msgstr "选择税收组已被删除"
+
+msgid "Selected tax group has been updated"
+msgstr "选择税收组已更新"
+
+msgid "Selected tax type has been deleted"
+msgstr "选择税种已被删除"
+
+msgid "Selected tax type has been updated"
+msgstr "选择税种已更新"
+
+msgid "Selected theme has been successfully deleted"
+msgstr "选定的主题已成功删除"
+
+msgid "Selected transaction has been voided."
+msgstr "选择交易已作废。"
+
+msgid "Selected unit has been deleted"
+msgstr "选择的单位已被删除"
+
+msgid "Selected unit has been updated"
+msgstr "选择的单位已更新"
+
+msgid "Selected work center has been deleted"
+msgstr "选定的工作中心已被删除"
+
+msgid "Selected work center has been updated"
+msgstr "选定的工作中心已经更新"
+
+msgid "Selection"
+msgstr "选取"
+
+msgid "Sending document by email failed"
+msgstr "通过电子邮件发送文件失败"
+
+msgid "September"
+msgstr "九月"
+
+msgid "Server system"
+msgstr "服务器系统"
+
+msgid "Service"
+msgstr "服务"
+
+msgid "Session save path"
+msgstr "Session保存路径"
+
+msgid "Shi&pping Company"
+msgstr "物流公司"
+
+msgid "Shipper"
+msgstr "供应商"
+
+msgid "Shipping"
+msgstr "物流"
+
+msgid "Shipping Charge"
+msgstr "运费"
+
+msgid "Shipping Company:"
+msgstr "物流公司:"
+
+msgid "Shipping Cost"
+msgstr "运费"
+
+msgid "Shipping ways"
+msgstr "物流方式"
+
+msgid "Short Name"
+msgstr "简称"
+
+msgid "Shortage"
+msgstr "短缺"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Show All:"
+msgstr "显示所有:"
+
+msgid "Show Balance"
+msgstr "显示余额"
+
+msgid "Show Balances"
+msgstr "显示余额"
+
+msgid "Show GP %"
+msgstr "显示 GP %"
+
+msgid "Show Movements"
+msgstr "显示移动"
+
+msgid "Show Pictures"
+msgstr "显示图片"
+
+msgid "Show Shortage"
+msgstr "显示短缺货品"
+
+msgid "Show also Inactive"
+msgstr "显示还是无效"
+
+msgid "Show inactive:"
+msgstr "显示无效:"
+
+msgid "Software &Upgrade"
+msgstr "系统升级"
+
+msgid "Software upgrades"
+msgstr "软件升级"
+
+msgid "Standard &Costs"
+msgstr "标准成本"
+
+msgid "Standard Labour Cost Per Unit"
+msgstr "每单位劳工成本标准"
+
+msgid "Standard Material Cost Per Unit"
+msgstr "每单位材料成本标准"
+
+msgid "Standard Overhead Cost Per Unit"
+msgstr "每单位成本的间接费用标准"
+
+msgid "Start Date"
+msgstr "开始日期"
+
+msgid "Start-up Tab"
+msgstr "启动标签"
+
+msgid "Stock &Check Sheets"
+msgstr "存货检查表"
+
+msgid "Stock Check Sheets"
+msgstr "存货检查表"
+
+msgid "Stock Location"
+msgstr "存货地点"
+
+msgid "Stock status view"
+msgstr "库存状态视图"
+
+msgid "Stock transactions view"
+msgstr "库存转移视图"
+
+msgid "Stocks below Re-Order Level at "
+msgstr "库存低于再订购水平在"
+
+msgid "Su"
+msgstr "日"
+
+msgid "Sub Total"
+msgstr "小计"
+
+msgid "Sub-total"
+msgstr "小计"
+
+msgid "Sub-total:"
+msgstr "小计:"
+
+msgid "Submit changes"
+msgstr "提交更改"
+
+msgid "Supp Ord"
+msgstr "供应商订单"
+
+msgid "Supp Reference"
+msgstr "供应商参考"
+
+msgid "Supplier"
+msgstr "供应商"
+
+msgid "Supplier &Balances"
+msgstr "供应商结余"
+
+msgid "Supplier &Credit Notes"
+msgstr "供应商信用票据"
+
+msgid "Supplier &Invoices"
+msgstr "供应商发票"
+
+msgid "Supplier Allocation &Inquiry"
+msgstr "供应商配置查询"
+
+msgid "Supplier Allocations"
+msgstr "供应商分配"
+
+msgid "Supplier Balances"
+msgstr "供应商结余"
+
+msgid "Supplier Credit Note"
+msgstr "供应商信用票据"
+
+msgid "Supplier Inquiry"
+msgstr "供应商查询"
+
+msgid "Supplier Invoice"
+msgstr "供应商发票"
+
+msgid "Supplier Invoice/Credit"
+msgstr "供应商发票/信用"
+
+msgid "Supplier Payment"
+msgstr "供应商付款"
+
+msgid "Supplier Purchasing Data"
+msgstr "供应商购买产品资料"
+
+msgid "Supplier Short Name:"
+msgstr "供应商简称:"
+
+msgid "Supplier Transaction &Inquiry"
+msgstr "供应商的交易查询"
+
+msgid "Supplier analytical reports"
+msgstr "供应商的分析报告"
+
+msgid "Supplier and Purchasing &Reports"
+msgstr "供应商和采购报告"
+
+msgid "Supplier credit notes"
+msgstr "供应商信用票据（欠条）"
+
+msgid "Supplier has been updated."
+msgstr "供应商已更新。"
+
+msgid "Supplier invoices"
+msgstr "供应商发票"
+
+msgid "Supplier payments"
+msgstr "供应商付款"
+
+msgid "Supplier payments allocations"
+msgstr "供应商付款的配置"
+
+msgid "Supplier payments report"
+msgstr "供应商付款的报告"
+
+msgid "Supplier purchasing data has been updated."
+msgstr "供应商购买资料已更新。"
+
+msgid "Supplier transactions view"
+msgstr "查看供应商交易"
+
+msgid "Supplier:"
+msgstr "供应商:"
+
+msgid "Suppliers changes"
+msgstr "供应商的变化"
+
+msgid "Supported"
+msgstr "支持"
+
+msgid "System &Diagnostics"
+msgstr "系统信息"
+
+msgid "System Diagnostics"
+msgstr "系统信息"
+
+msgid "System administration"
+msgstr "系统管理"
+
+msgid "System default"
+msgstr "系统默认"
+
+msgid "TOTAL CREDIT"
+msgstr "总学分"
+
+msgid "TOTAL INVOICE"
+msgstr "总发票"
+
+msgid "TOTAL VALUE"
+msgstr "总额"
+
+msgid "Table Pref"
+msgstr "表前缀"
+
+msgid "Tag Description"
+msgstr "标签说明"
+
+msgid "Tag Description:"
+msgstr "标签说明:"
+
+msgid "Tag Name"
+msgstr "标记名称"
+
+msgid "Tag Name:"
+msgstr "标签名称:"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "Tags:"
+msgstr "标签:"
+
+msgid "Tax"
+msgstr "税"
+
+msgid "Tax &Groups"
+msgstr "税务组"
+
+msgid "Tax Group"
+msgstr "税组"
+
+msgid "Tax Groups"
+msgstr "税组"
+
+msgid "Tax Inquiry"
+msgstr "税务查询"
+
+msgid "Tax Name"
+msgstr "税名"
+
+msgid "Tax Report"
+msgstr "税务报告"
+
+msgid "Tax Types"
+msgstr "税种"
+
+msgid "Tax exempt"
+msgstr "免税"
+
+msgid "Tax groups"
+msgstr "税组"
+
+msgid "Tax included"
+msgstr "含税"
+
+msgid "Tax rates"
+msgstr "税率"
+
+msgid "Tax type"
+msgstr "税种"
+
+msgid "Telephone"
+msgstr "电话"
+
+msgid "Telephone No.:"
+msgstr "电话号码:"
+
+msgid "Telephone No:"
+msgstr "电话号码:"
+
+msgid "Template No"
+msgstr "模板No."
+
+msgid "Temporary directory"
+msgstr "临时目录"
+
+msgid "Terms"
+msgstr "条款"
+
+msgid "Test"
+msgstr "测试"
+
+msgid "Test type"
+msgstr "测试类型"
+
+msgid "Th"
+msgstr "四"
+
+msgid "Thank you for using"
+msgstr "感谢您的使用"
+
+msgid "The POS name cannot be empty."
+msgstr "POS名称不能为空。"
+
+msgid "The account code must be numeric."
+msgstr "该账户代码必须是数字。"
+
+msgid "The account group id cannot be empty."
+msgstr "该帐户组ID不能为空。"
+
+msgid "The account name cannot be empty."
+msgstr "该账户名称不能为空。"
+
+msgid "The additional cost has been entered."
+msgstr "这些额外的成本已输入。"
+
+msgid "The amount entered is not a valid number or less then zero."
+msgstr "输入的金额不是一个有效的数字或小于零。"
+
+msgid "The configuration file "
+msgstr "配置文件"
+
+msgid "The contact name cannot be empty."
+msgstr "联系人姓名不能为空。"
+
+msgid "The currency abbreviation must be entered."
+msgstr "货币缩写必须输入。"
+
+msgid "The currency name must be entered."
+msgstr "货币名称必须输入。"
+
+msgid "The currency symbol must be entered."
+msgstr "货币符号必须被输入。"
+
+msgid "The date entered is in an invalid format."
+msgstr "日期输入格式无效。"
+
+msgid "The dimension has been re-opened. "
+msgstr "需求已经重新开放。"
+
+msgid "The dimension name must be entered."
+msgstr "需求名称必须输入。"
+
+msgid "The dimension reference must be entered."
+msgstr "需求参考必须输入。"
+
+msgid "The dimension sent is not valid."
+msgstr "需求发送无效。"
+
+msgid "The entered date is invalid."
+msgstr "输入的日期无效。"
+
+msgid "The entered date is not in fiscal year."
+msgstr "输入的日期是不是在会计年度。"
+
+msgid "The entered date of delivery is invalid."
+msgstr "交付日期无效。"
+
+msgid "The entered reference is already in use."
+msgstr "输入的参考已在使用。"
+
+msgid "The exchange rate cannot be zero or a negative number."
+msgstr "汇率必须大于零。"
+
+msgid "The exchange rate for the date is already there."
+msgstr "该日期的汇率已经存在。"
+
+msgid "The language files folder "
+msgstr "语言文件夹"
+
+msgid "The marked company is the current company which cannot be deleted."
+msgstr "标记的公司是目前公司不能被删除。"
+
+msgid "The marked currency is the home currency which cannot be deleted."
+msgstr "标记的货币是本国货币，不能被删除。"
+
+msgid "The new price has been added."
+msgstr "新的价格已被添加。"
+
+msgid "The password cannot contain the user login."
+msgstr "密码不能包含用户名。"
+
+msgid "The password entered must be at least 4 characters long."
+msgstr "密码必须至少4个字符长。"
+
+msgid "The passwords entered are not the same."
+msgstr "输入的密码是不一致的。"
+
+msgid "The price entered was not numeric."
+msgstr "价格输入的不是数字。"
+
+msgid "The required by date entered is in an invalid format."
+msgstr "需求日期是一个无效的格式。"
+
+msgid ""
+"The security settings on your account do not permit you to access this "
+"function"
+msgstr "你的用户保安设置未允可你登用这工能"
+
+msgid ""
+"The security settings on your account do not permit you to print this report"
+msgstr "你的用户保安设置未允可你登用这工能"
+
+msgid "The selected currency is the company currency."
+msgstr "所选的货币是公司的货币。"
+
+msgid "The selected price has been deleted."
+msgstr "所选择的价格已被删除。"
+
+msgid "The selected transaction has already been voided."
+msgstr "所选择的交易已经作废。"
+
+msgid "The selected transaction was closed for edition and cannot be voided."
+msgstr "选定的交易关闭，不能作废。"
+
+msgid "The selected user has been updated."
+msgstr "所选用户已被更新。"
+
+msgid "The supplier name must be entered."
+msgstr "供应商名称必须输入。"
+
+msgid "The supplier short name must be entered."
+msgstr "供应商必须输入简称。"
+
+msgid "The tax group name cannot be empty."
+msgstr "税务组名不能为空。"
+
+msgid "The user login entered must be at least 4 characters long."
+msgstr "用户名必须输入至少4个字符长。"
+
+msgid "The work centre name cannot be empty."
+msgstr "工作中心名称不能为空。"
+
+msgid "Theme"
+msgstr "主题"
+
+msgid "Theme:"
+msgstr "主题:"
+
+msgid "There are no additional costs for this Order."
+msgstr "这项命令是有没有额外的费用。"
+
+msgid "There are no item quantities on this delivery note."
+msgstr "这个送货单没有数量。"
+
+msgid "There are no suppliers defined in the system."
+msgstr "在系统中有没有定义供应商。"
+
+msgid "There is no customer selected."
+msgstr "没有客户被选择。"
+
+msgid "There is no purchasing data set up for the part selected"
+msgstr "没有购买设置所选部分注册资料"
+
+msgid "There is no supplier selected."
+msgstr "没有供应商被选择。"
+
+msgid "This Delivery"
+msgstr "这交货"
+
+msgid "This Invoice"
+msgstr "发票"
+
+msgid "This database settings are already used by another company."
+msgstr "这个数据库已被另一个公司设置。"
+
+msgid "This dimension cannot be deleted because it has already been processed."
+msgstr "这需求不能被删除，因为它已经被处理。"
+
+msgid "This payment has been voided."
+msgstr "此支付已被作废。"
+
+msgid "This price has been updated."
+msgstr "这一价格已更新。"
+
+msgid "This supplier purchasing data has been added."
+msgstr "该供应商采购数据已添加。"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Time Zone on Reports"
+msgstr "报告中的时区"
+
+msgid "Timeout"
+msgstr "超时"
+
+msgid "To"
+msgstr "至"
+
+msgid "To Account"
+msgstr "To 帐目"
+
+msgid "To product"
+msgstr "To 产品"
+
+msgid "To switch debugging on set $go_debug>0 in config.php file"
+msgstr "要启动调试在 config.php 中 $go_debug>0 "
+
+msgid "To switch error logging set $error_logging in config.php file"
+msgstr "要切换错误记录在config.php中设$error_logging"
+
+msgid "To:"
+msgstr "致:"
+
+msgid "Total"
+msgstr "总计"
+
+msgid "Total Allocated"
+msgstr "已分配"
+
+msgid "Total Amount"
+msgstr "总金额"
+
+msgid "Total Balance"
+msgstr "总结余"
+
+msgid "Total Cost"
+msgstr "总成本"
+
+msgid "Total Order Value"
+msgstr "总订单价值"
+
+msgid "Total Quantity"
+msgstr "总量"
+
+msgid "Total Tax Excluded"
+msgstr "总数（不含税）"
+
+msgid "Total:"
+msgstr "总计:"
+
+msgid "Trans Date"
+msgstr "交易日期"
+
+msgid "Transaction #"
+msgstr "交易"
+
+msgid "Transaction #:"
+msgstr "交易#:"
+
+msgid "Transaction Type:"
+msgstr "交易类型:"
+
+msgid "Transactions"
+msgstr "交易"
+
+msgid "Transfer"
+msgstr "转移"
+
+msgid "Trial Balance"
+msgstr "试算表"
+
+msgid "Tu"
+msgstr "二"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Type Name"
+msgstr "类型名称"
+
+msgid "Type id"
+msgstr "类型ID"
+
+msgid "Type/Account"
+msgstr "类型/帐户"
+
+msgid "Type:"
+msgstr "类型:"
+
+msgid "Unit"
+msgstr "单位"
+
+msgid "Unit Abbreviation:"
+msgstr "单位缩写:"
+
+msgid "Unit Cost"
+msgstr "单位成本"
+
+msgid "Unit Price"
+msgstr "单价"
+
+msgid "Units"
+msgstr "单位"
+
+msgid "Units of measure"
+msgstr "单位"
+
+msgid "Unspecified tag type"
+msgstr "未指定的标签类型"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update Account"
+msgstr "更新账户"
+
+msgid "Update Customer"
+msgstr "更新客户"
+
+msgid "Update Order"
+msgstr "更新订单"
+
+msgid "Update Supplier"
+msgstr "更新供应商"
+
+msgid "Update customer data"
+msgstr "更新客户数据"
+
+msgid "Update default"
+msgstr "更新默认"
+
+msgid "Update kit/alias name"
+msgstr "更新套件/别名"
+
+msgid "Update supplier data"
+msgstr "更新供应商资料"
+
+msgid "Update view"
+msgstr "更新视图"
+
+msgid "Updated."
+msgstr "更新。"
+
+msgid "Upgrade MySQL server to version at least 4.1"
+msgstr "MySQL服务器版本升级到至少4.1"
+
+msgid "Upgrade PHP to version at least 4.3.3"
+msgstr "升级到版本的PHP 4.3.3至少"
+
+msgid "Upload file"
+msgstr "上传文件"
+
+msgid "Use popup window for reports:"
+msgstr "使用弹出窗口查看报告:"
+
+msgid "User login:"
+msgstr "用户登录:"
+
+msgid "User name"
+msgstr "用户名"
+
+msgid "User's POS"
+msgstr "用户的POS"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Users setup"
+msgstr "用户设置"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Version Id"
+msgstr "版本"
+
+msgid "Vertical bars"
+msgstr "竖线"
+
+msgid "View"
+msgstr "查看"
+
+msgid "View Attachment"
+msgstr "查看附件"
+
+msgid "View Backup"
+msgstr "查看备份"
+
+msgid "View Sales Quotation"
+msgstr "查看销售报价"
+
+msgid "View or &Print Transactions"
+msgstr "查看或打印交易"
+
+msgid "View or Print Transactions"
+msgstr "查看或打印交易"
+
+msgid "View this Invoice"
+msgstr "查看此发票"
+
+msgid "View this Work Order"
+msgstr "查看此工作单"
+
+msgid "View this delivery"
+msgstr "查看此送货"
+
+msgid "Void Transaction"
+msgstr "交易无效"
+
+msgid "Voided."
+msgstr "作废。"
+
+msgid "Voiding Date:"
+msgstr "废止日期:"
+
+msgid "Voiding transactions"
+msgstr "废止交易"
+
+msgid "We"
+msgstr "三"
+
+msgid "Website:"
+msgstr "网站:"
+
+msgid "With thanks from"
+msgstr "感谢"
+
+msgid "Work &Order Entry"
+msgstr "输入工作单"
+
+msgid "Work Centre"
+msgstr "工作中心"
+
+msgid "Work Centre Added:"
+msgstr "工作中心新增:"
+
+msgid "Work Centres"
+msgstr "工作中心"
+
+msgid "Work Order &Inquiry"
+msgstr "工作单查询"
+
+msgid "Work Order Additional Costs"
+msgstr "工作的单额外成本"
+
+msgid "Work Order Entry"
+msgstr "订单输入工作"
+
+msgid "Work Order No."
+msgstr "工作单号"
+
+msgid "Work Order Requirements"
+msgstr "工作订单的要求"
+
+msgid "Work order entry"
+msgstr "输入工作单"
+
+msgid "Wrk Ctr"
+msgstr "工作中心"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "You are about to void this Document.\\nDo you want to continue?"
+msgstr "您将要作废此文件。\n您要继续吗？"
+
+msgid "You can only upload *.sql backup files"
+msgstr "您只能上传*.sql备份文件"
+
+msgid "You have to select at least one category."
+msgstr "你必须至少选择一个类别。"
+
+msgid "You should automatically be forwarded."
+msgstr "你应该自动转发。"
+
+msgid "Your password has been updated."
+msgstr "您的密码已更新。"
+
+msgid "Zero values"
+msgstr "零"
+
+msgid "and"
+msgstr "和"
+
+msgid "cannot find backup directory"
+msgstr "无法找到备份目录"
+
+msgid "click here"
+msgstr "点击这里"
+
+msgid "currency"
+msgstr "货币"
+
+msgid "days"
+msgstr "天"
+
+msgid "description"
+msgstr "描述"
+
+msgid "email"
+msgstr "电邮"
+
+msgid "email Customers"
+msgstr "发电子邮件给客户"
+
+msgid "number"
+msgstr "编号"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "to continue"
+msgstr "继续"
+
+msgid "user online"
+msgstr "用户在线"

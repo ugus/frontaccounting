@@ -1,0 +1,658 @@
+msgid ""
+msgstr "Project-Id-Version: FrontAccounting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-08 15:59+0200\n"
+"PO-Revision-Date: 2009-11-30 17:14+0100\n"
+"Last-Translator: Translation Team <info@frontaccounting.net>\n"
+"Language-Team: Nermin Sirbic <lang_sh@frontaccounting.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-2\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Bosnian\n"
+"X-Poedit-Country: BOSNIA AND HERZEGOVINA\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-KeywordsList: _\n"
+
+msgid "#"
+msgstr "#"
+
+msgid "A new user has been added."
+msgstr "Novi korisnik je otvoren"
+
+msgid "Access Level:"
+msgstr "Access nivo:"
+
+msgid "Accounts Payable Account:"
+msgstr "Konto plaæanja:"
+
+msgid "Accounts Receivable Account:"
+msgstr "Konto uplata"
+
+msgid "Address:"
+msgstr "Adresa"
+
+msgid "Aged Customer Analysis"
+msgstr "Vremenska analiza (kupac)"
+
+msgid "Aged Supplier Analysis"
+msgstr "Vremenska analiza (dobavljaèi)"
+
+msgid "All Areas"
+msgstr "Sva podruèja"
+
+msgid "Allow Negative Inventory:"
+msgstr "Dozvoljena negativna zaliha"
+
+msgid "Amount:"
+msgstr "Iznos:"
+
+msgid "Are you sure you want to void this transaction ? This action cannot "
+"be undone."
+msgstr "Jeste li sigurni da ¾elite isprazniti transakciju? Ova naredba se ne "
+"mo¾e povratiti."
+
+msgid "Back Orders Only"
+msgstr "Samo ostale narud¾be"
+
+msgid "Backup and Restore Database"
+msgstr "Baza podataka - sigurnosno kopiranje i ponovno postavljanje"
+
+msgid "Backup paths have not been set correctly."
+msgstr "postupak za sigurnosno kopiranje je pogre¹an"
+
+msgid "Backup successfully generated."
+msgstr "Sigurnosno kopiranje OK"
+
+msgid "Balances in Home Currency"
+msgstr "Balans u domaæoj valuti"
+
+msgid "Bank Account"
+msgstr "Bankkonto"
+
+msgid "Bank Accounts"
+msgstr "Bankovna konta"
+
+msgid "Branch Contact Information"
+msgstr "Odjeljenje kontakt informacija"
+
+msgid "C.O.G.S. Account:"
+msgstr "Raèun nabavka:"
+
+msgid "Cancel"
+msgstr "Prekinite"
+
+msgid "Cannot delete this payment term, because customer accounts have been "
+"created referring to this term."
+msgstr "Ne mogu se izbaciti uslovi plaæanja, zato ¹to je konto kupca "
+"napravljen na osnovu njih"
+
+msgid "Cannot delete this payment term, because supplier accounts have been "
+"created referring to this term"
+msgstr "Ne mogu se izbaciti uslovi plaæanja zato ¹to je konto dobavljaèa "
+"napravljen na osnovu njih"
+
+msgid "Cannot delete this shipping company because invoices have been "
+"created using this shipping company."
+msgstr "Ne mo¾e se izbaciti naèin dostave zato ¹to je faktura naèinjena na "
+"osnovu njega"
+
+msgid "Cannot delete this shipping company because sales orders have been "
+"created using this shipper."
+msgstr "Ne mo¾e se izbaciti naèin dostave zato ¹to je narud¾ba napravljena "
+"na osnovu njega"
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "Category/Items"
+msgstr "Kategorije/Proizvodi"
+
+msgid "Click here to Login Again."
+msgstr "login ponovo"
+
+msgid "Close This Dimension"
+msgstr "Zavr¹iti dimenziju?"
+
+msgid "Company Logo:"
+msgstr "Firma logotip:"
+
+msgid "Company setup has been updated."
+msgstr "Informacije o firmi su uvedene u sustem"
+
+msgid "Compare to"
+msgstr "Uporedi sa:"
+
+msgid "Contact Person:"
+msgstr "Kontakt osoba:"
+
+msgid "Currencies"
+msgstr "Devize"
+
+msgid "Customer Allocation Inquiry"
+msgstr "Kupci reskontra, uplate"
+
+msgid "Customer Branches"
+msgstr "Filijala kupca"
+
+msgid "Customer Postal Address"
+msgstr "Adresa kupca"
+
+msgid "Customer Ref"
+msgstr "Kupac ref"
+
+msgid "Customers and Sales"
+msgstr "Kupci i prodaja"
+
+msgid "Customers and Sales Defaults"
+msgstr "Kupci i prodaja standard"
+
+msgid "Customers in"
+msgstr "Kupci u"
+
+msgid "Days"
+msgstr "dani"
+
+msgid "Days (Or Day In Following Month):"
+msgstr "Dana (ili dan u slijedeæem mjesecu):"
+
+msgid "Decimal Places"
+msgstr "Decimalno plasiranje"
+
+msgid "Default Credit Limit:"
+msgstr "Standardna kreditna granica:"
+
+msgid "Del Date"
+msgstr "Dan nabavke (dostave)"
+
+msgid "Delete"
+msgstr "Izbaciti"
+
+msgid "Delete This Dimension"
+msgstr "Izbri¹i dimenziju"
+
+msgid "Delivery Over-Receive Allowance:"
+msgstr "Prekomjerna dostava dozvoljena:"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Detailed Report"
+msgstr "Detaljan raport"
+
+msgid "Dimension"
+msgstr "Dimenzija"
+
+msgid "Dimension Defaults"
+msgstr "Standardna dimenzija"
+
+msgid "Dimension Entry"
+msgstr "Registracija dimenzija"
+
+msgid "Dimension Reference:"
+msgstr "Referens dimenzije:"
+
+msgid "Dimension Summary"
+msgstr "Pregled dimenzije:"
+
+msgid "Dimensions"
+msgstr "Dimenzije"
+
+msgid "Display Setup"
+msgstr "Instalacija pregleda na ekranu"
+
+msgid "Display settings have been updated."
+msgstr "Instalacija pregleda na ekranu je zavr¹ena"
+
+msgid "DueDate"
+msgstr "Dan za plaæanje"
+
+msgid "Edit"
+msgstr "Ispraviti"
+
+msgid "Email Address:"
+msgstr "e-mail adresa"
+
+msgid "Enter a new password to change, leave empty to keep current."
+msgstr "Navedite novi kod (lozinku) da bi promilenili, ostavite prazno da bi "
+"zadr¾ali sada¹nje stanje"
+
+msgid "Exchange Rates"
+msgstr "Kursna lista"
+
+msgid "Exchange Rates:"
+msgstr "Kursna lista:"
+
+msgid "Filename"
+msgstr "Naziv faila"
+
+msgid "Form"
+msgstr "Dokument"
+
+msgid "Forms Setup"
+msgstr "Istalacija dokumenta"
+
+msgid "Forms settings have been updated."
+msgstr "instalacija dokumenta je updatirana"
+
+msgid "From Account"
+msgstr "Od konta:"
+
+msgid "GL Account Groups"
+msgstr "Gropa konta"
+
+msgid "GL Accounts"
+msgstr "Konta"
+
+msgid "General GL"
+msgstr "Op¹te knjigovodstvo"
+
+msgid "Home Currency:"
+msgstr "Domaæa valuta"
+
+msgid "Inquiries and Reports"
+msgstr "Pregledi i raporti"
+
+msgid "Inventory Account:"
+msgstr "Raèun zaliha"
+
+msgid "Inventory Adjustments Account:"
+msgstr "Raèun promjene na zalihi:"
+
+msgid "Inventory Category"
+msgstr "Kategorija proizvoda:"
+
+msgid "Inventory Item Status"
+msgstr "Lista zaliha"
+
+msgid "Inventory Item Where Used Inquiry"
+msgstr "Lista zaliha, ulazi u"
+
+msgid "Inventory Location Transfers"
+msgstr "Mjesto zalihe prenos"
+
+msgid "Inventory Locations"
+msgstr "Mjesto zalihe"
+
+msgid "Inventory Movement Types"
+msgstr "Tip promjene na zalihi"
+
+msgid "Invoice Over-Charge Allowance:"
+msgstr "Prekomjerno fakturisanje dozvoljeno:"
+
+msgid "Invoiced"
+msgstr "fakturisano"
+
+msgid "Item Assembly Costs Account:"
+msgstr "Konto zajednièki tro¹kovi proizvoda:"
+
+msgid "Item Categories"
+msgstr "Kategorije proizvoda"
+
+msgid "Item Tax Types"
+msgstr "Tip poreza"
+
+msgid "Items"
+msgstr "Proizvodi"
+
+msgid "Journal Entry"
+msgstr "Registracija transakcije"
+
+msgid "Language"
+msgstr "Jezik"
+
+msgid "Language:"
+msgstr "Jezik:"
+
+msgid "List of Journal Entries"
+msgstr "Lista transakcija"
+
+msgid "Logout"
+msgstr "logout"
+
+msgid "Main  Menu"
+msgstr "Glavna stranica"
+
+msgid "Maintenance"
+msgstr "Odr¾avanje"
+
+msgid "Manufacturing"
+msgstr "Produkcija - proizvodnja"
+
+msgid "Manufacturing Defaults"
+msgstr "Standardna proizvodnja"
+
+msgid "Memo:"
+msgstr "Memorija:"
+
+msgid "Miscellaneous"
+msgstr "ostalo"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "Name"
+msgstr "Ime"
+
+msgid "Name (to appear on reports):"
+msgstr "Naziv (sto ce se pokazat na raportima)"
+
+msgid "Name:"
+msgstr "Ime:"
+
+msgid "Official Company Number:"
+msgstr "Sluzbeni broj firme"
+
+msgid "Outstanding Transactions"
+msgstr "izvanjske transakcije"
+
+msgid "Password:"
+msgstr "Kod (lozinka)"
+
+msgid "Payment Terms"
+msgstr "Uslovi plaæanja"
+
+msgid "Payments"
+msgstr "Plaæanje"
+
+msgid "Percentages:"
+msgstr "Procenti:"
+
+msgid "Phone Number:"
+msgstr "Broj telefona:"
+
+msgid "Place Invoice"
+msgstr "Napravi fakturu:"
+
+msgid "Please contact System Administrator."
+msgstr "Molimo kontaktirajte sistem administratora"
+
+msgid "Prices/Amounts:"
+msgstr "Cijena/iznos"
+
+msgid "Pricing and Costs"
+msgstr "Cijene ko¹tanja"
+
+msgid "Print"
+msgstr "Ispi¹i"
+
+msgid "Proceed"
+msgstr "Nastavi"
+
+msgid "Prompt Payment Discount Account:"
+msgstr "Konto rabat plaæanja"
+
+msgid "Purchase Account:"
+msgstr "Konto nabavke"
+
+msgid "Purchase Discount Account:"
+msgstr "Konto rabat nabavke"
+
+msgid "Purchase Order Entry"
+msgstr "Registracija nabavke"
+
+msgid "Quantities:"
+msgstr "kolièina - broj"
+
+msgid "Reference"
+msgstr "Preporuka"
+
+msgid "Reference:"
+msgstr "Referens:"
+
+msgid "Reorder Levels"
+msgstr "Narud¾be"
+
+msgid "Restore backup completed."
+msgstr "Ponovno postavljanje OK"
+
+msgid "Sales"
+msgstr "Prodaja"
+
+msgid "Sales Account:"
+msgstr "Konto prodaje:"
+
+msgid "Sales Areas"
+msgstr "Prodajno podruèje"
+
+msgid "Sales Discount Account:"
+msgstr "Konto rabat kupcima"
+
+msgid "Sales Folk"
+msgstr "Prodavaèi"
+
+msgid "Sales Persons"
+msgstr "prodavaè"
+
+msgid "Sales Types"
+msgstr "Naèin prodaje"
+
+msgid "Search"
+msgstr "potra¾iti"
+
+msgid "Search Dimensions"
+msgstr "Tra¾iti dimenzije"
+
+msgid "Selected transaction has been voided."
+msgstr "Navedena transakcija je ispra¾njena"
+
+msgid "Shipping Charged Account:"
+msgstr "Raèun provizije"
+
+msgid "Show Balances"
+msgstr "Poka¾i balanse:"
+
+msgid "Show GL Information:"
+msgstr "Pokazi knjigovodstvenu informaciju"
+
+msgid "Show Item Codes:"
+msgstr "Poka¾i ¹ifru proizvoda"
+
+msgid "Stock Location"
+msgstr "Mjesto zalihe"
+
+msgid "Supplier Allocation Inquiry"
+msgstr "Plaæanje dobavljaèima - pregled"
+
+msgid "Suppliers"
+msgstr "Suppliers"
+
+msgid "Suppliers and Purchasing"
+msgstr "Dobavljaèi i nabavka:"
+
+msgid "Suppliers and Purchasing Defaults"
+msgstr "Dobavljaèi i nabava standard:"
+
+msgid "System and General GL Setup"
+msgstr "Sistemska i op¹ta knjigovodstvena instalacija"
+
+msgid "Tax Groups"
+msgstr "Grupe poreza"
+
+msgid "Tax Periods:"
+msgstr "Poreski periodi:"
+
+msgid "Tax Rate"
+msgstr "Iznos poreza:"
+
+msgid "Telephone No.:"
+msgstr "Telefon br.:"
+
+msgid "Terms Description:"
+msgstr "Opis uvjeta"
+
+msgid "Thank you for using"
+msgstr "Hvala vam sto upotrebljavate"
+
+msgid "The company name must be entered."
+msgstr "Mora se navesti naziv firme"
+
+msgid "The delivery over-receive allowance must be between 0 and 100."
+msgstr "Prekomjerna isporuka mora biti izmeðu 0 i 100"
+
+msgid "The dimension has been closed. There can be no more changes to it."
+msgstr "Dimenzija je zatvorena. Ne mogu se izvesti druge promjene"
+
+msgid "The dimension has been deleted."
+msgstr "Dimenzija je poni¹tena"
+
+msgid "The dimension has been entered."
+msgstr "Dimenzija je napravljena"
+
+msgid "The dimension has been updated."
+msgstr "Dimenzija je updatirana"
+
+msgid "The dimension name must be entered."
+msgstr "Mora se navesti ime dimenzije"
+
+msgid "The dimension reference must be entered."
+msgstr "Referens dimenzije mora se navesti"
+
+msgid "The dimension sent is not valid."
+msgstr "Navedena dimenzija je neva¾eæa"
+
+msgid "The ending transaction number is expected to be numeric and greater "
+"than zero."
+msgstr "Posljednja transakcija treba biti numerisana i veæa od 0"
+
+msgid "The entered date is invalid."
+msgstr "Datum koji ste naveli ne va¾i."
+
+msgid "The entered transaction does not exist or cannot be voided."
+msgstr "Navedena transakcija ne postoji ili se ne mo¾e isprazniti."
+
+msgid "The general GL setup has been updated."
+msgstr "Op¹te knjigovodstveno instaliranje je updatirano"
+
+msgid "The invoice over-charge allowance must be between 0 and 100."
+msgstr "fakturiranje preko mora biti izmeðu 0 i 100"
+
+msgid "The number of days or the day in the following month must be numeric."
+msgstr "Broj dana ili dan u mjesecu mora biti numerisan"
+
+msgid "The password cannot contain the user login."
+msgstr "Kod ne mo¾e biti isti kao ime korisnika"
+
+msgid "The past due days interval allowance must be between 0 and 100."
+msgstr "Dnevni interval i vremenskoj analizi mora biti izmeðu 0 i 100"
+
+msgid "The quantity received can only be modified by entering a negative "
+"receipt and the quantity invoiced can only be reduced by entering a "
+"credit note against this item."
+msgstr "Broj preuzetih mo¾e se samo izmijeniti ako se navede negativan iznos"
+
+msgid "The selected transaction has already been voided."
+msgstr "Navedena transakcija je veæ jednom ispra¾njena"
+
+msgid "The selected user has been updated."
+msgstr "Izabrani korisnik je updatiran"
+
+msgid "The shipping company name cannot be empty."
+msgstr "Naèin dostave - ne mo¾e biti prazan"
+
+msgid "The starting transaction number is expected to be numeric and "
+"greater than zero."
+msgstr "Prva transakcija treba biti numerisana i veæa od 0"
+
+msgid "The transaction number is expected to be numeric and greater than "
+"zero."
+msgstr "Broj transakcije treba da bude numerisan i veæi od 0"
+
+msgid "There are no bank accounts defined in the system."
+msgstr "Nema nikakvih bankovnih raèuna  registrovanih u sistemu"
+
+msgid "This dimension cannot be deleted because it has already been "
+"processed."
+msgstr "Dimenzija se ne mo¾e izbrisati po¹to veæ ima transakciju"
+
+msgid "This dimension is closed."
+msgstr "Dimenzija je gotova"
+
+msgid "To Account"
+msgstr "Do konta:"
+
+msgid "Trans Type"
+msgstr "Tip transakcije"
+
+msgid "Transaction #:"
+msgstr "Transakcija #:"
+
+msgid "Transaction Type:"
+msgstr "Tip transakcije:"
+
+msgid "Transactions"
+msgstr "Transakcija"
+
+msgid "Transfer Type:"
+msgstr "Tip prenosa:"
+
+msgid "Transfer has been entered"
+msgstr "Prenos je izvr¹en"
+
+msgid "Trial Balance"
+msgstr "Balans sirovina"
+
+msgid "Type/Account"
+msgstr "Tip/konto"
+
+msgid "Type:"
+msgstr "Tip:"
+
+msgid "Update"
+msgstr "Ubaci u sistem - updatiraj"
+
+msgid "Use Dimensions:"
+msgstr "Upotrijebi dimenzije:"
+
+msgid "User Login:"
+msgstr "Ime korisnika:"
+
+msgid "User has been deleted."
+msgstr "Korisnik je izbaèen"
+
+msgid "User login"
+msgstr "Ime korisnika"
+
+msgid "User login:"
+msgstr "Ime korisnika:"
+
+msgid "Users"
+msgstr "korisnik"
+
+msgid "Version"
+msgstr "verzija"
+
+msgid "View"
+msgstr "Poka¾i"
+
+msgid "View Dimension"
+msgstr "Nova dimenzija"
+
+msgid "View or Print Transactions"
+msgstr "Poka¾i ili ispi¹i transakciju"
+
+msgid "Void Transaction"
+msgstr "Isprazni transakciju"
+
+msgid "Void a Transaction"
+msgstr "Isprazni transakciju"
+
+msgid "Voiding Date:"
+msgstr "Datum pra¾njenja:"
+
+msgid "Work Centres"
+msgstr "Mjesta proizvodnje"
+
+msgid "Work Order Entry"
+msgstr "Registracija radnih narud¾bi"
+
+msgid "cannot find backup directory"
+msgstr "nemoze naci mapu od sigurnog kopiranja"
+
+msgid "days"
+msgstr "dani"
+
+msgid "from #:"
+msgstr "od #:"
+
+msgid "to #:"
+msgstr "do #:"

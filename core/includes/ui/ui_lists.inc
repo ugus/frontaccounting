@@ -214,11 +214,15 @@ $opts = array(		// default options
 			}
 			$cat = $contact_row[$opts['category']];
 			if ($opts['category'] !== false && $cat != $lastcat){
+				if ($lastcat!==null)
+					$selector .= "</optgroup>";
 				$selector .= "<optgroup label='".$cat."'>\n";
 				$lastcat = $cat;
 			}
 			$selector .= "<option $sel $optclass value='$value'>$descr</option>\n";
 		}
+		if ($lastcat!==null)
+			$selector .= "</optgroup>";
 		db_free_result($result);
 	}
 
@@ -368,7 +372,6 @@ $opts = array(		// default options
 
 	if ($first_id!==false) {
 		$sel = ($found===$first_id) || ($found===false && ($spec_option===false)) ? "selected='selected'" : '';
-		$selector = sprintf($first_opt, $sel).$selector;
 	}
 	// Prepend special option.
 	if ($spec_option !== false) { // if special option used - add it
@@ -675,7 +678,7 @@ return combo_input($name, $selected_id, $sql, 'id', '',
 function _format_fiscalyears($row)
 {
 	return sql2date($row[1]) . "&nbsp;-&nbsp;" . sql2date($row[2])
-	. "&nbsp;&nbsp;" . ($row[3] ? _('Closed') : _('Active')) . "</option>\n";
+	. "&nbsp;&nbsp;" . ($row[3] ? _('Closed') : _('Active'));
 }
 
 function fiscalyears_list_cells($label, $name, $selected_id=null)
@@ -2364,7 +2367,7 @@ function payment_services($name)
 {
 	global $payment_services;
 
-	$services = array_combine(array_keys($payment_services), array_keys($payment_services));
+	$services = (object)array_combine(array_keys($payment_services), array_keys($payment_services));
 
 	return array_selector($name, null, $services, array(
 			'spec_option'=> _("No payment Link"),

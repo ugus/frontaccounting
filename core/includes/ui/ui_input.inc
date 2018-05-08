@@ -85,10 +85,16 @@ function input_num($postname=null, $dflt=0)
 }
 
 //---------------------------------------------------------------------------------
+//
+//	Thanks to hidden fields buffering hidden() helper can be used in arbitrary places and 
+//  proper html structure is still preserved. Buffered hidden fields are output on the nearest 
+//  table or form closing tag (see output_hidden()).
+//
+$hidden_fields = array();
 
 function hidden($name, $value=null, $echo=true)
 {
-  	global $Ajax;
+  	global $Ajax, $hidden_fields;
 	
 	if ($value === null) 
 		$value = get_post($name);
@@ -96,7 +102,7 @@ function hidden($name, $value=null, $echo=true)
   	$ret = "<input type=\"hidden\" name=\"$name\" value=\"$value\">";
 	$Ajax->addUpdate($name, $name, $value);
 	if ($echo)
-		echo $ret."\n";
+			$hidden_fields[] = $ret;
 	else
 		return $ret;
 }
@@ -127,7 +133,7 @@ function submit($name, $value, $echo=true, $title=false, $atype=false, $icon=fal
 
 	} elseif (!is_bool($atype)) { // necessary: switch uses '=='
 
-		$aspect = "aspect='$atype' ";
+		$aspect = " aspect='$atype' ";
 		$types = explode(' ', $atype);
 
 		foreach ($types as $type) {
@@ -155,7 +161,7 @@ function submit($name, $value, $echo=true, $title=false, $atype=false, $icon=fal
 	    ." name=\"$name\"  id=\"$name\" value=\"$value\""
 	    .($title ? " title='$title'" : '')
 	    .">"
-		.($icon ? "<img src='$path_to_root/themes/".user_theme()."/images/$icon' height='12'>" : '')
+		.($icon ? "<img src='$path_to_root/themes/".user_theme()."/images/$icon' height='12' alt=''>" : '')
 		."<span>$value</span>"
 		."</button>\n";
 	if ($echo)
@@ -268,7 +274,7 @@ function set_icon($icon, $title=false)
 	global $path_to_root;
 	if (basename($icon) === $icon) // standard icons does not contain path separator
 		$icon = "$path_to_root/themes/".user_theme()."/images/$icon";
-	return "<img src='$icon' width='12' height='12' border='0'".($title ? " title='$title'" : "")." />\n";	
+	return "<img src='$icon' width='12' height='12' border='0'".($title ? " title='$title'" : "")." >\n";	
 }
 
 function button($name, $value, $title=false, $icon=false,  $aspect='')
@@ -290,7 +296,7 @@ function button($name, $value, $title=false, $icon=false,  $aspect='')
 			."' value='1'" . ($title ? " title='$title'":" title='$value'")
 			. ($aspect ? " aspect='$aspect'" : '')
 			. $rel
-			." />".set_icon($icon)."</button>\n";
+			." >".set_icon($icon)."</button>\n";
 	}
 	else
 		return "<input type='submit' class='editbutton' name='"
@@ -300,7 +306,7 @@ function button($name, $value, $title=false, $icon=false,  $aspect='')
 			.($title ? " title='$title'":'')
 			. ($aspect ? " aspect='$aspect'" : '')
 			. $rel
-			." />\n";
+			." >\n";
 }
 
 function button_cell($name, $value, $title=false, $icon=false, $aspect='')
@@ -328,7 +334,7 @@ function select_button_cell($name, $value, $title=false)
 
 function check_value($name)
 {
-	if (!isset($_POST[$name]))
+    if (!isset($_POST[$name]) || ($_POST[$name]+0) === 0)
 		return 0;
 	return 1;
 }
@@ -464,14 +470,14 @@ function qty_cell($label, $bold=false, $dec=null, $id=null)
 		label_cell(number_format2($label, $dec), "nowrap align=right", $id);
 }
 
-function label_cells($label, $value, $params="", $params2="", $id='')
+function label_cells($label, $value, $params="", $params2="", $id=null)
 {
 	if ($label != null)
 		echo "<td $params>$label</td>\n";
 	label_cell($value, $params2, $id);
 }
 
-function label_row($label, $value, $params="", $params2="", $leftfill=0, $id='')
+function label_row($label, $value, $params="", $params2="", $leftfill=0, $id=null)
 {
 	echo "<tr>";
 	if ($params == "")
@@ -628,7 +634,7 @@ function date_cells($label, $name, $title = null, $check=null, $inc_days=0,
 		$calc_image = (file_exists("$path_to_root/themes/".user_theme()."/images/cal.gif")) ? 
 			"$path_to_root/themes/".user_theme()."/images/cal.gif" : "$path_to_root/themes/default/images/cal.gif";
 		$post_label = "<a tabindex='-1' href=\"javascript:date_picker(document.getElementsByName('$name')[0]);\">"
-		. "	<img src='$calc_image' width='16' height='16' border='0' alt='"._('Click Here to Pick up the date')."'></a>\n";
+		. "	<img src='$calc_image' style='vertical-align:middle;padding-bottom:4px;width:16px;height:16px;border:0;' alt='"._('Click Here to Pick up the date')."'></a>\n";
 	}	
 	else
 		$post_label = "";
@@ -666,7 +672,7 @@ function date_row($label, $name, $title=null, $check=null, $inc_days=0, $inc_mon
 function password_row($label, $name, $value)
 {
 	echo "<tr><td class='label'>$label</td>";
-	label_cell("<input type='password' name='$name' size=20 maxlength=20 value='$value' />");
+	label_cell("<input type='password' name='$name' size=20 maxlength=20 value='$value' >");
 	echo "</tr>\n";
 }	
 
@@ -675,7 +681,7 @@ function file_cells($label, $name, $id="")
 {
 	if ($id != "")
 		$id = "id='$id'";
-	label_cells($label, "<input type='file' name='$name' $id />");
+	label_cells($label, "<input type='file' name='$name' $id >");
 }		
 function file_row($label, $name, $id = "")
 {

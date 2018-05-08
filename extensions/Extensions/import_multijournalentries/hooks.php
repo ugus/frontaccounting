@@ -12,7 +12,7 @@ class hooks_import_multijournalentries extends hooks {
 
 		switch($app->id) {
 			case 'GL':
-				$app->add_rapp_function(2, _('Import &Multiple Journal Entries'), 
+				$app->add_rapp_function(2, _('Import &Multiple Jourmal Entries'), 
 					$path_to_root.'/modules/import_multijournalentries/import_multijournalentries.php', 'SA_CSVMULTIJOURNALIMPORT');
 		}
 	}

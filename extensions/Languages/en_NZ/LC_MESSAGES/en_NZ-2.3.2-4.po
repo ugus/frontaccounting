@@ -1,0 +1,498 @@
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2011-01-04 17:00+0100\n"
+        "PO-Revision-Date: 2012-04-08 12:13+1200\n"
+        "Last-Translator: Alastair Robertson <asro2004@yahoo.com.au>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=ISO-8859-1\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+msgid " overdue Sales Invoices"
+msgstr " overdue Tax Invoices"
+
+msgid "&Allocate Customer Payments or Credit Notes"
+msgstr "&Allocate Customer Payments or Credit Adjustment Notes"
+
+msgid "&Allocate Supplier Payments or Credit Notes"
+msgstr "&Allocate Supplier Payments or Credit Adjustment Notes"
+
+msgid "&Create and Print Recurrent Invoices"
+msgstr "&Create and Print Recurrent Tax Invoices"
+
+msgid "&Email Sales Invoice"
+msgstr "&Email Tax Invoice"
+
+msgid "&Email This Credit Note"
+msgstr "&Email This Credit Adjustment Note"
+
+msgid "&Email This Invoice"
+msgstr "&Email This Tax Invoice"
+
+msgid "&Print Sales Invoice"
+msgstr "&Print Tax Invoice"
+
+msgid "&Print This Credit Note"
+msgstr "&Print This Credit Adjustment Note"
+
+msgid "&Print This Invoice"
+msgstr "&Print This Tax Invoice"
+
+msgid "&Template Invoice"
+msgstr "&Template Tax Invoice"
+
+msgid "&View This Credit Note"
+msgstr "&View This Credit Adjustment Note"
+
+msgid "&View This Invoice"
+msgstr "&View This Tax Invoice"
+
+msgid "&View this Invoice"
+msgstr "&View this Tax Invoice"
+
+msgid "&View this credit note"
+msgstr "&View this credit adjustment note"
+
+msgid "Add to Credit Note"
+msgstr "Add to Credit Adjustment Note"
+
+msgid "Add to Invoice"
+msgstr "Add to Tax Invoice"
+
+msgid "Allocate Customer Payment or Credit Note"
+msgstr "Allocate Customer Payment or Credit Adjustment Note"
+
+msgid "Allocate Supplier Payment or Credit Note"
+msgstr "Allocate Supplier Payment or Credit Adjustment Note"
+
+msgid "CREDIT NOTE"
+msgstr "CREDIT ADJUSTMENT NOTE"
+
+msgid "CREDIT NOTE #%d"
+msgstr "CREDIT ADJUSTMENT NOTE #%d"
+
+msgid "Cancel Invoice"
+msgstr "Cancel Tax Invoice"
+
+msgid "Cannot delete this shipping company because invoices have been "
+        "created using this shipping company."
+msgstr "Cannot delete this shipping company because tax invoices have been "
+        "created using this shipping company."
+
+msgid "Cash invoice"
+msgstr "Cash Tax invoice"
+
+msgid "Create Invoices"
+msgstr "Create Tax Invoices"
+
+msgid "Create and Print Recurrent Invoices"
+msgstr "Create and Print Recurrent Tax Invoices"
+
+msgid "Credit Note # %d has been processed"
+msgstr "Credit Adjustment Note # %d has been processed"
+
+msgid "Credit Note Date"
+msgstr "Credit Adjustment Note Date"
+
+msgid "Credit Note Items"
+msgstr "Credit Adjustment Note Items"
+
+msgid "Credit Note Total"
+msgstr "Credit Adjustment Note Total"
+
+msgid "Credit Note Type"
+msgstr "Credit Adjustment Note Type"
+
+msgid "Credit Note has been processed"
+msgstr "Credit Adjustment Note has been processed"
+
+msgid "Credit Note has been updated"
+msgstr "Credit Adjustment Note has been updated"
+
+msgid "Credit Notes"
+msgstr "Credit Adjustment Notes"
+
+msgid "Credit all or part of an Invoice"
+msgstr "Credit all or part of a Tax Invoice"
+
+msgid "Crediting Invoice"
+msgstr "Crediting Tax Invoice"
+
+msgid "Customer &Credit Notes"
+msgstr "Customer &Credit Adjustment Notes"
+
+msgid "Customer Credit Note"
+msgstr "Customer Credit Adjustment Note"
+
+msgid "Delivery Item Selected For Adding To A Supplier Credit Note"
+msgstr "Delivery Item Selected For Adding To A Supplier Credit Adjustment "
+        "Note"
+
+msgid "Direct &Invoice"
+msgstr "Direct Tax &Invoice"
+
+msgid "Direct Purchase Invoice Entry"
+msgstr "Direct Purchase Tax Invoice Entry"
+
+msgid "Direct Purchase Invoice has been entered"
+msgstr "Direct Purchase Tax Invoice has been entered"
+
+msgid "Direct Sales Invoice"
+msgstr "Direct Tax Invoice"
+
+msgid "Direct invoice entry has been cancelled as requested."
+msgstr "Direct tax invoice entry has been cancelled as requested."
+
+msgid "Dissallow Invoices"
+msgstr "Dissallow Tax Invoices"
+
+msgid "Enter &Another Direct Invoice"
+msgstr "Enter &Another Direct Tax Invoice"
+
+msgid "Enter Another &Credit Note"
+msgstr "Enter Another &Credit Adjustment Note"
+
+msgid "Enter Another Credit Note"
+msgstr "Enter Another Credit Adjustment Note"
+
+msgid "Enter Another Invoice"
+msgstr "Enter Another Tax  Invoice"
+
+msgid "Enter Credit Note"
+msgstr "Enter Credit Adjustment Note"
+
+msgid "Enter Delivery Details and Confirm Invoice"
+msgstr "Enter Delivery Details and Confirm Tax Invoice"
+
+msgid "Enter Invoice"
+msgstr "Enter Tax Invoice"
+
+msgid "Enter Supplier Invoice"
+msgstr "Enter Supplier Tax Invoice"
+
+msgid "Enter a &New Direct Invoice"
+msgstr "Enter a &New Direct Tax Invoice"
+
+msgid "Enter a &New Template Invoice"
+msgstr "Enter a &New Template Tax Invoice"
+
+msgid "Enter a New Sales Invoice"
+msgstr "Enter a New Tax Invoice"
+
+msgid "Entry supplier &payment for this invoice"
+msgstr "Entry supplier &payment for this tax invoice"
+
+msgid "For credit notes created to write off the stock, a general ledger "
+        "account is required to be selected."
+msgstr "For credit adjustment notes created to write off the stock, a "
+        "general ledger account is required to be selected."
+
+msgid "GL Items for this Credit Note"
+msgstr "GL Items for this Credit Adjustment Note"
+
+msgid "GL Items for this Invoice"
+msgstr "GL Items for this tax Invoice"
+
+msgid "INVOICE"
+msgstr "TAX INVOICE"
+
+msgid "Invoice"
+msgstr "Tax Invoice"
+
+msgid "Invoice # %d has been entered."
+msgstr "Tax Invoice # %d has been entered."
+
+msgid "Invoice Date"
+msgstr "Tax Invoice Date"
+
+msgid "Invoice Date:"
+msgstr "Tax Invoice Date:"
+
+msgid "Invoice Items"
+msgstr "Tax Invoice Items"
+
+msgid "Invoice No."
+msgstr "Tax Invoice No."
+
+msgid "Invoice OK"
+msgstr "Tax Invoice OK"
+
+msgid "Invoice Over-Charge Allowance:"
+msgstr "Tax Invoice Over-Charge Allowance:"
+
+msgid "Invoice Total"
+msgstr "Tax Invoice Total"
+
+msgid "Invoice Total:"
+msgstr "Tax Invoice Total:"
+
+msgid "Invoices"
+msgstr "Tax Invoices"
+
+msgid "Invoices/Credits"
+msgstr "Tax Invoices/Credits"
+
+msgid "Issue Batch Invoice for Delivery Notes"
+msgstr "Issue Batch Tax Invoice for Delivery Notes"
+
+msgid "Issue an Invoice for Delivery Note"
+msgstr "Issue a Tax Invoice for Delivery Note"
+
+msgid "Legal Text on Invoice:"
+msgstr "Legal Text on Tax Invoice:"
+
+msgid "Modifying Customer Credit Note #%d"
+msgstr "Modifying Customer Credit Adjustment Note #%d"
+
+msgid "Modifying Sales Invoice # %d."
+msgstr "Modifying Tax Invoice # %d."
+
+msgid "No recurrent invoices are due."
+msgstr "No recurrent tax invoices are due."
+
+msgid "Our VAT No."
+msgstr "Our GST No."
+
+msgid "Overdue Credit Notes"
+msgstr "Overdue Credit Adjustment Notes"
+
+msgid "Place Invoice"
+msgstr "Place Tax Invoice"
+
+msgid "Please quote Invoice no. when paying. All amounts stated in"
+msgstr "Please quote Tax Invoice no. when paying. All amounts stated in"
+
+msgid "Price after Tax"
+msgstr "Price after GST"
+
+msgid "Price before Tax"
+msgstr "Price before GST"
+
+msgid "Prices contain tax included:"
+msgstr "Prices are GST included:"
+
+msgid "Print &Invoices/Credit Notes"
+msgstr "Print Tax &Invoices/Credit Adjustment Notes"
+
+msgid "Process Credit Note"
+msgstr "Process Credit Adjustment Note"
+
+msgid "Process Invoice"
+msgstr "Process Tax Invoice"
+
+msgid "Recurrent &Invoices"
+msgstr "Recurrent Tax &Invoices"
+
+msgid "Recurrent Invoices"
+msgstr "Recurrent Tax Invoices"
+
+msgid "SALES INVOICE #%d"
+msgstr "TAX INVOICE #%d"
+
+msgid "SUPPLIER CREDIT NOTE"
+msgstr "SUPPLIER CREDIT ADJUSTMENT NOTE"
+
+msgid "SUPPLIER INVOICE"
+msgstr "SUPPLIER TAX INVOICE"
+
+msgid "Sales Invoice"
+msgstr "Tax Invoice"
+
+msgid "Sales Invoice # %d has been updated."
+msgstr "Tax Invoice # %d has been updated."
+
+msgid "Sales Invoice Items"
+msgstr "Tax Invoice Items"
+
+msgid "Sales Invoices"
+msgstr "Tax  Invoices"
+
+msgid "Sales credit notes against invoice"
+msgstr "Credit Adjustment notes against tax invoice"
+
+msgid "Sales freehand credit notes"
+msgstr "Sales freehand credit adjustment notes"
+
+msgid "Select Another &Invoice to Modify"
+msgstr "Select Another Tax &Invoice to Modify"
+
+msgid "Supplier &Credit Notes"
+msgstr "Supplier &Credit Adjustment Notes"
+
+msgid "Supplier &Invoices"
+msgstr "Supplier Tax &Invoices"
+
+msgid "Supplier Credit Note"
+msgstr "Supplier Credit Adjustment Note"
+
+msgid "Supplier Invoice"
+msgstr "Supplier Tax Invoice"
+
+msgid "Supplier credit note has been processed."
+msgstr "Supplier credit adjustment note has been processed."
+
+msgid "Supplier credit notes"
+msgstr "Supplier credit adjustment notes"
+
+msgid "Supplier invoice has been processed."
+msgstr "Supplier tax invoice has been processed."
+
+msgid "Supplier invoices"
+msgstr "Supplier tax invoices"
+
+msgid "TOTAL CREDIT NOTE"
+msgstr "TOTAL CREDIT ADJUSTMENT NOTE"
+
+msgid "TOTAL DELIVERY INCL. VAT"
+msgstr "TOTAL DELIVERY INCL. GST"
+
+msgid "TOTAL INVOICE"
+msgstr "TOTAL TAX INVOICE"
+
+msgid "TOTAL ORDER EX VAT"
+msgstr "TOTAL ORDER EX GST"
+
+msgid "TOTAL ORDER VAT INCL."
+msgstr "TOTAL ORDER INCL. GST"
+
+msgid "Tax Incl"
+msgstr "l"
+
+msgid "Tax Last Period:"
+msgstr "GST Last Period:"
+
+msgid "Tax Periods:"
+msgstr "GST Periods:"
+
+msgid "The credit note as entered cannot be processed because the date "
+        "entered is not valid."
+msgstr "The adjustment credit note as entered cannot be processed because "
+        "the date entered is not valid."
+
+msgid "The credit note cannot be processed because the there are no items "
+        "or values on the invoice.  Credit notes are expected to have a "
+        "charge."
+msgstr "The credit note cannot be processed because the there are no items "
+        "or values on the tax invoice.  Credit adjustment notes are expected "
+        "to have a charge."
+
+msgid "The credit note total as entered is less than the sum of the the "
+        "general ledger entires (if any) and the charges for goods received. "
+        "There must be a mistake somewhere, the credit note as entered will "
+        "not be processed."
+msgstr "The credit adjustment note total as entered is less than the sum of "
+        "the the general ledger entires (if any) and the charges for goods "
+        "received. There must be a mistake somewhere, the credit adjustment "
+        "note as entered will not be processed."
+
+msgid "The entered date for the credit note is invalid."
+msgstr "The entered date for the credit adjustment note is invalid."
+
+msgid "The entered invoice date is invalid."
+msgstr "The entered tax invoice date is invalid."
+
+msgid "The entered invoice date is not in fiscal year."
+msgstr "The entered tax invoice date is not in fiscal year."
+
+msgid "The entered invoice due date is invalid."
+msgstr "The entered tax invoice due date is invalid."
+
+msgid "The invoice as entered cannot be processed because the due date is "
+        "in an incorrect format."
+msgstr "The tax invoice as entered cannot be processed because the due date "
+        "is in an incorrect format."
+
+msgid "The invoice cannot be processed because the there are no items or "
+        "values on the invoice.  Invoices are expected to have a charge."
+msgstr "The tax  invoice cannot be processed because the there are no items "
+        "or values on the invoice. Tax Invoices are expected to have a charge."
+
+msgid "The quantity received can only be modified by entering a negative "
+        "receipt and the quantity invoiced can only be reduced by entering a "
+        "credit note against this item."
+msgstr "The quantity received can only be modified by entering a negative "
+        "receipt and the quantity invoiced can only be reduced by entering a "
+        "credit adjustment note against this item."
+
+msgid "There are no delivery notes for this invoice.<br>\n"
+        "\t\tMost likely this invoice was created in Front Accounting version "
+        "prior to 2.0\n"
+        "\t\tand therefore can not be modified."
+msgstr "There are no delivery notes for this tax invoice.<br>\n"
+        "\t\tMost likely this invoice was created in Front Accounting version "
+        "prior to 2.0\n"
+        "\t\tand therefore can not be modified."
+
+msgid "There are no item quantities on this invoice."
+msgstr "There are no item quantities on this tax invoice."
+
+msgid "There are no line items on this credit note."
+msgstr "There are no line items on this credit adjustment note."
+
+msgid "There are no line items on this invoice."
+msgstr "There are no line items on this tax invoice."
+
+msgid "This Invoice"
+msgstr "This Tax Invoice"
+
+msgid "This credit note has been voided."
+msgstr "This credit adjustment note has been voided."
+
+msgid "This invoice has been voided."
+msgstr "This tax invoice has been voided."
+
+msgid "Total Tax Excluded"
+msgstr "Total GST Excluded"
+
+msgid "Unsuspected overallocation happened due to sparse credit notes "
+        "exists for this invoice.\n"
+        " Check all credit notes allocated to this invoice for summarized "
+        "freight charges."
+msgstr "Unsuspected overallocation happened due to sparse credit adjustment "
+        "notes exists for this tax invoice.\n"
+        " Check all credit adjustment notes allocated to this tax invoice for "
+        "summarized freight charges."
+
+msgid "Update Invoice"
+msgstr "Update Tax Invoice"
+
+msgid "View Credit Note"
+msgstr "View Credit Adjustment Note"
+
+msgid "View Sales Invoice"
+msgstr "View Tax Invoice"
+
+msgid "View Supplier Credit Note"
+msgstr "View Supplier Credit Adjustment Note"
+
+msgid "View Supplier Invoice"
+msgstr "View Supplier Tax Invoice"
+
+msgid "View the GL &Journal Entries for this Credit Note"
+msgstr "View the GL &Journal Entries for this Credit Adjustment Note"
+
+msgid "View the GL &Journal Entries for this Invoice"
+msgstr "View the GL &Journal Entries for this Tax Invoice"
+
+msgid "View the GL Journal Entries for this Credit Note"
+msgstr "View the GL Journal Entries for this Credit Adjustment Note"
+
+msgid "View the GL Journal Entries for this Invoice"
+msgstr "View the GL Journal Entries for this Tax Invoice"
+
+msgid "View this Credit Note"
+msgstr "View this Credit Adjustment Note"
+
+msgid "View this Invoice"
+msgstr "View this Tax Invoice"
+
+msgid "You must enter a supplier's credit note reference."
+msgstr "You must enter a supplier's credit adjustment note reference."
+
+msgid "You must enter an credit note reference."
+msgstr "You must enter a credit Adjustment note reference."
+
+msgid "Your VAT no."
+msgstr "Your GST no."

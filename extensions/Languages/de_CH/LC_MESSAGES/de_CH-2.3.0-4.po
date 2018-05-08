@@ -1,0 +1,4227 @@
+msgid ""
+msgstr "Project-Id-Version: FrontAccounting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-08 15:59+0200\n"
+"PO-Revision-Date: 2009-11-30 17:05+0100\n"
+"Last-Translator: Translation Team <info@frontaccounting.net>\n"
+"Language-Team: Translators\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Swiss German\n"
+"X-Poedit-Country: SWITZERLAND\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+
+msgid " is not writable. Change its permissions so it is, then re-run the "
+"operation."
+msgstr " kann nicht geändert werden, weil die Rechte fehlen. Bitte ändern "
+"Sie die Dateirechte so, dass dies geht. Anschliessend führen Sie die "
+"Operation bitte erneut durch. "
+
+msgid "#"
+msgstr "#"
+
+msgid "#:"
+msgstr "#:"
+
+msgid ", Please create it manually"
+msgstr ", bitte erstellen Sie diese manuell"
+
+msgid "A new customer has been added."
+msgstr "Ein neuer Kunde ist eröffnet worden."
+
+msgid "A new user has been added."
+msgstr "Ein neuer Benutzer wurde hinzugefügt."
+
+msgid "Abbreviation"
+msgstr "Abkürzung"
+
+msgid "Access Level"
+msgstr "Benutzerrechte"
+
+msgid "Access Level:"
+msgstr "Benutzerrechte:"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Account Code"
+msgstr "Kontencode"
+
+msgid "Account Code 2:"
+msgstr "Zweiter Code für Konto:"
+
+msgid "Account Code:"
+msgstr "Buchungscode:"
+
+msgid "Account Description"
+msgstr "Kontenbeschreibung"
+
+msgid "Account Group:"
+msgstr "Kontengruppe:"
+
+msgid "Account Name"
+msgstr "Kontoname"
+
+msgid "Account Name:"
+msgstr "Kontenname:"
+
+msgid "Account Type:"
+msgstr "Kontentyp:"
+
+msgid "Account:"
+msgstr "Konto:"
+
+msgid "Accounts"
+msgstr "Konten"
+
+msgid "Accounts Payable Account:"
+msgstr "Konten Kreditoren/Verbindlichkeiten:"
+
+msgid "Accounts Receivable Account:"
+msgstr "Debitorenkonton"
+
+msgid "Accumulated"
+msgstr "Zusammengefasst"
+
+msgid "Achieved %"
+msgstr "Ereicht %"
+
+msgid "Action For Balance"
+msgstr "Aktion für Ausgleich"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Activity"
+msgstr "Aktivität"
+
+msgid "Activity Greater Than"
+msgstr "Aktivität ist grösser als"
+
+msgid "Activity Less Than"
+msgstr "Aktivität ist kleiner als"
+
+msgid "Activity Since"
+msgstr "Aktiv seit"
+
+msgid "Add Account"
+msgstr "Konto hinzufügen"
+
+msgid "Add GL Line"
+msgstr "Zeile in Hauptbuch hinzufügen"
+
+msgid "Add Item"
+msgstr "Artikel hinzufügen"
+
+msgid "Add New Customer"
+msgstr "Neuen Kunden hinzufügen"
+
+msgid "Add New Supplier Details"
+msgstr "Neuen Lieferanten erfassen"
+
+msgid "Add Payment"
+msgstr "Füge Zahlungen hinzu"
+
+msgid "Add to Credit Note"
+msgstr "Füge zur Gutschrift hinzu"
+
+msgid "Add to Invoice"
+msgstr "Füge Rechnung hinzu"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address:"
+msgstr "Adresse:"
+
+msgid "Addresses"
+msgstr "Adressen"
+
+msgid "Adjustment Items"
+msgstr "Artikel abgleichen"
+
+msgid "Adjustment Type"
+msgstr "Art der Anpassung"
+
+msgid "Advanced Manufacture"
+msgstr "Erweiterte Fertigung"
+
+msgid "Aged Customer Analysis"
+msgstr "Zeitliche Analyse der Kunden"
+
+msgid "Aged Supplier Analysis"
+msgstr "Zeitliche Analyse der Lieferanten"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "All Areas"
+msgstr "Alle Regionen"
+
+msgid "All Costs Are In:"
+msgstr "Alle Kosten in:"
+
+msgid "All Customers"
+msgstr "Alle Kunden"
+
+msgid "All Items"
+msgstr "Alle Posten"
+
+msgid "All Locations"
+msgstr "Alle Standorte"
+
+msgid "All Orders"
+msgstr "Alle Bestellungen"
+
+msgid "All Sales Folk"
+msgstr "Alle Verkäufer"
+
+msgid "All Suppliers"
+msgstr "Alle Lieferanten"
+
+msgid "All Types"
+msgstr "Alle Arten"
+
+msgid "Allocate"
+msgstr "Zuweisen"
+
+msgid "Allocate Customer Payment or Credit Note"
+msgstr "Kundenzahlung oder Gutschrift zuweisen"
+
+msgid "Allocate Supplier Payment or Credit Note"
+msgstr "Lieferantenzahlung oder Gutschrift einem Lieferanten zuweisen"
+
+msgid "Allocated"
+msgstr "Zugewiesen"
+
+msgid "Allocation"
+msgstr "Zahlungen"
+
+msgid "Allocation of"
+msgstr "Zugewiesen"
+
+msgid "Allocations"
+msgstr "Zuweisungen"
+
+msgid "Allow Negative Inventory:"
+msgstr "Netative Lagerbestände zulassen:"
+
+msgid "Amount"
+msgstr "Betrag"
+
+msgid "Amount and discount are in customer's currency."
+msgstr "Preis und Rabatte sind in der Kundenwährung einzugeben."
+
+msgid "Amount of Discount:"
+msgstr "Gewährter Rabatt:"
+
+msgid "Amount of Payment:"
+msgstr "Betrag der Zahlung:"
+
+msgid "Amount:"
+msgstr "Betrag:"
+
+msgid "Amounts in thousands"
+msgstr "Beträge in Tausend"
+
+msgid "Annual Expense Breakdown"
+msgstr "Jährliche Ausgabenanalyse"
+
+msgid "April"
+msgstr "April"
+
+msgid "Are you sure you want to delete company no. "
+msgstr "Sind Sie sicher, dass Sie die Firmennummer löschen möchten. "
+
+msgid "Are you sure you want to void this transaction ? This action cannot "
+"be undone."
+msgstr "Sind Sie sicher, dass Sie diese Buchung stornieren wollen ? Die "
+"Aktion kann nicht rückgängig gemacht werden."
+
+msgid "Area"
+msgstr "Regio"
+
+msgid "Area Name"
+msgstr "Name Region"
+
+msgid "Area Name:"
+msgstr "Regnionenname:"
+
+msgid "Assemble"
+msgstr "Herstellen"
+
+msgid "At Location"
+msgstr "An Standort"
+
+msgid "Attached you will find "
+msgstr "In der Beilage finden Sie "
+
+msgid "August"
+msgstr "August"
+
+msgid "Automatically put balance on back order"
+msgstr "Automatisch Ausgleich bei Auftragsrückstand setzen"
+
+msgid "Available"
+msgstr "Verfügabar"
+
+msgid "BEGIN date bigger than END date."
+msgstr "Startdatum ist grösser als Enddatum."
+
+msgid "BOM for item:"
+msgstr "Materialplan für Artikel:"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "Back Orders Only"
+msgstr "Nur Auftragsrückstand"
+
+msgid "Back to Allocations"
+msgstr "Zurück zu den Zuweisungen"
+
+msgid "Backup and Restore Database"
+msgstr "Datensicherung und Wiederherstellen der Datenbank"
+
+msgid "Backup paths have not been set correctly."
+msgstr "Die Datensicherungspfade wurden nicht korrekt gesetzt."
+
+msgid "Backup successfully generated."
+msgstr "Datensicherung erfolgreich erstellt."
+
+msgid "Balance"
+msgstr "Ausgleich"
+
+msgid "Balance Sheet"
+msgstr "Bilanz abschliessen"
+
+msgid "Balances in Home Currency"
+msgstr "Bilanz in der Basiswährung"
+
+msgid "Balances in Home currency"
+msgstr "Bilanz in Basiswährung"
+
+msgid "Bank"
+msgstr "Bank"
+
+msgid "Bank Account"
+msgstr "Bankkonto"
+
+msgid "Bank Account Currency:"
+msgstr "Währung für Konto:"
+
+msgid "Bank Account GL Code:"
+msgstr "Hauptbuchcode für Bankkonto"
+
+msgid "Bank Account Name:"
+msgstr "Name des Bankkontos:"
+
+msgid "Bank Account Number:"
+msgstr "Kontennummer:"
+
+msgid "Bank Accounts"
+msgstr "Bankkonten"
+
+msgid "Bank Address"
+msgstr "Adresse der Bank"
+
+msgid "Bank Address:"
+msgstr "Adresse der Bank"
+
+msgid "Bank Deposit"
+msgstr "Bankguthaben"
+
+msgid "Bank Name:"
+msgstr "Name der Bank"
+
+msgid "Bank Payment"
+msgstr "Bankanweisung"
+
+msgid "Bank Statement"
+msgstr "Anweisung Bank"
+
+msgid "Banking"
+msgstr "Banken"
+
+msgid "Below"
+msgstr "Untenstehend"
+
+msgid "Bill Of Materials"
+msgstr "Materialplan"
+
+msgid "Bill of Material Listing"
+msgstr "Plan für benötigtes Material"
+
+msgid "Billing Address:"
+msgstr "Rechnungsadresse:"
+
+msgid "Branch"
+msgstr "Abteilung"
+
+msgid "Branch Contact Information"
+msgstr "Kontaktinformation Abteilung"
+
+msgid "Branch Delivery Address"
+msgstr "Lieferadresse für Abteilung"
+
+msgid "Branch Name"
+msgstr "Abteilungsname"
+
+msgid "Branch Name:"
+msgstr "Abteilungsname:"
+
+msgid "Branch:"
+msgstr "Abteilung:"
+
+msgid "Brought Forward"
+msgstr "Übertragen"
+
+msgid "Budget"
+msgstr "Budget"
+
+msgid "C.O.G.S. Account:"
+msgstr "Material- und Warenaufwand"
+
+msgid "CN"
+msgstr "Gutschr."
+
+msgid "CREDIT NOTE"
+msgstr "Gutschrift"
+
+msgid "CUSTOMER ACCOUNT IS ON HOLD"
+msgstr "Kundenkonto ist auf 'Zurückhalten' gesetzt"
+
+msgid "Calculated Return"
+msgstr "Kalkulierter Rückfluss"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Cancel Invoice"
+msgstr "Rechnung stornieren"
+
+msgid "Cancel Order"
+msgstr "Bestellung stornieren"
+
+msgid "Cancel any quantites not delivered"
+msgstr "Storno von nicht gelieferten Mengen"
+
+msgid "Cannot delete the customer record because orders have been created "
+"against it."
+msgstr "Dieser Kunde kann nicht gelöscht werden, weil es Bestellungen für "
+"diesen Kunden gibt."
+
+msgid "Cannot delete the supplier record because purchase orders have been "
+"created against this supplier."
+msgstr "Dieser Lieferant kann nicht gelöscht werden. Es gibt "
+"Einkaufsrechnungen, die mit diesem Lieferanten erstellt wurden."
+
+msgid "Cannot delete this account because it is used as one of the company "
+"default GL accounts."
+msgstr "Dieses Konto kann nicht gelöscht werden. Es wird als eines der "
+"Hauptbuchkonten der Firma verwendet."
+
+msgid "Cannot delete this account because it is used by a bank account."
+msgstr "Dieses Konto kann nicht gelöscht werden. Es wird als Bankkonto "
+"verwendet."
+
+msgid "Cannot delete this account because it is used by one or more "
+"Customer Branches."
+msgstr "Dieses Konto kann nicht gelöscht werden. Es wird von mindestens "
+"einer oder von mehreren Abteilungen von Kunden verwendet."
+
+msgid "Cannot delete this account because it is used by one or more Items."
+msgstr "Dieses Konto kann nicht gelöscht werden. Es wird von mindestens "
+"einem oder mehreren Artikeln/Posten verwendet."
+
+msgid "Cannot delete this account because it is used by one or more Taxes."
+msgstr "Dieses Konto kann nicht verwendet werden. Es wird von einem "
+"Steuerkonto verwendet."
+
+msgid "Cannot delete this account because it is used by one or more "
+"suppliers."
+msgstr "Dieses Konto kann nicht gelöscht werden. Es wird für einem oder "
+"mehreren Lieferanten verwendet."
+
+msgid "Cannot delete this account because transactions have been created "
+"using this account."
+msgstr "Dieses Konto kann nicht gelöscht werden. Es gibt bereits Buchungen "
+"für dieses Konto."
+
+msgid "Cannot delete this account class because GL account types have been "
+"created referring to it."
+msgstr "Dieses Konto kann nicht gelöscht werden. Es gibt einen oder mehrere "
+"Konten für das Hauptbuch, die auf dieses Konto verweisen."
+
+msgid "Cannot delete this account group because GL account groups have been "
+"created referring to it."
+msgstr "Diese Kontengruppe kann nicht gelöscht werden. Es gibt "
+"Hauptbuchkontengruppen, die auf diese Kontengruppe verweisen."
+
+msgid "Cannot delete this account group because GL accounts have been "
+"created referring to it."
+msgstr "Dieses Konto kann nicht gelöscht werden. Es gibt Hauptbuchkonten, "
+"die auf dieses Konto verweisen."
+
+msgid "Cannot delete this area because customer branches have been created "
+"using this area."
+msgstr "Diese Region kann nicht gelöscht werden, weil Abteilungen mit dieser "
+"Region ertellt wurden."
+
+msgid "Cannot delete this bank account because transactions have been "
+"created using this account."
+msgstr "Dieses Bankkonto kann nicht gelöscht werden, weil es Buchungen gibt, "
+"die mit diesem Bankkonto erstellt wurden."
+
+msgid "Cannot delete this branch because customer transactions have been "
+"created to this branch."
+msgstr "Diese Abteilung kann nicht gelöscht werden, weil es "
+"Kundentransaktionen gibt mit dieser Abteilung."
+
+msgid "Cannot delete this branch because sales orders exist for it. Purge "
+"old sales orders first."
+msgstr "Diese Abteilung kann nicht gelöscht werden, weil Bestellungen "
+"existieren. Bitte zuerst alte Bestellungen löschen."
+
+msgid "Cannot delete this credit status because customer accounts have been "
+"created referring to it."
+msgstr "Diese Kreditart kann nicht gelöscht werden, weil es Kundendatensätze "
+"gibt, die diese enthalten."
+
+msgid "Cannot delete this currency, because customer accounts have been "
+"created referring to this currency."
+msgstr "Diese Währung kann nicht gelöscht werden. Es gibt Kundenkonten, die "
+"mit diesen Währungen arbeiten."
+
+msgid "Cannot delete this currency, because supplier accounts have been "
+"created referring to this currency."
+msgstr "Diese Währung kann nicht gelöscht werden. Es gibt Lieferantenkontos, "
+"die auf diese Währung lauten."
+
+msgid "Cannot delete this currency, because the company preferences uses "
+"this currency."
+msgstr "Diese Währung kann nicht gelöscht werden, weil die "
+"Firmeneinstellungen auf diese Währung lauten."
+
+msgid "Cannot delete this currency, because thre are bank accounts that use "
+"this currency."
+msgstr "Diese Währung kann nicht gelöscht werden, weil es Bankkonten gibt, "
+"welche diese Währung verwenden."
+
+msgid "Cannot delete this customer because there are branch records set up "
+"against it."
+msgstr "Dieser Kunde kann nicht gelöscht werden, weil es "
+"Abteilungsdatensätze für diesen Kunden gibt."
+
+msgid "Cannot delete this inventory movement type because item transactions "
+"have been created referring to it."
+msgstr "Die Lagerverschiebungsart kann nicht gelöscht werden. Es gibt "
+"Artikelbuchungen, die auf diese Art verweisen."
+
+msgid "Cannot delete this item because there are existing purchase order "
+"items for it."
+msgstr "Dieser Artikel kann nicht gelöscht werden. Es gibt bestehende "
+"Einkaufsbestellungen für diesen Artikel."
+
+msgid "Cannot delete this item because there are stock movements that refer "
+"to this item."
+msgstr "Dieser Arikel kann nicht gelöscht werden. Es gibt "
+"Lagerveränderungen, die auf diesen Arikel verweisen."
+
+msgid "Cannot delete this item category because items have been created "
+"using this item category."
+msgstr "Diese Artikelkategorie kann nicht gelöscht werden. Es gibt Artikel "
+"für diese Kategorie."
+
+msgid "Cannot delete this item record because there are bills of material "
+"that require this part as a component."
+msgstr "Dieser Artikel kann nicht gelöscht werden. Es gibt "
+"Materialrechnungen die diesen Artikel als Komponente benötigen."
+
+msgid "Cannot delete this item tax type because items have been created "
+"referring to it."
+msgstr "Dieser Steuersatz kann nicht gelöscht werden weil bereits Artikel "
+"basierend auf diesem Steuersatz erstellt wurden."
+
+msgid "Cannot delete this location because it is used by some branch "
+"records as the default location to deliver from."
+msgstr "Dieser Standort kann nicht gelöscht werden. Er wird von einigen "
+"Abteilungen als Standardstandort für die Lieferung verwendet."
+
+msgid "Cannot delete this location because it is used by some work orders "
+"records."
+msgstr "Dieser Standort kann nicht gelöscht werden. Er wird in "
+"Arbeitsaufträgen verwendet."
+
+msgid "Cannot delete this location because item movements have been created "
+"using this location."
+msgstr "Dieser Standort kann nicht gelöscht werden. Es gibt "
+"Lagerverschiebungen, welche diesen Standort verwenden."
+
+msgid "Cannot delete this payment term, because customer accounts have been "
+"created referring to this term."
+msgstr "Diese Zahlungskonditionen können nicht gelöscht werden, weil "
+"Benutzerkonten mit diesen Konditionen arbeiten."
+
+msgid "Cannot delete this payment term, because supplier accounts have been "
+"created referring to this term"
+msgstr "Diese Zahlungskonditionen können nicht gelöscht werden, weil "
+"Lieferantenkonten mit diesen arbeiten"
+
+msgid "Cannot delete this sale type because customer transactions have been "
+"created using this sales type."
+msgstr "Diese Verkaufsart kann nicht gelöscht werden, weil es "
+"Kundentransaktionen gibt die von dieser abhängen."
+
+msgid "Cannot delete this sale type because customers are currently set up "
+"to use this sales type."
+msgstr "Diese Verkaufsart kann nicht gelöscht werden, weil es derzeit Kunden "
+"gibt, die dieser Art zugewiesen sind."
+
+msgid "Cannot delete this shipping company because invoices have been "
+"created using this shipping company."
+msgstr "Diese Lieferfirma kann nicht gelöscht werden, weil Rechnungen mit "
+"dieser Firma als Lieferfirma erstellt wurden."
+
+msgid "Cannot delete this shipping company because sales orders have been "
+"created using this shipper."
+msgstr "Diese Lieferfirma kann nicht gelöscht werden, weil Bestellungen mit "
+"dieser Firma als Lieferfirma erstellt wurden."
+
+msgid "Cannot delete this supplier because there are transactions that "
+"refer to this supplier."
+msgstr "Dieser Lieferant kann nicht gelöscht werden. Es gibt Buchungen, die "
+"auf diesen Lieferanten verweisen."
+
+msgid "Cannot delete this tax group because customer branches been created "
+"referring to it."
+msgstr "Dieser Steuergruppe kann nicht gelöscht werden, weil es Abteilungen "
+"von Kunden gibt, die von dieser Steuergruppe abhängen."
+
+msgid "Cannot delete this tax group because suppliers been created "
+"referring to it."
+msgstr "Diese Steuergruppe kann nicht gelöscht werden, weil es Lieferanten "
+"gibt, die von dieser Steuergruppe abhängen."
+
+msgid "Cannot delete this tax type because tax groups been created "
+"referring to it."
+msgstr "Diese Steuerart kann nicht gelöscht werden, weil sie von erstellten "
+"Steuergruppen abhängt."
+
+msgid "Cannot delete this work centre because BOMs have been created "
+"referring to it."
+msgstr "Dieser Arbeitsplatz kann nicht gelöscht werden. Es gibt "
+"Materialpläne, die diesen Arbeitsplatz verwenden."
+
+msgid "Cannot delete this work centre because work order requirements have "
+"been created referring to it."
+msgstr "Dieser Arbeitsplatz kann nicht gelöscht werden. Teile von "
+"Arbeitsaufträge verweisen auf diesen."
+
+msgid "Cannot open the configuration file - "
+msgstr "Die Konfigurationsdatei kann nicht geöffnet werden - "
+
+msgid "Cannot open the languages file - "
+msgstr "Öffnen der Sprachendatei nicht möglich - "
+
+msgid "Cannot write to the configuration file - "
+msgstr "Schreiben in Konfigurationsdatei ist nicht möglich - "
+
+msgid "Cannot write to the language file - "
+msgstr "Schreiben der Sprachendatei nicht möglich - "
+
+msgid "Cash Account"
+msgstr "Kassenkonto"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Category Name:"
+msgstr "Name für Kategorie:"
+
+msgid "Category/Items"
+msgstr "Kategorie/Artikel"
+
+msgid "Category:"
+msgstr "Kategorie:"
+
+msgid "Charge Branch"
+msgstr "Abt. belasten"
+
+msgid "Charge To"
+msgstr "Belastung für"
+
+msgid "Charges"
+msgstr "Gebühren"
+
+msgid "Chart of Accounts"
+msgstr "Kontenübersicht"
+
+msgid "Chequing Account"
+msgstr "Bankkonto"
+
+msgid "Class ID"
+msgstr "Klassen-ID"
+
+msgid "Class ID:"
+msgstr "Klassen-ID:"
+
+msgid "Class Name"
+msgstr "Name der Klasse"
+
+msgid "Class Name:"
+msgstr "Name der Klasse:"
+
+msgid "Class Type"
+msgstr "Klassentyp"
+
+msgid "Class Type:"
+msgstr "Klassentyp:"
+
+msgid "Click here to Login Again."
+msgstr "Bitte hier klicken für erneutes Anmelden."
+
+msgid "Close Balance"
+msgstr "Geschlossene Bilanz"
+
+msgid "Close This Dimension"
+msgstr "Dimension schliessen"
+
+msgid "Close This Work Order"
+msgstr "Diesen Arbeitsauftrag schliessen"
+
+msgid "Closed"
+msgstr "Geschlossen"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Comments"
+msgstr "Kommentare"
+
+msgid "Comments:"
+msgstr "Bemerkungen:"
+
+msgid "Commit Order Changes"
+msgstr "Änderungen in Bestellungen sichern"
+
+msgid "Company"
+msgstr "Firma"
+
+msgid "Company Logo:"
+msgstr "Firmenlogo:"
+
+msgid "Company Setup"
+msgstr "Einstellungen Firma"
+
+msgid "Company setup has been updated."
+msgstr "Die Firma wurde erfolgreich eröffnet."
+
+msgid "Compare to"
+msgstr "Vergleiche mit"
+
+msgid "Component"
+msgstr "Komponente"
+
+msgid "Component is :"
+msgstr "Komponente ist :"
+
+msgid "Component:"
+msgstr "Komponente:"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Contact Person"
+msgstr "Kontaktperson"
+
+msgid "Contact Person:"
+msgstr "Kontaktperson:"
+
+msgid "Contact Phone Number:"
+msgstr "Telefonnummer für Kontakt:"
+
+msgid "Contact for deliveries:"
+msgstr "Kontakt für Lieferungen:"
+
+msgid "Conversion Factor (to our UOM):"
+msgstr "Konvertierungsfaktor (für unsere Einheit):"
+
+msgid "Cost Update"
+msgstr "Aufwand aktualisieren"
+
+msgid "Cost has been updated."
+msgstr "Die Kosten sind geändert worden."
+
+msgid "Costed Bill Of Material Inquiry"
+msgstr "Verursachte Materialkosten abfragen"
+
+msgid "Costs"
+msgstr "Kosten"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Country:"
+msgstr "Land:"
+
+msgid "Create Backup"
+msgstr "Datensicherung erstellen"
+
+msgid "Create a new company"
+msgstr "Erstellen einer neuen Firma"
+
+msgid "Create/Update Company"
+msgstr "Erstellen/Ändern Firmendaten"
+
+msgid "Credit"
+msgstr "Gutschrift"
+
+msgid "Credit Account"
+msgstr "Kreditkonto"
+
+msgid "Credit Limit:"
+msgstr "Kreditlimite:"
+
+msgid "Credit Note Date"
+msgstr "Datum der Gutschrift"
+
+msgid "Credit Note Items"
+msgstr "Artikel Gutschrift"
+
+msgid "Credit Note Total"
+msgstr "Total Gutschrift"
+
+msgid "Credit Note Type"
+msgstr "Art der Gutschrift"
+
+msgid "Credit Note has been processed"
+msgstr "Gutschrift ist verarbeitet worden"
+
+msgid "Credit Notes"
+msgstr "Gutschriften"
+
+msgid "Credit Quantity"
+msgstr "Anzahl der Gutschrift"
+
+msgid "Credit Shipping Cost"
+msgstr "Lieferkosten gutschreiben"
+
+msgid "Credit Status"
+msgstr "Kreditart"
+
+msgid "Credit Status:"
+msgstr "Kreditstatus:"
+
+msgid "Credit This"
+msgstr "Guthaben zuweisen"
+
+msgid "Credit all or part of an Invoice"
+msgstr "Gesamte Rechnung oder einen Teil als Gutschrift"
+
+msgid "Crediting Invoice"
+msgstr "Rechnung gutschreiben"
+
+msgid "Credits"
+msgstr "Gutschrift"
+
+msgid "Credits can only be applied to invoiced items."
+msgstr "Gutschriften können nur angewandt werden für in Rechnung gestellte "
+"Artikel."
+
+msgid "Currencies"
+msgstr "Währungen"
+
+msgid "Currency"
+msgstr "Währung"
+
+msgid "Currency Abbreviation:"
+msgstr "Abkürzung für die Währung:"
+
+msgid "Currency Filter"
+msgstr "Währungsfilter"
+
+msgid "Currency Name"
+msgstr "Name der Währung"
+
+msgid "Currency Name:"
+msgstr "Name der Währung:"
+
+msgid "Currency Symbol:"
+msgstr "Symbol für die Währung:"
+
+msgid "Currency:"
+msgstr "Währung:"
+
+msgid "Current"
+msgstr "Aktuell"
+
+msgid "Cust Ord"
+msgstr "Kundenbest."
+
+msgid "Cust no"
+msgstr "Kundennummer"
+
+msgid "Customer"
+msgstr "Kunde"
+
+msgid "Customer Allocation Inquiry"
+msgstr "Rechnungen von Kunden suchen"
+
+msgid "Customer Allocations"
+msgstr "Kudenzahlung zuweisen"
+
+msgid "Customer Balances"
+msgstr "Kundenbilanz"
+
+msgid "Customer Branches"
+msgstr "Abteilungen zu Kunden"
+
+msgid "Customer Credit Note"
+msgstr "Kundengutschriften"
+
+msgid "Customer Currency:"
+msgstr "Kundenwährung:"
+
+msgid "Customer Details Listing"
+msgstr "Liste mit Kundendetails"
+
+msgid "Customer Discount:"
+msgstr "Kundenrabatt"
+
+msgid "Customer Name"
+msgstr "Kundenname"
+
+msgid "Customer Name:"
+msgstr "Kundenname:"
+
+msgid "Customer Order Ref."
+msgstr "Kundenreferenz der Bestellung"
+
+msgid "Customer Payment"
+msgstr "Kundenzahlung"
+
+msgid "Customer Payment Entry"
+msgstr "Zahlungen des Kunden eingeben"
+
+msgid "Customer Postal Address"
+msgstr "Postadresse des Kunden"
+
+msgid "Customer Ref"
+msgstr "Kundenreferenz"
+
+msgid "Customer Reference:"
+msgstr "Kundenreferenz:"
+
+msgid "Customer has been updated."
+msgstr "Die Kundendaten wurden aktualisiert."
+
+msgid "Customer prompt payment discount :"
+msgstr "Kundenrabatt für pünktliche Zahlungen :"
+
+msgid "Customer's Currency:"
+msgstr "Währung des Kunden:"
+
+msgid "Customer:"
+msgstr "Kunde:"
+
+msgid "Customers"
+msgstr "Kunden"
+
+msgid "Customers and Sales"
+msgstr "Kunden und Verkäufe"
+
+msgid "Customers and Sales Defaults"
+msgstr "Kunden- und Verkaufseinstellungen"
+
+msgid "Customers in"
+msgstr "Kunden in"
+
+msgid "DATABASE ERROR :"
+msgstr "Datenbankfehler :"
+
+msgid "Database Host"
+msgstr "Rechner (Host) für Datenbank"
+
+msgid "Database Name"
+msgstr "Datenbankname"
+
+msgid "Database Password"
+msgstr "Passwort für Datenbank"
+
+msgid "Database Script"
+msgstr "Datenbankskript"
+
+msgid "Database User"
+msgstr "Datenbankbenutzer"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date Items Received"
+msgstr "Artikel erhalten an Datum"
+
+msgid "Date Paid"
+msgstr "Datum der Zahlung"
+
+msgid "Date Required By"
+msgstr "Datum benötigt von"
+
+msgid "Date Separator:"
+msgstr "Trennzeichen für Datum:"
+
+msgid "Date Voided:"
+msgstr "Datum des Fehlers:"
+
+msgid "Date of Deposit"
+msgstr "Datum der Anzahlung"
+
+msgid "Date of Deposit:"
+msgstr "Datum der Anzahlung:"
+
+msgid "Date of Issue"
+msgstr "Datum des Punktes"
+
+msgid "Date to Use From"
+msgstr "Gültig ab Datum"
+
+msgid "Date to Use From:"
+msgstr "Gültig ab Datum:"
+
+msgid "Date/Dim."
+msgstr "Datum/Dim."
+
+msgid "Date:"
+msgstr "Datum:"
+
+msgid "Dateformat and Separators"
+msgstr "Format für Datum und Trennzeichen"
+
+msgid "Dateformat:"
+msgstr "Format für Datum:"
+
+msgid "Days"
+msgstr "Tage"
+
+msgid "Days (Or Day In Following Month):"
+msgstr "Tage (oder Tage im folgenden Monate):"
+
+msgid "Debit"
+msgstr "Belastung"
+
+msgid "December"
+msgstr "Dezember"
+
+msgid "Decimal Places"
+msgstr "Dezimalstellen"
+
+msgid "Decimal Separator:"
+msgstr "Zeichen für Dezimaltrennung:"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Default Credit Limit:"
+msgstr "Normale Kreditlimite:"
+
+msgid "Default Inventory Location:"
+msgstr "Gewünschter Lagerstandort:"
+
+msgid "Default Rate (%)"
+msgstr "Standardsteuersatz (%)"
+
+msgid "Default Rate:"
+msgstr "Standardmenge"
+
+msgid "Default Shipping Company:"
+msgstr "Normale Lieferfirma:"
+
+msgid "Del Date"
+msgstr "Löschdatum"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Delete Backup"
+msgstr "Datensicherung löschen"
+
+msgid "Delete Customer"
+msgstr "Kunde löschen"
+
+msgid "Delete Supplier"
+msgstr "Lieferanten löschen"
+
+msgid "Delete This Dimension"
+msgstr "Dimension löschen"
+
+msgid "Delete This Item"
+msgstr "Diesen Artikel löschen"
+
+msgid "Delete This Work Order"
+msgstr "Diesen Arbeitsauftrag löschen"
+
+msgid "Delete account"
+msgstr "Konto löschen"
+
+msgid "Deliver From Location"
+msgstr "Lieferung erfolgt von"
+
+msgid "Deliver Into Location"
+msgstr "Lieferung an Standort"
+
+msgid "Deliver To Branch"
+msgstr "Lieferung an Abteilung"
+
+msgid "Deliver To:"
+msgstr "Lieferung an:"
+
+msgid "Deliver from Location:"
+msgstr "Lieferung von Standort:"
+
+msgid "Deliver to:"
+msgstr "Lieferung an:"
+
+msgid "Delivered"
+msgstr "Geliefert"
+
+msgid "Delivered On"
+msgstr "Geliefert am"
+
+msgid "Delivered To"
+msgstr "Geliefert an"
+
+msgid "Deliveries"
+msgstr "Lieferungen"
+
+msgid "Delivery"
+msgstr "Lieferung"
+
+msgid "Delivery Address"
+msgstr "Lieferadresse"
+
+msgid "Delivery Date"
+msgstr "Lieferdatum"
+
+msgid "Delivery From"
+msgstr "Lieferung von"
+
+msgid "Delivery Item Selected For Adding To A Supplier Credit Note"
+msgstr "Gelieferte ausgewählte Artikel für eine Lieferantengutschrift"
+
+msgid "Delivery Over-Receive Allowance:"
+msgstr "Akzeptierte überschüssige Lieferungen:"
+
+msgid "Delivery To"
+msgstr "Lieferung an"
+
+msgid "Demand"
+msgstr "Nachgefragt"
+
+msgid "Deposit Type"
+msgstr "Typ des Bankguthabens"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Description:"
+msgstr "Beschreibung:"
+
+msgid "Destination Location:"
+msgstr "Bestimmungsstandort:"
+
+msgid "Detail"
+msgstr "Detail"
+
+msgid "Detail:"
+msgstr "Detail:"
+
+msgid "Detailed Report"
+msgstr "Detailierter Bericht"
+
+msgid "Dimension"
+msgstr "Dimension"
+
+msgid "Dimension Defaults"
+msgstr "Einstellungen Dimensionen"
+
+msgid "Dimension Entry"
+msgstr "Eröffnen einer Dimension"
+
+msgid "Dimension Reference:"
+msgstr "Referenz zur Dimension:"
+
+msgid "Dimension Summary"
+msgstr "Zusammenfassung Dimensionen"
+
+msgid "Dimensions"
+msgstr "Dimensionen"
+
+msgid "Disable this Branch:"
+msgstr "Diese Abteilung löschen:"
+
+msgid "Discount"
+msgstr "Rabatt"
+
+msgid "Discount %"
+msgstr "Rabatt %"
+
+msgid "Discount Percent:"
+msgstr "Rabatt in Prozent:"
+
+msgid "Display Setup"
+msgstr "Einstellungen Bildschirm"
+
+msgid "Display settings have been updated."
+msgstr "Die Bildschirmeinstellungen sind geändert worden."
+
+msgid "Display: "
+msgstr "Bildschirm: "
+
+msgid "Dissallow Invoices"
+msgstr "Rechnungen nicht zulassen"
+
+msgid "Dissallow invoicing ?"
+msgstr "Rechnungen nicht zulassen ?"
+
+msgid "Domicile"
+msgstr "Domizil"
+
+msgid "Domicile:"
+msgstr "Domizil:"
+
+msgid "Dots"
+msgstr "Punkte"
+
+msgid "Download Backup"
+msgstr "Datensicherung herunterladen"
+
+msgid "Due Date"
+msgstr "Fälligkeitsdatum"
+
+msgid "DueDate"
+msgstr "Fälligkeitsdatum"
+
+msgid "E-mail"
+msgstr "Mail"
+
+msgid "E-mail:"
+msgstr "Mail:"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Email"
+msgstr "Mail"
+
+msgid "Email Address:"
+msgstr "Mail-Adresse:"
+
+msgid "Email Customers"
+msgstr "Mail an Kunden"
+
+msgid "Encoding"
+msgstr "Kodierung"
+
+msgid "End Date"
+msgstr "Abschlusdatum"
+
+msgid "Ending Balance"
+msgstr "Bilanz schliessen"
+
+msgid "Enter Another Credit Note"
+msgstr "Andere Gutschrift erfassen"
+
+msgid "Enter Another Invoice"
+msgstr "Andere Rechnung eingeben"
+
+msgid "Enter Credit Note"
+msgstr "Gutschrift erfassen"
+
+msgid "Enter Delivery Details and Confirm Invoice"
+msgstr "Bitte Lieferdetails eingeben und Rechnung bestätigen"
+
+msgid "Enter Delivery Details and Confirm Order"
+msgstr "Bitte Lieferdetails eingeben und Bestellung bestätigen"
+
+msgid "Enter Invoice"
+msgstr "Rechnung erfassen"
+
+msgid "Enter Payment"
+msgstr "Zahlung erfassen"
+
+msgid "Enter Supplier Invoice"
+msgstr "Lieferantenrechnung eingeben"
+
+msgid "Enter a New Sales Order"
+msgstr "Bitte nun Verkaufsbestellung eingeben"
+
+msgid "Enter a new password to change, leave empty to keep current."
+msgstr "Bitte neues Passwort zum Ändern eingeben, beim Belassen des "
+"bisherigen Passwortes Feld leer lassen."
+
+msgid "Enter a new purchase order"
+msgstr "Neue Einkaufsbestellung eingeben"
+
+msgid "Enter a new work order"
+msgstr "Neuen Arbeitsauftrag eingeben"
+
+msgid "Entered item is not defined. Please re-enter."
+msgstr "Der eingegebene Artikel ist nicht definiert. Bitte erneut eingeben."
+
+msgid "Entered quantities cannot be greater than the quantity entered on "
+"the purchase order including the allowed over-receive percentage"
+msgstr "Die erhaltene Anzahl kann nicht grösser sein als die Anzahl bei der "
+"Einkaufsbestellung. Darin enthalten ist der erlaubte Prozentsatz "
+"einer Überlieferung"
+
+msgid "Error creating Database: "
+msgstr "Fehler beim Erstellen der Datenbank: "
+
+msgid "Error removing Database: "
+msgstr "Fehler beim Entfernen der Datenbank: "
+
+msgid "Error uploading Database Script, please upload it manually"
+msgstr "Fehler beim Hochladen der Datenbankskripte, bitte laden Sie diese "
+"auf manuellem Wege hoch"
+
+msgid "Exchange Rate"
+msgstr "Wechselkurs"
+
+msgid "Exchange Rate:"
+msgstr "Wechselkurs:"
+
+msgid "Exchange Rates"
+msgstr "Wechselkurse"
+
+msgid "Exchange Rates:"
+msgstr "Wechselkurs:"
+
+msgid "Exchange rates are entered against the company currency."
+msgstr "Die Wechselkurse sind gegenüber der Basiswährung einzugeben."
+
+msgid "Facsimile No:"
+msgstr "Faxnummer:"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Fax No"
+msgstr "Fax-Nr."
+
+msgid "Fax Number:"
+msgstr "Faxnummer:"
+
+msgid "Fax number:"
+msgstr "Faxnummer:"
+
+msgid "February"
+msgstr "Februar"
+
+msgid "File successfully deleted."
+msgstr "Datei erfolgreich gelöscht."
+
+msgid "Filename"
+msgstr "Dateiname"
+
+msgid "Fiscal Year"
+msgstr "Buchhaltungsjahr"
+
+msgid "Fiscal Year Begin"
+msgstr "Start Buchhaltungsjahr"
+
+msgid "Fiscal Year Begin:"
+msgstr "Buchhaltungsjahr Start:"
+
+msgid "Fiscal Year End"
+msgstr "Ende Buchhaltungsjahr"
+
+msgid "Fiscal Year End:"
+msgstr "Buchhaltungsjahr Ende:"
+
+msgid "Fiscal Year:"
+msgstr "Buchhaltungsjahr:"
+
+msgid "Fiscal Years"
+msgstr "Buchhaltungsjahr"
+
+msgid "Folder"
+msgstr "Ordner"
+
+msgid "For Part :"
+msgstr "Für Posten:"
+
+msgid "For Purchase Order"
+msgstr "Für Einkaufsbestellung"
+
+msgid "For Sales Order"
+msgstr "Für Verkaufsbestellungen"
+
+msgid "For Work Order #"
+msgstr "Für Arbeitsauftrag #"
+
+msgid "For credit notes created to write off the stock, a general ledger "
+"account is required to be selected."
+msgstr "Für Gutschriften, welche eine Veränderung im Lger bewirken, muss ein "
+"Hauptbuch-Konto ausgewählt werden."
+
+msgid "Form"
+msgstr "Formular"
+
+msgid "Forms Setup"
+msgstr "Einstellungen für Formulare"
+
+msgid "Forms settings have been updated."
+msgstr "Formulareinstellungen wurden geändert."
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "From"
+msgstr "Von"
+
+msgid "From Account"
+msgstr "Von Konto"
+
+msgid "From Bank Account"
+msgstr "Von Bankkonto"
+
+msgid "From Bank Account:"
+msgstr "Von Bankkonto:"
+
+msgid "From Customer"
+msgstr "Von Kunde"
+
+msgid "From Customer:"
+msgstr "Von Kunde:"
+
+msgid "From Dimension"
+msgstr "Von Dim."
+
+msgid "From Location"
+msgstr "Von Standort"
+
+msgid "From Location:"
+msgstr "Von Standort:"
+
+msgid "From location :"
+msgstr "Von Standort :"
+
+msgid "From:"
+msgstr "Von:"
+
+msgid "Full Name"
+msgstr "Vollständiger Name"
+
+msgid "Funds Transfer"
+msgstr "Belegloser Zahlungsverkehr"
+
+msgid "GL"
+msgstr "HB"
+
+msgid "GL Account"
+msgstr "Konto Hauptbuch"
+
+msgid "GL Account Classes"
+msgstr "Hauptbuchkontenklassen"
+
+msgid "GL Account Groups"
+msgstr "Hauptbuchgruppen"
+
+msgid "GL Account Transactions"
+msgstr "Buchungen Hauptbuch"
+
+msgid "GL Accounts"
+msgstr "Hauptbuchkonten"
+
+msgid "GL Deposit"
+msgstr "Zeite Hautbuchguthaben"
+
+msgid "GL Items for this Credit Note"
+msgstr "Einträge Hauptbuchhaltung für Gutschrift"
+
+msgid "GL Items for this Invoice"
+msgstr "Einträge Hauptbuchhaltung für Rechnung"
+
+msgid "GL Payment"
+msgstr "Hauptbuchzahlungen"
+
+msgid "GP %"
+msgstr "Kostenbeitrag %"
+
+msgid "GRN"
+msgstr "Notiz erhl. Güter"
+
+msgid "GSTNo:"
+msgstr "GSTNo:"
+
+msgid "General GL"
+msgstr "Hauptbuch"
+
+msgid "General Ledger"
+msgstr "Hauptbuch"
+
+msgid "General Ledger Transaction Details"
+msgstr "Deteils zu Buchungen im Hauptbuch"
+
+msgid "Get"
+msgstr "Erhalten"
+
+msgid "Grand Total"
+msgstr "Gesamttotal"
+
+msgid "Graphics"
+msgstr "Grafisch"
+
+msgid "Greater than "
+msgstr "Grösser als "
+
+msgid "Group"
+msgstr "Gruppe"
+
+msgid "Home Currency:"
+msgstr "Basis-Währung:"
+
+msgid "Horizontal bars"
+msgstr "Horizontale Linien"
+
+msgid "Host"
+msgstr "Rechner (Host)"
+
+msgid "Hundredths Name:"
+msgstr "Name der Hunderterbezeichnung:"
+
+msgid "Hundredths name"
+msgstr "Name für Hunderterbezeichnung"
+
+msgid "INVOICE"
+msgstr "Rechnung"
+
+msgid "IV"
+msgstr "Rechn."
+
+msgid "If this does not happen"
+msgstr "Im Falle, dass nichts passiert"
+
+msgid "If you are not an authorized user, please contact your system "
+"administrator to obtain an account to enable you to use the system."
+msgstr "Falls Sie kein authorisierter Benutzer sind, bitte kontaktieren Sie "
+"ihren Systemadministratoren, damit Sie ein Konto zum Arbeiten mit "
+"diesem System erhalten."
+
+msgid "Image File (.jpg)"
+msgstr "Bild-Datei (.jpg)"
+
+msgid "Included"
+msgstr "Inklusive"
+
+msgid "Incorrect Password"
+msgstr "Falsches Passwort"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Input Tax"
+msgstr "Steuer Einnahmen"
+
+msgid "Inputs"
+msgstr "Einnahmen"
+
+msgid "Inquiries and Reports"
+msgstr "Suchabfragen und Reporte"
+
+msgid "Insert New Item"
+msgstr "Neuen Artikel einfügen"
+
+msgid "Install/Update Languages"
+msgstr "Installation/Ändern Sprachen"
+
+msgid "Into Bank Account"
+msgstr "Für Bankkonto"
+
+msgid "Into Bank Account:"
+msgstr "Für Bankkonto:"
+
+msgid "Into Location"
+msgstr "Für Standort"
+
+msgid "Invalid BEGIN date in fiscal year."
+msgstr "Ungültiges Startdatum im Buchhaltungsjahr."
+
+msgid "Invalid END date in fiscal year."
+msgstr "Ungültiges Enddatum im Buchhaltungsjahr."
+
+msgid "Inventory"
+msgstr "Lager"
+
+msgid "Inventory Account:"
+msgstr "Konto für Lager:"
+
+msgid "Inventory Adjustment"
+msgstr "Lager anpassen"
+
+msgid "Inventory Adjustments Account:"
+msgstr "Konto Lagerberichtigungen:"
+
+msgid "Inventory Category"
+msgstr "Kategorie Lager"
+
+msgid "Inventory Item Cost Update"
+msgstr "Lagerbestandskosten verändern"
+
+msgid "Inventory Item Movement"
+msgstr "Lagerartikel umbuchen"
+
+msgid "Inventory Item Sales prices"
+msgstr "Verkaufspreis für Lagerartikel"
+
+msgid "Inventory Item Status"
+msgstr "Lagerbestand für Artikel"
+
+msgid "Inventory Item Where Used Inquiry"
+msgstr "Nachgefrage Lagerartikel"
+
+msgid "Inventory Location Transfers"
+msgstr "Lagerveränderungen"
+
+msgid "Inventory Locations"
+msgstr "Lagerstandorte"
+
+msgid "Inventory Movement Types"
+msgstr "Typen von Lagerbewegungen"
+
+msgid "Inventory Planning Report"
+msgstr "Bericht mit Lagervorbewertung"
+
+msgid "Inventory Valuation Report"
+msgstr "Bericht Lagerbewertung"
+
+msgid "Inventory transfer has been processed"
+msgstr "Lagerumbuchung ist verarbeitet worden"
+
+msgid "Invoice"
+msgstr "Rechnung"
+
+msgid "Invoice Date"
+msgstr "Rechnungsdatum"
+
+msgid "Invoice Date:"
+msgstr "Rechnungsdatum:"
+
+msgid "Invoice Delivery Details"
+msgstr "Details zur Rechnung einer Lieferung"
+
+msgid "Invoice Items"
+msgstr "Rechnungsposten"
+
+msgid "Invoice OK"
+msgstr "Rechnungen ok"
+
+msgid "Invoice Over-Charge Allowance:"
+msgstr "Akzeptierte zu hohe Rechnungen:"
+
+msgid "Invoice Total"
+msgstr "Rechnungstotal"
+
+msgid "Invoice Total:"
+msgstr "Gesamttotal Rechnung:"
+
+msgid "Invoiced"
+msgstr "Fakturiert"
+
+msgid "Invoiced Quantity"
+msgstr "Fakturierte Anzahl"
+
+msgid "Invoices"
+msgstr "Rechnungen"
+
+msgid "Invoices/Credits"
+msgstr "Rechnungen/Gutschriften"
+
+msgid "Is Closed:"
+msgstr "Abgeschlossen:"
+
+msgid "Is Fully Tax-exempt:"
+msgstr "Ist vollständig von der Steuer befreit"
+
+msgid "Is exempt"
+msgstr "Befreit"
+
+msgid "Issue"
+msgstr "Angelegenheit"
+
+msgid "Issue #"
+msgstr "Punkt #"
+
+msgid "Issue Date:"
+msgstr "Auftragsdatum:"
+
+msgid "Issue Items to Work Order"
+msgstr "Artikel einem Arbeitsauftrag zuweisen"
+
+msgid "Issue Items to Work order"
+msgstr "Auftragsposten für Arbeitsplatz"
+
+msgid "Issues"
+msgstr "Punkte"
+
+msgid "Item"
+msgstr "Artikel"
+
+msgid "Item Adjustments Note"
+msgstr "Bemerkungen für das Abgleichen von Artikeln"
+
+msgid "Item Amounts are Shown in :"
+msgstr "Postenbeträge werden gezeigt in :"
+
+msgid "Item Assembly Costs Account:"
+msgstr "Konto Produktionskosten:"
+
+msgid "Item Categories"
+msgstr "Kategorien für Artikel"
+
+msgid "Item Code"
+msgstr "Artikelcode"
+
+msgid "Item Code:"
+msgstr "Artikelcode:"
+
+msgid "Item Description"
+msgstr "Artikelbeschreibung"
+
+msgid "Item Tax Type:"
+msgstr "Steuerart für Artikel:"
+
+msgid "Item Tax Types"
+msgstr "Steuerarten für Artikel"
+
+msgid "Item Type:"
+msgstr "Artikeltyp:"
+
+msgid "Item:"
+msgstr "Artikel:"
+
+msgid "Items"
+msgstr "Artikel"
+
+msgid "Items Received Yet to be Invoiced"
+msgstr "Erhaltene aber noch nicht fakturierte Artikel"
+
+msgid "Items Returned to Inventory Location"
+msgstr "In den Lagerstandort zurückgelegte Artikel"
+
+msgid "Items Returned to Location"
+msgstr "Artikel zurückgesandt an Standort"
+
+msgid "Items Written Off"
+msgstr "Abgeschriebene Artikel"
+
+msgid "Items adjustment has been processed"
+msgstr "Artikelangleichung ist vorgenommen worden."
+
+msgid "Items for this Deposit"
+msgstr "Posten für diese Einlage"
+
+msgid "Items for this Issue"
+msgstr "Artikel für diesen Punkt"
+
+msgid "Items for this Payment"
+msgstr "Posten für diese Zahlung"
+
+msgid "Items to Issue"
+msgstr "Artikel für diesen Punkt"
+
+msgid "Items to Receive"
+msgstr "Wareneingang"
+
+msgid "January"
+msgstr "Januar"
+
+msgid "Journal Entry"
+msgstr "Journaleintrag"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "Kindest regards"
+msgstr "Herzliche Grüsse"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "Language File"
+msgstr "Sprachendatei"
+
+msgid "Language:"
+msgstr "Sprache:"
+
+msgid "Last Visit"
+msgstr "Letzter Besuch"
+
+msgid "Left to Allocate"
+msgstr "Übrig für Zuweisungen"
+
+msgid "Left to Allocate:"
+msgstr "Übriglassen für Reservierungen:"
+
+msgid "Less than "
+msgstr "Kleiner als "
+
+msgid "Line Details"
+msgstr "Details zu Zeilen"
+
+msgid "Line Total"
+msgstr "Zeilentotal"
+
+msgid "Line Value"
+msgstr "Zeilenwert"
+
+msgid "Lines"
+msgstr "Linien"
+
+msgid "List of Journal Entries"
+msgstr "Liste der Journaleinträge"
+
+msgid "Loc"
+msgstr "Standort"
+
+msgid "Location"
+msgstr "Standort"
+
+msgid "Location Code"
+msgstr "Code für Standort"
+
+msgid "Location Code:"
+msgstr "Code für Standort:"
+
+msgid "Location Name"
+msgstr "Name für Standort"
+
+msgid "Location Name:"
+msgstr "Name für Standort:"
+
+msgid "Location Transfer"
+msgstr "Standort verschieben"
+
+msgid "Location to Draw From:"
+msgstr "Standort für Bezug:"
+
+msgid "Location:"
+msgstr "Standort:"
+
+msgid "Logout"
+msgstr "Beenden"
+
+msgid "Mailing Address:"
+msgstr "Postadresse:"
+
+msgid "Main  Menu"
+msgstr "Hauptmenü"
+
+msgid "Main Branch"
+msgstr "Hauptabteilung"
+
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+msgid "Maintenance"
+msgstr "Wartung"
+
+msgid "Manufactured"
+msgstr "Hergestellte"
+
+msgid "Manufactured Item"
+msgstr "Hergestellter Artikel"
+
+msgid "Manufacturing"
+msgstr "Herstellung"
+
+msgid "Manufacturing Defaults"
+msgstr "Einstellungen Produktion"
+
+msgid "March"
+msgstr "März"
+
+msgid "Marked items are overdue."
+msgstr "Ausgewählte Posten sind überfällig."
+
+msgid "Marked items are settled."
+msgstr "Ausgewählte Posten sind erledigt."
+
+msgid "Marked items have insufficient quantities in stock."
+msgstr "Die markierten Artikel haben ungenüngende Lagermengen."
+
+msgid "Marked orders have overdue items."
+msgstr "Ausgewählte Bestellungen haben überfällige Posten."
+
+msgid "May"
+msgstr "Mai"
+
+msgid "Memo"
+msgstr "Notiz"
+
+msgid "Memo:"
+msgstr "Notiz:"
+
+msgid "Menu Tab"
+msgstr "Menü Register"
+
+msgid "Miscellaneous"
+msgstr "Diverses"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Modify Purchase Order #"
+msgstr "Verändere Einkaufsbestellung #"
+
+msgid "Modify the ordered items on the purchase order if you wish to "
+"increase the quantities."
+msgstr "Bearbeiten Sie die bestellten Artikel der Bestellung, falls Sie die "
+"Menge erhöhen möchten."
+
+msgid "Module File"
+msgstr "Moduldatei"
+
+msgid "Months back."
+msgstr "Monate zurück."
+
+msgid "Months."
+msgstr "Monate."
+
+msgid "N/A"
+msgstr "k.A."
+
+msgid "NO INVOICING"
+msgstr "Keine Rechnungen"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Name (to appear on reports):"
+msgstr "Name (der auf den Reports erscheint):"
+
+msgid "Name and Contact"
+msgstr "Name und Kontakt"
+
+msgid "Name:"
+msgstr "Name:"
+
+msgid "Negative Adjustment"
+msgstr "Negative Anpassung"
+
+msgid "Net"
+msgstr "Netto"
+
+msgid "New script Admin Password"
+msgstr "Neues Skript für Administrator-Passwort"
+
+msgid "Next Reference"
+msgstr "Nächste Referenz"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "No Account Group Filter"
+msgstr "Kein Filter für Gruppenkonten"
+
+msgid "No Category Filter"
+msgstr "Kein Filter für Kategorie"
+
+msgid "No Currency Filter"
+msgstr "Kein Filter für Währungen"
+
+msgid "No Customer Filter"
+msgstr "Kein Filter für Kunden"
+
+msgid "No Dimension Filter"
+msgstr "Kein Filter für Dimensionen"
+
+msgid "No Graphics"
+msgstr "Keine Graphiken"
+
+msgid "No Location Filter"
+msgstr "Kein Filter für Lokalität"
+
+msgid "No Sales Folk Filter"
+msgstr "Kein Filter für Verkaufspersonal"
+
+msgid "No Supplier Filter"
+msgstr "Kein Filter für Lieferanten"
+
+msgid "No Type Filter"
+msgstr "Kein Filter für Typ"
+
+msgid "No general ledger transactions have been created for"
+msgstr "Keine Buchung für das Hauptbuch ist erstellt werden für"
+
+msgid "No zero values"
+msgstr "Keine leeren Werte"
+
+msgid "None"
+msgstr "Keine"
+
+msgid "November"
+msgstr "November"
+
+msgid "Number"
+msgstr "Nummer"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "Official Company Number:"
+msgstr "Offizielle Firmennummer:"
+
+msgid "On Hand"
+msgstr "Verfügbar"
+
+msgid "On Order"
+msgstr "In Bestellung"
+
+msgid "Only Open:"
+msgstr "Nur Offene:"
+
+msgid "Only Overdue:"
+msgstr "Nur Überfällige:"
+
+msgid "Only graphics files can be uploaded"
+msgstr "Nur Bild-Dateien können hochgeladen werden"
+
+msgid "Only jpg files are supported - a file extension of .jpg is expected"
+msgstr "Nur JPEG-Dateien werden unterstützt - eine Datei mit der Endung "
+"'jpg' wird erwartet."
+
+msgid "Open Balance"
+msgstr "Offene Bilanz"
+
+msgid "Opening Balance"
+msgstr "Bilanz öffnen"
+
+msgid "Ord Date"
+msgstr "Bestelldatum"
+
+msgid "Order"
+msgstr "Bestellung"
+
+msgid "Order #"
+msgstr "Bestellung #"
+
+msgid "Order Comments"
+msgstr "Bemerkungen zur Bestellung"
+
+msgid "Order Currency"
+msgstr "Währung für Bestellung"
+
+msgid "Order Date"
+msgstr "Bestelldatum"
+
+msgid "Order Date:"
+msgstr "Bestelldatum:"
+
+msgid "Order Delivery Details"
+msgstr "Details zur Lieferung einer Bestellung"
+
+msgid "Order Information"
+msgstr "Bestellinformationen"
+
+msgid "Order Items"
+msgstr "Bestellte Artikel"
+
+msgid "Order Price"
+msgstr "Betrag der Bestellung"
+
+msgid "Order Status Listing"
+msgstr "Liste Bestellstatus"
+
+msgid "Order Total"
+msgstr "Bestelltotal"
+
+msgid "Ordered"
+msgstr "Bestellt"
+
+msgid "Ordered On"
+msgstr "Bestellt am"
+
+msgid "Other Allocations"
+msgstr "Andere Zuweilsung"
+
+msgid "Our Order No"
+msgstr "Unsere Bestellnummer"
+
+msgid "Our VAT No."
+msgstr "Unsere MwSt-Nummer"
+
+msgid "Output Tax"
+msgstr "Steuer Ausgaben"
+
+msgid "Outputs"
+msgstr "Ausgaben"
+
+msgid "Outstanding"
+msgstr "Ausstehende"
+
+msgid "Outstanding GRNs Report"
+msgstr "Bericht mit ausstehenden Kostenrechungen"
+
+msgid "Outstanding Transactions"
+msgstr "Ausstehende Buchungen"
+
+msgid "Over"
+msgstr "Über"
+
+msgid "Overdue Credit Notes"
+msgstr "Meldung bei Überschreiten der Kreditlimite"
+
+msgid "Overdue Invoices"
+msgstr "Überfällige Rechnungen"
+
+msgid "P.O."
+msgstr "Eink-Best."
+
+msgid "PURCHASE ORDER"
+msgstr "Einkaufsbestellung"
+
+msgid "Page"
+msgstr "Seite"
+
+msgid "Page Size:"
+msgstr "Seitengrösse:"
+
+msgid "Parent Item"
+msgstr "Vom Artikel abhängende Artikel"
+
+msgid "Password:"
+msgstr "Passwort:"
+
+msgid "Past Due Days Interval:"
+msgstr "Bisherige Zahlungsfristen für Fälligkeiten:"
+
+msgid "Pay To"
+msgstr "Zahlbar an"
+
+msgid "Pay To:"
+msgstr "Zahlbar an:"
+
+msgid "Payment Currency"
+msgstr "Währung der Zahlung"
+
+msgid "Payment Link"
+msgstr "Zahlungslink"
+
+msgid "Payment Report"
+msgstr "Zahlungsbericht"
+
+msgid "Payment Terms"
+msgstr "Zahlungskonditionen"
+
+msgid "Payment Terms:"
+msgstr "Zahlungskonditionen:"
+
+msgid "Payment To:"
+msgstr "Zahlung für:"
+
+msgid "Payment Type"
+msgstr "Zahlungsart"
+
+msgid "Payment has been sucessfully entered"
+msgstr "Die Zahlung ist erfolgreich erasst worden"
+
+msgid "Payment to Supplier"
+msgstr "Zahlung an Lieferant"
+
+msgid "Payments"
+msgstr "Zahlungen"
+
+msgid "Percentages:"
+msgstr "Prozente:"
+
+msgid "Period"
+msgstr "Zeitdauer"
+
+msgid "Period Y-1"
+msgstr "Zeitraum Y-1"
+
+msgid "Person/Item"
+msgstr "Person/Posten"
+
+msgid "Person/Item/Memo"
+msgstr "Person/Artikel/Notiz"
+
+msgid "Ph"
+msgstr "Telefon privat"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Phone No"
+msgstr "Tel-Nr."
+
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+msgid "Phone Number:"
+msgstr "Telefonnummer:"
+
+msgid "Phone/Fax/Email"
+msgstr "Telefon/Fax/Mail"
+
+msgid "Place Invoice"
+msgstr "Rechnung anlegen"
+
+msgid "Place Order"
+msgstr "Bestellung erstellen"
+
+msgid "Please contact System Administrator."
+msgstr "Bitte kontaktieren Sie den System-Administratoren."
+
+msgid "Please contact your system administrator."
+msgstr "Bitte Systemadministrator kontaktieren."
+
+msgid "Please quote Invoice no. when paying. All amounts stated in"
+msgstr "Bitte vermerken Sie die Rechnungsnummer bei der Zahlung. Alle "
+"Beträge wie in Rechnung angegeben."
+
+msgid "Please reorder"
+msgstr "Bitte erneut bestellen"
+
+msgid "Please select an account to write the cost of the stock off to, then "
+"click on Process again."
+msgstr "Bitte wählen Sie eine Konto, um die Kosten für die Lagerreduktion zu "
+"bestimmen, danach bitte auf Weiterfahren klicken."
+
+msgid "Positive Adjustment"
+msgstr "Positive Anpassung"
+
+msgid "Price"
+msgstr "Preis"
+
+msgid "Price List"
+msgstr "Preisliste"
+
+msgid "Price Listing"
+msgstr "Preisliste"
+
+msgid "Price/Turnover"
+msgstr "Preis/Umsatz"
+
+msgid "Price:"
+msgstr "Preis:"
+
+msgid "Prices/Amounts:"
+msgstr "Preis/Bretrag:"
+
+msgid "Pricing and Costs"
+msgstr "Preise und Kosten"
+
+msgid "Print"
+msgstr "Drucken"
+
+msgid "Print Out Date"
+msgstr "Datum ausdrucken"
+
+msgid "Print as Quote"
+msgstr "Als Angebot drucken"
+
+msgid "Proceed"
+msgstr "Weiter"
+
+msgid "Process"
+msgstr "Verarbeitung"
+
+msgid "Process Adjustment"
+msgstr "Abgleich vornehmen"
+
+msgid "Process And Close Order"
+msgstr "Verarbeite und Bestellung schliessen"
+
+msgid "Process Credit Note"
+msgstr "Gutschrift verarbeiten"
+
+msgid "Process Invoice"
+msgstr "Rechnung verarbeiten"
+
+msgid "Process Issue"
+msgstr "Diesen Punkt prodzuieren"
+
+msgid "Process Receive Items"
+msgstr "Wareneingang verarbeiten"
+
+msgid "Process Transfer"
+msgstr "Umbuchung vornehmen"
+
+msgid "Produce"
+msgstr "Erzeugnis"
+
+msgid "Produce Finished Items"
+msgstr "Erzeugte fertiggestellte Artikel"
+
+msgid "Produce or Unassemble Finished Items From Work Order"
+msgstr "Erzeugte oder nicht montierte fertiggestellte Artikel eines "
+"Arbeitsauftrages"
+
+msgid "Production #"
+msgstr "Produktion #"
+
+msgid "Productions"
+msgstr "Produktion"
+
+msgid "Profit and Loss Statement"
+msgstr "Gewinn- und Verlustrechnung"
+
+msgid "Prompt Payment Discount Account:"
+msgstr "Konto gewährte Zahlungsrabatte:"
+
+msgid "Prompt Payment Discount Percent:"
+msgstr "Rabatt für pünktliche Zahlungen:"
+
+msgid "Purchase Account:"
+msgstr "Einkaufskonto"
+
+msgid "Purchase Discount Account:"
+msgstr "Konto Einkaufsrabatte:"
+
+msgid "Purchase Order"
+msgstr "Einkaufsbestellung"
+
+msgid "Purchase Order Delivery"
+msgstr "Gelieferte Einkaufsbestellungen"
+
+msgid "Purchase Order Delivery has been processed"
+msgstr "Die Lieferung der Einkaufsrechnung ist verarbeitet worden."
+
+msgid "Purchase Order Entry"
+msgstr "Einkaufsrechnung anlegen"
+
+msgid "Purchase Order has been entered"
+msgstr "Einkaufsbestellung ist eingegeben worden"
+
+msgid "Purchase Order has been updated"
+msgstr "Einkaufsbestellung ist verändert worden"
+
+msgid "Purchased"
+msgstr "Eingekaufte"
+
+msgid "Purchasing GL Account"
+msgstr "Einkaufskonto für Hauptbuch"
+
+msgid "Purchasing GL Account:"
+msgstr "Einkaufskonto für Hauptbuch:"
+
+msgid "QOH"
+msgstr "Anz. in Lager"
+
+msgid "QUOTE"
+msgstr "Angebot"
+
+msgid "Qty Recd"
+msgstr "Anz. erh."
+
+msgid "Qty Yet To Invoice"
+msgstr "Noch zu fakturierende Menge"
+
+msgid "Quantities:"
+msgstr "Menge:"
+
+msgid "Quantity"
+msgstr "Anzahl"
+
+msgid "Quantity Delivered"
+msgstr "Gelieferte Menge"
+
+msgid "Quantity In"
+msgstr "Anzahl ein"
+
+msgid "Quantity Invoiced"
+msgstr "Menge fakturiert"
+
+msgid "Quantity Manufactured"
+msgstr "Hergestellte Menge"
+
+msgid "Quantity Manufactured:"
+msgstr "Produzierte Menge:"
+
+msgid "Quantity On Hand"
+msgstr "Verfügbare Anzahl"
+
+msgid "Quantity Out"
+msgstr "Anzahl aus"
+
+msgid "Quantity Received"
+msgstr "Erhaltene Menge"
+
+msgid "Quantity Required"
+msgstr "Mindestmenge"
+
+msgid "Quantity Required:"
+msgstr "Mindestmenge:"
+
+msgid "Quantity on hand after"
+msgstr "Verfügbare Anzahl danach"
+
+msgid "Quantity on hand before"
+msgstr "Verfügbare Anzahl zuvor"
+
+msgid "Quantity:"
+msgstr "Menge:"
+
+msgid "Rate (%)"
+msgstr "Steuersatz (%)"
+
+msgid "Re-Order Level"
+msgstr "Wiederbestellungsgrenze"
+
+msgid "Re-Read the updated purchase order for receiving goods against"
+msgstr "Bitte erneut die geänderte Einkaufsbestellung öffnen, um die Güter "
+"zu verbuchen."
+
+msgid "Receive"
+msgstr "Erhalten"
+
+msgid "Receive Into:"
+msgstr "Ware erhalten:"
+
+msgid "Receive Purchase Order Items"
+msgstr "Eingekaufte Artikel einer Bestellung erhalten"
+
+msgid "Received"
+msgstr "Erhalten"
+
+msgid "Received Items Charged on this Invoice"
+msgstr "Gelieferte Artikel werden aufgrund dieser Offerte verrechnet"
+
+msgid "Received Items Credited on this Note"
+msgstr "Gelieferte Artikel werden mit dieser Gutschrift fakturiert"
+
+msgid "Received On"
+msgstr "Empfangene"
+
+msgid "Ref"
+msgstr "Ref"
+
+msgid "Reference"
+msgstr "Referenz"
+
+msgid "Reference:"
+msgstr "Referenz:"
+
+msgid "Release"
+msgstr "Veröffentlichung"
+
+msgid "Release Work Order"
+msgstr "Arbeitsauftrag freigeben"
+
+msgid "Released Date"
+msgstr "Datum der Fertigstellung"
+
+msgid "Released On:"
+msgstr "Veröffentlicht am:"
+
+msgid "Reorder Levels"
+msgstr "Levels neu anordnen"
+
+msgid "Report Classes:"
+msgstr "Berichte für Klasse:"
+
+msgid "Reports For Class: "
+msgstr "Berichte für Klassen: "
+
+msgid "Reports and Analysis"
+msgstr "Berichte und Analysen"
+
+msgid "Requested By"
+msgstr "Bestellt von"
+
+msgid "Requested Delivery"
+msgstr "Lieferung bis"
+
+msgid "Required"
+msgstr "Benötigt"
+
+msgid "Required By"
+msgstr "Benötigt am"
+
+msgid "Required Delivery Date"
+msgstr "Benötigter Liefertermin"
+
+msgid "Restore Backup"
+msgstr "Datensicherung wiederherstellen"
+
+msgid "Restore backup completed."
+msgstr "Datensicherung erfolgreich zurückgespielt."
+
+msgid "Return Items to Location"
+msgstr "Rücksendung der Posten an Standort"
+
+msgid "Return Items to Work Order"
+msgstr "Weise Artikel Arbeitsaufträgen"
+
+msgid "Reverse Transaction:"
+msgstr "Stornobuchung:"
+
+msgid "Right To Left"
+msgstr "Rechts nach Links"
+
+msgid "SALES ORDER"
+msgstr "Verkaufsbestellung"
+
+msgid "SQL File"
+msgstr "SQL-Datei"
+
+msgid "STATEMENT"
+msgstr "Bankauszug"
+
+msgid "SUPPLIER CREDIT NOTE"
+msgstr "Gutschrift Lieferant"
+
+msgid "SUPPLIER INVOICE"
+msgstr "Lieferantenrechnung"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Sales"
+msgstr "Verkauf"
+
+msgid "Sales Account:"
+msgstr "Erfolgskonto:"
+
+msgid "Sales Area:"
+msgstr "Verkaufsregion:"
+
+msgid "Sales Areas"
+msgstr "Verkaufsregion"
+
+msgid "Sales Discount Account:"
+msgstr "Konto Verkaufsrabatte"
+
+msgid "Sales Folk"
+msgstr "Verkäufer"
+
+msgid "Sales GL Account"
+msgstr "Verkaufskonto für Hauptbuch"
+
+msgid "Sales GL Account:"
+msgstr "Verkaufskonto für Hauptbuch:"
+
+msgid "Sales Invoice"
+msgstr "Verkaufsrechnung"
+
+msgid "Sales Invoice Items"
+msgstr "Artikel für Verkaufsrechnug"
+
+msgid "Sales Invoices"
+msgstr "Verkaufsrechnung"
+
+msgid "Sales Order"
+msgstr "Verkaufsbestellung"
+
+msgid "Sales Order Items"
+msgstr "Artikel für Verkaufsbestellungen"
+
+msgid "Sales Person"
+msgstr "Verkaufsperson"
+
+msgid "Sales Person:"
+msgstr "Verkaufsperson:"
+
+msgid "Sales Persons"
+msgstr "Verkaufspersonal"
+
+msgid "Sales Type"
+msgstr "Verkaufsarten"
+
+msgid "Sales Type/Price List:"
+msgstr "Verkaufsart/Preisliste:"
+
+msgid "Sales Type:"
+msgstr "Verkaufsarten:"
+
+msgid "Sales Types"
+msgstr "Verkaufsarten"
+
+msgid "Sales person name:"
+msgstr "Name Verkaufsperson:"
+
+msgid "Save"
+msgstr "Sichern"
+
+msgid "Savings Account"
+msgstr "Konten sichern"
+
+msgid "Search"
+msgstr "Suchen"
+
+msgid "Search All Sales Orders"
+msgstr "Suche in allen Verkaufsbestellungen"
+
+msgid "Search Dimensions"
+msgstr "Suche nach Dimensionen"
+
+msgid "Search Outstanding Purchase Orders"
+msgstr "Suche ausstehende Einkaufsbestellungen"
+
+msgid "Search Outstanding Sales Orders"
+msgstr "Suche nach ausstehenden Verkaufsbestellungen"
+
+msgid "Search Outstanding Work Orders"
+msgstr "Suche nach ausstehenden Arbeitsaufträgen"
+
+msgid "Search Purchase Orders"
+msgstr "Suche Einkaufsbestellungen"
+
+msgid "Search Work Orders"
+msgstr "Such nach Arbeitsaufträgen"
+
+msgid "Security settings have not been defined for your user account."
+msgstr "Sicherheitseinstellungen für dieses Konto sind noch nicht definiert "
+"worden."
+
+msgid "Select a Supplier: "
+msgstr "Wähle einen Lieferanten: "
+
+msgid "Select a currency :"
+msgstr "Währung auswählen:"
+
+msgid "Select a customer: "
+msgstr "Kunden wählen: "
+
+msgid "Select a different purchase order for receiving goods against"
+msgstr "Bitte eine andere Einkaufsbestellung auswählen, um Güter zu "
+"verbuchen."
+
+msgid "Select a manufacturable item:"
+msgstr "Bitte herstellbaren Artikel wählen:"
+
+msgid "Select a supplier:"
+msgstr "Wähle einen Lieferanten:"
+
+msgid "Select a supplier: "
+msgstr "Lieferant auswählen: "
+
+msgid "Select an existing work order"
+msgstr "Bestehenden Arbeitsauftrag auswählen"
+
+msgid "Select an item to display its parent item(s)."
+msgstr "Wähle Artikel, um die Elternartikel anzuzeigen."
+
+msgid "Select an item:"
+msgstr "Wähle einen Artikel:"
+
+msgid "Select the taxes that are included in this group."
+msgstr "Bitte die Steuer wählen, die für diese Gruppe angewendet werden soll."
+
+msgid "Select which taxes this item tax type is exempt from."
+msgstr "Bitte wählen Sie die Posten, die von der Steuer befreit sind."
+
+msgid "Select your language files from your local harddisk."
+msgstr "Bitte wählen Sie die Sprachendatei auf der lokalen Festplatte."
+
+msgid "Select your module PHP file from your local harddisk."
+msgstr "Bitte wählen Sie die PHP-Moduldatei von der lokalen Festplatte."
+
+msgid "Selected transaction has been voided."
+msgstr "Ausgewählte Buchung wurde storniert."
+
+msgid "Selection"
+msgstr "Auswahl"
+
+msgid "September"
+msgstr "September"
+
+msgid "Sequence #"
+msgstr "Sequenz #"
+
+msgid "Service"
+msgstr "Dienstleistungen"
+
+msgid "Shipping"
+msgstr "Lieferung"
+
+msgid "Shipping Charged Account:"
+msgstr "Konto verrechnete Lieferkosten:"
+
+msgid "Shipping Company"
+msgstr "Lieferfirma"
+
+msgid "Shipping Company:"
+msgstr "Lieferfirma:"
+
+msgid "Shipping Cost"
+msgstr "Kosten für Lieferung"
+
+msgid "Show"
+msgstr "Zeigen"
+
+msgid "Show Balance"
+msgstr "Zeige Bilanz"
+
+msgid "Show Balances"
+msgstr "Zeige Bilanz"
+
+msgid "Show GL Information:"
+msgstr "Anzeigen der Hauptbuch-Informationen:"
+
+msgid "Show GP %"
+msgstr "Kostenbeitrag anzeigen %"
+
+msgid "Show Item Codes:"
+msgstr "Anzeigen der Artikelcodes:"
+
+msgid "Show Movements"
+msgstr "Zeige Umbuchungen"
+
+msgid "Show Pictures"
+msgstr "Zeige Bilder"
+
+msgid "Show Settled Items:"
+msgstr "Zeige erledigte Possten:"
+
+msgid "Standard Labour Cost Per Unit"
+msgstr "Übliche Arbeitskosten pro Einheit"
+
+msgid "Standard Material Cost Per Unit"
+msgstr "Übliche Materialkosten pro Einheit"
+
+msgid "Standard Overhead Cost Per Unit"
+msgstr "Übliche Gemeinksten pro Einheit"
+
+msgid "Start Date"
+msgstr "Start Datum"
+
+msgid "Statement"
+msgstr "Erklärung"
+
+msgid "Stock Check Sheets"
+msgstr "Lagerbestandsblätter"
+
+msgid "Stock Location"
+msgstr "Lagerstandort"
+
+msgid "Stocks below Re-Order Level at "
+msgstr "Lagerbestand unter Wiederbestellungslimite bei "
+
+msgid "Su"
+msgstr "So"
+
+msgid "Sub Total"
+msgstr "Zwischentotal"
+
+msgid "Sub-total"
+msgstr "Zwischentotal"
+
+msgid "Sub-total:"
+msgstr "Zwischentotal:"
+
+msgid "Subgroup Of"
+msgstr "Untergruppe von"
+
+msgid "Subgroup Of:"
+msgstr "Untergruppe von:"
+
+msgid "Sugg Ord"
+msgstr "Offerte"
+
+msgid "Summary Only"
+msgstr "Nur Zusammenfassung"
+
+msgid "Supp Ord"
+msgstr "Lief.-Best."
+
+msgid "Supp Reference"
+msgstr "Supp Referenz"
+
+msgid "Supplier"
+msgstr "Lieferant"
+
+msgid "Supplier Allocation Inquiry"
+msgstr "Lieferantenanfragen suchen"
+
+msgid "Supplier Allocations"
+msgstr "Lieferantenzuweisungen"
+
+msgid "Supplier Balances"
+msgstr "Lieferentenbilanz"
+
+msgid "Supplier Credit Note"
+msgstr "Gutschrift Lieferant"
+
+msgid "Supplier Currency:"
+msgstr "Liferantenwährung:"
+
+msgid "Supplier Inquiry"
+msgstr "Lieferantenanfrage"
+
+msgid "Supplier Invoice"
+msgstr "Lieferantenrechnung"
+
+msgid "Supplier Name:"
+msgstr "Name des Lieferanten:"
+
+msgid "Supplier Payment"
+msgstr "Lieferantenzahlung"
+
+msgid "Supplier Payment Entry"
+msgstr "Erfasse Lieferantenzahlung"
+
+msgid "Supplier Purchasing Data"
+msgstr "Einkaufspreis bei Lieferant"
+
+msgid "Supplier credit note has been processed."
+msgstr "Gutschrift des Lieferanten ist verarbeitet worden."
+
+msgid "Supplier invoice has been processed."
+msgstr "Die Lieferantenrechnung ist verabeitet worden."
+
+msgid "Supplier purchasing data has been updated."
+msgstr "Die Einkaufsdaten des Lieferanten sind geändert worden."
+
+msgid "Supplier's Code or Description:"
+msgstr "Lieferantencode oder Beschreibung:"
+
+msgid "Supplier's Currency"
+msgstr "Währung des Lieferanten"
+
+msgid "Supplier's Currency:"
+msgstr "Währung des Lieferanten:"
+
+msgid "Supplier's Description"
+msgstr "Beschreibung des Lieferanten"
+
+msgid "Supplier's Ref.:"
+msgstr "Referenz des Lieferanten:"
+
+msgid "Supplier's Reference"
+msgstr "Referenz des Lieferanten"
+
+msgid "Supplier's Reference:"
+msgstr "Lieferantenreferenz:"
+
+msgid "Supplier's Unit"
+msgstr "Einheit des Lieferanten"
+
+msgid "Supplier:"
+msgstr "Lieferant:"
+
+msgid "Suppliers"
+msgstr "Lieferanten"
+
+msgid "Suppliers Unit of Measure:"
+msgstr "Einheit des Lieferanten:"
+
+msgid "Suppliers and Purchasing"
+msgstr "Lieferanten und Einkauf"
+
+msgid "Suppliers and Purchasing Defaults"
+msgstr "Einstellungen Lieferanten und Einkauf"
+
+msgid "Symbol"
+msgstr "Symbol"
+
+msgid "System and General GL Setup"
+msgstr "System und Einstellungen für Hauptbuch"
+
+msgid "TOTAL CREDIT"
+msgstr "Gesamttotal Kreditoren"
+
+msgid "TOTAL CREDIT NOTE"
+msgstr "Total Gutschrift"
+
+msgid "TOTAL INVOICE"
+msgstr "Total der Rechnung"
+
+msgid "TOTAL ORDER EX VAT"
+msgstr "Gesamttotal Bestellung exkl. MwSt"
+
+msgid "TOTAL PO EX VAT"
+msgstr "Gesamttotal exkl. MwSt"
+
+msgid "Table Pref"
+msgstr "Tabellenvoreinstellungen"
+
+msgid "Tax"
+msgstr "Steuer"
+
+msgid "Tax Group"
+msgstr "Steuergruppe"
+
+msgid "Tax Group:"
+msgstr "Steuergruppe:"
+
+msgid "Tax Groups"
+msgstr "Steuergruppen"
+
+msgid "Tax Last Period:"
+msgstr "Letzte Steuerperiode:"
+
+msgid "Tax Name"
+msgstr "Name des Steuersatzes"
+
+msgid "Tax Periods:"
+msgstr "Steuerperioden:"
+
+msgid "Tax Rate"
+msgstr "Steuerrate"
+
+msgid "Tax Report"
+msgstr "Steuerbericht"
+
+msgid "Tax Type"
+msgstr "Steuerart"
+
+msgid "Tax Types"
+msgstr "Steuerarten"
+
+msgid "Tax exempt"
+msgstr "Steuerbefreit"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "Telephone No.:"
+msgstr "Telefonnummer:"
+
+msgid "Telephone No:"
+msgstr "Telefonnummer:"
+
+msgid "Telephone number:"
+msgstr "Telefonnummer:"
+
+msgid "Terms"
+msgstr "Konditionen"
+
+msgid "Terms Description:"
+msgstr "Beschreibung der Konditionen:"
+
+msgid "Terms:"
+msgstr "Konditionen:"
+
+msgid "Th"
+msgstr "Do"
+
+msgid "Thank you for using"
+msgstr "Herzlichen Dank für das Arbeiten mit"
+
+msgid "The Branch name cannot be empty."
+msgstr "Der Abteilungsname darf nicht leer sein."
+
+msgid "The Terms description must be entered."
+msgstr "Die Beschreibungen zu den Konditionen müssen eigegeben werden."
+
+msgid "The account class name cannot be empty."
+msgstr "Der Name für die Kontenklasse darf nicht leer sein. "
+
+msgid "The account code entered is not a valid code, this line cannot be "
+"added to the transaction."
+msgstr "Der Kontencode ist kein gültiger Code, diese Zeile kann für diese "
+"Buchung nicht hinzugefügt werden."
+
+msgid "The account code must be entered."
+msgstr "Bitte Kontennummer eingeben."
+
+msgid "The account code must be numeric."
+msgstr "Die Kontennummer muss numerisch sein."
+
+msgid "The account group name cannot be empty."
+msgstr "Der Name für eine Kontengruppe darf nicht leer sein."
+
+msgid "The account name cannot be empty."
+msgstr "Der Kontenname darf nicht leer sein."
+
+msgid "The adjustment cannot be processed because an adjustment item would "
+"cause a negative inventory balance :"
+msgstr "Der eingegenbe Abgleich kann nicht verarbeitet werden. Er würde dazu "
+"füren, dass Artikel einen negativen Lagerbestand erhalten würden."
+
+msgid "The amount and discount are in the bank account's currency."
+msgstr "Der Betrag und der Rabatt werden in der Währung des Bankkontos "
+"vorgenommen."
+
+msgid "The amount entered is not numeric. This line cannot be added to the "
+"transaction."
+msgstr "Der eingegebene Betrag ist nicht numerischer Art. Die Zeile kann "
+"deshalb nicht zur Buchung hinzugefügt werden."
+
+msgid "The area description cannot be empty."
+msgstr "Die Beschreibung der Region darf nicht leer sein."
+
+msgid "The balance of the amount and discout is zero or negative. Please "
+"enter valid amounts."
+msgstr "Die Summe des Preises und des Rabattes ist null oder negativ. Bitte "
+"gültigen Preis eingeben."
+
+msgid "The bank account name cannot be empty."
+msgstr "Der Name des Bankkontos darf nicht leer sein."
+
+msgid "The bill of material for this item is empty."
+msgstr "Die Materialrechnung für diesen Posten ist leer."
+
+msgid "The company currency is the base currency so exchange rates cannot "
+"be set for it."
+msgstr "Die Basiswährung der Firma ist entspricht der Basis für den "
+"Wechselkurs und kann daher nicht gesetzt werden."
+
+msgid "The company name must be entered."
+msgstr "Name der Firma muss eingegeben werden."
+
+msgid "The configuration file "
+msgstr "Die Konfigurationsdatei "
+
+msgid "The conversion factor entered was not numeric. The conversion factor "
+"is the number by which the price must be divided by to get the unit "
+"price in our unit of measure."
+msgstr "Der Konvertierungsfaktor ist nicht numerischer Natur. Der "
+"Konvertierungsfaktor ist die Zahl, durch welche der Preis zu teilen "
+"ist, damit wir den Einzelpreis für unsere Verkaufseinheit bestimmen "
+"können."
+
+msgid "The credit note as entered cannot be processed because the date "
+"entered is not valid."
+msgstr "Die Gutschrift kann nicht verarbeitet werden. Das eingegebene Datum "
+"ist ungültig."
+
+msgid "The credit note cannot be processed because the there are no items "
+"or values on the invoice.  Credit notes are expected to have a "
+"charge."
+msgstr "Die Gutschrift kann nicht verarbeitet werden. Es gibt keine Artikel "
+"oder Werte auf der Rechnung. Gutschriften müssen einen Wert haben."
+
+msgid "The credit note total as entered is less than the sum of the the "
+"general ledger entires (if any) and the charges for goods received. "
+"There must be a mistake somewhere, the credit note as entered will "
+"not be processed."
+msgstr "Das Total der erfassten Gutschrift ist kleiner der Summe der Eintäge "
+"des Hauptbuches (falls es welche gibt) sowie der Chargen der "
+"empfangenen Güter. Irgendwo liegt ein Missverständnis vor. Die "
+"Gutschrift, so wie sie erfasst wurde, kann nicht verarbeitet werden."
+
+msgid "The credit status description cannot be empty."
+msgstr "Die Beschreibung der Kreditart darf nicht leer sein."
+
+msgid "The currency abbreviation must be entered."
+msgstr "Das Kürzel für die Währung muss eingegeben werden."
+
+msgid "The currency name must be entered."
+msgstr "Die Währung muss eingegeben werden."
+
+msgid "The currency symbol must be entered."
+msgstr "Das Währungssymbol muss eingegeben werden."
+
+msgid "The customer name cannot be empty."
+msgstr "Der Kundenname darf nicht leer sein."
+
+msgid "The customer payment has been successfully entered."
+msgstr "Die Zahlung des Kunden wurde erfolgreich eigegeben."
+
+msgid "The date entered is in an invalid format."
+msgstr "Das eingegebene Datum ist ungültig."
+
+msgid "The default stock location set up for this user is not a currently "
+"defined stock location. Your system administrator needs to amend "
+"your user record."
+msgstr "Der dem Kunden zugewiesene Lagerstandort ist derzeit nicht als "
+"Lagerstandort vorhanden. Ihr System-Administrator muss Ihr Konto "
+"entsprechend anpassen."
+
+msgid "The delivery date is invalid."
+msgstr "Das Lieferdatum ist ungültig."
+
+msgid "The delivery over-receive allowance must be between 0 and 100."
+msgstr "Die Lieferantenüberschüsse müssen zwischen 0 und 100 liegen."
+
+msgid "The dimension has been closed. There can be no more changes to it."
+msgstr "Diese Dimension wurde geschlossen. Es können daher keine Änderungen "
+"mehr gemacht werden."
+
+msgid "The dimension has been deleted."
+msgstr "Diese Dimension wurde gelöscht."
+
+msgid "The dimension has been entered."
+msgstr "Diese Dimension wurde erfasst."
+
+msgid "The dimension has been updated."
+msgstr "Diese Dimension wurde gesichert."
+
+msgid "The dimension name must be entered."
+msgstr "Der Name der Dimension muss eingegeben werden."
+
+msgid "The dimension reference must be entered."
+msgstr "Referenz zur Dimension muss eingegeben werden."
+
+msgid "The dimension sent is not valid."
+msgstr "Diese gesendeten Dimension ist nicht gültig."
+
+msgid "The ending transaction number is expected to be numeric and greater "
+"than zero."
+msgstr "Die Nummer der letzten Buchung muss numerisch und grösser als 0 sein."
+
+msgid "The entered amount is invalid or less than zero."
+msgstr "Der eingegebene Betrag ist ungültig oder kleiner als null."
+
+msgid "The entered amount is invalid or negative and cannot be processed."
+msgstr "Der eingegebene Preis ist ungültig oder negativ und kann nicht "
+"verarbeitet werden."
+
+msgid "The entered cost is not numeric."
+msgstr "Die eingegebenen Kosten sind nicht numerischer Natur."
+
+msgid "The entered date for the adjustment is invalid."
+msgstr "Das eingegebene Datum für diesen Abgleich ist ungültig."
+
+msgid "The entered date for the credit note is invalid."
+msgstr "Das eingegebene Datum für diese Gutschrift ist ungültig."
+
+msgid "The entered date for the issue is invalid."
+msgstr "Das eingegebene Datum für diesen Punkt ist ungültig."
+
+msgid "The entered date is invalid."
+msgstr "Das eingegebene Datum ist ungültig."
+
+msgid "The entered date is invalid. Please enter a valid date for the "
+"payment."
+msgstr "Das eingegebene Datum ist ungültig. Bitte geben Sie ein gültiges "
+"Datum für die Zahlung ein."
+
+msgid "The entered date is not in fiscal year"
+msgstr "Das eingegegebene Datum liegt nicht im Buchhaltungsjahr"
+
+msgid "The entered date is not in fiscal year."
+msgstr "Das eingegebene Datum liegt nicht im Buchungsjahr."
+
+msgid "The entered discount is invalid or less than zero."
+msgstr "Der eingegebene Rabatt ist ungültig oder kleiner als null."
+
+msgid "The entered discount is not a valid number."
+msgstr "Der eingegebene Rabatt ist keine gültige Zahl."
+
+msgid "The entered discount percent is negative, greater than 100 or "
+"invalid."
+msgstr "Der eingegebene Prozentsatz ist negativ, grösser als 100 oder "
+"ungültig."
+
+msgid "The entered information is a duplicate. Please go back and enter "
+"different values."
+msgstr "Die getätigte Eingabe besteht doppelt. Bitte zurückgehen und eine "
+"andere Eingabe tätigen."
+
+msgid "The entered invoice date is invalid."
+msgstr "Das eingegebene Rechnungsdatum ist üngültig."
+
+msgid "The entered invoice date is not in fiscal year."
+msgstr "Das eigegebene Rechnungsdatum gehört nicht zum Buchhaltungsjahr."
+
+msgid "The entered invoice due date is invalid."
+msgstr "Das eingegenbe Rechnungsdatum ist ungültig."
+
+msgid "The entered order date is invalid."
+msgstr "Das eingegebene Bestelldatum ist ungültig."
+
+msgid "The entered price is negative or invalid."
+msgstr "Der eingegebene Preis ist negativ oder ungültig."
+
+msgid "The entered reference is already in use."
+msgstr "Die angegebene Referenz wird bereits verwendet."
+
+msgid "The entered shipping cost is invalid or less than zero."
+msgstr "Die eingegebenen Lieferkosten sind ungültig oder kleiner als null."
+
+msgid "The entered shipping value is not numeric."
+msgstr "Die eingegebenen Lieferkosten sind nicht numerisch."
+
+msgid "The entered standard cost is negative or invalid."
+msgstr "Die eingegebenen Kosten sind negativ oder ungültig."
+
+msgid "The entered transaction does not exist or cannot be voided."
+msgstr "Die eingegebene Buchung existiert nicht und kann nicht storniert "
+"werden."
+
+msgid "The exchange rate cannot be zero or a negative number."
+msgstr "Der Wchselkurs kann nicht 0 oder negativ sein."
+
+msgid "The existing image could not be removed"
+msgstr "Die bestehende Bild-Datei kann nicht gelöscht werden"
+
+msgid "The file size is over the maximum allowed. The maximum size allowed "
+"in KB is"
+msgstr "Die Dateigrösse ist höher als das erlaubte Maximum. Das Maximum "
+"beträgt in KByte"
+
+msgid "The general GL setup has been updated."
+msgstr "Die allgemeinen Einstellungen im Hauptbuch wurden geändert."
+
+msgid "The hundredths name must be entered."
+msgstr "Die Bezeichnung für die Hunderter ist einzugeben."
+
+msgid "The inventory movement type name cannot be empty."
+msgstr "Der Name für die Art der Lagerverschiebung darf nicht leer sein."
+
+msgid "The invoice as entered cannot be processed because the due date is "
+"in an incorrect format."
+msgstr "Die eingegebene Rechnung kann nicht verarbeitet werden. Das "
+"Fälligkeitsdatum ist liegt in einem ungültigen Format vor."
+
+msgid "The invoice as entered cannot be processed because the invoice date "
+"is in an incorrect format."
+msgstr "Die erfasste Rechnung kann nicht verarbeitet werden. Das "
+"Rechnungsdatum liegt in einem ungültigen Format vor."
+
+msgid "The invoice cannot be processed because the there are no items or "
+"values on the invoice.  Invoices are expected to have a charge."
+msgstr "Die Rechnung kann nicht verarbeitet werden. Es gibt keine Artikel "
+"oder Beträge auf der Rechnung. Rechnungen müssen einen Betrag "
+"enthalten."
+
+msgid "The invoice over-charge allowance must be between 0 and 100."
+msgstr "Die Rechnungsüberbelastungen müssen zwischen 0 und 100 liegen."
+
+msgid "The issue cannot be processed because an entered item would cause a "
+"negative inventory balance :"
+msgstr "Dieser Teil kann nicht verarbeitet werden, weil eingetragene Artikel "
+"einen negativen Lagerbestand auslösen würden."
+
+msgid "The item category description cannot be empty."
+msgstr "Die Beschreibung zur Artikelkategorie kann nicht leer sein."
+
+msgid "The item code cannot be empty"
+msgstr "Der Artikelcode kann nicht leer sein"
+
+msgid "The item code cannot contain any of the following characters -  & + "
+"OR a space OR quotes"
+msgstr "Der Artikelcode darf die folgenden Zeichen nicht enthalten - & + "
+"ODER Leer- und Anführungszeichen"
+
+msgid "The item could not be updated because you are attempting to set the "
+"quantity ordered to less than 0, or the discount percent to more "
+"than 100."
+msgstr "Der Artikel kann nicht gesichert werden, weil Sie versuchen, die "
+"Menge unter 0 zu setzen oder einen Rabatt zu geben, der höher als "
+"100% ist"
+
+msgid "The item name must be entered."
+msgstr "Der Artikelname muss eingegeben werden."
+
+msgid "The item tax type description cannot be empty."
+msgstr "Die Beschreibung für den Steuersatz für einen Artikel darf nicht "
+"leer sein."
+
+msgid "The line item quantities may be modified to quantities more than "
+"already received. prices cannot be altered for lines that have "
+"already been received and quantities cannot be reduced below the "
+"quantity already received."
+msgstr "Die Anzahl der Artikelposten kann über die bereits erhaltene Menge "
+"verändert werden. Preise dagegen können nicht mehr verändert werden "
+"für Posten, die bereits eingegangen sind und die Anzahl kann nicht "
+"unter die bereits erhaltene Anzhl gesenkt werden."
+
+msgid "The location name must be entered."
+msgstr "Der Name des Standortes muss eingegeben werden."
+
+msgid "The locations to transfer from and to must be different."
+msgstr "Die Standorte der Umbuchungen müssen verschieden sein."
+
+msgid "The manufacturing process has been entered."
+msgstr "Der Fertigungsauftrag wurde eingegeben."
+
+msgid "The marked company is the current company which cannot be deleted."
+msgstr "Die ausgewählte Firma ist die aktuelle Firma; diese kann nicht "
+"gelöscht werden."
+
+msgid "The marked currency is the home currency which cannot be deleted."
+msgstr "Die ausgewählte Währung ist die Basiswährung und kann daher nicht "
+"gelöscht werden."
+
+msgid "The marked fiscal year is the current fiscal year which cannot be "
+"deleted."
+msgstr "Das ausgewählte Buchhaltungsjahr ist das aktuelle und kann daher "
+"nicht gelöscht werden."
+
+msgid "The marked language is the current language which cannot be deleted."
+msgstr "Die ausgewählte Sprache ist die aktuelle und kann daher nicht "
+"gelöscht werden."
+
+msgid "The new cost is the same as the old cost. Cost was not updated."
+msgstr "Die eingegebenen neuen Kosten entsprechen den bisherigen. Sie wurden "
+"daher nicht geändert."
+
+msgid "The new price has been added."
+msgstr "Der neue Preis ist hinzugefügt worden."
+
+msgid "The number of days or the day in the following month must be numeric."
+msgstr "Die Anzahl der Tage oder der Tag im folgenden Monat muss numerisch "
+"sein."
+
+msgid "The order cannot be placed because there are no lines entered on "
+"this order."
+msgstr "Die Bestellung kann nicht erstellt werden. Es gibt keine "
+"eingegebneen Posten in dieser Bestellung."
+
+msgid "The order number sent is not valid."
+msgstr "Die gesendete Bestellnummer ist nicht gültig."
+
+msgid "The over-charge percentage allowance is :"
+msgstr "Die Prozentmarge der zulässigen Überfakturierung ist :"
+
+msgid "The password cannot contain the user login."
+msgstr "Das Passwort darf nicht den Benutzernamen enthalten."
+
+msgid "The password entered must be at least 4 characters long."
+msgstr "Das Passwort muss mindestens vier Zeichen lang sein."
+
+msgid "The past due days interval allowance must be between 0 and 100."
+msgstr "Die vergangenen Fälligkeitstermine müssen zwischen 0 und 100 liegen."
+
+msgid "The price being invoiced is more than the purchase order price by "
+"more than the allowed over-charge percentage. The system is set up "
+"to prohibit this. See the system administrator to modify the set up "
+"parameters if necessary."
+msgstr "Der in Rechnung gestellte Preis is höher als jener der "
+"Einkaufsrechnung sowie der zulässigen Prozentmarge für eine "
+"Überfakturierung. Das System lässt dies nicht zu. Bitte weisen Sie "
+"den Systemadministratoren an, die entsprechenden Parameter zu "
+"verändern, falls dies notwendig ist."
+
+msgid "The price entered must be numeric."
+msgstr "Der eingegebene Preis muss numerischer Natur sein."
+
+msgid "The price entered was not numeric."
+msgstr "Der eingegebene Preis ist nicht numerischer Natur."
+
+msgid "The price is either not numeric or negative."
+msgstr "Der Preis ist entweder nicht numerisch oder negativ."
+
+msgid "The price is not numeric."
+msgstr "Der Betrag ist nicht numerisch."
+
+msgid "The process cannot be completed because there is an insufficient "
+"total quantity for a component."
+msgstr "Der Prozess kann nicht abgeschlossen werden, weil für eine "
+"Komponente keine genügende Anzahl an Artikeln verfügbar sind."
+
+msgid "The production date cannot be before the release date of the work "
+"order."
+msgstr "Das Produktionsdatum kann nicht vor dem Veröffentlichungsdatum eines "
+"Arbeitsauftrages liegen."
+
+msgid "The purchasing data item has been sucessfully deleted."
+msgstr "Die Einkaufsdaten für den Artikel sind gelöscht worden."
+
+msgid "The quantity being invoiced is more than the outstanding quantity by "
+"more than the allowed over-charge percentage. The system is set up "
+"to prohibit this. See the system administrator to modify the set up "
+"parameters if necessary."
+msgstr "Die in Rechnung gestellte Menge ist grösser als die ausstehende "
+"Menge sowie die erlaubte Überlieferung in Prozent. Das System lässt "
+"dies nicht zu. Bitte weisen Sie den Systemadministratoren an, die "
+"entsprechenden Parameter zu veränden."
+
+msgid "The quantity cannot be changed to be less than the quantity already "
+"manufactured for this order."
+msgstr "Die Anzahl kann nicht auf eine Anzahl reduziert werden, die bereits "
+"produziert wurde für diese Bestellung."
+
+msgid "The quantity entered is greater than the available quantity for this "
+"item at the source location :"
+msgstr "Die eingegebene Anzahl beim Lagerstandort, von dem abgebucht werden "
+"soll, ist grösser, als die verfügbare Anzahl."
+
+msgid "The quantity entered must be a positive number."
+msgstr "Die eingegenbe Anzahl muss positiver Natur sein."
+
+msgid "The quantity must be greater than zero."
+msgstr "Die Anzahl muss grösser als Null sein."
+
+msgid "The quantity received can only be modified by entering a negative "
+"receipt and the quantity invoiced can only be reduced by entering a "
+"credit note against this item."
+msgstr "Die Anzahl der erhaltenen Artikel kann nur verändert werden, wenn "
+"eine negative Nummer eingegeben wird. Die Anzahl der fakturierten "
+"Artikel kann nur reduziert werden, wenn eine Gutschrift für die "
+"entsprechenden Artikel ausgestellt wird."
+
+msgid "The requested delivery date is before the date of the order."
+msgstr "Das eingegebene Lieferdatum liegt vor dem Datum der Bestellung."
+
+msgid "The required by date entered is in an invalid format."
+msgstr "'Ausführung bis Datum' enthält ein ungültiges Format."
+
+msgid "The sales person name cannot be empty."
+msgstr "Name des Verkäufers darf nicht leer sein."
+
+msgid "The sales type description cannot be empty."
+msgstr "Die Beschreibung der Verkaufsart kann nicht leer sein."
+
+msgid "The script must be called with a valid transaction type and "
+"transaction number to review the general ledger postings for."
+msgstr "Das Skript muss innerhalb einer gültigen Buchungsart und -nummer "
+"aufgerufen werden. Nur so können die dafür bestimmten "
+"Hauptbucheinträge gezeigt werden."
+
+msgid "The security settings on your account do not permit you to access "
+"this function"
+msgstr "Die Sicherheitseinstellungen für ihr Konto erlauben es Ihnen nicht "
+"diese Fuunktion zu wählen"
+
+msgid "The selected component is a parent of the current item. Recursive "
+"BOMs are not allowed."
+msgstr "Der gewählte Artikel ist ein Elternartikel des bestehenden Artikels. "
+"Rekursive Stücklisten sind nicht erlaubt."
+
+msgid "The selected component is already on this bom. You can modify it's "
+"quantity but it cannot appear more than once on the same bom."
+msgstr "Der gewählte Artikel ist bereits auf diesem Materialplan. Sie können "
+"die Anzahl verändern, nicht aber den Artikel mehrfach in einem "
+"Materialplan verwenden."
+
+msgid "The selected currency is the company currency."
+msgstr "Die gewählte Währung ist die Basiswährung der Firma."
+
+msgid "The selected customer account is currently on hold. Please contact "
+"the credit control personnel to discuss."
+msgstr "Das gewählte Kundenkonto ist gegenwärtig auf 'Zurückstellen' gesetzt"
+
+msgid "The selected customer and branch are not valid, or the customer does "
+"not have any branches."
+msgstr "Der gewählte Kunde oder die Abteilung sind nicht gültig, oder der "
+"Kund"
+
+msgid "The selected customer does not have any branches. Please create at "
+"least one branch."
+msgstr "Der gewählte Kunde hat noch keine Abteilung. Bitte erstellen Sie "
+"mindestens eine Abteilung."
+
+msgid "The selected item cannot be unassembled because there is "
+"insufficient stock."
+msgstr "Die ausgewählten Artikel können nicht gefertigt werden. Der "
+"Lagerbestand ist ungenügend."
+
+msgid "The selected item does not exist or it is a kit part and therefore "
+"cannot be purchased."
+msgstr "Der ausgewählte Artikel existiert nicht oder ist Teil einer "
+"Gesamtlieferung und kann daher nicht eingekauft werden."
+
+msgid "The selected item is already on this order."
+msgstr "Der ausgewählte Artikel ist bereits auf der Bestellung."
+
+msgid "The selected item to manufacture does not have a bom."
+msgstr "Der ausgewählte Artikel, der gefertigt werden soll, hat keinen "
+"Fertigungsplan"
+
+msgid "The selected price has been deleted."
+msgstr "Der ausgewählte Preis ist gelöscht worden."
+
+msgid "The selected transaction has already been voided."
+msgstr "Die ausgewählte Buchung ist bereits storniert worden."
+
+msgid "The selected user has been updated."
+msgstr "Das ausgewählte Benutzerkonto wurde geändert."
+
+msgid "The shipping company name cannot be empty."
+msgstr "Der Name der Lieferfirma darf nicht leer sein."
+
+msgid "The shipping cost entered is expected to be numeric."
+msgstr "Die Lieferkosten müssen numerisch eingegeben werden."
+
+msgid "The starting transaction number is expected to be numeric and "
+"greater than zero."
+msgstr "Die Nummer der ersten Buchung muss numerisch und grösser als 0 sein."
+
+msgid "The supplier name must be entered."
+msgstr "Der Lieferantenname muss eingegeben werden."
+
+msgid "The tax group name cannot be empty."
+msgstr "Die Beschreibung zum Steuersatz kann nicht leer sein."
+
+msgid "The tax type name cannot be empty."
+msgstr "Die Steuerart darf nicht leer sein."
+
+msgid "The transaction number is expected to be numeric and greater than "
+"zero."
+msgstr "Die Buchungsnummer muss numerisch und grösser als null sein."
+
+msgid "The unassembling cannot be processed because there is insufficient "
+"stock."
+msgstr "Die Demontage kann nicht verarbeitet werden aufgrund ungenügender "
+"Lagerbestände."
+
+msgid "The user and password combination is not valid for the system."
+msgstr "Benutzer und Passwort sind nicht gültig für das System."
+
+msgid "The user login entered must be at least 4 characters long."
+msgstr "Der Benutzername für das Anmelden muss mindestens vier Zeichen lang "
+"sein."
+
+msgid "The work centre name cannot be empty."
+msgstr "Der Name des Arbeitsplatzes kann nicht gelöscht werden."
+
+msgid "The work order been added."
+msgstr "Der Arbeitsauftrag ist hinzugefügt worden."
+
+msgid "The work order been updated."
+msgstr "Der Arbeitsauftrag ist geändert worden."
+
+msgid "The work order cannot be processed because there is an insufficient "
+"quantity for component:"
+msgstr "Der eingegebene Arbeitsauftrag kann nicht verarbeitet werden. Es "
+"gibt eine ungenügende Anzahl an Komponenten."
+
+msgid "The work order has been released to manufacturing."
+msgstr "Der Arbeitsauftrag ist für die Fertigung freigegeben worden."
+
+msgid "The work order issue has been entered."
+msgstr "Der Arbeitsauftrag ist erteilt worden."
+
+msgid "The work order number sent is not valid."
+msgstr "Die gesendete Auftragsnummer ist ungültig."
+
+msgid "Theme:"
+msgstr "Thema:"
+
+msgid "There are no Issues for this Order."
+msgstr "Es gibt keine Posten für diese Bestellung."
+
+msgid "There are no Productions for this Order."
+msgstr "Es gibt keine Produktanfertigungen für diese Bestellung."
+
+msgid "There are no Requirements for this Order."
+msgstr "Es gibt keine Abhängigkeiten für diese Bestellung."
+
+msgid "There are no account groups defined. Please define at least one "
+"account group before entering accounts."
+msgstr "Es sind keine Kontengruppen definiert. Bitte definieren Sie "
+"mindestens eine Kontengruppe, bevor Sie Konten erfassen."
+
+msgid "There are no bank accounts defined in the system."
+msgstr "Es gibt keine definierten Bankkonten im System."
+
+msgid "There are no costable inventory items defined in the system "
+"(Purchased or manufactured items)."
+msgstr "Es wurden keine kostenbezogene Artikel für das Lager definiert "
+"(Gekaufte oder hergestellte Artikel)."
+
+msgid "There are no customers defined in the system."
+msgstr "Es sind keine Kunden im System erfasst."
+
+msgid "There are no customers defined in the system. Please define a "
+"customer to add customer branches."
+msgstr "Es gibt keine Kunden im System. Bitte erstellen Sie zunächst einen "
+"Kunden und fügen Sie diesen einer Abteilung hinzu."
+
+msgid "There are no customers, or there are no customers with branches. "
+"Please define customers and customer branches."
+msgstr "Es gibt keine Kunden, oder es gibt keine Kunden mit Abteilungen. "
+"Bitte definierten Sie Kunden und Abteilungen."
+
+msgid "There are no inventory items defined in the system (Purchased or "
+"manufactured items)."
+msgstr "Es gibt keine Lagerartikel im System (Eingekaufte oder produzierte "
+"Artikel)."
+
+msgid "There are no inventory items defined in the system which can be "
+"adjusted (Purchased or Manufactured)."
+msgstr "Es gibt keine Lagerartikel, die im System definiert wurden und die "
+"justiert werden könnten (Gekaufte oder Hergestellte)."
+
+msgid "There are no inventory items defined in the system."
+msgstr "Es gibt keine Lagerartikel im System."
+
+msgid "There are no inventory movement types defined in the system. Please "
+"define at least one inventory adjustment type."
+msgstr "Es gibt keine Lagerveränderungstypen, die im System definiert "
+"wurden. Bitte definieren Sie mindestens einen Lagerveränderungstyp."
+
+msgid "There are no item categories defined in the system. At least one "
+"item category is required to add a item."
+msgstr "Es gibt keine Artikelkategorien im System. Mindestens eine Kategorie "
+"ist notwendig, damit Artikel hinzugefügt werden können."
+
+msgid "There are no item quantities on this invoice."
+msgstr "Es gibt keine Artikelmengen für diese Rechnung."
+
+msgid "There are no item tax types defined in the system. At least one item "
+"tax type is required to add a item."
+msgstr "Es gibt keine Steuerarten für Artikel im System. Mindestens eine "
+"Steuerart ist notwendig, um einen Artikel hinzufügen zu können."
+
+msgid "There are no items defined in the system."
+msgstr "Es gibt keine definierten Artikel im System."
+
+msgid "There are no items for this deposit."
+msgstr "Es gibt keine Posten für diese Einlage"
+
+msgid "There are no items for this issue."
+msgstr "Es gibt keine Artikel für diesen Punkt."
+
+msgid "There are no items for this payment."
+msgstr "Es gibt keine Posten für diese Zahlung."
+
+msgid "There are no line items on this credit note."
+msgstr "Es gibt keine Posten in der Gutschrift."
+
+msgid "There are no line items on this invoice."
+msgstr "Es gibt keine Posten für diese Rechnung."
+
+msgid "There are no manufacturable items defined in the system."
+msgstr "Es gibt keine zu fertigende Artikel im System."
+
+msgid "There are no manufactured or kit items defined in the system."
+msgstr "Es gibt keine hergestellten oder zusammengestellten Artikel im "
+"System."
+
+msgid "There are no outstanding items received from this supplier that have "
+"not been invoiced by them."
+msgstr "Es gibt keine ausstehenden Artikel, die von diesem Lieferanten "
+"eingegangen sind bzw. noch nicht fakturiert wurden."
+
+msgid "There are no prices set up for this part."
+msgstr "Es gibt keine definierten Preise für diesen Artikel"
+
+msgid "There are no purchasable inventory items defined in the system."
+msgstr "Es gibt keine Lagerartikel mit Einkaufspreis im System."
+
+msgid "There are no received items for the selected supplier that have been "
+"invoiced."
+msgstr "Es gibt keine erhaltenen Artikel für den ausgewählten Lieferanten, "
+"die in Rechnung gestellt wurden."
+
+msgid "There are no sales areas defined in the system. At least one sales "
+"area is required before proceeding."
+msgstr "Es sind keine Verkaufsregionen definiert im System. Mindestens eine "
+"Verkaufsregion ist notwendig."
+
+msgid "There are no sales people defined in the system. At least one sales "
+"person is required before proceeding."
+msgstr "Es sind keine Verkaufspersonen definiert im System. Mindestens eine "
+"Verkaufsperson muss definiert werden."
+
+msgid "There are no sales types defined. Please define at least one sales "
+"type before adding a customer."
+msgstr "Es gibt keine Verkaufsarten. Bitte definieren Sie mindestens eine "
+"Verkaufsart."
+
+msgid "There are no sales types in the system. Please set up sales types "
+"befor entering pricing."
+msgstr "Es gibt keine Verkaufsarten im System. Bitte erstellen Sie zunächst "
+"Verkaufsarten im System, bevor Sie Preise eingeben."
+
+msgid "There are no shipping companies defined in the system. At least one "
+"shipping company is required before proceeding."
+msgstr "Es sind keine Lieferfirmen definiert im System. Um fortfahren zu "
+"können, ist mindestens eine Lieferfirma notwendig."
+
+msgid "There are no suppliers defined in the system."
+msgstr "Es gibt keine Lieferanten im System."
+
+msgid "There are no tax groups defined in the system. At least one tax "
+"group is required before proceeding."
+msgstr "Es gibt keine definierten Steuergruppen im System. Mindestens eine "
+"Steuergruppe ist notwendig, damit fortgefahren werden kann."
+
+msgid "There are no tax types defined. Define tax types before defining tax "
+"groups."
+msgstr "Es gibt keine Steuersätze. Bevor Sie Steuergruppen definieren "
+"können, muss ein Steuersatz definiert werden."
+
+msgid "There are no unsettled transactions to allocate."
+msgstr "Es gibt keine offene zuzuweisende Buchungen."
+
+msgid "There are no work centres defined in the system. BOMs require at "
+"least one work centre be defined."
+msgstr "Es sind keine Arbeitsplätze definiert im System. Materialpläne "
+"benötigen mindestens einen definierten Arbeitsplatz."
+
+msgid "There is no delivery address specified."
+msgstr "Es ist keine Lieferadresse vorhanden."
+
+msgid "There is no item selected."
+msgstr "Es sind keine Artikel ausgewählt."
+
+msgid "There is no location specified to move any items into."
+msgstr "Es ist keine Standort vorhanden für das Einlagern der Artikel."
+
+msgid "There is no purchasing data set up for the part selected"
+msgstr "Es gibt keine Einkaufsdaten für den ausgewählten Artikel"
+
+msgid "There is no reference entered for this purchase order."
+msgstr "Es gibt keine Referenz für die eingegebene Einkaufsbestellung."
+
+msgid "There is nothing to process. Please enter valid quantities greater "
+"than zero."
+msgstr "Nichts zu verarbeiten. Bitte geben Sie eine gültige Anzahl ein, die "
+"grösser als Null ist."
+
+msgid "These allocations cannot be processed because the amount allocated "
+"is more than the total amount left to allocate."
+msgstr "Diese zuzuweisenden Beträge können nicht verarbeitet werden. Der "
+"zuzuweisende Betrag ist höher als der Betrag links."
+
+msgid "This Allocation"
+msgstr "Diese Zuweisung"
+
+msgid "This Delivery"
+msgstr "Diese Lieferung"
+
+msgid "This Period"
+msgstr "Aktuelle Zeitspanne"
+
+msgid "This Work Order cannot be released. The selected item to manufacture "
+"does not have a bom."
+msgstr "Dieser Arbeitsauftrag kann nicht freigegeben werden. Die "
+"ausgewählten Artikel haben keinen Fertigungsplan."
+
+msgid "This adjustment has been voided."
+msgstr "Die Anpassung wurde storniert."
+
+msgid "This credit note has been voided."
+msgstr "Diese Gutschrift ist storniert worden."
+
+msgid "This customer account is on hold."
+msgstr "Dieser Kunde ist auf 'Zurückhalten' gesetzt."
+
+msgid "This customer cannot be deleted because there are transactions that "
+"refer to it."
+msgstr "Dieser Kunde kann nicht gelöscht werden, weil es Buchungen für "
+"diesen Kunden gibt."
+
+msgid "This customer payment has been voided."
+msgstr "Die Zahlung des Kunden wurde storniert."
+
+msgid "This delivery has been voided."
+msgstr "Diese Lieferung ist storniert worden."
+
+msgid "This deposit has been voided."
+msgstr "Dies Einlage ist storniert worden."
+
+msgid "This dimension cannot be deleted because it has already been "
+"processed."
+msgstr "Diese Dimension kann nicht gelöscht werden, weil sie bereits "
+"verarbeitet wurde."
+
+msgid "This dimension is closed."
+msgstr "Diese Dimension ist geschlossen."
+
+msgid "This invoice has been voided."
+msgstr "Diese Rechnung ist storniert worden."
+
+msgid "This is a service and cannot have a stock holding, only the total "
+"quantity on outstanding sales orders is shown."
+msgstr "Dieser Artikel ist eine Dienstleistung und kann nicht in Mengen "
+"gelagert werden, nur die ausstehende Anzahl von Verkaufsbestellungen "
+"wird angezeigt."
+
+msgid "This issue has been voided."
+msgstr "Dieser Punkt ist storniert worden."
+
+msgid "This item cannot be deleted because some of it has already been "
+"received."
+msgstr "Dieser Artikel kann nicht gelöscht werden. Einige Teilartikel sind "
+"bereits eingegangen."
+
+msgid "This order cannot be cancelled because some of it has already been "
+"received."
+msgstr "Diese Bestellung kann nicht storniert werden. Einige Teilartikel "
+"sind bereits eingegangen."
+
+msgid "This order has been changed or invoiced since this delivery was "
+"started to be actioned. Processing halted. To enter a delivery "
+"against this purchase order, it must be re-selected and re-read "
+"again to update the changes made by the other user."
+msgstr "Diese Bestellung ist geändert worden, nachdem diese Lieferung in "
+"Auftrag gegeben wurde. Die Verarbeitung wurde unterbrochen. Damit "
+"Sie die Lieferung gegenüber der Einkaufsbestellung eingeben können, "
+"müssen Sie diese erneut auswählen und die Änderungen einlesen, die "
+"von einem anderen Benutzer gemacht wurden."
+
+msgid "This page can only be opened if a purchase order has been selected. "
+"Please select a purchase order first."
+msgstr "Diese Seite kann nur geöffnet werden, sofern eine Einkaufbestellung "
+"ausgewählt worden ist. Bitte wählen Sie zunächst eine "
+"Einkaufsbestellung aus."
+
+msgid "This page can only be opened if an invoice has been selected for "
+"crediting."
+msgstr "Diese Seite kann nur geöffnet werden, wenn eine Rechnung für eine "
+"Gutschrift ausgewählt wurde."
+
+msgid "This page must be called with a Purchase Order Delivery number to "
+"review."
+msgstr "Diese Seite kann nur mit einer Nummer für eine gelieferte "
+"Einkaufsrechnung angezeigt werden."
+
+msgid "This page must be called with a purchase order number to review."
+msgstr "Diese Seite kann nur mit einer Nummer für die Einkaufsbestellung "
+"aufgerufen werden."
+
+msgid "This payment has been voided."
+msgstr "Diese Zahlung ist storniert worden."
+
+msgid "This price has been updated."
+msgstr "Der Preis ist geändert worden."
+
+msgid "This production has been voided."
+msgstr "Diese Produktion ist storniert worden."
+
+msgid "This purchase order has been cancelled."
+msgstr "Die Einkaufsbestellung ist storniert worden."
+
+msgid "This sales order has been cancelled as requested."
+msgstr "Die Bestellung wurde wie gewünscht storniert."
+
+msgid "This supplier purchasing data has been added."
+msgstr "Die Einkaufsdaten des Lieferanten sind erfasst worden."
+
+msgid "This transaction has been voided."
+msgstr "Diese Buchung wurde storniert."
+
+msgid "This transfer has been voided."
+msgstr "Diese Überweisung ist storniert worden."
+
+msgid "This work order cannot be deleted because it has already been "
+"processed."
+msgstr "Der Arbeitsauftrag kann nciht gelöscht werden. Er wurde bereits "
+"verarbeitet."
+
+msgid "This work order has already been released."
+msgstr "Dieser Arbeitsauftrag ist bereits freigegeben worden."
+
+msgid "This work order has been closed. There can be no more issues against "
+"it."
+msgstr "Der Arbeitsauftrag ist geschlossen worden. Es können keine weiteren "
+"Aktionen mehr ausgeführt werden."
+
+msgid "This work order has been voided."
+msgstr "Dieser Arbeitsauftrag ist storniert worden."
+
+msgid "This work order is closed and cannot be edited."
+msgstr "Der Arbeitsauftrag ist geschlossen und kann nicht mehr bearbeitet "
+"werden."
+
+msgid "This work order is closed."
+msgstr "Diese getätigte Bestellung ist geschlossen"
+
+msgid "Thousand Separator:"
+msgstr "Zeichen für Tausendertrennung:"
+
+msgid "To"
+msgstr "Für"
+
+msgid "To Account"
+msgstr "Bis Konto"
+
+msgid "To Bank Account"
+msgstr "Bis Bankkonto"
+
+msgid "To Dimension"
+msgstr "Bis Dim."
+
+msgid "To Location"
+msgstr "Zu Standort"
+
+msgid "To Location:"
+msgstr "An Standort:"
+
+msgid "To Supplier"
+msgstr "Für Lieferant"
+
+msgid "To Work Centre"
+msgstr "For Arbeitsplatz"
+
+msgid "To Work Centre:"
+msgstr "Für Arbeitsplatz:"
+
+msgid "To the Order of:"
+msgstr "Für die Bestellung von:"
+
+msgid "To:"
+msgstr "Bis:"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total Allocated"
+msgstr "Total zugewiesen"
+
+msgid "Total Allocated:"
+msgstr "Total der Reservierungen:"
+
+msgid "Total Amount"
+msgstr "Total der Menge"
+
+msgid "Total Balance"
+msgstr "Total Bilanz"
+
+msgid "Total Cost"
+msgstr "Totalkosten"
+
+msgid "Total Excluding Shipping/Tax"
+msgstr "Gesamttotal ohne Versand/MwSt"
+
+msgid "Total Excluding Tax/Shipping"
+msgstr "Total exklusive Steuern/Lieferkosten"
+
+msgid "Total Quantity"
+msgstr "Total der Menge"
+
+msgid "Total value of items received"
+msgstr "Gesamtbetrag der erhaltenen Artikel"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Trans Type"
+msgstr "Art der Buchung"
+
+msgid "Transaction #:"
+msgstr "Buchungsnummer #:"
+
+msgid "Transaction Type"
+msgstr "Buchungstyp"
+
+msgid "Transaction Type:"
+msgstr "Typ der Buchung:"
+
+msgid "Transactions"
+msgstr "Buchungen"
+
+msgid "Transfer Type"
+msgstr "Überweisungstyp"
+
+msgid "Transfer Type:"
+msgstr "Überweisungstyp:"
+
+msgid "Transfer has been entered"
+msgstr "Überweisung ist eingegeben worden"
+
+msgid "Trial Balance"
+msgstr "Probebilanz"
+
+msgid "Tu"
+msgstr "Di"
+
+msgid "Turnover"
+msgstr "Umsatz"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Type Name"
+msgstr "Verkaufsart"
+
+msgid "Type/Account"
+msgstr "Typ/Konto"
+
+msgid "Type:"
+msgstr "Typ:"
+
+msgid "Unassemble"
+msgstr "Nicht fertiggestellte Herstellung"
+
+msgid "Unit"
+msgstr "Einheit"
+
+msgid "Unit Cost"
+msgstr "Kosten per Einheit"
+
+msgid "Unit Quantity"
+msgstr "Anzahl der Menge"
+
+msgid "Units"
+msgstr "Einheiten"
+
+msgid "Units Issued"
+msgstr "Fertigungsmenge"
+
+msgid "Units of Measure:"
+msgstr "Masseinheiten:"
+
+msgid "Update"
+msgstr "Aktualisieren"
+
+msgid "Update Account"
+msgstr "Konto aktualisieren"
+
+msgid "Update Customer"
+msgstr "Kunde aktulisieren"
+
+msgid "Update Item"
+msgstr "Artikel ändern"
+
+msgid "Update Order"
+msgstr "Bestellung bearbeiten"
+
+msgid "Update Supplier"
+msgstr "Lieferanten aktualisieren"
+
+msgid "Use Dimensions:"
+msgstr "Dimensionen verwenden:"
+
+msgid "User Login:"
+msgstr "Benutzeranmeldung:"
+
+msgid "User has been deleted."
+msgstr "Das Benutzerkonto ist gelöscht worden."
+
+msgid "User login"
+msgstr "Benutzeranmeldung"
+
+msgid "User login:"
+msgstr "Benutzeranmeldung:"
+
+msgid "Users"
+msgstr "Benutzer"
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "Vertical bars"
+msgstr "Vertikale Linien"
+
+msgid "View"
+msgstr "Anzeigen"
+
+msgid "View Backup"
+msgstr "Datensicherung anzeigen"
+
+msgid "View Bank Deposit"
+msgstr "Zeige Bankguthaben"
+
+msgid "View Bank Payment"
+msgstr "Zeige Bankzahlungen"
+
+msgid "View Bank Transfer"
+msgstr "Zeige Banküberweisungen"
+
+msgid "View Credit Note"
+msgstr "Zeige Gutschriften"
+
+msgid "View Customer Payment"
+msgstr "Zeige Kundenzahlungen"
+
+msgid "View Dimension"
+msgstr "Dimension anzeigen"
+
+msgid "View Inventory Adjustment"
+msgstr "Neue Lageranpassung"
+
+msgid "View Inventory Transfer"
+msgstr "Zeige Lagerverschiebungen"
+
+msgid "View Payment to Supplier"
+msgstr "Zeige Zahlungen an Lieferanten"
+
+msgid "View Purchase Order"
+msgstr "Zeige Einkaufsbestellungen"
+
+msgid "View Purchase Order Delivery"
+msgstr "Zeige gelieferte Einkaufsbestellungen"
+
+msgid "View Sales Invoice"
+msgstr "Zeige Verkaufsrechnungen"
+
+msgid "View Sales Order"
+msgstr "Zeige Verkaufsbestellungen"
+
+msgid "View Supplier Credit Note"
+msgstr "Zeige Gutschrift des Lieferanten"
+
+msgid "View Supplier Invoice"
+msgstr "Zeige Rechnungen des Lieferanten"
+
+msgid "View Work Order"
+msgstr "Zeige Arbeitsaufträge"
+
+msgid "View Work Order Issue"
+msgstr "Zeige Punkte des Arbeitsauftrages"
+
+msgid "View Work Order Production"
+msgstr "Zeige in Produktion stehende Arbeitsaufträge"
+
+msgid "View or Print Transactions"
+msgstr "Anzeigen und Drucken von Buchungen"
+
+msgid "View the GL Journal Entries for this Cost Update"
+msgstr "Zeige die Hauptbuchjournaleinträge für diese Kostenveränderung"
+
+msgid "View the GL Journal Entries for this Credit Note"
+msgstr "Zeige im Hauptbuchjournal die Einträge dieser Gutschrift"
+
+msgid "View the GL Journal Entries for this Invoice"
+msgstr "Zeige die Einträge des Hauptbuchjournals für diese Rechnung"
+
+msgid "View this Credit Note"
+msgstr "Diese Gutschrift anzeigen"
+
+msgid "View this Invoice"
+msgstr "Diese Rechnung anzeigen"
+
+msgid "Void Transaction"
+msgstr "Buchung stornieren"
+
+msgid "Void a Transaction"
+msgstr "Buchung stornieren"
+
+msgid "Voiding Date:"
+msgstr "Stornodatum:"
+
+msgid "We"
+msgstr "Mi"
+
+msgid "Work Centre"
+msgstr "Arbeitsplatz"
+
+msgid "Work Centre Added:"
+msgstr "Arbeitsplatz hinzugefügt:"
+
+msgid "Work Centres"
+msgstr "Arbeitsplatz"
+
+msgid "Work Order"
+msgstr "Arbeitsauftrag"
+
+msgid "Work Order #:"
+msgstr "Arbeitsauftrag #:"
+
+msgid "Work Order Entry"
+msgstr "Auftrag erfassen"
+
+msgid "Work Order Issue"
+msgstr "Arbeitsauftrag für Posten"
+
+msgid "Work Order Production"
+msgstr "Arbeitsauftrag für Produktion"
+
+msgid "Work Order Reference:"
+msgstr "Referenz für Arbeitsauftrag:"
+
+msgid "Work Order Release to Manufacturing"
+msgstr "Freigabedatum für Arbeitsauftrag für Herstellung"
+
+msgid "Work Order Requirements"
+msgstr "Benötigte Teile für Arbeitsauftrag"
+
+msgid "Work order has been deleted."
+msgstr "Der Arbeitsauftrag ist gelöscht worden."
+
+msgid "Write off the cost of the items to"
+msgstr "Kosten des Artikels abschreiben auf"
+
+msgid "Wrk Ctr"
+msgstr "Arb.-platz"
+
+msgid "YTD"
+msgstr "Laufendes Jahr"
+
+msgid "Year"
+msgstr "Jahr"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You are attempting to make the quantity ordered a quantity less than "
+"has already been invoiced or received.  This is prohibited."
+msgstr "Sie versuchen die Anzahl der bestellten Artikel so zu reduzieren, "
+"dass weniger bestehen würden, als bereits eingegangen oder "
+"fakturiert sind. Dies ist nicht erlaubt."
+
+msgid "You can pay through"
+msgstr "Zahlungsmöglichkeiten"
+
+msgid "You cannot set an account group to be a subgroup of itself."
+msgstr "Sie können keine Kontengruppe als Untergruppe der eigenen "
+"Kontengruppe setzen."
+
+msgid "You must enter a reference."
+msgstr "Sie müssen eine Referenz eingeben."
+
+msgid "You must enter a supplier's credit note reference."
+msgstr "Sie müssen eine Lieferantenreferenz für eine Gutschrift eingeben."
+
+msgid "You must enter a supplier's invoice reference."
+msgstr "Sie müssen die Lieferantenreferenz eingeben."
+
+msgid "You must enter an credit note reference."
+msgstr "Sie müssen eine Referenz zur Gutschrift eingeben."
+
+msgid "You must enter an invoice reference."
+msgstr "Bitte geben Sie die Rechnungsreferenz ein."
+
+msgid "You must enter the person or company to whom delivery should be made "
+"to."
+msgstr "Sie müssen die Person oder Firma eingeben, für welche die Lieferung "
+"erfolgen soll."
+
+msgid "You should automatically be forwarded."
+msgstr "Sie werden automatisch benachrichtigt."
+
+msgid "You should enter the street address in the box provided. Orders "
+"cannot be accepted without a valid street address."
+msgstr "Sie sollten die Adresse in der Bestellbox angeben. Bestellungen ohne "
+"gültige Adressen können nicht verarbeitet werden."
+
+msgid "Your Ref"
+msgstr "Ihre Referenz"
+
+msgid "Your VAT no."
+msgstr "Ihre MwSt-Nummer"
+
+msgid "Zero values"
+msgstr "Leere Werte"
+
+msgid "as of"
+msgstr "läuft ab"
+
+msgid "at Location:"
+msgstr "von Standort:"
+
+msgid "cannot find backup directory"
+msgstr "Datensicherungsverzeichnis kann nicht gefunden werden"
+
+msgid "click here"
+msgstr "bitte hier klicken"
+
+msgid "currency"
+msgstr "Währung"
+
+msgid "days"
+msgstr "Tage"
+
+msgid "description"
+msgstr "Beschreibung"
+
+msgid "email Customers"
+msgstr "Main an Kunden"
+
+msgid "for item:"
+msgstr "für Artikel"
+
+msgid "from #:"
+msgstr "von #:"
+
+msgid "from:"
+msgstr "von:"
+
+msgid "in units of : "
+msgstr "in Megen von : "
+
+msgid "into location:"
+msgstr "nach Standort:"
+
+msgid "number"
+msgstr "Nummer"
+
+msgid "qty Inv"
+msgstr "Anz. fakt."
+
+msgid "show settled:"
+msgstr "Zeige erledigte:"
+
+msgid "to #:"
+msgstr "bis #:"
+
+msgid "to continue"
+msgstr "weiterfahren mit"
+
+msgid "to:"
+msgstr "bis:"

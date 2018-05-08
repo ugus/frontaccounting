@@ -43,7 +43,7 @@ function can_process()
 
 if ($Mode=='ADD_ITEM' && can_process())
 {
-	add_sales_type($_POST['sales_type'], isset($_POST['tax_included']) ? 1:0,
+	add_sales_type($_POST['sales_type'], check_value('tax_included'),
 	    input_num('factor'));
 	display_notification(_('New sales type has been added'));
 	$Mode = 'RESET';
@@ -54,7 +54,7 @@ if ($Mode=='ADD_ITEM' && can_process())
 if ($Mode=='UPDATE_ITEM' && can_process())
 {
 
-	update_sales_type($selected_id, $_POST['sales_type'], isset($_POST['tax_included']) ? 1:0,
+	update_sales_type($selected_id, $_POST['sales_type'], check_value('tax_included'),
 	     input_num('factor'));
 	display_notification(_('Selected sales type has been updated'));
 	$Mode = 'RESET';
@@ -98,7 +98,7 @@ if ($Mode == 'RESET')
 $result = get_all_sales_types(check_value('show_inactive'));
 
 start_form();
-start_table(TABLESTYLE, "width=30%");
+start_table(TABLESTYLE, "width='30%'");
 
 $th = array (_('Type Name'), _('Factor'), _('Tax Incl'), '','');
 inactive_control_column($th);

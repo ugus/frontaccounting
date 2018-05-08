@@ -46,9 +46,9 @@ function get_invoices($customer_id, $to, $all=true)
 	$sql = "SELECT ".TB_PREF."debtor_trans.type, ".TB_PREF."debtor_trans.reference,
 		".TB_PREF."debtor_trans.tran_date,
 		$value as Balance,
-		IF ((TO_DAYS('$todate') - TO_DAYS($due)) >= 0,$value,0) AS Due,
-		IF ((TO_DAYS('$todate') - TO_DAYS($due)) >= $PastDueDays1,$value,0) AS Overdue1,
-		IF ((TO_DAYS('$todate') - TO_DAYS($due)) >= $PastDueDays2,$value,0) AS Overdue2
+		IF ((TO_DAYS('$todate') - TO_DAYS($due)) > 0,$value,0) AS Due,
+		IF ((TO_DAYS('$todate') - TO_DAYS($due)) > $PastDueDays1,$value,0) AS Overdue1,
+		IF ((TO_DAYS('$todate') - TO_DAYS($due)) > $PastDueDays2,$value,0) AS Overdue2
 
 		FROM ".TB_PREF."debtors_master,
 			".TB_PREF."debtor_trans
@@ -248,7 +248,7 @@ function print_aged_customer_analysis()
 		$pg->skin      = $graph_skin;
 		$pg->built_in  = false;
 		$pg->latin_notation = ($decseps[$_SESSION["wa_current_user"]->prefs->dec_sep()] != ".");
-		$filename = company_path(). "/pdf_files/". uniqid("").".png";
+		$filename = company_path(). "/pdf_files/". random_id().".png";
 		$pg->display($filename, true);
 		$w = $pg->width / 1.5;
 		$h = $pg->height / 1.5;

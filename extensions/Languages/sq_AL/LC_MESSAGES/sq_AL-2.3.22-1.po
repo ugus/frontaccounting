@@ -1,0 +1,2934 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: frontaccounting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-29 15:35+0200\n"
+"PO-Revision-Date: 2014-11-30 09:36+0100\n"
+"Last-Translator: Joe Hunt <joe.hunt.consulting@gmail.com>\n"
+"Language-Team: Albanian (http://www.transifex.com/projects/p/frontaccounting/language/sq/)\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid ""
+" is not writable. Change its permissions so it is, then re-run the operation."
+msgstr ""
+"nuk eshte e shkrueshme. Lejoni shkrueshmerine e saj, pastaj riperseritni "
+"veprimin."
+
+msgid "#"
+msgstr "#"
+
+msgid "% amount of base"
+msgstr "% e shumes se bazes"
+
+msgid "% amount of base, increase base"
+msgstr "% e shumes se bazes, rrit bazen"
+
+msgid "% amount of base, reduce base"
+msgstr "% e shumes se bazes, redukto bazen"
+
+msgid "&Add or Edit "
+msgstr "&Shto ose Redakto"
+
+msgid "* Subject to Realisation of the Cheque."
+msgstr "* I kushtezuar nga Realizimi i Cekut."
+
+msgid ", Please create it manually"
+msgstr ", Ju lutem krijojeni manualisht"
+
+msgid ", please remove it manually"
+msgstr ", ju lutem zhvendoseni manualisht"
+
+msgid "A new customer has been added."
+msgstr "U shtua nje bleres i ri."
+
+msgid "Access levels edition"
+msgstr "Edicioni i niveleve te aksesit"
+
+msgid "Activated for '%s'"
+msgstr "I Aktivizuar per '%s'"
+
+msgid "Add All Items"
+msgstr "Shto te gjithe artikujt"
+
+msgid "Add GL Line"
+msgstr "Shto rresht nga Libri i Pergjithshem i Llogarive"
+
+msgid "Add Item"
+msgstr "Shto artikull"
+
+msgid "Add New Customer"
+msgstr "Shto bleres te ri"
+
+msgid "Add Price from Std Cost:"
+msgstr "Fut Cmimin nga Kostoja Standarte:"
+
+msgid "Add new item to document"
+msgstr "Shto artikull te ri ne dokument"
+
+msgid "Add new line to journal"
+msgstr "Shto rresht te ri ne ditar"
+
+msgid "Add to Credit Note"
+msgstr "Shto ne Shenimin e Kreditimit"
+
+msgid "Add to Invoice"
+msgstr "Shto ne fature"
+
+msgid "Additional identifier for delivery e.g. name of receiving person"
+msgstr "Te dhena identifikuese shtese per dergesen p.sh. emri i marresit"
+
+msgid "Address:"
+msgstr "Adresa:"
+
+msgid "Advanced Manufacture"
+msgstr "Prodhim i Avancuar"
+
+msgid "All Customers"
+msgstr "Te gjithe Bleresit"
+
+msgid "All Items"
+msgstr "Te gjithe artikujt"
+
+msgid "All Locations"
+msgstr "Te gjitha vendndodhjet"
+
+msgid "All Sales Types"
+msgstr "Te gjitha llojet e shitjeve"
+
+msgid "All Suppliers"
+msgstr "Te gjithe Furnizuesit"
+
+msgid "All Types"
+msgstr "Te gjitha llojet"
+
+msgid "All amounts stated in"
+msgstr "Te gjitha sasite e deklaruara ne"
+
+msgid "All branches"
+msgstr "Te gjitha deget"
+
+msgid "Allocate Customer Payment or Credit Note"
+msgstr "Aloko Pagesen e Bleresit ose Shenimin e Kreditit"
+
+msgid "Allocation"
+msgstr "Allokimi"
+
+msgid "Allocation of %s # %d"
+msgstr "Alokimi i %s # %d"
+
+msgid "Amount, increase base"
+msgstr "Shuma, rrit bazen"
+
+msgid "Amount, reduce base"
+msgstr "Shuma, redukto bazen"
+
+msgid "April"
+msgstr "Prill"
+
+msgid "Are you sure you want to delete company no. "
+msgstr "A jeni i sigurte qe doni te fshini kompanine nr."
+
+msgid "Area"
+msgstr "Zona"
+
+msgid "Area Name"
+msgstr "Emri i Zones"
+
+msgid "Area Name:"
+msgstr "Emri i Zones:"
+
+msgid "As advance / full / part / payment towards:"
+msgstr "Si Pagese  Paradhenie/ E Plote/ E Pjesshme/ drejt"
+
+msgid "Assemble"
+msgstr "Monto"
+
+msgid "Assets"
+msgstr "Asetet"
+
+msgid "Attach Documents"
+msgstr "Bashkangjit dokumenta"
+
+msgid "Attached File"
+msgstr "Dosja e bashkangjitur"
+
+msgid "Attached you will find "
+msgstr "Bashkangjitur do te gjeni"
+
+msgid "Attaching documents"
+msgstr "Duke bashkangjitur dokumentet"
+
+msgid "Attachment has been deleted."
+msgstr "Bashkangjitja eshte fshire"
+
+msgid "Attachment has been inserted."
+msgstr "Bashkangjitja u krye"
+
+msgid "Attachment has been updated."
+msgstr "Bashkangjitja u perditesua"
+
+msgid "August"
+msgstr "Gusht"
+
+msgid "Automatically put balance on back order"
+msgstr "Vendos automatikisht bilancin ne Porosi"
+
+msgid "Back"
+msgstr "Prapa"
+
+msgid "Backup and Restore Database"
+msgstr "Ruaj kopje rezerve dhe rikthe Bazen e te Dhenave"
+
+msgid "Backup paths have not been set correctly."
+msgstr ""
+"Shtigjet e ruajtjes se kopjes rezerve nuk jane percaktuar ne menyre te sakte"
+
+msgid "Backup scripts maintenance"
+msgstr "Mirembajtje e skripteve te Kopjes Rezerve"
+
+msgid "Backup successfully generated."
+msgstr "Kopja rezerve u krijua me sukses"
+
+msgid "Balance for this Dimension"
+msgstr "Balanca per kete Dimension"
+
+msgid "Bank Deposit"
+msgstr "Depozite Bankare"
+
+msgid "Bank Payment"
+msgstr "Pagese Bankare"
+
+msgid "Bank account transfers"
+msgstr "Transfertat ne Llogarite Bankare"
+
+msgid "Bank accounts"
+msgstr "Llogarite Bankare"
+
+msgid "Bank deposits"
+msgstr "Depozita bankare"
+
+msgid "Bank payments"
+msgstr "Pagesa bankare"
+
+msgid "Bank reconciliation"
+msgstr "Rakordim me banken"
+
+msgid "Bank reports and inquiries"
+msgstr "Raportet dhe pyetjet e Bankes"
+
+msgid "Bank transactions view"
+msgstr "Pamja e Transaksioneve BAnkare"
+
+msgid "Banking & GL analytics"
+msgstr "Analizat e veprimeve bankare dhe Librit te Pergjithshem te Llogarive"
+
+msgid "Banking & GL configuration"
+msgstr ""
+"Konfigurimi i veprimeve bankare dhe Librit te Pergjithshem te Llogarive"
+
+msgid "Banking & GL transactions"
+msgstr ""
+"Transaksionet e veprimeve bankare dhe Librit te Pergjithshem te Llogarive"
+
+msgid "Base"
+msgstr "Baza"
+
+msgid "Base for auto price calculations:"
+msgstr "Baza per llogaritjet automatike te cmimit"
+
+msgid "Batch"
+msgstr "Grumbull"
+
+msgid "Batch Invoicing"
+msgstr "Faturo ne Grumbull"
+
+msgid ""
+"Before software upgrade you have to include old $security_groups and "
+"$security_headings arrays from old config.php file to the new one."
+msgstr ""
+"Perpara se ti beni upgrade software-it ju duhet te perfshini tabelat e "
+"vjetra $security_groups and $security_headings nga dosja e vjeter config.php "
+"ne ate te re."
+
+msgid "Begin:"
+msgstr "Fillo:"
+
+msgid "Below"
+msgstr "Poshte"
+
+msgid "Bill of Materials"
+msgstr "Fatura e materialeve"
+
+msgid "Bill of materials reports"
+msgstr "Raportet e Fatures se Materialeve"
+
+msgid "Billing Address:"
+msgstr "Adresa e faturimit:"
+
+msgid "Branch Name:"
+msgstr "Emri i deges"
+
+msgid "Branch Short Name:"
+msgstr "Emri i shkurtuar i deges:"
+
+msgid "Branches"
+msgstr "Deget"
+
+msgid ""
+"Broken company subdirectories system. You have to remove this company "
+"manually."
+msgstr ""
+"Sistemi i nendirektorive te kompanive eshte i prishur. Ju duhet ta hiqni "
+"manualisht kete kompani."
+
+msgid "Browser printing support"
+msgstr "Suport per printim nga lundruesi"
+
+msgid "Budget edition"
+msgstr "Edicion i lire"
+
+msgid "By Cash / Cheque* / Draft No."
+msgstr "Me Para ne dore/Cek/Draft Nr."
+
+msgid "CREDIT NOTE #%d"
+msgstr "SHENIMI I KREDITIT  #%d"
+
+msgid "CUSTOMER ACCOUNT IS ON HOLD"
+msgstr "LLOGARIA E BLERESIT ESHTE NE PRITJE"
+
+msgid "Calculation factor"
+msgstr "Faktori i llogaritjes"
+
+msgid "Calculation factor must be valid positive number."
+msgstr "Faktori i llogaritjes duhet te jete nje numer pozitiv i vlefshem."
+
+msgid "Can't delete backup file."
+msgstr "E pamundur te fshihet dosja e Kopjes Rezerve"
+
+msgid "Cancel Delivery"
+msgstr "Anullo Dergesen"
+
+msgid "Cancel Invoice"
+msgstr "Anullo Faturen"
+
+msgid "Cancel Quotation"
+msgstr "Anullo Vlerersimin"
+
+msgid "Cancel any quantites not delivered"
+msgstr "Anullo cdo sasi te paderguar."
+
+msgid "Cancel changes"
+msgstr "Anullo ndryshimet"
+
+msgid "Cancel edition"
+msgstr "Anulloni edicionin"
+
+msgid "Canceled."
+msgstr "I Anulluar"
+
+msgid ""
+"Cancels document entry or removes sales order when editing an old document"
+msgstr ""
+"Anullon hyrjet ne dokument ose heq urdherin e shitjes kur redakton nje "
+"dokument te vjeter"
+
+msgid "Cannot create new company due to bugs in sql file."
+msgstr ""
+"Nkk mund te krijohet kompani e re si pasoje e defekteve ne Bazen e te Dhenave"
+
+msgid ""
+"Cannot delete the customer record because orders have been created against "
+"it."
+msgstr ""
+"Nuk munmd te fshihet ky bleres sepse jane krijuar porosira qe lidhen me te."
+
+msgid "Cannot delete this POS because it is used in users setup."
+msgstr ""
+"Nuk mund te fshihet pika e shitjes sepse po perdoret ne setup-in e "
+"perdoruesve."
+
+msgid ""
+"Cannot delete this area because customer branches have been created using "
+"this area."
+msgstr ""
+"Nuk mund te fshihet kjo zone sepse jane krijuar dege bleresish qe perdorin "
+"kete zone."
+
+msgid ""
+"Cannot delete this branch because customer transactions have been created to "
+"this branch."
+msgstr ""
+"Nuk mund te fshihet kjo dege sepse jane krijuar transaksione bleresish ne "
+"kete dege."
+
+msgid ""
+"Cannot delete this branch because sales orders exist for it. Purge old sales "
+"orders first."
+msgstr ""
+"Nuk mund te fshihet kjo dege sepse ekzistojne porosi shitjeje per te. "
+"Spastroni se pari porosite e vjetra te shitjeve."
+
+msgid ""
+"Cannot delete this credit status because customer accounts have been created "
+"referring to it."
+msgstr ""
+"Statusi i kreditit nuk mund te fshihet sepse jane krijuar llogari bleresish "
+"qe i referohen atij."
+
+msgid ""
+"Cannot delete this customer because there are branch records set up against "
+"it."
+msgstr "Nuk mund te fshihet ky bleres sepse ka shenime dege qe lidhen me te."
+
+msgid ""
+"Cannot delete this group because customers have been created using this "
+"group."
+msgstr ""
+"Nuk mund te fshihet ky grup sepse jane krijuar bleres qe perdorin kete grup."
+
+msgid ""
+"Cannot delete this item tax type because items have been created referring "
+"to it."
+msgstr ""
+"Nuk mjund te fshini tipin e takses se artikullit sepse jane krijuar tashme "
+"artikuj qe i referohen asaj."
+
+msgid ""
+"Cannot delete this sale type because customer transactions have been created "
+"using this sales type."
+msgstr ""
+"Nuk mund te fshihet ky tip shitjeje sepse jane krijuar transaksione "
+"bleresish duke perdorur kete tip shitjeje."
+
+msgid ""
+"Cannot delete this sale type because customers are currently set up to use "
+"this sales type."
+msgstr ""
+"Nuk mund te fshihet ky tip shitjeje sepse bleresit aktualisht jane "
+"rregulluar te perdorin kete pit shitjeje."
+
+msgid ""
+"Cannot delete this tax group because customer branches been created "
+"referring to it."
+msgstr ""
+"Nuk mund te fshini kete grup taksash sepse tashme jane krijuar dege "
+"bleresish qe i referohen atij."
+
+msgid ""
+"Cannot delete this tax group because suppliers been created referring to it."
+msgstr ""
+"Nuk mund te fshini kete grup taksash sepse tashme jane krijuar furnitore qe "
+"i referohen atij."
+
+msgid ""
+"Cannot delete this tax type because tax groups been created referring to it."
+msgstr ""
+"Nuk mund te fshini kete tip takse sepse jane krijuar tashme grupe taksash qe "
+"i referohen asaj."
+
+msgid "Cannot flush printing queue"
+msgstr "E pamundur te pastrohet radha e printimit"
+
+msgid "Cannot insert stock id into item_codes"
+msgstr ""
+"Nuk mund te futet numri i identifikimit te rezerves ne kodet e artikujve"
+
+msgid "Cannot open connection to printer"
+msgstr "E pamundur te hapet lidhja me printerin"
+
+msgid "Cannot open the configuration file - "
+msgstr "E pamundur te hapet dosja e konfigurimit -"
+
+msgid "Cannot open the extension setup file '%s' for writing."
+msgstr ""
+"Nuk mund te hapet dosja e setup-it te ekstensioneve '%s' per tu shkruar."
+
+msgid "Cannot open the languages file - "
+msgstr "E pamundur te hapet dosja e gjuheve -"
+
+msgid "Cannot query max sales order number."
+msgstr "Nuk mund te kerkohet numri maksimal i urdherave te shitjes."
+
+msgid "Cannot remove temporary renamed company data directory "
+msgstr ""
+"E pamundur te zhvendoset direktoria e riemertuar perkohesisht e te dhenave "
+"te kompanise"
+
+msgid "Cannot rename company subdirectory"
+msgstr "E pamundur te riemertohet nendirektoria e kompanise"
+
+msgid "Cannot rename subdirectory to temporary name."
+msgstr "E pamundur te riemertohet nendirektoria me emer te perkohshem."
+
+msgid "Cannot retrieve bank accounts codes"
+msgstr "Nuk mund te terheq kodet e llogarise bankare"
+
+msgid ""
+"Cannot retrieve exchange rate for currency %s as of %s. Please add exchange "
+"rate manually on Exchange Rates page."
+msgstr ""
+"E pamundur te terhiqet kursi i kembimit per valuten %s per %s. Ju lutem "
+"futni manualisht kursin e kembimit ne faqen e Kurseve te Kembimit."
+
+msgid "Cannot select stock identificators"
+msgstr "Nuk mund te perzgjidhen identifikuesit e rezerves"
+
+msgid "Cannot send report to printer"
+msgstr "E pamundur te dergohet raporti ne printer"
+
+msgid "Cannot store next sales order reference."
+msgstr "Nuk mund te ruhet referenca e urdherit te mepasem te shitjeve."
+
+msgid "Cannot update bank transactions"
+msgstr "Nuk mund te perditesohen transaksionet bankare"
+
+msgid ""
+"Cannot upgrade extensions system: file /modules/installed_modules.php is not "
+"writeable"
+msgstr ""
+"Nuk mund te permiresohet sistemi i ekstensioneve: file /modules/"
+"installed_modules.php nuk eshte e shkrueshme"
+
+msgid "Cannot write to the configuration file - "
+msgstr "E pamundur te shkruhet ne dosjen e konfigurimit"
+
+msgid "Cannot write to the extensions setup file '%s'."
+msgstr "Nuk mund te shkruhet mbi dosjen e setup-it te ekstensioneve '%s'."
+
+msgid "Cannot write to the language file - "
+msgstr "E pamundur te shkruhet mbi dosjen e gjuheve -"
+
+msgid "Cash"
+msgstr "Para te thata"
+
+msgid "Cash Account"
+msgstr "Llogari rrjedhese"
+
+msgid "Cash sale"
+msgstr "Shitje me para ne dore"
+
+msgid "Change password"
+msgstr "Nderro fjalekalimin"
+
+msgid "Charge Branch"
+msgstr "Faturoni Degen"
+
+msgid "Charge To"
+msgstr "Faturoni"
+
+msgid "Cheque"
+msgstr "Cek"
+
+msgid "Chequing Account"
+msgstr "Llogaria e Ceqeve"
+
+msgid "Click Here to Pick up the date"
+msgstr "Kliko ketu per te marre daten"
+
+msgid "Click here to Login Again."
+msgstr "Klikoni ketu per te hyre brenda perseri"
+
+msgid "Clone"
+msgstr "Klono"
+
+msgid "Close"
+msgstr "Mbyll"
+
+msgid "Comments:"
+msgstr "Komente:"
+
+msgid "Commit Order Changes"
+msgstr "Ekzekuto Ndryshimet ne Porosi"
+
+msgid "Commit Quotations Changes"
+msgstr "Ekzekuto Ndryshimet ne Vleresim"
+
+msgid "Common view/print transactions interface"
+msgstr "Nderfaqja e perbashket pamje/printim e transaksioneve"
+
+msgid "Company"
+msgstr "Kompania"
+
+msgid "Company GL setup"
+msgstr "Rregullimi i Librit te Pergjithshem te Llogarive te Kompanise"
+
+msgid "Company Logo:"
+msgstr "Logoja e Kompanise"
+
+msgid "Company has been updated."
+msgstr "Kompania e re u perditesua."
+
+msgid "Company parameters"
+msgstr "Prametrat e kompanise"
+
+msgid "Company setup"
+msgstr "Setup i kompanise"
+
+msgid "Compression:"
+msgstr "Kompresimi:"
+
+msgid "Confirm changes"
+msgstr "Konfirmo ndryshimet"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Cost Update"
+msgstr "Perditesim i Kostos"
+
+msgid "Cost of Goods Sold"
+msgstr "Kostoja e Mallrave te Shitura"
+
+msgid "Create Backup"
+msgstr "Krijo Kopje Rezerve"
+
+msgid "Create a new company"
+msgstr "Krijo nje kompani te re"
+
+msgid "Create backup"
+msgstr "Krijo Kopje Rezerve"
+
+msgid "Create/Update Company"
+msgstr "Krijo/Perditeso nje Kompani"
+
+msgid "Credit No."
+msgstr "Depozita Nr."
+
+msgid "Credit Notes"
+msgstr "Shenimet e kreditit"
+
+msgid "Credit Status"
+msgstr "Statusi i kreditit"
+
+msgid "Credit Status:"
+msgstr "Statusi i kreditit:"
+
+msgid "Credit sale"
+msgstr "Shitje me kredit"
+
+msgid "Credit status definitions changes"
+msgstr "Ndryshimet e perkufizimeve te statusit te kredise"
+
+msgid "Credits can only be applied to invoiced items."
+msgstr "Llogarite mund t'u atashohen vetem artikujve te faturuar"
+
+msgid "Cust Order Ref"
+msgstr "Ref. Por. Bler."
+
+msgid "Cust Ref"
+msgstr "Ref Bler"
+
+msgid "Customer Allocation Inquiry"
+msgstr "Pyetje mbi Alokimin e Bleresit"
+
+msgid "Customer Allocations"
+msgstr "Alokimet e Bleresve"
+
+msgid "Customer Branches"
+msgstr "Deget e Bleresve"
+
+msgid "Customer Currency:"
+msgstr "Valuta e Bleresit"
+
+msgid "Customer Discount:"
+msgstr "Zbritja per Bleresin"
+
+msgid "Customer Name"
+msgstr "Emri i Bleresit"
+
+msgid "Customer Name:"
+msgstr "Emri i bleresit:"
+
+msgid "Customer Order Ref."
+msgstr "Referenca e Porosise se Bleresit"
+
+msgid "Customer Payment"
+msgstr "Pagese e Bleresit"
+
+msgid "Customer Payment #%d"
+msgstr "Pagesa e Bleresit #%d"
+
+msgid "Customer Reference:"
+msgstr "Referenca e Bleresit"
+
+msgid "Customer Short Name:"
+msgstr "Emri i shkurte i bleresit:"
+
+msgid "Customer Transactions"
+msgstr "Transaksionet e Bleresit"
+
+msgid "Customer branches"
+msgstr "Deget e Bleresit"
+
+msgid "Customer bulk listing"
+msgstr "Listimi i teresise se bleresve"
+
+msgid "Customer has been updated."
+msgstr "Bleresi u perditesua."
+
+msgid "Customer payments allocation"
+msgstr "Alokimi i pagesave te bleresve"
+
+msgid "Customer payments entry"
+msgstr "Hyrjet e pagesave te bleresve"
+
+msgid "Customer payments report"
+msgstr "Raportet e pagesave te bleresit"
+
+msgid "Customer reference number for this order (if any)"
+msgstr "Numri i references se bleresit per kete porosi (nese ekziston)"
+
+msgid "Customer status report"
+msgstr "Raporti i statusit te bleresit"
+
+msgid "Customer status:"
+msgstr "Gjendja e bleresit:"
+
+msgid "Customer's Currency:"
+msgstr "Valuta e bleresit:"
+
+msgid "Customer:"
+msgstr "Bleresi:"
+
+msgid "Customers"
+msgstr "Bleresit"
+
+msgid "DATABASE ERROR :"
+msgstr "GABIM NE BAZEN E TE DHENAVE:"
+
+msgid "DISPATCH NOTE #%d"
+msgstr "SHENIM I DERGESES #%d"
+
+msgid "Database Host"
+msgstr "Bujtesi i Bazes se te Dhenave"
+
+msgid "Database Name"
+msgstr "Emri i Bazes se te Dhenave"
+
+msgid "Database Password"
+msgstr "Fjalekalimi i Bazes se te Dhenave"
+
+msgid "Database Script"
+msgstr "Skripti i Bazes se te Dhenave"
+
+msgid "Database User"
+msgstr "Perdoruesi i Bazes se te Dhenave"
+
+msgid "Database backup failed."
+msgstr "Krijimi i kopjes rezerve te Bazes se te Dhenave deshtoi"
+
+msgid "Database backup/restore"
+msgstr "Backup/restore i bazes se te dhenave"
+
+msgid "Date Items Received"
+msgstr "Data e Marrjes se Artikujve"
+
+msgid "Date Separator:"
+msgstr "Ndaresja e Dates:"
+
+msgid "Date Uploaded"
+msgstr "Data e ngarkimit"
+
+msgid "Date Voided:"
+msgstr "Data e ne te cilen kthehet e pavlefshme:"
+
+msgid "Date of Deposit"
+msgstr "Data e Depozitimit"
+
+msgid "Dated"
+msgstr "I datuar"
+
+msgid "Dateformat and Separators"
+msgstr "Formati i dates dhe ndareset"
+
+msgid "Dateformat:"
+msgstr "Formati i dates"
+
+msgid "Days:"
+msgstr "Ditet:"
+
+msgid "Dear"
+msgstr "I/E dashur"
+
+msgid "Debug mode database warning:"
+msgstr "Pralajmerim nga debug mode database:"
+
+msgid "December"
+msgstr "Dhjetor"
+
+msgid "Decimal Places"
+msgstr "Shifra pas presjes dhjetore"
+
+msgid "Decimal Separator:"
+msgstr "Ndaresja e dhjetesheve"
+
+msgid "Default Inventory Location:"
+msgstr "Vendndodhja baze e inventarit:"
+
+msgid "Default Rate (%)"
+msgstr "Perqindja baze (%)"
+
+msgid "Default Rate:"
+msgstr "Kursi baze:"
+
+msgid "Default Shipping Company:"
+msgstr "Kompania Transportuese baze:"
+
+msgid "Default account"
+msgstr "Llogaria baze"
+
+msgid "Default cash account"
+msgstr "Llogaria baze"
+
+msgid "Delete"
+msgstr "Fshij"
+
+msgid "Delete Backup"
+msgstr "Fshij Kopjen Rezerve"
+
+msgid "Delete Company Logo:"
+msgstr "Fshij logon e kompanise"
+
+msgid "Delete Customer"
+msgstr "Fshij bleresin"
+
+msgid "Delete customer data if have been never used"
+msgstr "Fshij te dhenat e bleresit nese nuk jane perdorur kurre"
+
+msgid "Deleted."
+msgstr "U fshi"
+
+msgid "Deleting GRN items during invoice entry"
+msgstr ""
+"Po fshij artikujt ne Shenimin e Artikujve te Marre gjate hyrjes se fatures"
+
+msgid "Deliver From Location"
+msgstr "Dorezo nga Vendndodhja"
+
+msgid "Deliver Into Location"
+msgstr "Dorezo ne vendndodhje"
+
+msgid "Deliver To"
+msgstr "Dorezoje ne"
+
+msgid "Deliver To Branch"
+msgstr "Dorezo ne degen"
+
+msgid "Deliver To:"
+msgstr "Dorezojeni tek:"
+
+msgid "Deliver from Location:"
+msgstr "Dorezo nga Vendndodhja"
+
+msgid "Deliver to:"
+msgstr "Dorezoje ne:"
+
+msgid "Delivered To"
+msgstr "Dorezuar"
+
+msgid "Delivery"
+msgstr "Dergese"
+
+msgid "Delivery #"
+msgstr "Dergese #"
+
+msgid "Delivery Address"
+msgstr "Adresa e Dorezimit"
+
+msgid "Delivery Date:"
+msgstr "Data e Dergimit:"
+
+msgid "Delivery Details"
+msgstr "Detajet e dorezimit"
+
+msgid "Delivery Note"
+msgstr "Shenim i Dorezimit"
+
+msgid "Delivery Note Items"
+msgstr "Artikujt e Shenimit te Dergeses"
+
+msgid "Delivery Note No."
+msgstr "Numri i Shenimit i Dergeses"
+
+msgid "Delivery Notes"
+msgstr "Shenimet e Dorezimit"
+
+msgid "Delivery To"
+msgstr "Dergoja"
+
+msgid "Delivery Total"
+msgstr "Totali i Dergeses"
+
+msgid "Delivery address. Default is address of customer branch"
+msgstr "Adresa e dergimit/ Adresa e deges se bleresit."
+
+msgid "Description"
+msgstr "Pershkrimi"
+
+msgid "Detail:"
+msgstr "Detaj:"
+
+msgid "Dimension entry"
+msgstr "Hyrjet e Permasave"
+
+msgid "Dimension reports"
+msgstr "Raporet e permasave"
+
+msgid "Dimension tags"
+msgstr "Etiketat e Permsave"
+
+msgid "Dimension view"
+msgstr "Pamja e Permasave"
+
+msgid "Dimensions configuration"
+msgstr "Konfigurimi i permasave"
+
+msgid "Discount Percent:"
+msgstr "Skonto ne perqindje:"
+
+msgid "Dispatch"
+msgstr "Dergo"
+
+msgid "Dispatch Date"
+msgstr "Data e Dergerses"
+
+msgid "Display preferences"
+msgstr "Shfaq preferencat"
+
+msgid "Display: "
+msgstr "Shfaq:"
+
+msgid "Dissallow Invoices"
+msgstr "Ndalo faturat ?"
+
+msgid "Dissallow invoicing ?"
+msgstr "Ndaloje faturimin ?"
+
+msgid "Domicile"
+msgstr "Shtepi"
+
+msgid "Domicile:"
+msgstr "Adresa zyrtare:"
+
+msgid "Dots"
+msgstr "Pika"
+
+msgid "Download"
+msgstr "Shkarko"
+
+msgid "Download Backup"
+msgstr "Shkarko Kopjen Rezerve"
+
+msgid "Drawn on Bank"
+msgstr "Terheque ne Banke"
+
+msgid "DueDate"
+msgstr "Data e percaktuar"
+
+msgid "Edit"
+msgstr "Redakto"
+
+msgid "Edit document line"
+msgstr "Redakto rreshtin e dokumentit"
+
+msgid "Edit journal line"
+msgstr "Redakto rreshtin e ditarit"
+
+msgid "Edit new record with current data"
+msgstr "Redakto procesverbalin me daten e sotme"
+
+msgid "Email Address:"
+msgstr "Adresa E-Mail:"
+
+msgid "End:"
+msgstr "Perfundo:"
+
+msgid "Enter Delivery Details and Confirm Dispatch"
+msgstr "Fut Detajet e Dergimit dhe Konfirmo Dergesen"
+
+msgid "Enter Delivery Details and Confirm Order"
+msgstr "Fut Detajet e Dergeses dhe Konfirmo Porosine"
+
+msgid "Enter Delivery Details and Confirm Quotation"
+msgstr "Fut Detajet e Dergeses dhe Konfirmo Vleresimin"
+
+msgid "Enter Valid until Date"
+msgstr "Futni e Vlefshme deri ne Daten"
+
+msgid "Enter code fragment to search or * for all"
+msgstr "Fut frgmentin e kodit per te bere kerkimin ose * per te gjitha"
+
+msgid "Enter description fragment to search or * for all"
+msgstr "Fut fragmentin pershkrues per te bere kerkimin ose * per te gjitha"
+
+msgid "Enter requested day of delivery"
+msgstr "Futni diten e kerkuar te dorezimit"
+
+msgid "Enter your new password in the fields."
+msgstr "Futni fjalekalimin tuaj te ri ne hapesirat."
+
+msgid "Equity"
+msgstr "Vlefta"
+
+msgid "Error creating Database: "
+msgstr "Gabim gjate krijimit te Bazes se te Dhenave."
+
+msgid "Error removing Database: "
+msgstr "Gabim gjate zhvendosjes se Bazes se te Dhenave"
+
+msgid "Error sending print job control file"
+msgstr "Gabim ne dergimin e dosjes se kontrollit te printimit"
+
+msgid "Error uploading logo file"
+msgstr "Gabim gjate ngarkimit te dosjes se logos"
+
+msgid "Exchange Rates:"
+msgstr "Kursi i Kembimit:"
+
+msgid "Exchange Variance"
+msgstr "Varianca e Kembimit"
+
+msgid "Exchange rate table changes"
+msgstr "Ndryshimet e tabeles se Kursit te Kembimit"
+
+msgid "Expense"
+msgstr "Shpenzimi"
+
+msgid "Factor"
+msgstr "Faktor"
+
+msgid "Fax No"
+msgstr "Nr. i Faksit"
+
+msgid "Fax Number:"
+msgstr "Numri i Faksit:"
+
+msgid "Fax number:"
+msgstr "Numri i faksit:"
+
+msgid "February"
+msgstr "Shkurt"
+
+msgid "File successfully deleted."
+msgstr "Dosja u fshi me sukses"
+
+msgid "File was not uploaded into the system."
+msgstr "Dosja nuk u ngarkua ne sistem"
+
+msgid "Filename"
+msgstr "Emri i dosjes"
+
+msgid "Filetype"
+msgstr "Lloji i dosjes"
+
+msgid "Final product receive"
+msgstr "Marrja e produktit perfundimtar"
+
+msgid "First"
+msgstr "I Pari"
+
+msgid "Fiscal Year"
+msgstr "Viti fiskal"
+
+msgid "Fiscal Year:"
+msgstr "Viti fiskal:"
+
+msgid "Fiscal Years"
+msgstr "Vitet Fiskale"
+
+msgid "Fiscal years maintenance"
+msgstr "Mirembajtja e Viteve Fiskale"
+
+msgid "For Part :"
+msgstr "Per Pjesen:"
+
+msgid "For Purchase Order"
+msgstr "Per Urdherin e Blerjes"
+
+msgid ""
+"For batch invoicing you should\n"
+"\t\t    select at least one delivery. All items must be dispatched to\n"
+"\t\t    the same customer branch."
+msgstr ""
+"Per te faturuar ne grumbull ju duhet te zgjidhni te pakten nje dergese. Te "
+"gjithe artikujt duhet te dorezohen ne te njejten dege bleresi."
+
+msgid "Foreign item codes entry"
+msgstr "Hyrja e kodeve te artikujve te huaj"
+
+msgid "Forms setup"
+msgstr "Setup i formulareve"
+
+msgid "Fr"
+msgstr "E Premte"
+
+msgid "From Customer"
+msgstr "Nga Bleresi"
+
+msgid "Funds Transfer"
+msgstr "Transferim i Fondeve"
+
+msgid "GL Account tags"
+msgstr "Etiketat ne Llogarine e Librit te Pergjithshem te Llogarive"
+
+msgid "GL Items for this Credit Note"
+msgstr "Artikuj nga Libri i Pergjithshem i Llogarive per kete Liste Porosish."
+
+msgid "GL Items for this Invoice"
+msgstr "Artikuj nga Libri i Pergjithshem i Llogarive per kete Fature."
+
+msgid "GL account classes"
+msgstr "Klasat e Llogarive te Librit te Pergjithshem te Llogarive"
+
+msgid "GL account groups"
+msgstr "Grupet e llogarive te Librit te Pergjithshem te Llogarive"
+
+msgid "GL accounts edition"
+msgstr "Edicionet e llogarive te Librit te Pergjithshem te Llogarive"
+
+msgid "GL analytical reports and inquiries"
+msgstr "Raportet dhe pyetjet analitike te Librit te Pergjithshem te Llogarive"
+
+msgid "GL postings view"
+msgstr "Pamja e postimeve ner Librin e Pergjithshem te Llogarive"
+
+msgid "GL reports and inquiries"
+msgstr "Raportet dhe pyetjet e Librit te Pergjithshem te Llogarive"
+
+msgid "GSTNo:"
+msgstr "GSTNo:"
+
+msgid "Generated At"
+msgstr "I gjeneruar ne"
+
+msgid "Generated By"
+msgstr "I gjeneruar nga"
+
+msgid "Go"
+msgstr "Nisu"
+
+msgid "Group Name"
+msgstr "Emri i Grupit"
+
+msgid "Group Name:"
+msgstr "Emri i Grupit:"
+
+msgid "Help"
+msgstr "Ndihme"
+
+msgid "Home Currency:"
+msgstr "Monedha e vendit:"
+
+msgid "Horizontal bars"
+msgstr "Shtylla horizontale"
+
+msgid "Host"
+msgstr "Bujtesi"
+
+msgid ""
+"If set document date is remembered on subsequent documents, otherwise "
+"default is current date"
+msgstr ""
+"Nese aktivizohet, data e dokumentit do te mbahet mend ne dokumentet "
+"pasardhes,perndryshe do te perdoret dat e sotme"
+
+msgid "If this does not happen"
+msgstr "Nese kjo nuk ndodh"
+
+msgid ""
+"If you are not an authorized user, please contact your system administrator "
+"to obtain an account to enable you to use the system."
+msgstr ""
+"Nese nuk jeni perdorues i autorizuar, ju lutem kontaktoni administratorin e "
+"sistemit qe te siguroni nje llogari qe t'ju mundesoje te perdorni sistemin."
+
+msgid "Included"
+msgstr "Perfshire"
+
+msgid "Income"
+msgstr "Te ardhurat"
+
+msgid "Incorrect Password"
+msgstr "Fjalekalimi i gabuar"
+
+msgid "Install/update companies"
+msgstr "Instalo/Perditeso kompanite"
+
+msgid "Install/update languages"
+msgstr "Instalo/Perditeso gjuhet"
+
+msgid "Install/upgrade modules"
+msgstr "Instalo/Permireso modulet"
+
+msgid "Into Bank Account"
+msgstr "Ne llogarine bankare"
+
+msgid "Into Location"
+msgstr "Ne Vendndodhje"
+
+msgid "Invalid BEGIN date in fiscal year."
+msgstr "Data fillestare e vitit fiskal e pavlefshme."
+
+msgid "Invalid END date in fiscal year."
+msgstr "Data perfundimtare e vitit fiskal e pavlefshme."
+
+msgid "Inventory Adjustment"
+msgstr "Rregullimi i Inventarit"
+
+msgid "Inventory adjustments"
+msgstr "Rregullimet e Inventarit"
+
+msgid "Inventory analytics"
+msgstr "Analizat e Inventarit"
+
+msgid "Inventory configuration"
+msgstr "Konfigurimi i inventarit"
+
+msgid "Inventory location transfers"
+msgstr "Transferimet e vendndodhjes se inventarit"
+
+msgid "Inventory locations changes"
+msgstr "Ndryshimet e vendndodhjes se inventarit"
+
+msgid "Inventory movement types"
+msgstr "Llojet e levizjes se inventarit"
+
+msgid "Inventory operations"
+msgstr "Veprimet e inventarit"
+
+msgid "Inventory valuation report"
+msgstr "Raporti i vleresimit te inventarit"
+
+msgid "Invoice Delivery Details"
+msgstr "Detajet e dorezimit te fatures"
+
+msgid "Invoice OK"
+msgstr "Fatura OK"
+
+msgid "Invoice Total:"
+msgstr "Totali i fatures:"
+
+msgid "Invoice before"
+msgstr "Fatura perpara"
+
+msgid "Invoices"
+msgstr "Fatura"
+
+msgid "Is Fully Tax-exempt:"
+msgstr "Eshte plotesisht i perjashtuar nga taksat:"
+
+msgid "Is exempt"
+msgstr "Perjashtohet nga"
+
+msgid "Issue Date:"
+msgstr "Data e leshimit:"
+
+msgid "Item Tax Types"
+msgstr "Tipet e takses se artikullit"
+
+msgid "Item categories"
+msgstr "Kategorite e artikujve"
+
+msgid "Item standard costs"
+msgstr "Kostot standarte te artikullit"
+
+msgid "Item tax type definitions"
+msgstr "Perkufizimet e tipit te takses se artikullit"
+
+msgid "Items Received Yet to be Invoiced"
+msgstr "Artikujt e marre, akoma per tu faturuar"
+
+msgid "Items Returned to Inventory Location"
+msgstr "Artikuj te Kthyer ne Vendndodhjen e Inventarit"
+
+msgid "Items Written Off"
+msgstr "Artikuj te fshire"
+
+msgid "Items analytical reports and inquiries"
+msgstr "Pyetjet dhe raportet analitike te Artikujve"
+
+msgid "January"
+msgstr "Janar"
+
+msgid "Journal entries to bank related accounts"
+msgstr "Hyrjet e ditarit tek llogarite bankare perkatese"
+
+msgid "July"
+msgstr "Korrik"
+
+msgid "June"
+msgstr "Qershor"
+
+msgid "Kindest regards"
+msgstr "Pershendetje te perzemerta"
+
+msgid "Labour Cost"
+msgstr "Kostoja e Punes"
+
+msgid "Language"
+msgstr "Gjuha"
+
+msgid "Language:"
+msgstr "Gjuha:"
+
+msgid "Last"
+msgstr "I fundit"
+
+msgid "Left to Allocate:"
+msgstr "Per tu alokuar:"
+
+msgid "Line Value"
+msgstr "Vlera totale"
+
+msgid "Lines"
+msgstr "Vija"
+
+msgid "Location Transfer"
+msgstr "Transferim i Vendndodhjes"
+
+msgid "Login"
+msgstr "Hyr "
+
+msgid "Login -->"
+msgstr "Hyr  -->"
+
+msgid "Logout"
+msgstr "Dil jashte"
+
+msgid "Main  Menu"
+msgstr "Menuja Kryesore"
+
+msgid "Main Branch"
+msgstr "Dega kryesore"
+
+msgid "Main Menu"
+msgstr "Menuja kryesore"
+
+msgid "Manual journal entries"
+msgstr "Hyrjet manuale ne Librin e Llogarive"
+
+msgid "Manufacture work centres"
+msgstr "Qendrat e punes se prodhimit"
+
+msgid "Manufactured Item"
+msgstr "Artikull i Prodhuar"
+
+msgid "Manufacturing analytics"
+msgstr "Analizat e prodhimit"
+
+msgid "Manufacturing configuration"
+msgstr "Konfigurimi i prodhimit"
+
+msgid "Manufacturing cost inquiry"
+msgstr "Pyetje per koston e prodhimit"
+
+msgid "Manufacturing operations view"
+msgstr "Pamja e Operacioneve te Prodhimit"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "Marked items have insufficient quantities in stock."
+msgstr "Nuk ka sasi te mjaftueshme te artikujve te shenuar."
+
+msgid ""
+"Marked sales type is the company base pricelist for prices calculations."
+msgstr ""
+"Tipi i shitjes i shenuar eshte lista baze e cmimeve te kompanise per "
+"llogaritjet e cmimeve."
+
+msgid "Material issues entry"
+msgstr "Hyrja e Kerkesave Materiale"
+
+msgid "May"
+msgstr "Maj"
+
+msgid "Miscellaneous"
+msgstr "Te ndryshme"
+
+msgid "Mo"
+msgstr "E Hene"
+
+msgid "Monthly:"
+msgstr "Mujore:"
+
+msgid "Months back."
+msgstr "Muajt prapa."
+
+msgid "Months."
+msgstr "Muajt."
+
+msgid "NO INVOICING"
+msgstr "NUK KA FATURIME"
+
+msgid "Name (to appear on reports):"
+msgstr "Emri ( qe do te shfaqet ne raporte)"
+
+msgid "Name and Address"
+msgstr "Emri dhe Adresa"
+
+msgid "Negative Adjustment"
+msgstr "Rregullim Negativ"
+
+msgid "New Company Logo (.jpg)"
+msgstr "Logoja e re e kompanise (.jpg)"
+
+msgid "New company has been created."
+msgstr "Kompania e re u krijua."
+
+msgid "New credit status has been added"
+msgstr "Satusi i ri i kreditit u shtua."
+
+msgid "New customer"
+msgstr "Bleres i ri"
+
+msgid "New customer branch has been added"
+msgstr "Dega e re e bleresve u shtua"
+
+msgid "New item tax type has been added"
+msgstr "Tipi i ri i takses se artikullit u shtua."
+
+msgid "New point of sale has been added"
+msgstr "Pika e re e shitjes u shtua"
+
+msgid "New recurrent invoice has been added"
+msgstr "Fatura e re rekurrente u shtua"
+
+msgid "New role"
+msgstr "Rol i ri."
+
+msgid "New sales area has been added"
+msgstr "Zona e re e shitjeve u shtua"
+
+msgid "New sales group has been added"
+msgstr "Grupi i ri i shitjeve u shtua"
+
+msgid "New sales person data have been added"
+msgstr "Te dhenat e personit te ri te shitjeve u shtuan"
+
+msgid "New sales type has been added"
+msgstr "Tipi i ri i shitjeve u shtua"
+
+msgid "New script Admin Password"
+msgstr "Skript i ri Fjalekalimi i Administratorit"
+
+msgid "New tax group has been added"
+msgstr "Grupi i ri i taksave u shtua"
+
+msgid "New tax type has been added"
+msgstr "Lloji i ri i takses u shtua"
+
+msgid "Next"
+msgstr "Tjetri"
+
+msgid "No"
+msgstr "Jo"
+
+msgid "No Account Group Filter"
+msgstr "Asnje filter  grup llogarie"
+
+msgid "No Category Filter"
+msgstr "Asnje filter kategorie"
+
+msgid "No Currency Filter"
+msgstr "Asnje filter valute"
+
+msgid "No Customer Filter"
+msgstr "Asnje filter bleresi"
+
+msgid "No Dimension Filter"
+msgstr "Asnje filter permasash"
+
+msgid "No Graphics"
+msgstr "Asnje grafik"
+
+msgid "No Location Filter"
+msgstr "Asnje filter lokal"
+
+msgid "No Quick Entries are defined."
+msgstr "Nuk eshte percaktuar asnje Hyrje e Shpejte."
+
+msgid "No Sales Folk Filter"
+msgstr "Asnje filter shitesish"
+
+msgid "No Supplier Filter"
+msgstr "Asnje filter furnizuesi"
+
+msgid "No Type Filter"
+msgstr "Asnje filter tipi"
+
+msgid "No Users Filter"
+msgstr "Asnje filter perdoruesi"
+
+msgid "No ack after report printout"
+msgstr "Asnje njoftim pas printimit te raportit"
+
+msgid "No active tags defined."
+msgstr "Asnje etikete aktive nuk eshte perkufizuar."
+
+msgid "No customer found for entered text."
+msgstr "Nuk gjendet asnje bleres per te dhenat e futura"
+
+msgid "No payment Link"
+msgstr "Asnje link pagese"
+
+msgid "No records"
+msgstr "Asnje e dhene"
+
+msgid "No tags defined."
+msgstr "Asnje etikete nuk eshte perkufizuar."
+
+msgid "None"
+msgstr "Asnje"
+
+msgid "November"
+msgstr "Nentor"
+
+msgid "October"
+msgstr "Tetor"
+
+msgid "Official Company Number:"
+msgstr "Numri zyrtar i kompanise:"
+
+msgid "On Hand"
+msgstr "Ne Dore"
+
+msgid "Only graphics files can be uploaded"
+msgstr "Vetem dosjet grafike mund te ngarkohen"
+
+msgid ""
+"Only jpg and png files are supported - a file extension of .jpg or .png is "
+"expected"
+msgstr ""
+"Pranohen vetem dosje jpg dhe png - prapashtesat e pritshme jane .jpg ose .png"
+
+msgid "Order #"
+msgstr "Porosia #"
+
+msgid "Order Comments"
+msgstr "Komente mbi Porosine"
+
+msgid "Order Currency"
+msgstr "Valuta e Porosise"
+
+msgid "Order Date:"
+msgstr "Data e Porosise:"
+
+msgid "Order Delivery Details"
+msgstr "Detajet e Dorezimit te Porosise"
+
+msgid "Order Information"
+msgstr "Informacionet e Porosise"
+
+msgid "Order Items"
+msgstr "Artikujt e Porosise"
+
+msgid "Order No."
+msgstr "Porosia Nr."
+
+msgid "Order To"
+msgstr "Porosit ne"
+
+msgid "Ordered On"
+msgstr "Porositur ne"
+
+msgid "Other Allocations"
+msgstr "Alokime te tjera"
+
+msgid "Our Order No"
+msgstr "Porosia jone Nr."
+
+msgid "Our VAT No."
+msgstr "Numri yne i T.V.SH."
+
+msgid "Outstanding Transactions"
+msgstr "Transaksionet e paperfunduara"
+
+msgid "Overdue Credit Notes"
+msgstr "Lista Porosish te Vonuara"
+
+msgid "Overdue Invoices"
+msgstr "Fatura te Vonuara"
+
+msgid "Overhead Cost"
+msgstr "Kostot e Mbajtjes"
+
+msgid "P.O."
+msgstr "Kutia Postare"
+
+msgid "PDF/Printer"
+msgstr "PDF/Printer"
+
+msgid "POS Name"
+msgstr "Emri i pikes se shitjes"
+
+msgid "POS location"
+msgstr "Vendndodhja e pikes se shitjes"
+
+msgid "POS settings"
+msgstr "Rregullimet e Pikes se Shitjes"
+
+msgid "Page"
+msgstr "Faqe"
+
+msgid "Page Size:"
+msgstr "Permasat e Faqes:"
+
+msgid "Password cannot be changed in demo mode."
+msgstr "Fjalekalimi nuk mund te ndryshohet ne modalitet demo."
+
+msgid "Password changes"
+msgstr "Ndryshimet e fjalekalimit"
+
+msgid "Password:"
+msgstr "Fjalekalimi"
+
+msgid "Pay To:"
+msgstr "Paguaja:"
+
+msgid "Payment terms"
+msgstr "Kushtet e pageses"
+
+msgid "Payment:"
+msgstr "Pagesa"
+
+msgid "Payments"
+msgstr "Pagesa"
+
+msgid "Percentages:"
+msgstr "Perqindjet:"
+
+msgid "Phone No"
+msgstr "Nr. i Tel."
+
+msgid "Phone Number:"
+msgstr "Numri i Telefonit:"
+
+msgid "Phone number of ordering person. Defaults to branch phone number"
+msgstr "Nimri i telefonit te porositesit ose numri i telefonit te deges."
+
+msgid "Place Delivery"
+msgstr "Vendos Dergesen"
+
+msgid "Place Invoice"
+msgstr "Vendos Faturen"
+
+msgid "Place Quotation"
+msgstr "Vensos Vleresimin"
+
+msgid "Please contact System Administrator."
+msgstr "Ju lutem kontaktoni administratorin e sistemit"
+
+msgid "Please contact your system administrator."
+msgstr "Ju lutem kontaktoni administratorin e sistemit."
+
+msgid "Please login here"
+msgstr "Ju lutem hyni ketu"
+
+msgid "Please quote Credit no. when paying. All amounts stated in"
+msgstr ""
+"Ju lutem citoni numrin e llogarise gjate pageses. Te gjitha shumat e "
+"deklaruara ne"
+
+msgid "Please quote Invoice no. when paying. All amounts stated in"
+msgstr ""
+"Ju lutem citoni numrin e fatures gjate pageses. Te gjitha shumat e "
+"deklaruara ne"
+
+msgid ""
+"Please remove $security_groups and $security_headings arrays from config.php "
+"file!"
+msgstr ""
+"Ju lutem hiqni tabelat $security_groups and $security_headings nga file "
+"config.php!"
+
+msgid "Please reorder"
+msgstr "Ju lutem, bejeni  edhe nje here porosine"
+
+msgid "Point of Sale Name"
+msgstr "Emri i pikes se shitjes"
+
+msgid "Point of sales definitions"
+msgstr "Perkufizimet e pikes se shitjeve"
+
+msgid "Positive Adjustment"
+msgstr "Rregullim Pozitiv"
+
+msgid "Preferences"
+msgstr "Preferencat"
+
+msgid "Press Space tab for search pattern entry"
+msgstr "Shtyp hapesire per te futur menyren e kerkimit"
+
+msgid "Press Space tab to filter by name fragment"
+msgstr "Shtypni Hapesire per te filtruar sipas fragmenteve te emrit"
+
+msgid "Press Space tab to filter by name fragment; F2 - entry new customer"
+msgstr ""
+"Shtypni Hapesire per te filtruar sipas fragmenteve te emrit; F2 - fut bleres "
+"te ri"
+
+msgid "Prev"
+msgstr "I meparshem"
+
+msgid "Price List:"
+msgstr "Lista e cmimeve"
+
+msgid "Prices/Amounts:"
+msgstr "Cmimet/Shumat"
+
+msgid "Print Out Date"
+msgstr "Data e printimit"
+
+msgid "Print Receipt"
+msgstr "Printo Kuponin"
+
+msgid "Print control file not accepted"
+msgstr "Dosja e kontrollit te printimit nuk pranohet"
+
+msgid "Print profiles"
+msgstr "Profilet e printimit"
+
+msgid "Printer does not acept the job"
+msgstr "Printeri nuk e pranon detyren"
+
+msgid "Printers configuration"
+msgstr "Konfigurimi i printerave"
+
+msgid "Printing profile"
+msgstr "Profili i printimit"
+
+msgid "Production."
+msgstr "Prodhim."
+
+msgid "Prompt Payment Discount Percent:"
+msgstr "Skonto per pagesen e shpejte ne perqindje:"
+
+msgid "Purchase Order No."
+msgstr "Urdheri i Blerjes nr."
+
+msgid "Purchase analytics"
+msgstr "Analizat e blerjeve"
+
+msgid "Purchase configuration"
+msgstr "Konfigurimi i blerjeve"
+
+msgid "Purchase order entry"
+msgstr "Hyrja e urdherit te blerjes"
+
+msgid "Purchase price changes"
+msgstr "Ndryshimet e cmimit te blerjes"
+
+msgid "Purchase receive"
+msgstr "Marrja e blerjes"
+
+msgid "Purchase transactions"
+msgstr "Transaksionet e blerjeve"
+
+msgid "Purchased"
+msgstr "Te blera"
+
+msgid "Purchasing GL Account"
+msgstr "Duke blere Llogari nga Libri i Pergjithshem i Llogarive"
+
+msgid "Purchasing GL Account:"
+msgstr "Duke blere Llogari nga Libri i Pergjithshem i Llogarive:"
+
+msgid "Qty Yet To Credit"
+msgstr "Sasia e mbetur per tu kredituar"
+
+msgid "Qty Yet To Invoice"
+msgstr "Sasia e mbetur per tu faturuar"
+
+msgid "Quantities:"
+msgstr "Sasite"
+
+msgid "Quantity Delivered"
+msgstr "Sasia e Dorezuar"
+
+msgid "Query page size:"
+msgstr "Permasat e faqes se kerkeses"
+
+msgid "Query size must be integer and greater than zero."
+msgstr "Permasa e kerkeses duhet te jete integer dhe me e madhe se zero."
+
+msgid "Quick Entry"
+msgstr "Hyrje e shpejte"
+
+msgid "Quick Entry:"
+msgstr "Hyrje e shpejte:"
+
+msgid "Quick GL entry definitions"
+msgstr ""
+"Perkufizimet e Hyrjeve te Shpejta te Librit te Pergjithshem te Llogarive"
+
+msgid "Quick production."
+msgstr "Prodhim i shpejte."
+
+msgid "Quotation Date:"
+msgstr "Data e Vleresimit:"
+
+msgid "Quotation Delivery Details"
+msgstr "Detajet e Dergimit te Preventivit"
+
+msgid "Quote #"
+msgstr "Cakto #"
+
+msgid "Quote Date"
+msgstr "Cakto Daten"
+
+msgid "Quote Total"
+msgstr "Cakto Totalin"
+
+msgid "Receipt No."
+msgstr "Fatura Nr."
+
+msgid "Receive Into:"
+msgstr "Merr ne:"
+
+msgid "Received / Sign"
+msgstr "U mor/ Firmos"
+
+msgid "Received On"
+msgstr "U mor ne"
+
+msgid "Received between"
+msgstr "U mor mes"
+
+msgid "Records %d-%d of %d"
+msgstr "Te dhena %d-%d nga %d"
+
+msgid "Recurrent Invoices"
+msgstr "Fatura rekurrente"
+
+msgid "Recurrent invoices definitions"
+msgstr "Perkufizimi i faturave rekurrente"
+
+msgid "Reference number unique for this document type"
+msgstr "Numri i references unik per kete lloj dokumenti"
+
+msgid "Released."
+msgstr "I leshuar."
+
+msgid "Remainder"
+msgstr "Mbetja"
+
+msgid "Remember last document date:"
+msgstr "Mbaj mend daten e dokumentit te fundit:"
+
+msgid "Remittance No."
+msgstr "Dergesa Nr."
+
+msgid "Remove line from document"
+msgstr "Hiq rreshtin ga dokumenti"
+
+msgid "Remove line from journal"
+msgstr "Hiq rresht nga ditari"
+
+msgid "Reorder levels"
+msgstr "Radhit perseri nivelet"
+
+msgid "Report Classes:"
+msgstr "Klasat e Raporteve"
+
+msgid "Report Date"
+msgstr "Data e raportit"
+
+msgid "Report Period"
+msgstr "Periudha e Raportit"
+
+msgid "Report has been sent to network printer "
+msgstr "Raporti iu dergua printerit te rrjetit"
+
+msgid "Reports For Class: "
+msgstr "Raportet per Klasen:"
+
+msgid "Requested Delivery"
+msgstr "Dorezimi i Kerkuar"
+
+msgid "Requesting data..."
+msgstr "Duke kerkuar te dhenat..."
+
+msgid "Required Delivery Date"
+msgstr "Data e kerkuar e dorezimit"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Restore Backup"
+msgstr "Rikthe Kopjen Rezerve"
+
+msgid "Restore backup completed."
+msgstr "Rikthimi i kopjes rezerve u krye"
+
+msgid "Restricted access"
+msgstr "Akses i kufizuar"
+
+msgid "Return Items to Location"
+msgstr "Ktheni artikujt ne vendndodhjen"
+
+msgid "Reverse Transaction:"
+msgstr "Kthe mbrapesht transaksionin"
+
+msgid "Round to nearest:"
+msgstr "Rrumbullakose drejt shifres me te afert"
+
+msgid "SALES INVOICE #%d"
+msgstr "FATURA E SHITJEVE #%d"
+
+msgid "SQL script execution failed in line %d: %s"
+msgstr "Ekzekutimi i skriptit SQL deshtoi ne rreshtin %d: %s"
+
+msgid "Sa"
+msgstr "E Shtune"
+
+msgid "Sales Area:"
+msgstr "Zona e Shitjeve:"
+
+msgid "Sales GL Account"
+msgstr "Llogaria e Shitjeve ne Librin e Pergjithshem te Llogarive"
+
+msgid "Sales GL Account:"
+msgstr "Llogaria e Shitjeve ne Librin e Pergjithshem te Llogarive:"
+
+msgid "Sales Group:"
+msgstr "Grupi i shitjeve:"
+
+msgid "Sales Groups"
+msgstr "Grupet e Shitjeve"
+
+msgid "Sales Invoice"
+msgstr "Fatura e Shitjeve"
+
+msgid "Sales Invoices"
+msgstr "Faturat e shitjeve"
+
+msgid "Sales Order"
+msgstr "Urdher Shitjeje"
+
+msgid "Sales Order #%d"
+msgstr "Urdheri i Shitjeve #%d"
+
+msgid "Sales Order Items"
+msgstr "Artikujt e Urdherit te Shitjes"
+
+msgid "Sales Person"
+msgstr "Personi i shitjeve"
+
+msgid "Sales Person:"
+msgstr "Personi i Shitjeve:"
+
+msgid "Sales Persons"
+msgstr "Personat e shitjeve"
+
+msgid "Sales Quotation #%d"
+msgstr "Vleresimi i Shitjeve #%d"
+
+msgid "Sales Quotation Items"
+msgstr "Artikujt e Vleresimit te Shitjes"
+
+msgid "Sales Type Name"
+msgstr "Emri i Tipit te Shitjes"
+
+msgid "Sales Type/Price List:"
+msgstr "Lloji i shitjes/Lista e cmimeve:"
+
+msgid "Sales analytical reports"
+msgstr "Raportet analitike te shitjeveve"
+
+msgid "Sales areas maintenance"
+msgstr "Mirembajtja e zonave te shitjeve"
+
+msgid "Sales configuration"
+msgstr "Konfigurimi i shitjeve"
+
+msgid "Sales credit notes against invoice"
+msgstr "Shenimet e kreditit te shitjeve perkundrejt fatures"
+
+msgid "Sales customer and branches changes"
+msgstr "Ndryshimet e bleresve apo degeve te shitjeve"
+
+msgid "Sales deliveries edition"
+msgstr "Edicioni i dergesave te shitjeve"
+
+msgid "Sales document bulk reports"
+msgstr "Raporti i teresise se dokumenteve te shitjeve"
+
+msgid "Sales freehand credit notes"
+msgstr "Shenimet e kreditit te shitjeve te shkruara me dore"
+
+msgid "Sales groups changes"
+msgstr "Ndryshimet e grupeve te shitjeve"
+
+msgid "Sales invoices edition"
+msgstr "Edicioni i faturave te shitjes"
+
+msgid "Sales kits"
+msgstr "Kitet e shitjeve"
+
+msgid "Sales orders edition"
+msgstr "Edicioni i urdherave te shitjeve"
+
+msgid "Sales person name:"
+msgstr "Emri i personit te shitjeve:"
+
+msgid "Sales prices edition"
+msgstr "Edicioni i cmimit te shitjeve"
+
+msgid "Sales prices listing"
+msgstr "Listimi i cmimeve te shitjeve"
+
+msgid "Sales quotations"
+msgstr "Preventiet e shitjeve"
+
+msgid "Sales related reports"
+msgstr "Raportet e lidhura me shitjet"
+
+msgid "Sales staff listing"
+msgstr "Listimi i stafit te shitjeve"
+
+msgid "Sales staff maintenance"
+msgstr "Mirembajtja e stafit te shitjeve"
+
+msgid "Sales templates"
+msgstr "Shembujt e shitjeve"
+
+msgid "Sales transactions"
+msgstr "Transaksionete e shitjeve"
+
+msgid "Sales transactions view"
+msgstr "Pamja e transaksioneve te shitjeve"
+
+msgid "Sales types"
+msgstr "Llojet e shitjeve"
+
+msgid "Save"
+msgstr "Ruaj"
+
+msgid "Savings Account"
+msgstr "Llogaria e Kursimeve"
+
+msgid "Search All Deliveries"
+msgstr "Kerko te gjitha Dergesat"
+
+msgid "Search All Sales Orders"
+msgstr "Kerko te gjithe Urdherat e Shitjeve"
+
+msgid "Search All Sales Quotations"
+msgstr "Kerko te gjithe Vleresimet e Shitjeve"
+
+msgid "Search Customer List"
+msgstr "Kerko ne Listen e Bleresve"
+
+msgid "Search Item List"
+msgstr "Kerko ne Listen e Artikujve"
+
+msgid "Search Not Invoiced Deliveries"
+msgstr "Kerko Dergesat jo te Faturuara"
+
+msgid "Search Outstanding Sales Orders"
+msgstr "Kerko Urdherat e Shitjes se Vonuar"
+
+msgid "Search Supplier List"
+msgstr "Kerko ne Listene Furnizuesve"
+
+msgid "Search Template for Invoicing"
+msgstr "Kerko Model per Faturim"
+
+msgid "Security settings have not been defined for your user account."
+msgstr ""
+"Te dhenat e sigurise nuk jane percaktuar per llogarine tuaj si perdorues."
+
+msgid ""
+"Seems that system upgrade to version 2.1 has \n"
+"\t\t\tbeen performed for this company already.<br> If something has gone \n"
+"\t\t\twrong and you want to retry upgrade process you MUST perform \n"
+"\t\t\tdatabase restore from last backup file first."
+msgstr ""
+"Me sa duket permiresimi i sistemit me versionin 2.1 eshte bere tashme per "
+"kete kompani. Nese dicka nuk ka shkuar mire dhe ju doni ta riprovoni "
+"proceduren e permiresimit ju DUHET te kryeni me perpara  rekuperimin e Bazes "
+"se te Dhenave nga dosja e fundit e Kpjes Rezerve."
+
+msgid "Select"
+msgstr "Perzgjidh"
+
+msgid "Select Template for Delivery"
+msgstr "Perzgjirh modelin per Dergese"
+
+msgid "Select a customer: "
+msgstr "Perzgjidhni nje bleres:"
+
+msgid "Select backup file first."
+msgstr "Zgjidh te ruash fillimisht kopje rezerve "
+
+msgid "Select customer"
+msgstr "Zgjidhni Bleresin"
+
+msgid "Select customer branch"
+msgstr "Zgjidhni degen e bleresit"
+
+msgid "Select or &Add"
+msgstr "Perzgjidh ose Shto"
+
+msgid "Select supplier"
+msgstr "Zgjidhni Furnizuesin"
+
+msgid "Select the taxes that are included in this group."
+msgstr "Perzgjidh taksat qe perfshihen ne kete grup."
+
+msgid "Select this customer and return to document entry."
+msgstr "Perzgjidh kete bleres dhe kthehu tek hyrja e dokumentit."
+
+msgid "Select which taxes this item tax type is exempt from."
+msgstr ""
+"Perzgjidhni se nga cilat taksa perjashtohet tipi i takses se ketij artikulli."
+
+msgid "Selected GL Accounts cannot be used by another tax type."
+msgstr ""
+"Llogarite e perzgjedhura nga Libri i Pergjithshem i Llogarive nuk mund te "
+"perdoren nga nje tip tjeter takse."
+
+msgid "Selected credit status has been deleted"
+msgstr "Stausi i perzgjedhur i kreditit u fshi"
+
+msgid "Selected credit status has been updated"
+msgstr "Statusi i perzgjedhur i kreditit u perditesua."
+
+msgid "Selected customer branch has been deleted"
+msgstr "Dega e perzgjedhur e bleresve u fshi"
+
+msgid "Selected customer branch has been updated"
+msgstr "Dega e perzgjedhur e bleresve u perditesua"
+
+msgid "Selected customer has been deleted."
+msgstr "Bleresi i perzgjedhur u fshi."
+
+msgid "Selected item tax type has been deleted"
+msgstr "Tipi i takses se artikullit te perzgjedhur u fshi"
+
+msgid "Selected item tax type has been updated"
+msgstr "Tipi i takses se artikullit te perzgjedhur u perditesua"
+
+msgid "Selected point of sale has been deleted"
+msgstr "Pika e shitjes e perzgjedhur u fshi"
+
+msgid "Selected point of sale has been updated"
+msgstr "Pika e shitjes e perzgjedhur u perditesua"
+
+msgid "Selected recurrent invoice has been deleted"
+msgstr "Fatura rekurrente e perzgjedhur u fshi"
+
+msgid "Selected recurrent invoice has been updated"
+msgstr "Fatura rekurrente e perzgjedhur u perditesua"
+
+msgid "Selected sales area has been deleted"
+msgstr "Zona e perzgjedhur e shitjeve u fshi"
+
+msgid "Selected sales area has been updated"
+msgstr "Zona e perzgjedhur e shitjeve u perditesua"
+
+msgid "Selected sales group has been deleted"
+msgstr "Grupi i perzgjedhur i shitjeve u fshi"
+
+msgid "Selected sales group has been updated"
+msgstr "Grupi i perzgjedhur i shitjeve u perditesua"
+
+msgid "Selected sales person data have been deleted"
+msgstr "Te dhenat e personit te shitjeve te perzghedhur u fshine"
+
+msgid "Selected sales person data have been updated"
+msgstr "Te dhenat e personit te perzgjedhur te shitjeve u perditesuan"
+
+msgid "Selected sales type has been deleted"
+msgstr "Tipi i shitjeve i perzgjedhur u fshi"
+
+msgid "Selected sales type has been updated"
+msgstr "Tipi i Shitjeve i perzgjedhur u perditesua"
+
+msgid "Selected tax group has been deleted"
+msgstr "Grupi i perzgjedhur i taksave u fshi"
+
+msgid "Selected tax group has been updated"
+msgstr "Grupi i perzgjedhur i taksave u perditesua"
+
+msgid "Selected tax type has been deleted"
+msgstr "Tipi i perzgjedhur i takses i perzgjedhur u fshi"
+
+msgid "Selected tax type has been updated"
+msgstr "Tipi i perzgjedhur i takses u perditesua"
+
+msgid "Sending document by email failed"
+msgstr "Dergimi i dokumentit me e-mail deshtoi."
+
+msgid "September"
+msgstr "Shtator"
+
+msgid "Service"
+msgstr "Sherbimi"
+
+msgid "Set filter"
+msgstr "Vendos filtrin"
+
+msgid "Set this option to on for using icons instead of text links"
+msgstr ""
+"Aktivizoje kete opsion nese deshiron te perdoresh ikona ne vend telidhjeve "
+"ne forme teksti"
+
+msgid "Set this option to on if your browser directly supports pdf files"
+msgstr "Aktivizoje kete opsion nese lundruesi yt i suporton direkt dosjet pdf"
+
+msgid "Set this order as a template for direct deliveries/invoices"
+msgstr "Cakto kete porosi si model per dorezime/fatura direkte"
+
+msgid "Shipping"
+msgstr "Dergimi"
+
+msgid "Shipping Charge"
+msgstr "Pagesa e transportit"
+
+msgid "Shipping Company:"
+msgstr "Kompania e Transportit"
+
+msgid "Shipping ways"
+msgstr "Rruget e dergimit"
+
+msgid "Short Name"
+msgstr "Emri i Shkurter"
+
+msgid "Show All:"
+msgstr "Shfaq te gjitha:"
+
+msgid "Show GL Information:"
+msgstr "Shfaq informacionet mbi GL:"
+
+msgid "Show Item Codes:"
+msgstr "Shfaq Kodet e Artikujve:"
+
+msgid "Show also Inactive"
+msgstr "Trego gjithashtu jo Aktivet"
+
+msgid "Show hints for new users:"
+msgstr "Shfaq udhezimet per perdoruesit e rinj:"
+
+msgid "Size"
+msgstr "Permasat"
+
+msgid "Software upgrades"
+msgstr "Permiresimet e Software-it"
+
+msgid "Special maintenance"
+msgstr "Mirembajtja e vecante"
+
+msgid "Start-up Tab"
+msgstr "Tabela Fillestare"
+
+msgid "Statement"
+msgstr "Deklarate"
+
+msgid "Stock items add/edit"
+msgstr "Shto/Redakto artikuj te stokut"
+
+msgid "Stock status view"
+msgstr "Pamja e statusit te stokut"
+
+msgid "Stock transactions view"
+msgstr "Pamja e transaksione ve te stokut"
+
+msgid "Stocks below Re-Order Level at "
+msgstr "Rezervat poshte Ri-Organizo Nivelin ne"
+
+msgid "Su"
+msgstr "E Djele"
+
+msgid "Sub-total:"
+msgstr "Sub-Totali:"
+
+msgid "Submit changes"
+msgstr "Dergoni ndryshimet"
+
+msgid "Supplier Currency:"
+msgstr "Valuta e Furnizuesit"
+
+msgid "Supplier Invoice"
+msgstr "Fatura e Furnizuesit"
+
+msgid "Supplier Invoice/Credit"
+msgstr "Fatura/Llogaria e Furnizuesit"
+
+msgid "Supplier Payment"
+msgstr "Pagesa e Furnizuesit"
+
+msgid "Supplier analytical reports"
+msgstr "Raportet analitike te furnizuesit"
+
+msgid "Supplier credit notes"
+msgstr "Shenimet e kreditit te furnizuesit"
+
+msgid "Supplier invoices"
+msgstr "Faturat e furnizuesit"
+
+msgid "Supplier payments"
+msgstr "Pagesat e furnizuesit"
+
+msgid "Supplier payments allocations"
+msgstr "Alokimet e pagesave te furnizuesit"
+
+msgid "Supplier payments report"
+msgstr "Raporti i pagesave te furnizuesit"
+
+msgid "Supplier transactions view"
+msgstr "Pamja e transaksioneve te furnizuesit"
+
+msgid "Supplier's Reference:"
+msgstr "Referenca e Furnizuesit"
+
+msgid "Suppliers changes"
+msgstr "Ndryshimet e furnizuesve"
+
+msgid "System administration"
+msgstr "Administrimi i sistemit"
+
+msgid "System is available for site admin only until full database upgrade"
+msgstr ""
+"Sistemi eshte i perdorshem vetm nga administratori i sitit deri ne upgrade-"
+"in e plote te Bazes se te Dhenave"
+
+msgid "TOTAL CREDIT"
+msgstr "KREDITI TOTAL"
+
+msgid "TOTAL DELIVERY INCL. VAT"
+msgstr "TOTALI I DERGESES PERFSHIRE T.V.SH."
+
+msgid "TOTAL ORDER EX VAT"
+msgstr "TOTALI I POROSISE PA T.V.SH."
+
+msgid "TOTAL ORDER VAT INCL."
+msgstr "TOTALI I POROSISE PERFSHIRE T.V.SH."
+
+msgid "TOTAL RECEIPT"
+msgstr "TOTALI I FATURES"
+
+msgid "TOTAL REMITTANCE"
+msgstr "TOTALI I PARAVE TE DERGUARA"
+
+msgid "TOTAL VALUE"
+msgstr "VLERA TOTALE"
+
+msgid "Table Pref"
+msgstr "Prefiksi i Tabeles"
+
+msgid "Tax Group"
+msgstr "Grupi i Taksave"
+
+msgid "Tax Groups"
+msgstr "Grupet e Taksave"
+
+msgid "Tax Incl"
+msgstr "Perfshi taksat"
+
+msgid "Tax Last Period:"
+msgstr "Periudha e fundit e taksave:"
+
+msgid "Tax Name"
+msgstr "Emri i Takses"
+
+msgid "Tax Periods:"
+msgstr "Periudhat e Taksave:"
+
+msgid "Tax Types"
+msgstr "Tipet e Taksave"
+
+msgid "Tax exempt"
+msgstr "I perjashtuar nga taksat"
+
+msgid "Tax groups"
+msgstr "Grupet e taksave"
+
+msgid "Tax included"
+msgstr "Perfshi taksat"
+
+msgid "Tax rates"
+msgstr "Shkallet e Taksave"
+
+msgid "Tax reports and inquiries"
+msgstr "Raporet dhe pyetjet e Taksave"
+
+msgid "Taxes added"
+msgstr "Taksat e shtuara"
+
+msgid "Taxes added, increase base"
+msgstr "Taksat u shtuan, rrit bazen"
+
+msgid "Taxes added, reduce base"
+msgstr "Taksat u shtuan, redukto bazen"
+
+msgid "Taxes included"
+msgstr "Taksat e perfshira"
+
+msgid "Taxes included, increase base"
+msgstr "Taksat u perfshine, rrit bazen"
+
+msgid "Taxes included, reduce base"
+msgstr "Taksat u perfshine, redukto bazen"
+
+msgid "Telephone"
+msgstr "Telefoni"
+
+msgid "Telephone number:"
+msgstr "Numri i telefonit:"
+
+msgid "Template:"
+msgstr "Modeli:"
+
+msgid "Terms:"
+msgstr "Kushtet:"
+
+msgid "Th"
+msgstr "E Enjte"
+
+msgid "Thank you for using"
+msgstr "Faleminderit qe perdoret"
+
+msgid "The Branch name cannot be empty."
+msgstr "Emri i deges nuk mund te lihet bosh."
+
+msgid "The Branch short name cannot be empty."
+msgstr "Emri i shkurtuar i deges nuk mund te lihet bosh."
+
+msgid "The POS name cannot be empty."
+msgstr "Emri i pikes se shitjes nuk mund te lihet bosh."
+
+msgid "The area description cannot be empty."
+msgstr "Pershkrimi i zones nuk mund te lihet bosh."
+
+msgid "The bill of material for this item is empty."
+msgstr "Fatura e materialit per kete artikull eshte bosh."
+
+msgid "The company name must be entered."
+msgstr "Emri i kompanise duhet te futet."
+
+msgid "The configuration file "
+msgstr "Dosja e konfigurimit"
+
+msgid "The credit limit must be numeric and not less than zero."
+msgstr "Limiti i kreditit duhet te jete numerik dhe jo me i vogel se 0."
+
+msgid "The credit status description cannot be empty."
+msgstr "Pershkrimi i statusit te kreditit nuk mund te lihet bosh."
+
+msgid "The customer name cannot be empty."
+msgstr "Emri i bleresit nuk mund te lihet bosh."
+
+msgid "The customer short name cannot be empty."
+msgstr "Emri i shkurtuar i bleresit nuk mund te lihet bosh."
+
+msgid ""
+"The default stock location set up for this user is not a currently defined "
+"stock location. Your system administrator needs to amend your user record."
+msgstr ""
+"Vendndodhja e rezervave e perzgjedhur per kete perdorues nuk ben pjese ne "
+"vendndodhjet e rezervave te percaktuara. Administratori i sistemit duhet te "
+"rregulloje dosjen tuaj te perdoruesit."
+
+msgid "The default tax rate must be numeric and not less than zero."
+msgstr ""
+"Perqindja baze e takses duhet te jete numerike dhe jo me e vogel se zero."
+
+msgid ""
+"The discount percentage must be numeric and is expected to be less than 100% "
+"and greater than or equal to 0."
+msgstr ""
+"Perqindja e skontos duhet te jete ne vlere numerike dhe pritet te jete me e "
+"vogel se 100% dhe me e madhe apo e barabarte me 0. "
+
+msgid ""
+"The entered information is a duplicate. Please go back and enter different "
+"values."
+msgstr ""
+"Informacioni i futur eshte duplikate. Ju lutem kthehuni pas dhe futni vlera "
+"te ndryshme."
+
+msgid "The entry for one or more amounts is invalid or negative."
+msgstr "Te dhenat per nje ose me teper shuma jane te pavlefshme ose negative."
+
+msgid "The existing image could not be removed"
+msgstr "Imazhi ekzistues nuk u hoq dot"
+
+msgid ""
+"The file size is over the maximum allowed. The maximum size allowed in KB is"
+msgstr ""
+"Permasat e dosjes e tejkalojne maksimumin e lejuar. Permasat maksimale te "
+"lejuara ne Kb jane"
+
+msgid "The item tax type description cannot be empty."
+msgstr "Nuk mund te lini bosh pershkrimin e tipit te takses se artikullit."
+
+msgid "The language files folder "
+msgstr "Folderi i dosjeve te gjuheve"
+
+msgid "The marked company is the current company which cannot be deleted."
+msgstr "Kompania e shenuar eshte kompania e tashme dhe nuk mund te fshihet."
+
+msgid "The password cannot contain the user login."
+msgstr "Fjalekalimi nuk mund te permbaje emrin e perdoruesit"
+
+msgid "The password entered must be at least 4 characters long."
+msgstr "Fjalekalimi i futur duhet te kete te pakten 4 shkronja."
+
+msgid "The passwords entered are not the same."
+msgstr "Fjalekalimet e futura nuk jane te njejta."
+
+msgid ""
+"The payment discount must be numeric and is expected to be less than 100% "
+"and greater than or equal to 0."
+msgstr ""
+"Skontoja ne blerje duhet te jete ne vlere numerike dhe pritet te jete me e "
+"vogel se 100% dhe me e madhe apo e barabarte me 0. "
+
+msgid "The sales person name cannot be empty."
+msgstr "Emri i personit te shitjeve nuk mund te lihet bosh."
+
+msgid "The sales type description cannot be empty."
+msgstr "Pershkrimi i Tipit te Shitjes nuk mund te lihet bosh."
+
+msgid ""
+"The security settings on your account do not permit you to access this "
+"function"
+msgstr ""
+"Te dhenat e sigurise ne llogarine tuaj nuk ju lejojne aksesin ndaj ketij "
+"funksioni"
+
+msgid ""
+"The security settings on your account do not permit you to print this report"
+msgstr ""
+"Parametrat e sigurise se llogarise tuaj nuk ju lejojne printimin e ketij "
+"raporti"
+
+msgid ""
+"The selected customer and branch are not valid, or the customer does not "
+"have any branches."
+msgstr ""
+"Bleresi dhe dega e perzgjedhur nuk jane te vlefshme, ose bleresi nuk ka "
+"ndonje dege."
+
+msgid ""
+"The selected customer does not have any branches. Please create at least one "
+"branch."
+msgstr ""
+"Bleresi i perzgjedhur nuk ka asnje dege. Ju lutem krijoni te pakten nje dege."
+
+msgid "The tax group name cannot be empty."
+msgstr "Emri i grupit te taksave nuk mund te lihet bosh."
+
+msgid "The tax type name cannot be empty."
+msgstr "Emri i tipit te takses nuk mund te lihet bosh."
+
+msgid "The user and password combination is not valid for the system."
+msgstr ""
+"Kombinimi i Perdoruesit dhe Fjalekalimit nuk eshte i vlefshem per sistemin."
+
+msgid "The work order number sent is not valid."
+msgstr "Numri i Urdherit te Punes qe keni derguar nuk eshte i vlefshem."
+
+msgid "Theme:"
+msgstr "Tema:"
+
+msgid "There are no Productions for this Order."
+msgstr "Nuk ka Prodhime per kete Porosi."
+
+msgid "There are no Requirements for this Order."
+msgstr "Nuk ka Kerkesa per kete Urdher."
+
+msgid "There are no additional costs for this Order."
+msgstr "Nuk ka kosto te tjera shtese per kete Porosi."
+
+msgid ""
+"There are no customers defined in the system. Please define a customer to "
+"add customer branches."
+msgstr ""
+"Nuk ka asnje bleres te percaktuar ne sistem. Ju lutem percaktoni nje bleres "
+"per te shtuar deget e bleresit."
+
+msgid "There are no line items on this credit note."
+msgstr "Nuk ka asnje artikull ne kete shenim krediti"
+
+msgid "There are no line items on this dispatch."
+msgstr "Nuk ka asnje artikull ne kete dergese"
+
+msgid "There are no line items on this invoice."
+msgstr "Nuk ka artikuj ne kete fature."
+
+msgid ""
+"There are no outstanding items received from this supplier that have not "
+"been invoiced by them."
+msgstr ""
+"Nuk ka artikuj te pa paguar, te marre nga ky furnizues qe te mos jene "
+"faturuar nga ai."
+
+msgid ""
+"There are no received items for the selected supplier that have been "
+"invoiced."
+msgstr ""
+"Nuk ka artikuj te marre nga furnizuesi i perzgjedhur qe te jene faturuar."
+
+msgid ""
+"There are no sales areas defined in the system. At least one sales area is "
+"required before proceeding."
+msgstr ""
+"NUk ka asnje zone shitjeje te percaktuar ne sistem. Te pakten nje zone "
+"shitjeje eshte e domosdoshme para se te vazhdoni me tutje."
+
+msgid ""
+"There are no sales people defined in the system. At least one sales person "
+"is required before proceeding."
+msgstr ""
+"Nuk ka asnje person shitjeje te percaktuar ne  sistem. Te pakten nje person "
+"shitjeje eshte i domosdoshem perpara se te vazhdoni me tutje."
+
+msgid ""
+"There are no sales types defined. Please define at least one sales type "
+"before adding a customer."
+msgstr ""
+"Nuk ka asnje tip shitjeje te percaktuar. Ju lutem percaktoni te pakten nje "
+"tip shitjeje perpara se te shtoni nje bleres."
+
+msgid ""
+"There are no shipping companies defined in the system. At least one shipping "
+"company is required before proceeding."
+msgstr ""
+"Nuk ka asnje kompani transporti te percaktuar ne sistem. Te pakten nje "
+"kompani transporti eshte e domosdoshme para se te vazhdoni me tutje."
+
+msgid ""
+"There are no tax types defined. Define tax types before defining tax groups."
+msgstr ""
+"Nuk keni percaktuar akoma asnje tip takse. Percaktoni nje here tipet e "
+"taksave perpara se te percaktoni grupet e taksave."
+
+msgid "There are no transactions for this dimension for the selected period."
+msgstr "Nuk ka transaksione per kete dimension per periudhen e perzgjedhur."
+
+msgid ""
+"These allocations cannot be processed because the amount allocated is more "
+"than the total amount left to allocate."
+msgstr ""
+"Keto alokime nuk mund te perpunohen sepse shuma e alokuar eshte me e madhe "
+"se shuma totale e lene per alokim."
+
+msgid "This Allocation"
+msgstr "Ky Alokim"
+
+msgid "This Sales Order is used as a Template."
+msgstr "Ky urdher shitjeje eshte ne perdorim si model."
+
+msgid ""
+"This customer cannot be deleted because there are transactions that refer to "
+"it."
+msgstr ""
+"Ky bleres nuk mund te fshihet sepse ekzistojne transaksione qe i referohen "
+"atij."
+
+msgid "This customer payment has been voided."
+msgstr "Pagesa e ketij bleresi eshte anulluar."
+
+msgid "This dispatch has been voided."
+msgstr "Kjo dergese eshte anulluar."
+
+msgid ""
+"This edit session has been abandoned by opening sales document in another "
+"browser tab. You cannot edit more than one sales document at once."
+msgstr ""
+"Ky sesion redaktimi u braktis ngaqe hapet dokumentin e shitjeve ne nje "
+"tabele tjeter te lundruesit. Ju nuk mund te redaktoni njekohesisht me shume "
+"se nje dokument shitjeje."
+
+msgid "This item is already on this document. You have been warned."
+msgstr "Ky artikull gjendet tashme ne kete dokument. Jeni paralajmeruar."
+
+msgid "This page is usable only with javascript enabled browsers."
+msgstr ""
+"Kjo faqe mund te perdoret vetem ne lundrues qe kane te aktivizuar javascript."
+
+msgid "This work order is closed."
+msgstr "Ky Urdher Pune eshte i mbyllur."
+
+msgid "Thousand Separator:"
+msgstr "Ndaresja e Mijesheve"
+
+msgid "Time Zone on Reports"
+msgstr "Zona e Kohes ne Raporte"
+
+msgid "Tmpl"
+msgstr "Model"
+
+msgid "To Location:"
+msgstr "Ne Vendndodhjen:"
+
+msgid "To Work Centre:"
+msgstr "Qendres se Punes:"
+
+msgid ""
+"To avoid problems with manual journal entry all tax types should have unique "
+"Sales/Purchasing GL accounts."
+msgstr ""
+"Per te shmangur problemet me hyrjet manuale ne ditar te gjitha tipet e "
+"taksave duhet te kene llogari unike Shitje/Blerje ne Librin e Pergjithshem "
+"te Llogarive."
+
+msgid "To have cash POS first define at least one cash bank account."
+msgstr ""
+"Nese doni te keni nje Pike Shitjeje me para ne dore se pari percaktoni te "
+"pakten nje llogari bankare."
+
+msgid "To the Order of:"
+msgstr "Tek urdheri i:"
+
+msgid "Total Allocated"
+msgstr "Totali i Alokuar"
+
+msgid "Total Allocated:"
+msgstr "Totali i alokuar:"
+
+msgid "Total Amount"
+msgstr "Shuma Totale"
+
+msgid "Total Cost"
+msgstr "Kostoja Totale"
+
+msgid "Total Quantity"
+msgstr "Sasia Totale"
+
+msgid "Transaction #"
+msgstr "Transaksion #"
+
+msgid "Transfer"
+msgstr "Transferte"
+
+msgid "Transfer Type:"
+msgstr "Lloji i Transfertes:"
+
+msgid "Try again"
+msgstr "Provoni perseri"
+
+msgid "Tu"
+msgstr "E Marte"
+
+msgid "Type Name"
+msgstr "Emri i Tipit"
+
+msgid "Type:"
+msgstr "Lloji:"
+
+msgid "Unassemble"
+msgstr "Cmonto"
+
+msgid "Unit Quantity"
+msgstr "Sasia e Njesive"
+
+msgid "Units Issued"
+msgstr "Njesi te Shperndara"
+
+msgid "Units of measure"
+msgstr "Njesite e matjes"
+
+msgid "Unknown report parameter type:"
+msgstr "Parameter raporti i nje tipi te panjohur:"
+
+msgid "Update"
+msgstr "Perditeso"
+
+msgid "Update Customer"
+msgstr "Perditeso bleresin"
+
+msgid "Update customer data"
+msgstr "Perditeso te dhenat e bleresit"
+
+msgid "Updated."
+msgstr "I perditesuar."
+
+msgid "Upgrade from version 2.0 to 2.1"
+msgstr "Permireso nga versioni 2.0 ne 2.1"
+
+msgid "Upgrade from version 2.1/2.2beta to 2.2"
+msgstr "Permireso nga versioni 2.1/2.2beta ne 2.2"
+
+msgid "Upload file"
+msgstr "Ngarko dosjen"
+
+msgid "Use Dimensions:"
+msgstr "Perdor permasat:"
+
+msgid "Use Item Sales Accounts"
+msgstr "Perdorni Llogarine e Shitjeve te Artikullit"
+
+msgid "Use icons instead of text links:"
+msgstr "Perdor kete ikone ne vend te lidhjeve ne forme teksti:"
+
+msgid "Use popup window to display reports:"
+msgstr "Perdor dritaret kercyese per te shfaqur raportet:"
+
+msgid "User login:"
+msgstr "Emri i perdoruesit:"
+
+msgid "User name"
+msgstr "Emri i perdoruesit"
+
+msgid "Users setup"
+msgstr "Setup i perdoruesve"
+
+msgid "Valid until"
+msgstr "I vlefshem deri me"
+
+msgid "Validate changes and update document"
+msgstr "Konfirmo ndryshimet dhe perditeso dokumentin"
+
+msgid "Version"
+msgstr "Versioni"
+
+msgid "Version Id"
+msgstr "Numri identifikues i versionit"
+
+msgid "Vertical bars"
+msgstr "Shtylla vertikale"
+
+msgid "View"
+msgstr "Shih"
+
+msgid "View Backup"
+msgstr "Shih Kopjen rezerve"
+
+msgid "View Credit Note"
+msgstr "Shih Shenimin e Kreditit"
+
+msgid "View Customer Payment"
+msgstr "Shih Pagesen e Bleresit"
+
+msgid "View Sales Dispatch"
+msgstr "Shih dergesat e shitjeve"
+
+msgid "View Sales Invoice"
+msgstr "Shih Faturen e Shitjeve"
+
+msgid "View Sales Order"
+msgstr "Shih Urdherin e Shitjeve"
+
+msgid "View Sales Quotation"
+msgstr "Shih Vleresimin e Shitjeve"
+
+msgid "Voided."
+msgstr "I anulluar"
+
+msgid "Voiding transactions"
+msgstr "Anulloj transaksionet"
+
+msgid ""
+"WARNING! Be careful with removal. The operation is executed immediately and "
+"cannot be undone !!!"
+msgstr ""
+"KUJDES! Tregoni kujdes me heqjen. Ky veprimi ekzekutohet menjehere dhe eshte "
+"i pakthyeshem !!!"
+
+msgid "We"
+msgstr "E Merkure"
+
+msgid "With thanks from"
+msgstr "Falenderime nga"
+
+msgid "Work Order"
+msgstr "Urdher Pune"
+
+msgid "Work Order Issue"
+msgstr "Leshimi i Urdherit te Punes"
+
+msgid "Work Order No."
+msgstr "Porosia e Punes Nr."
+
+msgid "Work Order Production"
+msgstr "Prodhim i Urdherit te Punes"
+
+msgid "Work order analytical reports and inquiries"
+msgstr "Raportet dhe pyetjet analitike te urdherit te punes"
+
+msgid "Work order bulk reports"
+msgstr "Raportet e teresise se urdherave te punes."
+
+msgid "Work order entry"
+msgstr "Hyrja e Urdherit te Punes"
+
+msgid "Work order releases"
+msgstr "Leshimet e urdherit te punes"
+
+msgid "Yes"
+msgstr "Po"
+
+msgid ""
+"You are about to remove selected backup file.\n"
+"Do you want to continue ?"
+msgstr ""
+"Ju jeni duke fshire dosjen e Kopjes Rezerve qe keni zgjedhur.\n"
+"A doni te vazhdoni?"
+
+msgid ""
+"You are about to restore database from backup file.\n"
+"Do you want to continue?"
+msgstr ""
+"Ju jeni duke rikthyer Bazen e te Dhenave nga dosja e Kopjes Rezerve.\n"
+"Doni te vazhdoni?"
+
+msgid "You are about to void this Document.\\nDo you want to continue?"
+msgstr "Ju po e anulloni kete dokument.\nA doni te vazhdoni?"
+
+msgid "You can only upload *.sql backup files"
+msgstr "Ju mund te ngarkoni vetem dosje *.sql"
+
+msgid "You can pay through"
+msgstr "Ju mund te paguani nepermjet"
+
+msgid "You should automatically be forwarded."
+msgstr "Ju do te ridrejtoheni automatikisht"
+
+msgid "Your VAT no."
+msgstr "Numri juaj i T.V.SH."
+
+msgid "Your password has been updated."
+msgstr "Fjalekalimi juaj u perditesua."
+
+msgid "and"
+msgstr "dhe"
+
+msgid "as of"
+msgstr "qe prej"
+
+msgid "at line "
+msgstr "ne rreshtin"
+
+msgid "cannot find backup directory"
+msgstr "e pamundur te gjendet vendndodhja e kopjes rezerve"
+
+msgid "click here"
+msgstr "klikoni ketu"
+
+msgid "in file"
+msgstr "ne dosjen"
+
+msgid "in units of : "
+msgstr "ne njesi prej:"
+
+msgid "seconds"
+msgstr "sekonda"
+
+msgid "to continue"
+msgstr "per te vazhduar"
+
+msgid "user online"
+msgstr "Perdoruesi ne linje"
+
+msgid "users online"
+msgstr "Perdorues ne linje"

@@ -212,14 +212,14 @@ function print_annual_balance_breakdown_detail()
 	{
 		$date = $_POST['PARAM_0'];
 		$dimension = $_POST['PARAM_1'];
-		$comments = $_POST['PARAM_2'];
-		$destination = $_POST['PARAM_3'];
+		$comments = $_POST['PARAM_3'];
+		$destination = $_POST['PARAM_4'];
 	}
 	else
 	{
 		$date = $_POST['PARAM_0'];
-		$comments = $_POST['PARAM_1'];
-		$destination = $_POST['PARAM_2'];
+		$comments = $_POST['PARAM_3'];
+		$destination = $_POST['PARAM_4'];
 	}
 	if ($destination)
 		include_once($path_to_root . "/reporting/includes/excel_report.inc");
@@ -398,7 +398,7 @@ function print_annual_balance_breakdown_detail()
 	$rep->TextCol(0, 1,	_('Net Assets (Liabilities)'), 0, 4, 0, $fill, NULL, 1);
 	$rep->SetCellPadding($oldcMargin);
 	for ($i = 1; $i <= 12; $i++)
-		$rep->AmountCol2($i, $i + 1, $sales[$i] * -1, $dec, 0, 4, 0, $fill, NULL, 1, true);
+		$rep->AmountCol2($i, $i + 1, $sales[$i], $dec, 0, 4, 0, $fill, NULL, 1, true);
 	$rep->Font();
 	$rep->NewLine();
 	$rep->Line($rep->row);

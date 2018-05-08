@@ -49,18 +49,31 @@ function start_form($multi=false, $dummy=false, $action="", $name="")
 
 }
 
+/*
+	Flush hidden fields buffer.
+*/
+function output_hidden()
+{
+	global $hidden_fields;
+
+	if (is_array($hidden_fields))
+		echo implode('', $hidden_fields);
+	$hidden_fields = array();
+}
 //---------------------------------------------------------------------------------
 
 function end_form($breaks=0)
 {
-	global $Ajax;
+	global $Ajax, $hidden_fields;
 
-	$_SESSION['csrf_token'] = hash('sha256', uniqid(mt_rand(), true));
+	$_SESSION['csrf_token'] = random_id();
 	if ($breaks)
 		br($breaks);
 	hidden('_focus');
 	hidden('_modified', get_post('_modified', 0));
 	hidden('_token', $_SESSION['csrf_token']);
+	
+	output_hidden();
 	echo "</form>\n";
 	$Ajax->activate('_token');
 }
@@ -87,12 +100,13 @@ function start_table($class=false, $extra="", $padding='2', $spacing='0')
 		echo " class='tablestyle'";
 	if ($extra != "")
 		echo " $extra";
-	echo " cellpadding=$padding cellspacing=$spacing>\n";
+	echo " cellpadding='$padding' cellspacing='$spacing'>\n";
 }
 
 function end_table($breaks=0)
 {
 	echo "</table></center>\n";
+	output_hidden();
 	if ($breaks)
 		br($breaks);
 }
@@ -110,7 +124,8 @@ function table_section($number=1, $width=false)
 	if ($number > 1)
 	{
 		echo "</table>\n";
-		$width = ($width ? "width=$width" : "");
+		output_hidden();
+		$width = ($width ? "width='$width'" : "");
 		//echo "</td><td class='tableseparator' $width>\n"; // outer table
 		echo "</td><td style='border-left:1px solid #cccccc;' $width>\n"; // outer table
 	}
@@ -120,7 +135,10 @@ function table_section($number=1, $width=false)
 function end_outer_table($breaks=0, $close_table=true)
 {
 	if ($close_table)
+	{
 		echo "</table>\n";
+		output_hidden();
+	}
 	echo "</td></tr>\n";
 	end_table($breaks);
 }
@@ -181,7 +199,7 @@ function hyperlink_back($center=true, $no_menu=true, $type_no=0, $trans_no=0, $f
     	echo $attach;	
     }
 	$width = ($id != 0 ? "30%" : "20%");	
-	start_table(false, "width=$width");
+	start_table(false, "width='$width'");
 	start_row();
 	if ($no_menu)
 	{
@@ -375,13 +393,14 @@ function div_end()
 {
     global $ajax_divs, $Ajax;
 
+	output_hidden();
     if (count($ajax_divs))
     {
 		$div = array_pop($ajax_divs);
 		if ($div[1] !== null)
 			$Ajax->addUpdate($div[1], $div[0], ob_get_flush());
-		echo "</div>";
     }
+	echo "</div>";
 }
 
 //-----------------------------------------------------------------------------
@@ -429,6 +448,7 @@ function tabbed_content_start($name, $tabs, $dft='') {
 }
 
 function tabbed_content_end() {
+	output_hidden();
 	echo "</div>"; // content box (don't change to div_end() unless div_start() is used above)
 	div_end(); // tabs widget
 }

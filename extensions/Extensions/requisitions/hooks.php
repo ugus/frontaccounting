@@ -1,6 +1,6 @@
 <?php
 
-define ('SS_REQUISITIONS', 101<<8); 
+define('SS_REQUISITIONS', 101<<8); 
 
 class hooks_requisitions extends hooks {
 	var $module_name = 'requisitions'; 

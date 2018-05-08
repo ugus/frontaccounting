@@ -1,0 +1,4298 @@
+msgid ""
+msgstr "Project-Id-Version: FrontAccounting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-08 15:59+0200\n"
+"PO-Revision-Date: 2010-02-17 10:13+0100\n"
+"Last-Translator: Translation Team <info@frontaccounting.net>\n"
+"Language-Team: Miroslav Roussenov <mirorus@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+
+msgid " and "
+msgstr "Склад"
+
+msgid " is not writable. Change its permissions so it is, then re-run the "
+"operation."
+msgstr "не може да се записва. Сменете правата и повторете операцията."
+
+msgid "#"
+msgstr "No."
+
+msgid "% amount of base"
+msgstr "Отстъпка:"
+
+msgid "% amount of base, increase base"
+msgstr "Изравняваща<br>Сума"
+
+msgid "% amount of base, reduce base"
+msgstr "Изравняваща<br>Сума"
+
+msgid "&Add or Edit "
+msgstr "Добавяне или редакция"
+
+msgid "&Aged Customer Analysis"
+msgstr "Справки и анализи"
+
+msgid "&Aged Supplier Analyses"
+msgstr "Добави"
+
+msgid "&Allocate Customer Payments or Credit Notes"
+msgstr "Заявяване на плащане или данъчно-кредитно известие от клиент"
+
+msgid "&Allocate Supplier Payments or Credit Notes"
+msgstr "Заявяване на плащане или данъчно-кредитно известие от клиент"
+
+msgid "&Attach Documents"
+msgstr "Прилагане на документ"
+
+msgid "&Backup and Restore"
+msgstr "Възстановяване на backup-a завършено"
+
+msgid "&Balance Sheet"
+msgstr "Краен Баланс"
+
+msgid "&Banking and General Ledger"
+msgstr "Банкиране и Главна Счетоводна Книга"
+
+msgid "&Bills Of Material"
+msgstr "BOM"
+
+msgid "&Budget Entry"
+msgstr "Бюджетен запис"
+
+msgid "&Company Setup"
+msgstr "Компания настройки"
+
+msgid "&Create and Print Recurrent Invoices"
+msgstr "Създаване и печат на периодични фактури"
+
+msgid "&Currencies"
+msgstr "Валути"
+
+msgid "&Delivery Against Sales Orders"
+msgstr "Доставки към заявени поръчки"
+
+msgid "&Deposits"
+msgstr "Депозити"
+
+msgid "&Display Setup"
+msgstr "Настройка на екрана"
+
+msgid "&Exchange Rates"
+msgstr "Обменни Курсове"
+
+msgid "&Fiscal Years"
+msgstr "Счетоводна година"
+
+msgid "&Foreign Item Codes"
+msgstr "Чуждестранни артикулни кодове"
+
+msgid "&Forms Setup"
+msgstr "Компания настройки"
+
+msgid "&GL Accounts"
+msgstr "Сметкоплан"
+
+msgid "&Invoice Against Sales Delivery"
+msgstr "Фактуриране срещу извършени доставки"
+
+msgid "&Items"
+msgstr "Артикули"
+
+msgid "&Items and Inventory"
+msgstr "Склад"
+
+msgid "&Journal Entry"
+msgstr "Счетоводен запис"
+
+msgid "&Journal Inquiry"
+msgstr "Справки за счетоводни записи"
+
+msgid "&Manufacturing"
+msgstr "Производство"
+
+msgid "&Order Status Listing"
+msgstr "Настройка на кредитния статус"
+
+msgid "&Outstanding Dimensions"
+msgstr "Чакащи Dimensions"
+
+msgid "&Outstanding Purchase Orders Maintenance"
+msgstr "Обслужване на чакащи заявки"
+
+msgid "&Outstanding Work Orders"
+msgstr "Чакащи заявки за производство"
+
+msgid "&Payment Report"
+msgstr "Тип Справка:"
+
+msgid "&Payments"
+msgstr "Плащания"
+
+msgid "&Payments to Suppliers"
+msgstr "Плащания към доставчици"
+
+msgid "&Points of Sale"
+msgstr "POS"
+
+msgid "&Price Listing"
+msgstr "Ценова Листа"
+
+msgid "&Print Delivery Note"
+msgstr "Данъчно-кредитно известие"
+
+msgid "&Print Profiles"
+msgstr "Преглед и печат на транзакциите"
+
+msgid "&Print Sales Invoice"
+msgstr "Директна продажба"
+
+msgid "&Print Sales Orders"
+msgstr "Доставки към заявени поръчки"
+
+msgid "&Print This Credit Note"
+msgstr "Печат на това кредитно известие"
+
+msgid "&Print This Invoice"
+msgstr "Директна продажба"
+
+msgid "&Print This Order"
+msgstr "Изпълни доставка срещу тази поръчка"
+
+msgid "&Printers"
+msgstr "Принтери"
+
+msgid "&Purchases"
+msgstr "Покупки"
+
+msgid "&Reconcile Bank Account"
+msgstr "Равняване на банкова сметка"
+
+msgid "&Sales"
+msgstr "Продажби"
+
+msgid "&Select an existing dimension"
+msgstr "Избиране шаблон за доставки"
+
+msgid "&Suppliers"
+msgstr "Доставчици"
+
+msgid "&Taxes"
+msgstr "Данъчни ставки"
+
+msgid "&Template Delivery"
+msgstr "Шаблон за доставка"
+
+msgid "&Template Invoice"
+msgstr "Шаблони за фактуриране"
+
+msgid "&Units of Measure"
+msgstr "Мерни единици"
+
+msgid "&User Accounts Setup"
+msgstr "Потребителски настройки"
+
+msgid "&View This Credit Note"
+msgstr "Показване на това кредитно известие"
+
+msgid "&View This Delivery"
+msgstr "Изпълни доставка срещу тази поръчка"
+
+msgid "&View This Invoice"
+msgstr "Директна продажба"
+
+msgid "&View This Order"
+msgstr "Изпълни доставка срещу тази поръчка"
+
+msgid "&View the GL Journal Entries for this Transfer"
+msgstr "Покажи счетоводния запис за тази транзакция"
+
+msgid "&View this Delivery"
+msgstr "Изпълни доставка срещу тази поръчка"
+
+msgid "&View this adjustment"
+msgstr "Изтрий"
+
+msgid "&View this order"
+msgstr "Изпълни доставка срещу тази поръчка"
+
+msgid "&View this transfer"
+msgstr "Изтрий"
+
+msgid "&Void a Transaction"
+msgstr "Анулиране на транзакция"
+
+msgid "&Work Centres"
+msgstr "Производствени центрове"
+
+msgid ", Please create it manually"
+msgstr ", Моля създайте ръчно"
+
+msgid ", please remove it manually"
+msgstr ", мола премахнете ръчно"
+
+msgid "A new customer has been added."
+msgstr "Беше добавен нов клиент."
+
+msgid "A new item has been added."
+msgstr "Беше добавена нова позиция."
+
+msgid "A new supplier has been added."
+msgstr "Беше добавен нов доставчик."
+
+msgid "A new user has been added."
+msgstr "Беше добавен нов потребител"
+
+msgid "Abbreviation"
+msgstr "Съкращение"
+
+msgid "Access Level"
+msgstr "Ниво на достъп"
+
+msgid "Access Level:"
+msgstr "Ниво на достъп"
+
+msgid "Access setup"
+msgstr "Настройки на достъпа"
+
+msgid "Account"
+msgstr "Сметка:"
+
+msgid "Account Code"
+msgstr "Сметка"
+
+msgid "Account Code 2:"
+msgstr "Сметка"
+
+msgid "Account Code:"
+msgstr "Сметка:"
+
+msgid "Account Description"
+msgstr "Описание"
+
+msgid "Account Group:"
+msgstr "Група продажби:"
+
+msgid "Account Name"
+msgstr "Описание"
+
+msgid "Account Name:"
+msgstr "Описание"
+
+msgid "Account Type:"
+msgstr "Тип на сметката:"
+
+msgid "Account data has been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "Account/Tax Type"
+msgstr "Тип налог за артикула:"
+
+msgid "Account:"
+msgstr "Сметка:"
+
+msgid "Accounts"
+msgstr "Сметкоплан"
+
+msgid "Accounts Payable Account:"
+msgstr "Сметка покупки:"
+
+msgid "Accounts Receivable Account:"
+msgstr "Сметка продажби"
+
+msgid "Accumulate batch shipping:"
+msgstr "Компания за доставките:"
+
+msgid "Action For Balance"
+msgstr "Начален<br>Баланс"
+
+msgid "Activity Greater Than"
+msgstr "НАЧАЛНА дата по-късна от КРАЙНА дата"
+
+msgid "Activity Less Than"
+msgstr "НАЧАЛНА дата по-късна от КРАЙНА дата"
+
+msgid "Add"
+msgstr "Добави"
+
+msgid "Add Account"
+msgstr "Сметка"
+
+msgid "Add All Items"
+msgstr "Склад"
+
+msgid "Add GL Line"
+msgstr "Сметкоплан Справки"
+
+msgid "Add Item"
+msgstr "Добави"
+
+msgid "Add New Customer"
+msgstr "Добави"
+
+msgid "Add New Profile"
+msgstr "Добавяне на нов профил"
+
+msgid "Add New Supplier Details"
+msgstr "Добави"
+
+msgid "Add Payment"
+msgstr "Изпълни"
+
+msgid "Add Workorder"
+msgstr "Добави"
+
+msgid "Add an Attachment"
+msgstr "Добави"
+
+msgid "Add and Manage &Customers"
+msgstr "Добавяне и управление на клиенти"
+
+msgid "Add new"
+msgstr "Добави"
+
+msgid "Add new line to journal"
+msgstr "Добавяне на позиция в счетоводната книга"
+
+msgid "Add to Invoice"
+msgstr "Директна продажба"
+
+msgid "Address"
+msgstr "Адрес:"
+
+msgid "Address:"
+msgstr "Адрес:"
+
+msgid "Adjustment Items"
+msgstr "Склад"
+
+msgid "Adjustment Type"
+msgstr "Тип на Артикула:"
+
+msgid "Aged Customer Analysis"
+msgstr "Справки и анализи"
+
+msgid "Aged Supplier Analysis"
+msgstr "Справки и анализи"
+
+msgid "All"
+msgstr "Всички Клиенти"
+
+msgid "All Areas"
+msgstr "Район на продажби"
+
+msgid "All Costs Are In:"
+msgstr "Всички цени са в:"
+
+msgid "All Customers"
+msgstr "Всички Клиенти"
+
+msgid "All Items"
+msgstr "Всички Клиенти"
+
+msgid "All Locations"
+msgstr "Всички Клиенти"
+
+msgid "All Orders"
+msgstr "Търсене на всички поръчки"
+
+msgid "All Sales Folk"
+msgstr "Търсене на всички поръчки"
+
+msgid "All Sales Types"
+msgstr "Търсене на всички поръчки"
+
+msgid "All Suppliers"
+msgstr "Всички Клиенти"
+
+msgid "All Types"
+msgstr "Вид продажба"
+
+msgid "All amounts stated in"
+msgstr "Всички количества са означени в"
+
+msgid "All branches"
+msgstr "Клиентска клонова мрежа"
+
+msgid "Allocate Customer Payment or Credit Note"
+msgstr "Заявяване на плащане или данъчно-кредитно известие от клиент"
+
+msgid "Allocation"
+msgstr "Справки по клиенти"
+
+msgid "Allocation of"
+msgstr "Справки по клиенти"
+
+msgid "Allow Negative Inventory:"
+msgstr "Склад"
+
+msgid "Amount"
+msgstr "Сума"
+
+msgid "Amount Total"
+msgstr "Общ Баланс"
+
+msgid "Amount and discount are in customer's currency."
+msgstr "Сумата и отстъпката са във валутата на клиента."
+
+msgid "Amount of Discount:"
+msgstr "Отстъпка:"
+
+msgid "Amount of Payment:"
+msgstr "Изпълни"
+
+msgid "Amount, increase base"
+msgstr "Изравняваща<br>Сума"
+
+msgid "Amount, reduce base"
+msgstr "Изравняваща<br>Сума"
+
+msgid "Amount:"
+msgstr "Сума:"
+
+msgid "April"
+msgstr "Април"
+
+msgid "Area"
+msgstr "Район"
+
+msgid "Area Name"
+msgstr "Описание"
+
+msgid "Area Name:"
+msgstr "Описание"
+
+msgid "Assets"
+msgstr "Активи"
+
+msgid "At Location"
+msgstr "Склад по подразбиране:"
+
+msgid "Attach Documents"
+msgstr "Прикрепяне на документ"
+
+msgid "Attached File"
+msgstr "Прикачене на файл"
+
+msgid "Attached you will find "
+msgstr "Благодарим Ви че използвахте"
+
+msgid "Attachment has been deleted."
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Attachment has been inserted."
+msgstr "Приложения файл беше въведен."
+
+msgid "Attachment has been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "August"
+msgstr "Август"
+
+msgid "Auto update"
+msgstr "Автоматично обновяване"
+
+msgid "BEGIN date bigger than END date."
+msgstr "НАЧАЛНА дата по-късна от КРАЙНА дата"
+
+msgid "BOM for item:"
+msgstr "Изтрий"
+
+msgid "Back"
+msgstr "Обратно Назад"
+
+msgid "Back Orders Only"
+msgstr "Само обратни заявки"
+
+msgid "Back to Allocations"
+msgstr "Плащания към доставчици"
+
+msgid "Backup and Restore Database"
+msgstr "Резервно копие на базата"
+
+msgid "Backup paths have not been set correctly."
+msgstr "Пътищата за файловете не са упоменати коректно"
+
+msgid "Backup scripts maintenance"
+msgstr "Възстановяване на backup-a завършено"
+
+msgid "Backup successfully generated."
+msgstr "Файла е изтрит успешно"
+
+msgid "Balance"
+msgstr "Баланс"
+
+msgid "Balance Sheet"
+msgstr "Краен Баланс"
+
+msgid "Balances in Home Currency"
+msgstr "Баланси в национална валута"
+
+msgid "Bank"
+msgstr "Банкова извлечение"
+
+msgid "Bank &Accounts"
+msgstr "Транзакции между банкови сметки"
+
+msgid "Bank &Statement"
+msgstr "Банкова извлечение"
+
+msgid "Bank Account"
+msgstr "Банкова сметка"
+
+msgid "Bank Account &Inquiry"
+msgstr "Справка Банкови Сметки"
+
+msgid "Bank Account &Transfers"
+msgstr "Транзакции между банкови сметки"
+
+msgid "Bank Account Currency:"
+msgstr "Валута на банковата сметка:"
+
+msgid "Bank Account GL Code:"
+msgstr "Депозиране на пари"
+
+msgid "Bank Account Name:"
+msgstr "Има на банковата сметка:"
+
+msgid "Bank Account Number:"
+msgstr "Номер на банкова сметка:"
+
+msgid "Bank Accounts"
+msgstr "Транзакции между банкови сметки"
+
+msgid "Bank Address"
+msgstr "Адрес за фактура:"
+
+msgid "Bank Address:"
+msgstr "Адрес за фактура:"
+
+msgid "Bank Deposit"
+msgstr "Депозиране на пари"
+
+msgid "Bank Name/Account:"
+msgstr "Име банка/сметка:"
+
+msgid "Bank Name:"
+msgstr "Описание"
+
+msgid "Bank Payment"
+msgstr "Банково разплащане"
+
+msgid "Bank Statement"
+msgstr "Банкова извлечение"
+
+msgid "Bank account has been updated"
+msgstr "Настройките за фирмата са приети"
+
+msgid "Banking"
+msgstr "Банкиране"
+
+msgid "Banking &Reports"
+msgstr "Справки и печатни доклади"
+
+msgid "Base Amount"
+msgstr "Отстъпка:"
+
+msgid "Base Amount Description"
+msgstr "Изравняваща<br>Сума"
+
+msgid "Base for auto price calculations:"
+msgstr "Основание за автоматично ценообразуване:"
+
+msgid "Batch Invoicing"
+msgstr "Търсене на шаблони за фактуриране"
+
+msgid "Begin"
+msgstr "Фискалната година начало"
+
+msgid "Begin:"
+msgstr "Фискалната година начало"
+
+msgid "Billing Address:"
+msgstr "Адрес за фактура:"
+
+msgid "Branch"
+msgstr "Клон"
+
+msgid "Branch Contact Information"
+msgstr "Телефон за контакт:"
+
+msgid "Branch Delivery Address"
+msgstr "Име и адрес"
+
+msgid "Branch Name"
+msgstr "Име на клон:"
+
+msgid "Branch Name:"
+msgstr "Име на клон:"
+
+msgid "Branch:"
+msgstr "Клон:"
+
+msgid "Budget"
+msgstr "Бюджет"
+
+msgid "C.O.G.S. Account:"
+msgstr "Сметка стойност на продадените стоки:"
+
+msgid "CREDIT NOTE"
+msgstr "Данъчно-кредитно известие"
+
+msgid "Can't delete backup file."
+msgstr "Не мога да изтрия backup файла"
+
+msgid "Cancel"
+msgstr "Отмяна на Ф-рата"
+
+msgid "Cancel Delivery"
+msgstr "Шаблон за доставка"
+
+msgid "Cancel Invoice"
+msgstr "Отмяна на Ф-рата"
+
+msgid "Cancel Order"
+msgstr "Отмени"
+
+msgid "Cancel changes"
+msgstr "Отмяна на Ф-рата"
+
+msgid "Cannot connect to database for company"
+msgstr "Не може да бъде извършено свързване към базата за тази компания"
+
+msgid "Cannot delete this branch because customer transactions have been "
+"created to this branch."
+msgstr "Този клон не може да бъде изтрит, защото за него има въведени "
+"транзакции."
+
+msgid "Cannot flush printing queue"
+msgstr "Не може да се изчисти опашката на принтера"
+
+msgid "Cannot open connection to printer"
+msgstr "Не може да се осъществи връзка с принтера"
+
+msgid "Cannot open the configuration file - "
+msgstr "Конфигурационния файл не може да бъде отворен -"
+
+msgid "Cannot open the languages file - "
+msgstr "Файла за език не може да бъде отворен -"
+
+msgid "Cannot rename company subdirectory"
+msgstr "Поддиректорията на компанията не може да бъде преименувана"
+
+msgid "Cannot retrieve exchange rate for currency %s as of %s. Please add "
+"exchange rate manually on Exchange Rates page."
+msgstr "Няма въведен валутен курс за %s за %s. Моля въведете курса ръчно на "
+"страницата за валутните курсове."
+
+msgid "Cannot send report to printer"
+msgstr "Не може да се изпрати справка към принтера"
+
+msgid "Cannot write to the configuration file - "
+msgstr "Не може да бъде записвано в конфигурационния файл -"
+
+msgid "Cannot write to the language file - "
+msgstr "Не може да се пише във езиковия файл -"
+
+msgid "Cash"
+msgstr "Касово Разплащане"
+
+msgid "Cash Account"
+msgstr "Сметка"
+
+msgid "Cash account:"
+msgstr "Сметка"
+
+msgid "Cash invoice"
+msgstr "Шаблони за фактуриране"
+
+msgid "Cash payment"
+msgstr "Касово Разплащане"
+
+msgid "Cash sale"
+msgstr "Касово Разплащане"
+
+msgid "Category"
+msgstr "Категория:"
+
+msgid "Category Name:"
+msgstr "Описание"
+
+msgid "Category/Items"
+msgstr "Склад"
+
+msgid "Category:"
+msgstr "Категория:"
+
+msgid "Change password"
+msgstr "Промяна на парола"
+
+msgid "Charge Branch"
+msgstr "Име на клон:"
+
+msgid "Charge To"
+msgstr "Да се достави на:"
+
+msgid "Charged on sales"
+msgstr "Директна продажба"
+
+msgid "Chart of &Accounts"
+msgstr "Сметкоплан"
+
+msgid "Chart of Accounts"
+msgstr "Сметкоплан"
+
+msgid "Chequing Account"
+msgstr "Сметка"
+
+msgid "Class ID"
+msgstr "Справка за:"
+
+msgid "Class ID:"
+msgstr "Справка за:"
+
+msgid "Class Name"
+msgstr "Описание"
+
+msgid "Class Name:"
+msgstr "Описание"
+
+msgid "Class Type"
+msgstr "Тип на Артикула:"
+
+msgid "Class Type:"
+msgstr "Тип на Артикула:"
+
+msgid "Click Here to Pick up the date"
+msgstr "Натиснете тук за да изберете дата"
+
+msgid "Click here to Login Again."
+msgstr "Натисни тук за да влезеш отново"
+
+msgid "Close Balance"
+msgstr "Краен Баланс"
+
+msgid "Close This Dimension"
+msgstr "Изтрий"
+
+msgid "Close This Work Order"
+msgstr "Изпълни доставка срещу тази поръчка"
+
+msgid "Code"
+msgstr "Сметка"
+
+msgid "Comments"
+msgstr "Забележки:"
+
+msgid "Comments:"
+msgstr "Забележки:"
+
+msgid "Commit Order Changes"
+msgstr "Въведи нова поръчка"
+
+msgid "Company"
+msgstr "Компания"
+
+msgid "Company Logo:"
+msgstr "Лого на компанията:"
+
+msgid "Company Setup"
+msgstr "Настройки компания"
+
+msgid "Company setup has been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "Compare to"
+msgstr "Да се достави на:"
+
+msgid "Compression:"
+msgstr "Компресиране:"
+
+msgid "Confirm Delivery and Invoice"
+msgstr "Фактуриране срещу извършени доставки"
+
+msgid "Confirm changes"
+msgstr "Потвърди промените"
+
+msgid "Contact"
+msgstr "Контакт"
+
+msgid "Contact Person"
+msgstr "Лице за контакти"
+
+msgid "Contact Person:"
+msgstr "Лице за контакти:"
+
+msgid "Contact Phone Number:"
+msgstr "Телефон за контакт:"
+
+msgid "Contact for deliveries:"
+msgstr "Справка за:"
+
+msgid "Cost Update"
+msgstr "Обнови"
+
+msgid "Cost has been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "Costed Bill Of Material Inquiry"
+msgstr "Заявка за устойностени BOM"
+
+msgid "Country:"
+msgstr "Страна:"
+
+msgid "Create Backup"
+msgstr "Възстановяване на backup-a завършено"
+
+msgid "Create Invoices"
+msgstr "Периодични фактури"
+
+msgid "Create a new company"
+msgstr "Създаване на нова компания"
+
+msgid "Create and Print Recurrent Invoices"
+msgstr "Създаване и печат на повтарящи се фактури"
+
+msgid "Create backup"
+msgstr "Възстановяване на backup-a завършено"
+
+msgid "Create/Update &Companies"
+msgstr "Създаване/Обновяване на компания"
+
+msgid "Create/Update Company"
+msgstr "Създаване/Обновяване на компания"
+
+msgid "Credit"
+msgstr "Кредит"
+
+msgid "Credit &Status Setup"
+msgstr "Настройка на кредитния статус"
+
+msgid "Credit Account"
+msgstr "Сметка"
+
+msgid "Credit Labour Account"
+msgstr "Равняване сметка работна сила"
+
+msgid "Credit Limit:"
+msgstr "Кредитен лимит:"
+
+msgid "Credit No."
+msgstr "Кредит карта No"
+
+msgid "Credit Note Date"
+msgstr "Данъчно-кредитно известие"
+
+msgid "Credit Note Items"
+msgstr "Данъчно-кредитно известие"
+
+msgid "Credit Note Total"
+msgstr "Данъчно-кредитно известие"
+
+msgid "Credit Note Type"
+msgstr "Данъчно-кредитно известие"
+
+msgid "Credit Note has been processed"
+msgstr "Кредитното известие беше изпълнено"
+
+msgid "Credit Note has been updated"
+msgstr "Настройките за фирмата са приети"
+
+msgid "Credit Notes"
+msgstr "Данъчно-кредитно известие"
+
+msgid "Credit Overhead Account"
+msgstr "Кредитиране Overhead сметка"
+
+msgid "Credit Quantity"
+msgstr "Кредитен лимит:"
+
+msgid "Credit Shipping Cost"
+msgstr "Компания за доставките:"
+
+msgid "Credit Status"
+msgstr "Кредитен статус:"
+
+msgid "Credit Status:"
+msgstr "Кредитен статус:"
+
+msgid "Credit This"
+msgstr "Кредитен лимит:"
+
+msgid "Credit sale"
+msgstr "Кредитен лимит:"
+
+msgid "Crediting Invoice"
+msgstr "Шаблони за фактуриране"
+
+msgid "Currencies"
+msgstr "Валути"
+
+msgid "Currency"
+msgstr "Валута"
+
+msgid "Currency Abbreviation:"
+msgstr "Валута на Клиента:"
+
+msgid "Currency Filter"
+msgstr "Валута на клиента:"
+
+msgid "Currency Name"
+msgstr "Наименование на валутата"
+
+msgid "Currency Name:"
+msgstr "Описание"
+
+msgid "Currency Symbol:"
+msgstr "Валута на Клиента:"
+
+msgid "Currency:"
+msgstr "Валута:"
+
+msgid "Current"
+msgstr "Текущ"
+
+msgid "Cust Order Ref"
+msgstr "Въведи нова поръчка"
+
+msgid "Cust no"
+msgstr "Факс No"
+
+msgid "Customer"
+msgstr "Клиент"
+
+msgid "Customer &Balances"
+msgstr "Клиентска клонова мрежа"
+
+msgid "Customer &Branches"
+msgstr "Клиентска клонова мрежа"
+
+msgid "Customer &Credit Notes"
+msgstr "Данъчно-кредитно известие"
+
+msgid "Customer &Detail Listing"
+msgstr "Добави"
+
+msgid "Customer &Payments"
+msgstr "Плащания"
+
+msgid "Customer Allocation &Inquiry"
+msgstr "Справки по клиенти"
+
+msgid "Customer Allocation Inquiry"
+msgstr "Справки по клиенти"
+
+msgid "Customer Allocations"
+msgstr "Клиентска клонова мрежа"
+
+msgid "Customer Balances"
+msgstr "Клиентска клонова мрежа"
+
+msgid "Customer Branches"
+msgstr "Клонова мрежа"
+
+msgid "Customer Credit Note"
+msgstr "Данъчно-кредитно известие"
+
+msgid "Customer Currency:"
+msgstr "Валута на Клиента:"
+
+msgid "Customer Details Listing"
+msgstr "Данни за Доставката"
+
+msgid "Customer Discount:"
+msgstr "Клиентска отстъпка:"
+
+msgid "Customer Name"
+msgstr "Име на клиента:"
+
+msgid "Customer Name:"
+msgstr "Име на клиента:"
+
+msgid "Customer Order Ref."
+msgstr "Въведи нова поръчка"
+
+msgid "Customer Payment"
+msgstr "Плащане от клиент"
+
+msgid "Customer Payment Entry"
+msgstr "Плащане от клиент"
+
+msgid "Customer Postal Address"
+msgstr "Име и адрес"
+
+msgid "Customer Ref"
+msgstr "Клиентска клонова мрежа"
+
+msgid "Customer Reference:"
+msgstr "Клиентска клонова мрежа"
+
+msgid "Customer Transaction &Inquiry"
+msgstr "Справки за транзакции по клиенти"
+
+msgid "Customer Transactions"
+msgstr "Транзакции по Клиенти"
+
+msgid "Customer and Sales &Reports"
+msgstr "Печат на справки за клиенти и продажби"
+
+msgid "Customer branches"
+msgstr "Клонова мрежа"
+
+msgid "Customer has been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "Customer reference number for this order (if any)"
+msgstr "Клиентски референтен номер (ако е наличен)"
+
+msgid "Customer's Currency:"
+msgstr "Валута на клиента"
+
+msgid "Customer:"
+msgstr "Клиент:"
+
+msgid "Customers"
+msgstr "Клиенти"
+
+msgid "Customers Reference"
+msgstr "Всички Клиенти"
+
+msgid "Customers and Sales"
+msgstr "Печат на справки за клиенти и продажби"
+
+msgid "Customers and Sales Defaults"
+msgstr "Печат на справки за клиенти и продажби"
+
+msgid "Customers in"
+msgstr "Всички Клиенти"
+
+msgid "DATABASE ERROR :"
+msgstr "Грешка при създаване на базата данни:"
+
+msgid "DELIVERY"
+msgstr "Шаблон за доставка"
+
+msgid "DELIVERY NOTE"
+msgstr "Шаблон за доставка"
+
+msgid "Database Host"
+msgstr "Грешка при създаване на базата данни:"
+
+msgid "Database Name"
+msgstr "Описание"
+
+msgid "Database Password"
+msgstr "Промяна на парола"
+
+msgid "Database Script"
+msgstr "Грешка при създаване на базата данни:"
+
+msgid "Database User"
+msgstr "Потребителски Вход:"
+
+msgid "Database backup failed."
+msgstr "Възстановяване на backup-a завършено"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Date Items Received"
+msgstr "Склад"
+
+msgid "Date Paid"
+msgstr "Дата на upload"
+
+msgid "Date Required By"
+msgstr "Заявен ден за доставката"
+
+msgid "Date Separator:"
+msgstr "Дата на качване на файл:"
+
+msgid "Date Uploaded"
+msgstr "Дата на качване на файла"
+
+msgid "Date Voided:"
+msgstr "Дата на upload"
+
+msgid "Date of Deposit"
+msgstr "Дата на депозита:"
+
+msgid "Date of Deposit:"
+msgstr "Дата на депозита:"
+
+msgid "Date of Issue"
+msgstr "Дата на upload"
+
+msgid "Date of order receive"
+msgstr "Въведи нова поръчка"
+
+msgid "Date/Dim."
+msgstr "Дата на upload"
+
+msgid "Date:"
+msgstr "Дата:"
+
+msgid "Dateformat and Separators"
+msgstr "Склад"
+
+msgid "Dateformat:"
+msgstr "Формат на датата:"
+
+msgid "Days"
+msgstr "Дни"
+
+msgid "Days:"
+msgstr "Дни:"
+
+msgid "Debit"
+msgstr "Дебит"
+
+msgid "Debit Account"
+msgstr "Сметка"
+
+msgid "December"
+msgstr "Декември"
+
+msgid "Decimal Places"
+msgstr "Настройка десетична запетая"
+
+msgid "Decimal Places:"
+msgstr "Десетична точка:"
+
+msgid "Decimal Separator:"
+msgstr "Десетична точка:"
+
+msgid "Default"
+msgstr "По подразбиране"
+
+msgid "Default Base Amount"
+msgstr "Изравняваща<br>Сума"
+
+msgid "Default Credit Limit:"
+msgstr "Настройка на кредитния статус"
+
+msgid "Default Inventory Location:"
+msgstr "Склад по подразбиране:"
+
+msgid "Default Language"
+msgstr "Език по подразбиране"
+
+msgid "Default Rate (%)"
+msgstr "Обменен курс"
+
+msgid "Default Rate:"
+msgstr "Обменен курс"
+
+msgid "Default Shipping Company:"
+msgstr "Компания за доставките:"
+
+msgid "Default account"
+msgstr "Сметка"
+
+msgid "Default cash account"
+msgstr "Текуща касова сметка"
+
+msgid "Default printing destination"
+msgstr "Склад по подразбиране:"
+
+msgid "Del Date"
+msgstr "Дата на upload"
+
+msgid "Delete"
+msgstr "Изтриване"
+
+msgid "Delete Backup"
+msgstr "Не мога да изтрия backup файла"
+
+msgid "Delete Company Logo:"
+msgstr "Изтриване логото на компанията"
+
+msgid "Delete Customer"
+msgstr "Изтрий"
+
+msgid "Delete Image:"
+msgstr "Изтрий"
+
+msgid "Delete Profile"
+msgstr "Изтриване на профил"
+
+msgid "Delete Supplier"
+msgstr "Изтрий"
+
+msgid "Delete This Dimension"
+msgstr "Изтрий"
+
+msgid "Delete This Item"
+msgstr "Изтрий"
+
+msgid "Delete This Work Order"
+msgstr "Изпълни доставка срещу тази поръчка"
+
+msgid "Delete account"
+msgstr "Сметка"
+
+msgid "Delete unused dimension"
+msgstr "Изтриване логото на компанията"
+
+msgid "Deliver From Location"
+msgstr "Доставено от:"
+
+msgid "Deliver Into Location"
+msgstr "Доставено от:"
+
+msgid "Deliver To Branch"
+msgstr "Деактивирай клона:"
+
+msgid "Deliver To:"
+msgstr "Да се достави на:"
+
+msgid "Deliver from Location:"
+msgstr "Доставено от:"
+
+msgid "Deliver to:"
+msgstr "Да се достави на:"
+
+msgid "Delivered"
+msgstr "Доставено"
+
+msgid "Delivered On"
+msgstr "Налично Количество"
+
+msgid "Delivered To"
+msgstr "Да се достави на:"
+
+msgid "Delivery"
+msgstr "Шаблон за доставка"
+
+msgid "Delivery #"
+msgstr "Шаблон за доставка"
+
+msgid "Delivery Address"
+msgstr "Адрес за фактура:"
+
+msgid "Delivery Date"
+msgstr "Дата на доставката:"
+
+msgid "Delivery Date:"
+msgstr "Дата на доставката:"
+
+msgid "Delivery Details"
+msgstr "Данни за доставката"
+
+msgid "Delivery From"
+msgstr "Клиент:"
+
+msgid "Delivery Items"
+msgstr "Шаблон за доставка"
+
+msgid "Delivery Note"
+msgstr "Шаблон за доставка"
+
+msgid "Delivery Note Items"
+msgstr "Склад"
+
+msgid "Delivery Note No."
+msgstr "Вашия ДДС номер"
+
+msgid "Delivery Notes"
+msgstr "Шаблон за доставка"
+
+msgid "Delivery To"
+msgstr "Доставено на"
+
+msgid "Delivery Total"
+msgstr "Общ Баланс"
+
+msgid "Delivery address. Default is address of customer branch"
+msgstr "Адрес за доставка. Адрес на клиентски клон по подразбиране"
+
+msgid "Deposit Type"
+msgstr "Тип на Артикула:"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Description:"
+msgstr "Описание:"
+
+msgid "Descriptive Name:"
+msgstr "Описание"
+
+msgid "Destination"
+msgstr "Дестинации"
+
+msgid "Destination Location:"
+msgstr "Склад по подразбиране:"
+
+msgid "Detailed Report"
+msgstr "Тип Справка:"
+
+msgid "Dimension &Entry"
+msgstr "Въвеждане на Dimension"
+
+msgid "Dimension &Inquiry"
+msgstr "Справка Банкови Сметки"
+
+msgid "Dimension &Reports"
+msgstr "Справки и печатни доклади"
+
+msgid "Dimension Entry"
+msgstr "Въвеждане на Dimension"
+
+msgid "Dimension Reference:"
+msgstr "Трябва да въведете референция."
+
+msgid "Direct &Delivery"
+msgstr "Директна доставка"
+
+msgid "Direct &Invoice"
+msgstr "Директна продажба"
+
+msgid "Direct Sales Delivery"
+msgstr "Директна продажба"
+
+msgid "Direct Sales Invoice"
+msgstr "Директна продажба"
+
+msgid "Disable this Branch:"
+msgstr "Деактивирай клона:"
+
+msgid "Discount"
+msgstr "Отстъпка в %"
+
+msgid "Discount %"
+msgstr "Отстъпка в %"
+
+msgid "Discount Percent:"
+msgstr "Отстъпка:"
+
+msgid "Dispatch Date"
+msgstr "Дата на upload"
+
+msgid "Display Setup"
+msgstr "Настройка на екрана"
+
+msgid "Display settings have been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "Display: "
+msgstr "Настройка на екрана"
+
+msgid "Dissallow Invoices"
+msgstr "Периодични фактури"
+
+msgid "Dissallow invoicing ?"
+msgstr "Търсене на шаблони за фактуриране"
+
+msgid "Domicile"
+msgstr "Държава:"
+
+msgid "Dots"
+msgstr "Точки"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Download Backup"
+msgstr "Възстановяване на backup-a завършено"
+
+msgid "Due By"
+msgstr "Падежна Дата"
+
+msgid "Due Date"
+msgstr "Падежна Дата"
+
+msgid "Edit"
+msgstr "Редактиране"
+
+msgid "Edit document line"
+msgstr "Добавяне или редакция"
+
+msgid "Edit journal line"
+msgstr "Въвеждане на счетоводен запис"
+
+msgid "Email"
+msgstr "emal адрес:"
+
+msgid "Email Address:"
+msgstr "emal адрес:"
+
+msgid "Email Customers"
+msgstr "Всички Клиенти"
+
+msgid "Encoding"
+msgstr "Кодиране"
+
+msgid "End"
+msgstr "Фискална година край"
+
+msgid "End Date"
+msgstr "Дата на upload"
+
+msgid "End:"
+msgstr "Фискална година край"
+
+msgid "Ending Balance"
+msgstr "Краен Баланс"
+
+msgid "Enter &Another Adjustment"
+msgstr "Въведи нова поръчка"
+
+msgid "Enter &Another Inventory Transfer"
+msgstr "Въведи друг транфер на артикул"
+
+msgid "Enter Another &Credit Note"
+msgstr "Въвеждане на ново кредитно известие"
+
+msgid "Enter Another Credit Note"
+msgstr "Въвеждане на ново кредитно известие"
+
+msgid "Enter Another Invoice"
+msgstr "Директна продажба"
+
+msgid "Enter Credit Note"
+msgstr "Данъчно-кредитно известие"
+
+msgid "Enter Invoice"
+msgstr "Шаблони за фактуриране"
+
+msgid "Enter Payment"
+msgstr "Изпълни"
+
+msgid "Enter Supplier Invoice"
+msgstr "Директна продажба"
+
+msgid "Enter a &New Delivery"
+msgstr "Въведи нова поръчка"
+
+msgid "Enter a &New Direct Invoice"
+msgstr "Въведете новата си парола в полето."
+
+msgid "Enter a &New Order"
+msgstr "Въведи нова поръчка"
+
+msgid "Enter a &New Template Invoice"
+msgstr "Въведете новата си парола в полето."
+
+msgid "Enter a &new dimension"
+msgstr "Въведи нова поръчка"
+
+msgid "Enter a New Sales Delivery"
+msgstr "Доставки към заявени поръчки"
+
+msgid "Enter a New Sales Order"
+msgstr "Въвеждане на нова поръчка"
+
+msgid "Enter a New Template &Delivery"
+msgstr "Избиране шаблон за доставки"
+
+msgid "Enter a new password to change, leave empty to keep current."
+msgstr "За да промениш парола въведи нова, остави празно - за да запазиш "
+"старата"
+
+msgid "Enter a new purchase order"
+msgstr "Въвеждане на нова поръчка"
+
+msgid "Enter a new work order"
+msgstr "Въвеждане на нова поръчка"
+
+msgid "Enter another supplier &payment"
+msgstr "Въведи друг доставчик и плащане"
+
+msgid "Enter requested day of delivery"
+msgstr "Въведи желания ден за доставка"
+
+msgid "Enter your new password in the fields."
+msgstr "Въведете новата си парола в полето."
+
+msgid "Entry Type"
+msgstr "Тип на Артикула:"
+
+msgid "Equity"
+msgstr "Капитал"
+
+msgid "Error creating Database: "
+msgstr "Грешка при създаване на базата данни:"
+
+msgid "Error removing Database: "
+msgstr "Грешка при създаване на базата данни:"
+
+msgid "Error sending print job control file"
+msgstr "Грешка при изпращане на контролния файл за печат"
+
+msgid "Error uploading Database Script, please upload it manually"
+msgstr "Грешка при качване на скрипка за базата данни, моля качете го ръчно"
+
+msgid "Error uploading logo file"
+msgstr "Грешка при качване на фала за лого"
+
+msgid "Exchange Rate"
+msgstr "Обменен курс"
+
+msgid "Exchange Rate:"
+msgstr "Обменен курс:"
+
+msgid "Exchange Rates"
+msgstr "Обменни Курсове"
+
+msgid "Exchange Rates:"
+msgstr "Обменни курсове"
+
+msgid "Exchange Variance"
+msgstr "Обменни Курсове"
+
+msgid "Exchange Variances Account:"
+msgstr "Равняване на Банкова Сметка"
+
+msgid "Exclude from sales:"
+msgstr "Не включвай в продажби:"
+
+msgid "Expense"
+msgstr "Разходи"
+
+msgid "Facsimile No:"
+msgstr "Факс No"
+
+msgid "Fax"
+msgstr "Факс No"
+
+msgid "Fax No"
+msgstr "Факс No"
+
+msgid "Fax Number:"
+msgstr "Факс Номер:"
+
+msgid "Fax number:"
+msgstr "Факс Номер:"
+
+msgid "February"
+msgstr "Февруари"
+
+msgid "File successfully deleted."
+msgstr "Файла е изтрит успешно"
+
+msgid "File was not uploaded into the system."
+msgstr "Файлът не беше качен в системата."
+
+msgid "Filename"
+msgstr "Име на файл"
+
+msgid "Filetype"
+msgstr "Тип на файла"
+
+msgid "Fiscal Year"
+msgstr "Данъчна година:"
+
+msgid "Fiscal Year Begin"
+msgstr "Фискалната година начало"
+
+msgid "Fiscal Year Begin:"
+msgstr "Фискалната година начало"
+
+msgid "Fiscal Year End"
+msgstr "Фискална година край"
+
+msgid "Fiscal Year End:"
+msgstr "Фискална година край"
+
+msgid "Fiscal Year:"
+msgstr "Данъчна година:"
+
+msgid "Fiscal Years"
+msgstr "Фискална година"
+
+msgid "Folder"
+msgstr "Папка"
+
+msgid "For Part :"
+msgstr "Справка за:"
+
+msgid "For Purchase Order"
+msgstr "Заявка за покупка"
+
+msgid "For Sales Order"
+msgstr "Въвеждане на поръчка"
+
+msgid "For Work Order #"
+msgstr "Заявка за производство"
+
+msgid "Foreign Item Codes"
+msgstr "Чуждестранни артикулни кодове"
+
+msgid "Forms Setup"
+msgstr "Компания настройки"
+
+msgid "Forms settings have been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "From"
+msgstr "От:"
+
+msgid "From Account"
+msgstr "Сметка"
+
+msgid "From Bank Account"
+msgstr "От банкова сметка"
+
+msgid "From Bank Account:"
+msgstr "От банкова сметка:"
+
+msgid "From Customer"
+msgstr "Клиент:"
+
+msgid "From Customer:"
+msgstr "Клиент:"
+
+msgid "From Dimension"
+msgstr "Клиент:"
+
+msgid "From Location"
+msgstr "Доставено от:"
+
+msgid "From Location:"
+msgstr "Доставено от:"
+
+msgid "From location :"
+msgstr "Доставено от:"
+
+msgid "From:"
+msgstr "От:"
+
+msgid "Full Name"
+msgstr "Пълно име"
+
+msgid "Funds Transfer"
+msgstr "Транзакции между банкови сметки"
+
+msgid "GL"
+msgstr "Сметкоплан"
+
+msgid "GL Account"
+msgstr "Сметкоплан Справки"
+
+msgid "GL Account &Classes"
+msgstr "Сметкоплан Справки"
+
+msgid "GL Account &Groups"
+msgstr "Сметкоплан Справки"
+
+msgid "GL Account &Transactions"
+msgstr "Сметкоплан Справки"
+
+msgid "GL Account Classes"
+msgstr "Сметкоплан Справки"
+
+msgid "GL Account Groups"
+msgstr "Сметкоплан Справки"
+
+msgid "GL Account Transactions"
+msgstr "Сметкоплан Справки"
+
+msgid "GL Accounts"
+msgstr "Сметкоплан"
+
+msgid "GL Deposit"
+msgstr "Дата на депозита:"
+
+msgid "GL Payment"
+msgstr "Изпълни"
+
+msgid "GSTNo:"
+msgstr "ДДС номер"
+
+msgid "General"
+msgstr "Настройки Сметкоплан"
+
+msgid "General GL"
+msgstr "Настройки Сметкоплан"
+
+msgid "General Ledger"
+msgstr "Главна счетоводна книга"
+
+msgid "General Ledger &Reports"
+msgstr "Банкиране и Главна Счетоводна Книга"
+
+msgid "General Ledger Transaction Details"
+msgstr "Банкиране и Главна Счетоводна Книга"
+
+msgid "General Notes:"
+msgstr "Настройки Сметкоплан"
+
+msgid "Get"
+msgstr "Извлечи"
+
+msgid "Grand Total"
+msgstr "Общ Баланс"
+
+msgid "Graphics"
+msgstr "Графики"
+
+msgid "Group"
+msgstr "Група продажби:"
+
+msgid "Group Name"
+msgstr "Описание"
+
+msgid "Group Name:"
+msgstr "Описание"
+
+msgid "Help"
+msgstr "Помощ"
+
+msgid "Home Currency:"
+msgstr "Национална валута:"
+
+msgid "Horizontal bars"
+msgstr "Хоризонтални разделители"
+
+msgid "Host name or IP"
+msgstr "Име на хост или IP адрес"
+
+msgid "Hundredths Name:"
+msgstr "Описание"
+
+msgid "Hundredths name"
+msgstr "Наименование на стотиците"
+
+msgid "INVOICE"
+msgstr "Шаблони за фактуриране"
+
+msgid "If this does not happen"
+msgstr "Ако това не се случи"
+
+msgid "If you are not an authorized user, please contact your system "
+"administrator to obtain an account to enable you to use the system."
+msgstr "Ако не сте оторизиран потребител, моля обърнете се към вашия "
+"системен администратор за да получите достъп до системата."
+
+msgid "Image File (.jpg)"
+msgstr "Файла с изображение (.jpg)"
+
+msgid "Income"
+msgstr "Приходи"
+
+msgid "Incorrect Password"
+msgstr "Промяна на парола"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "Input Tax"
+msgstr "Данъци по групи"
+
+msgid "Inquiries and Reports"
+msgstr "Справки и печатни доклади"
+
+msgid "Insert New Item"
+msgstr "Въведи"
+
+msgid "Install/Update &Languages"
+msgstr "Създаване/Обновяване на компания"
+
+msgid "Install/Update Languages"
+msgstr "Инсталирване/Редакция на езици"
+
+msgid "Into Bank Account"
+msgstr "Банкова сметка:"
+
+msgid "Into Bank Account:"
+msgstr "Банкова сметка:"
+
+msgid "Into Location"
+msgstr "Склад по подразбиране:"
+
+msgid "Inv Date"
+msgstr "Дата на upload"
+
+msgid "Invalid BEGIN date in fiscal year."
+msgstr "Невалидна НАЧАЛНА година за фискалнато година"
+
+msgid "Invalid END date in fiscal year."
+msgstr "Невалидна КРАЙНА година за фискалната година"
+
+msgid "Invalid date format"
+msgstr "Заявен ден за доставката"
+
+msgid "Inventory"
+msgstr "Склад"
+
+msgid "Inventory &Adjustments"
+msgstr "Корекция на складовите наличности"
+
+msgid "Inventory &Locations"
+msgstr "Складови бази"
+
+msgid "Inventory &Movement Types"
+msgstr "Склад"
+
+msgid "Inventory &Planning Report"
+msgstr "Справка планиране на артикулите"
+
+msgid "Inventory &Reports"
+msgstr "Печатна справка за складовите наличност"
+
+msgid "Inventory &Sales Report"
+msgstr "Продажни цени"
+
+msgid "Inventory &Valuation Report"
+msgstr "Справка оценка на артикулите"
+
+msgid "Inventory Account:"
+msgstr "Сметка активи:"
+
+msgid "Inventory Adjustment"
+msgstr "Корекция на наличностите"
+
+msgid "Inventory Adjustments Account:"
+msgstr "Сметка корекция цена активи:"
+
+msgid "Inventory Category"
+msgstr "Корекция на наличностите"
+
+msgid "Inventory Column"
+msgstr "Корекция на наличностите"
+
+msgid "Inventory Item &Movements"
+msgstr "Движения на складовите наличност"
+
+msgid "Inventory Item &Status"
+msgstr "Статус на складовите наличности"
+
+msgid "Inventory Item Cost Update"
+msgstr "Ръчно коригиране на покупната цена"
+
+msgid "Inventory Item Movement"
+msgstr "Движение на складовите наличности"
+
+msgid "Inventory Item Sales prices"
+msgstr "Продажни цени"
+
+msgid "Inventory Item Status"
+msgstr "Статус на складовите наличност"
+
+msgid "Inventory Item Where Used &Inquiry"
+msgstr "Справка за мястото, където е използван артикула"
+
+msgid "Inventory Item Where Used Inquiry"
+msgstr "Справка за мястото, където е използван артикула"
+
+msgid "Inventory Location &Transfers"
+msgstr "Транфсер на складови наличност"
+
+msgid "Inventory Location Transfers"
+msgstr "Трансфериране на артикули"
+
+msgid "Inventory Locations"
+msgstr "Складови бази"
+
+msgid "Inventory Movement Types"
+msgstr "Видове премествания на инвентар"
+
+msgid "Inventory Planning Report"
+msgstr "Склад"
+
+msgid "Inventory Sales Report"
+msgstr "Продажни цени"
+
+msgid "Inventory Valuation Report"
+msgstr "Склад"
+
+msgid "Inventory transfer has been processed"
+msgstr "Беше извършен трансфер на артикули"
+
+msgid "Invoice"
+msgstr "Шаблони за фактуриране"
+
+msgid "Invoice Date"
+msgstr "Дата на фактуриране:"
+
+msgid "Invoice Date:"
+msgstr "Дата на фактуриране:"
+
+msgid "Invoice Dead-line"
+msgstr "Директна продажба"
+
+msgid "Invoice Delivery Details"
+msgstr "Данни за Доставката"
+
+msgid "Invoice Items"
+msgstr "Артикули за продажба"
+
+msgid "Invoice No."
+msgstr "Фактура No"
+
+msgid "Invoice OK"
+msgstr "Шаблони за фактуриране"
+
+msgid "Invoice This Delivery"
+msgstr "Фактуриране срещу извършени доставки"
+
+msgid "Invoice Total"
+msgstr "Общ Баланс"
+
+msgid "Invoice Total:"
+msgstr "Общ Баланс"
+
+msgid "Invoice before"
+msgstr "Шаблони за фактуриране"
+
+msgid "Invoiced Quantity"
+msgstr "Налично Количество"
+
+msgid "Invoices"
+msgstr "Периодични фактури"
+
+msgid "Invoices/Credits"
+msgstr "Периодични фактури"
+
+msgid "Issue Date:"
+msgstr "Дата на upload"
+
+msgid "Item"
+msgstr "Артикул"
+
+msgid "Item &Categories"
+msgstr "Категории артикули"
+
+msgid "Item Adjustments Note"
+msgstr "Корекция на инвентарните наличности"
+
+msgid "Item Categories"
+msgstr "Категории артикули"
+
+msgid "Item Code"
+msgstr "Инв. номер"
+
+msgid "Item Code:"
+msgstr "Инвентарен номер:"
+
+msgid "Item Description"
+msgstr "Описание"
+
+msgid "Item Ta&x Types"
+msgstr "Изтрий"
+
+msgid "Item Tax Type:"
+msgstr "Тип налог за артикула:"
+
+msgid "Item Tax Types"
+msgstr "Тип налог за артикула:"
+
+msgid "Item Type:"
+msgstr "Тип на артикула:"
+
+msgid "Item code has been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "Item has been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "Item status:"
+msgstr "Състояние на артикула:"
+
+msgid "Item:"
+msgstr "Артикул:"
+
+msgid "Items"
+msgstr "Артикули"
+
+msgid "Items Defaults"
+msgstr "Склад"
+
+msgid "Items Written Off"
+msgstr "Склад"
+
+msgid "Items to Issue"
+msgstr "Плащания към доставчици"
+
+msgid "Items to Receive"
+msgstr "Плащания към доставчици"
+
+msgid "January"
+msgstr "Януари"
+
+msgid "Journal Entry"
+msgstr "Счетоводен запис"
+
+msgid "Journal Inquiry"
+msgstr "Справки за счетоводни записи"
+
+msgid "July"
+msgstr "Юли"
+
+msgid "June"
+msgstr "Юни"
+
+msgid "Labour Cost"
+msgstr "Цена за труд"
+
+msgid "Language"
+msgstr "Език"
+
+msgid "Language Code"
+msgstr "Езиков код"
+
+msgid "Language File"
+msgstr "Езиков файл"
+
+msgid "Language Name"
+msgstr "Използван език"
+
+msgid "Language:"
+msgstr "Език"
+
+msgid "Last"
+msgstr "Последна Година"
+
+msgid "Last Created"
+msgstr "Последна Година"
+
+msgid "Last Visit"
+msgstr "Последна Година"
+
+msgid "Left to Allocate"
+msgstr "Плащания към доставчици"
+
+msgid "Left to Allocate:"
+msgstr "Плащания към доставчици"
+
+msgid "Liabilities"
+msgstr "Пасиви"
+
+msgid "Line Details"
+msgstr "Данни за доставката"
+
+msgid "Line Total"
+msgstr "Общ Баланс"
+
+msgid "Lines"
+msgstr "Линии"
+
+msgid "List of &Journal Entries"
+msgstr "Въвеждане на счетоводен запис"
+
+msgid "List of Journal Entries"
+msgstr "Въвеждане на счетоводен запис"
+
+msgid "Location"
+msgstr "Склад по подразбиране:"
+
+msgid "Location Code"
+msgstr "Складов код"
+
+msgid "Location Code:"
+msgstr "Сметка"
+
+msgid "Location Name"
+msgstr "Име на склад"
+
+msgid "Location Name:"
+msgstr "Описание"
+
+msgid "Location Transfer"
+msgstr "Склад по подразбиране:"
+
+msgid "Location:"
+msgstr "Склад по подразбиране:"
+
+msgid "Login -->"
+msgstr "Вход ->"
+
+msgid "Login Timeout:"
+msgstr "Изтичане на сесията:"
+
+msgid "Login as user: demouser and password: password"
+msgstr "Вход като потребител: demouser с парола: password"
+
+msgid "Logout"
+msgstr "Изход"
+
+msgid "Mailing Address:"
+msgstr "Адрес за доставка:"
+
+msgid "Main Branch"
+msgstr "Име на клон:"
+
+msgid "Main Menu"
+msgstr "Основно меню"
+
+msgid "Maintenance"
+msgstr "Обслужване"
+
+msgid "Make &Delivery Against This Order"
+msgstr "Изпълни доставка срещу тази поръчка"
+
+msgid "Make &Invoice Against This Delivery"
+msgstr "Изпълни доставка срещу тази поръчка"
+
+msgid "Manufactured"
+msgstr "Произведено"
+
+msgid "Manufactured Item"
+msgstr "Добави"
+
+msgid "Manufacturing"
+msgstr "Производство"
+
+msgid "Manufacturing &Reports"
+msgstr "Справки и печатни доклади"
+
+msgid "March"
+msgstr "Март"
+
+msgid "Marked dimensions are overdue."
+msgstr "Отбелязаните позиции са просрочени."
+
+msgid "Marked items are due."
+msgstr "Отбелязаните позиции са просрочени."
+
+msgid "Marked items are overdue."
+msgstr "Отбелязаните позиции са просрочени."
+
+msgid "Marked items are settled."
+msgstr "Отбелязаните позиции са просрочени."
+
+msgid "Marked items have insufficient quantities in stock as on day of "
+"delivery."
+msgstr "Отбелязаните позиции нямат достатъчна наличност за деня на доставка."
+
+msgid "Marked orders are overdue."
+msgstr "Отбелязаните позиции са просрочени."
+
+msgid "Marked orders have overdue items."
+msgstr "Отбелязаните позиции са просрочени."
+
+msgid "May"
+msgstr "Май"
+
+msgid "Memo"
+msgstr "Забележка"
+
+msgid "Memo:"
+msgstr "Забележка:"
+
+msgid "Menu Tab"
+msgstr "Основно Меню"
+
+msgid "Miscellaneous"
+msgstr "Различни настройки"
+
+msgid "Modify Purchase Order #"
+msgstr "Заявка за покупка"
+
+msgid "Module File"
+msgstr "Прикачене на файл"
+
+msgid "Monthly"
+msgstr "Месечно"
+
+msgid "Months back."
+msgstr "Месеци назад"
+
+msgid "Months."
+msgstr "Месеци"
+
+msgid "NO INVOICING"
+msgstr "Факс No"
+
+msgid "Name"
+msgstr "Име"
+
+msgid "Name (to appear on reports):"
+msgstr "Име (което ще се появява на справките)"
+
+msgid "Name and Address"
+msgstr "Име и адрес"
+
+msgid "Name and Contact"
+msgstr "Име на клон и контакти"
+
+msgid "Name:"
+msgstr "Име:"
+
+msgid "Net Tax"
+msgstr "Данъци по групи"
+
+msgid "New Company Logo (.jpg)"
+msgstr "Лого на новата компания (.jpg)"
+
+msgid "New Sales Order Entry"
+msgstr "Въвеждане на нова поръчка"
+
+msgid "New Sales Quotation Entry"
+msgstr "Въвеждане на нова оферта"
+
+msgid "New account"
+msgstr "Сметка"
+
+msgid "New account class has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New account has been added."
+msgstr "Профира беше добавен."
+
+msgid "New account type has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New bank account has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New credit status has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New currency has been added"
+msgstr "Новата валута беше добавена."
+
+msgid "New customer"
+msgstr "Нов клиент"
+
+msgid "New customer branch has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New fiscal year has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New item"
+msgstr "Въведи"
+
+msgid "New item category has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New item code has been added."
+msgstr "Добавена нова фискална година"
+
+msgid "New kit"
+msgstr "Добави"
+
+msgid "New location has been added"
+msgstr "Беше добавена нова складова база."
+
+msgid "New movement type has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New payment terms have been added"
+msgstr "Условията за плащане бяха добавени"
+
+msgid "New point of sale has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New printing profile"
+msgstr "Добави"
+
+msgid "New printing profile has been created"
+msgstr "Беше създаден нов профил за печат"
+
+msgid "New quick entry has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New recurrent invoice has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New sales area has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New sales group has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New sales person data have been added"
+msgstr "Бяха въведени новите данни за продавача."
+
+msgid "New sales type has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New script Admin Password"
+msgstr "Въведете новата си парола в полето."
+
+msgid "New shipping company has been added"
+msgstr "Беше добавена нова фирма за доставки"
+
+msgid "New supplier"
+msgstr "Добави"
+
+msgid "New tax group has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New tax type has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "New unit has been added"
+msgstr "Беше добавен нов артикук."
+
+msgid "New work center has been added"
+msgstr "Добавена нова фискална година"
+
+msgid "Next"
+msgstr "Следващ"
+
+msgid "Next Reference"
+msgstr "Трябва да въведете референция."
+
+msgid "No"
+msgstr "Не"
+
+msgid "No Category Filter"
+msgstr "Вашия ДДС номер"
+
+msgid "No Currency Filter"
+msgstr "Вашия ДДС номер"
+
+msgid "No Customer Filter"
+msgstr "Добави"
+
+msgid "No Dimension Filter"
+msgstr "Вашия ДДС номер"
+
+msgid "No Graphics"
+msgstr "Факс No"
+
+msgid "No Location Filter"
+msgstr "Склад по подразбиране:"
+
+msgid "No Quick Entries are defined."
+msgstr "Няма въведени доставчици в системата."
+
+msgid "No Supplier Filter"
+msgstr "Вашия ДДС номер"
+
+msgid "No Type Filter"
+msgstr "Тип налог за артикула:"
+
+msgid "No base price list"
+msgstr "Вид прод./Ценова листа"
+
+msgid "No customer found for entered text."
+msgstr "Няма намерен клиент по въведения критерий за търсене."
+
+msgid "No image"
+msgstr "Факс No"
+
+msgid "No records"
+msgstr "Няма записи"
+
+msgid "No recurrent invoices are due."
+msgstr "Няма чакащи периодични фактури."
+
+msgid "No zero values"
+msgstr "Вашия ДДС номер"
+
+msgid "November"
+msgstr "Ноември"
+
+msgid "Number"
+msgstr "Факс Номер:"
+
+msgid "October"
+msgstr "Октомври"
+
+msgid "Official Company Number:"
+msgstr "ЕИК:"
+
+msgid "On Hand"
+msgstr "Налично Количество"
+
+msgid "On Order"
+msgstr "Отмени"
+
+msgid "Only Overdue:"
+msgstr "Отбелязаните позиции са просрочени."
+
+msgid "Only documents can be printed."
+msgstr "Могат да бъдат печатани само документи"
+
+msgid "Only graphics files can be uploaded"
+msgstr "Могат да бъдат качвани само графични файлове"
+
+msgid "Only jpg and png files are supported - a file extension of .jpg or ."
+"png is expected"
+msgstr "Поддържат се само jpg и png графични формати - файл с разширение ."
+"jpg или .png"
+
+msgid "Open Balance"
+msgstr "Краен Баланс"
+
+msgid "Opening Balance"
+msgstr "Начален Баланс"
+
+msgid "Ord Date"
+msgstr "Дата на upload"
+
+msgid "Order"
+msgstr "Поръчка"
+
+msgid "Order #"
+msgstr "Поръчка No:"
+
+msgid "Order Comments"
+msgstr "Отмени"
+
+msgid "Order Currency"
+msgstr "Валута на Клиента:"
+
+msgid "Order Date"
+msgstr "Дата на поръчката"
+
+msgid "Order Date:"
+msgstr "Дата на поръчката:"
+
+msgid "Order Delivery Details"
+msgstr "Данни за Доставката"
+
+msgid "Order Information"
+msgstr "Отмени"
+
+msgid "Order Items"
+msgstr "Артикули заявени за продажба"
+
+msgid "Order Price"
+msgstr "Ценова Листа"
+
+msgid "Order Status Listing"
+msgstr "Настройка на кредитния статус"
+
+msgid "Order Total"
+msgstr "Общ Баланс"
+
+msgid "Ordered"
+msgstr "Поръчано"
+
+msgid "Ordered On"
+msgstr "Налично Количество"
+
+msgid "Our Customer No:"
+msgstr "Вашия ДДС номер"
+
+msgid "Our Order No"
+msgstr "Вашия ДДС номер"
+
+msgid "Our VAT No."
+msgstr "Вашия ДДС номер"
+
+msgid "Output Tax"
+msgstr "Данъци по групи"
+
+msgid "Outstanding"
+msgstr "Чакащ"
+
+msgid "Outstanding &GRNs Report"
+msgstr "Чакащи GRN справки"
+
+msgid "Outstanding GRNs Report"
+msgstr "Чакащи GRN справки"
+
+msgid "Outstanding Transactions"
+msgstr "Транзакции по клиенти"
+
+msgid "Over"
+msgstr "Над"
+
+msgid "Overdue Credit Notes"
+msgstr "Данъчно-кредитно известие"
+
+msgid "Overdue Invoices"
+msgstr "Периодични фактури"
+
+msgid "Overhead Cost"
+msgstr "Цена за извънреден труд"
+
+msgid "PDF/Printer"
+msgstr "PDF/Принтер"
+
+msgid "POS Name"
+msgstr "Описание"
+
+msgid "POS location"
+msgstr "Склад по подразбиране:"
+
+msgid "PURCHASE ORDER"
+msgstr "Заявка за покупка"
+
+msgid "Pa&yment Terms"
+msgstr "Условия на плащане"
+
+msgid "Page"
+msgstr "Страница"
+
+msgid "Page Size:"
+msgstr "Формат на страницата:"
+
+msgid "Paid on purchases"
+msgstr "Налично Количество"
+
+msgid "Parent Item"
+msgstr "Добави"
+
+msgid "Password cannot be changed in demo mode."
+msgstr "Паролата не може да бъде сменяна в демо режим."
+
+msgid "Password:"
+msgstr "Парола:"
+
+msgid "Pay To"
+msgstr "Да се достави на:"
+
+msgid "Pay To:"
+msgstr "Да се достави на:"
+
+msgid "Payable Account:"
+msgstr "Сметка"
+
+msgid "Payment Currency"
+msgstr "Валута на Клиента:"
+
+msgid "Payment Link"
+msgstr "Изпълни"
+
+msgid "Payment Report"
+msgstr "Тип Справка:"
+
+msgid "Payment Terms"
+msgstr "Условия на плащане"
+
+msgid "Payment Terms:"
+msgstr "Условия на плащане:"
+
+msgid "Payment To:"
+msgstr "Да се достави на:"
+
+msgid "Payment Type"
+msgstr "Тип на Артикула:"
+
+msgid "Payment has been sucessfully entered"
+msgstr "Плащанията бяха въведени успешно"
+
+msgid "Payment to Supplier"
+msgstr "Плащания към доставчици"
+
+msgid "Payment:"
+msgstr "Плащане:"
+
+msgid "Payments"
+msgstr "Разплащания"
+
+msgid "Percentages:"
+msgstr "Проценти:"
+
+msgid "Period"
+msgstr "Период"
+
+msgid "Period Y-1"
+msgstr "Период"
+
+msgid "Person/Item"
+msgstr "Добави"
+
+msgid "Person/Item/Memo"
+msgstr "Изтрий"
+
+msgid "Phone"
+msgstr "Тел. No"
+
+msgid "Phone No"
+msgstr "Тел. No"
+
+msgid "Phone Number"
+msgstr "Тел. номер:"
+
+msgid "Phone Number:"
+msgstr "Тел. Номер:"
+
+msgid "Phone number of ordering person. Defaults to branch phone number"
+msgstr "Телефонен номер на човека за поръчки. Телефон на клона по "
+"подразбиране"
+
+msgid "Phone/Fax/Email"
+msgstr "Телефон за контакт:"
+
+msgid "Physical Address:"
+msgstr "Адрес за фактура:"
+
+msgid "Place Delivery"
+msgstr "Шаблон за доставка"
+
+msgid "Place Invoice"
+msgstr "Изпращане на Ф-рата"
+
+msgid "Place Order"
+msgstr "Изпълни"
+
+msgid "Please contact System Administrator."
+msgstr "Моля Ви свържете се със системния администратор"
+
+msgid "Please contact your system administrator."
+msgstr "Моля свържете се с вашия системен администратор."
+
+msgid "Please login here"
+msgstr "Натисни тук за да влезеш отново"
+
+msgid "Please quote Credit no. when paying. All amounts stated in"
+msgstr "Мола цитирайте Кредитен No., когато плащате. All amounts stated in"
+
+msgid "Please reorder"
+msgstr "Натисни тук за да влезеш отново"
+
+msgid "Point of Sale Name"
+msgstr "Име и адрес"
+
+msgid "Port"
+msgstr "порт"
+
+msgid "Preferences"
+msgstr "Персонални настройки"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Price List"
+msgstr "Ценова Листа"
+
+msgid "Price List:"
+msgstr "Ценова Листа:"
+
+msgid "Price Listing"
+msgstr "Ценова Листа"
+
+msgid "Price/Turnover"
+msgstr "Ценова листа"
+
+msgid "Price:"
+msgstr "Цена:"
+
+msgid "Prices/Amounts:"
+msgstr "Цени/Количества"
+
+msgid "Pricing and Costs"
+msgstr "Продажна и покупна цена"
+
+msgid "Print"
+msgstr "Печат"
+
+msgid "Print &Deliveries"
+msgstr "Преглед и печат на транзакциите"
+
+msgid "Print &Invoices/Credit Notes"
+msgstr "Създаване и печат на периодични фактури"
+
+msgid "Print &Statements"
+msgstr "Преглед и печат на транзакциите"
+
+msgid "Print Out Date"
+msgstr "Заявен ден за доставката"
+
+msgid "Print Purchase &Orders"
+msgstr "Обслужване на чакащи заявки"
+
+msgid "Print as Quote"
+msgstr "Преглед и печат на транзакциите"
+
+msgid "Print control file not accepted"
+msgstr "Контролния файл за печат не е приет"
+
+msgid "Printer"
+msgstr "Принтер"
+
+msgid "Printer Description"
+msgstr "Описание на принтер"
+
+msgid "Printer Name"
+msgstr "Име на принтер"
+
+msgid "Printer name cannot be empty."
+msgstr "Името на принтера не може да е празно."
+
+msgid "Printing Profile Name"
+msgstr "Име и адрес"
+
+msgid "Printing Profiles"
+msgstr "Профили за печат"
+
+msgid "Printing profile"
+msgstr "Профил за принтиране"
+
+msgid "Printing profile has been updated"
+msgstr "Настройките за фирмата са приети"
+
+msgid "Printing profile name cannot be empty."
+msgstr "Името на печатния профил не може да е празно."
+
+msgid "Process"
+msgstr "Изпълни"
+
+msgid "Process Additional Cost"
+msgstr "Въвеждане на счетоводен запис"
+
+msgid "Process Adjustment"
+msgstr "Изпълни"
+
+msgid "Process Credit Note"
+msgstr "Данъчно-кредитно известие"
+
+msgid "Process Dispatch"
+msgstr "Изпълни"
+
+msgid "Process Invoice"
+msgstr "Шаблони за фактуриране"
+
+msgid "Process Issue"
+msgstr "Изпълни"
+
+msgid "Process Receive Items"
+msgstr "Склад"
+
+msgid "Process Transfer"
+msgstr "Изпълни"
+
+msgid "Process allocations"
+msgstr "Изпълни"
+
+msgid "Produce Finished Items"
+msgstr "Склад"
+
+msgid "Prompt Payment Discount Account:"
+msgstr "Банково Разплащане"
+
+msgid "Purchase &Order Entry"
+msgstr "Заявка за покупка"
+
+msgid "Purchase Account:"
+msgstr "Сметка"
+
+msgid "Purchase Discount Account:"
+msgstr "Сметка отстъпки при покупка:"
+
+msgid "Purchase Order"
+msgstr "Заявка за покупка"
+
+msgid "Purchase Order Delivery"
+msgstr "Данни за Доставката"
+
+msgid "Purchase Order Entry"
+msgstr "Заявка за покупка"
+
+msgid "Purchase Order has been updated"
+msgstr "Настройките за фирмата са приети"
+
+msgid "Purchase Orders &Inquiry"
+msgstr "Обслужване на чакащи заявки"
+
+msgid "Purchased"
+msgstr "Закупепни"
+
+msgid "Purchasing &Pricing"
+msgstr "Покупна цена"
+
+msgid "Purchasing GL Account"
+msgstr "Сметкоплан Справки"
+
+msgid "Purchasing GL Account:"
+msgstr "Сметкоплан Справки"
+
+msgid "QUOTE"
+msgstr "Котировка"
+
+msgid "Quantities:"
+msgstr "Количества:"
+
+msgid "Quantity"
+msgstr "К-во"
+
+msgid "Quantity Delivered"
+msgstr "Налично Количество"
+
+msgid "Quantity In"
+msgstr "Налично Количество"
+
+msgid "Quantity Invoiced"
+msgstr "Налично Количество"
+
+msgid "Quantity Manufactured"
+msgstr "Налично Количество"
+
+msgid "Quantity Manufactured:"
+msgstr "Налично Количество"
+
+msgid "Quantity On Hand"
+msgstr "Налично Количество"
+
+msgid "Quantity Out"
+msgstr "Налично Количество"
+
+msgid "Quantity Received"
+msgstr "Налично Количество"
+
+msgid "Quantity Required"
+msgstr "Заявен ден за доставката"
+
+msgid "Quantity Required:"
+msgstr "Заявен ден за доставката"
+
+msgid "Quantity on hand after"
+msgstr "Налични количества след"
+
+msgid "Quantity on hand before"
+msgstr "Налични количества преди"
+
+msgid "Quantity:"
+msgstr "К-во"
+
+msgid "Query page size:"
+msgstr "Формат на страницата за заявки:"
+
+msgid "Quick Entry"
+msgstr "Кратко въвеждане"
+
+msgid "Quick Entry Lines"
+msgstr "Плащане от клиент"
+
+msgid "Quick Entry:"
+msgstr "Кратко въвеждане:"
+
+msgid "Quotation Date:"
+msgstr "Дата на офертата:"
+
+msgid "Rate"
+msgstr "Обменен курс"
+
+msgid "Rate (%)"
+msgstr "Обменен курс"
+
+msgid "Re-Order Level"
+msgstr "Въведи нова поръчка"
+
+msgid "Receivable Account:"
+msgstr "Сметка"
+
+msgid "Receive"
+msgstr "Получаване"
+
+msgid "Receive Into:"
+msgstr "Банкова сметка:"
+
+msgid "Received"
+msgstr "Получено"
+
+msgid "Received On"
+msgstr "Налично Количество"
+
+msgid "Received between"
+msgstr "Транзакции между банкови сметки"
+
+msgid "Recurrent &Invoices"
+msgstr "Периодични фактури"
+
+msgid "Recurrent Invoices"
+msgstr "Периодични фактури"
+
+msgid "Reference"
+msgstr "Референция"
+
+msgid "Reference:"
+msgstr "Референция:"
+
+msgid "Refresh"
+msgstr "Обновяване"
+
+msgid "Refresh Inquiry"
+msgstr "Справка Банкови Сметки"
+
+msgid "Refresh document page"
+msgstr "Обновяване страницата на документа"
+
+msgid "Release Work Order"
+msgstr "Заявка за производство"
+
+msgid "Released Date"
+msgstr "Дата на upload"
+
+msgid "Released On:"
+msgstr "Налично Количество"
+
+msgid "Remember last document date:"
+msgstr "Запомняне датата на последния документ:"
+
+msgid "Remove line from document"
+msgstr "Премахване на позиция от документа"
+
+msgid "Remove line from journal"
+msgstr "Премахване на позиция от счетоводната книга"
+
+msgid "Repeat password:"
+msgstr "Повторете паролата:"
+
+msgid "Report Classes:"
+msgstr "Тип Справка:"
+
+msgid "Report Id"
+msgstr "Тип справка:"
+
+msgid "Reports For Class: "
+msgstr "Справка за:"
+
+msgid "Reports and Analysis"
+msgstr "Справки и анализи"
+
+msgid "Requested Delivery"
+msgstr "Шаблон за доставка"
+
+msgid "Required"
+msgstr "Заявен ден за доставката"
+
+msgid "Required By"
+msgstr "Заявен ден за доставката"
+
+msgid "Required Delivery Date"
+msgstr "Заявен ден за доставката"
+
+msgid "Restore Backup"
+msgstr "Възстановяване на backup-a завършено"
+
+msgid "Restore backup completed."
+msgstr "Възстановяване на backup-a завършено"
+
+msgid "Restricted access"
+msgstr "Ограничен достъп"
+
+msgid "Reverse Transaction:"
+msgstr "Анулиране на транзакция"
+
+msgid "Right To Left"
+msgstr "От дясно на ляво"
+
+msgid "Round to nearest:"
+msgstr "Закръгляне до:"
+
+msgid "S&etup"
+msgstr "Настройки"
+
+msgid "SALES ORDER"
+msgstr "Поръчка"
+
+msgid "SQL File"
+msgstr "Прикачене на файл"
+
+msgid "STATEMENT"
+msgstr "Банкова извлечение"
+
+msgid "SUPPLIER CREDIT NOTE"
+msgstr "Данъчно-кредитно известие"
+
+msgid "SUPPLIER INVOICE"
+msgstr "Фактуриране на Доставчик"
+
+msgid "Sales"
+msgstr "Продажби"
+
+msgid "Sales &Areas"
+msgstr "Район на продажби"
+
+msgid "Sales &Groups"
+msgstr "Продажби по групи"
+
+msgid "Sales &Kits"
+msgstr "Окомплектовки за продажба"
+
+msgid "Sales &Order Entry"
+msgstr "Въвеждане на поръчка"
+
+msgid "Sales &Persons"
+msgstr "Сътрудници по продажбите"
+
+msgid "Sales &Pricing"
+msgstr "Продажна цена"
+
+msgid "Sales &Quotation Entry"
+msgstr "Въвеждане на оферта"
+
+msgid "Sales Account:"
+msgstr "Сметка продажби:"
+
+msgid "Sales Area:"
+msgstr "Район на продажбите:"
+
+msgid "Sales Areas"
+msgstr "Район на продажби"
+
+msgid "Sales Discount Account:"
+msgstr "Сметка отстъпки при продажба:"
+
+msgid "Sales Folk"
+msgstr "Район на продажби"
+
+msgid "Sales GL Account"
+msgstr "Сметкоплан Справки"
+
+msgid "Sales GL Account:"
+msgstr "Сметкоплан Справки"
+
+msgid "Sales Group:"
+msgstr "Група продажби:"
+
+msgid "Sales Groups"
+msgstr "Продажби по групи"
+
+msgid "Sales Invoice"
+msgstr "Директна продажба"
+
+msgid "Sales Invoice Items"
+msgstr "Артикули за продажба"
+
+msgid "Sales Invoices"
+msgstr "Периодични фактури"
+
+msgid "Sales Kits"
+msgstr "Окомплектовки за продажба"
+
+msgid "Sales Order"
+msgstr "Поръчка"
+
+msgid "Sales Order &Inquiry"
+msgstr "Справки за поръчки"
+
+msgid "Sales Order Items"
+msgstr "Артикули заявени за продажба"
+
+msgid "Sales Person"
+msgstr "Продавач"
+
+msgid "Sales Person:"
+msgstr "Продавач:"
+
+msgid "Sales Persons"
+msgstr "Сътрудници по продажбите"
+
+msgid "Sales Quotation I&nquiry"
+msgstr "Справки за оферти"
+
+msgid "Sales T&ypes"
+msgstr "Видове продажби"
+
+msgid "Sales Type"
+msgstr "Вид продажба"
+
+msgid "Sales Type Name"
+msgstr "Вид прод./Ценова листа"
+
+msgid "Sales Type/Price List:"
+msgstr "Вид прод./Ценова листа"
+
+msgid "Sales Type:"
+msgstr "Вид продажба:"
+
+msgid "Sales Types"
+msgstr "Вид продажба"
+
+msgid "Sales person name:"
+msgstr "Име и адрес"
+
+msgid "Salesman"
+msgstr "Продавач"
+
+msgid "Salesman Listing"
+msgstr "Списък на продавачите"
+
+msgid "Save"
+msgstr "Запис"
+
+msgid "Savings Account"
+msgstr "Сметка"
+
+msgid "Search"
+msgstr "Търсене"
+
+msgid "Search All Deliveries"
+msgstr "Търсене на всички поръчки"
+
+msgid "Search All Sales Orders"
+msgstr "Търсене на всички поръчки"
+
+msgid "Search Customer List"
+msgstr "Списък за търсене на клиенти"
+
+msgid "Search Dimensions"
+msgstr "Търсене на Артикули"
+
+msgid "Search Item List"
+msgstr "Списък за търсене на артикули"
+
+msgid "Search Outstanding Dimensions"
+msgstr "Търсене на чакащи Dimensions"
+
+msgid "Search Outstanding Purchase Orders"
+msgstr "Обслужване на чакащи заявки"
+
+msgid "Search Outstanding Sales Orders"
+msgstr "Търсене на всички поръчки"
+
+msgid "Search Outstanding Work Orders"
+msgstr "Обслужване на чакащи заявки"
+
+msgid "Search Purchase Orders"
+msgstr "Обслужване на чакащи заявки"
+
+msgid "Search Supplier List"
+msgstr "Списък за търсене на доставчици"
+
+msgid "Search Template for Invoicing"
+msgstr "Търсене на шаблони за фактуриране"
+
+msgid "Search Work Orders"
+msgstr "Търсене на заявки за производство"
+
+msgid "Select"
+msgstr "Избор"
+
+msgid "Select A Different &Order"
+msgstr "Въведи нова поръчка"
+
+msgid "Select A Different Delivery"
+msgstr "Избиране шаблон за доставки"
+
+msgid "Select An &Outstanding Purchase Order"
+msgstr "Обслужване на чакащи заявки"
+
+msgid "Select Delivery to Invoice"
+msgstr "Фактуриране срещу извършени доставки"
+
+msgid "Select Template for Delivery"
+msgstr "Избиране шаблон за доставки"
+
+msgid "Select a Supplier: "
+msgstr "Изтрий"
+
+msgid "Select a currency :"
+msgstr "Избор на валута:"
+
+msgid "Select a customer: "
+msgstr "Избор на клиент:"
+
+msgid "Select a different delivery"
+msgstr "Избиране шаблон за доставки"
+
+msgid "Select a manufacturable item:"
+msgstr "Изтрий"
+
+msgid "Select a sale kit:"
+msgstr "Избиране шаблон за доставки"
+
+msgid "Select a supplier:"
+msgstr "Изтрий"
+
+msgid "Select a supplier: "
+msgstr "Изтрий"
+
+msgid "Select an item to display its parent item(s)."
+msgstr "Избери артикул за който искаме проверка къде е вложен (в продукт)."
+
+msgid "Select an item:"
+msgstr "Избор на артикул:"
+
+msgid "Select customer"
+msgstr "Избор на клиент:"
+
+msgid "Select customer branch"
+msgstr "Деактивирай клона:"
+
+msgid "Select documents"
+msgstr "Прилагане на документ"
+
+msgid "Select or &Add"
+msgstr "Добавяне или редакция"
+
+msgid "Select printing profile"
+msgstr "Избиране шаблон за доставки"
+
+msgid "Select supplier"
+msgstr "Изтрий"
+
+msgid "Selected account class has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected account has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected bank account has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected component has been updated"
+msgstr "Настройките за фирмата са приети"
+
+msgid "Selected credit status has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected credit status has been updated"
+msgstr "Избрания кредитен статус беше обновен"
+
+msgid "Selected currency has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected currency settings has been updated"
+msgstr "Избраните настройки за валута бяха приети"
+
+msgid "Selected customer branch has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected customer branch has been updated"
+msgstr "Избрания клиентски клон беше обновен"
+
+msgid "Selected customer has been deleted."
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected deliveries has been processed"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected fiscal year has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected fiscal year has been updated"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected item category has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected item has been deleted."
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected location has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected location has been updated"
+msgstr "Настройките за фирмата са приети"
+
+msgid "Selected movement type has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected payment terms have been deleted"
+msgstr "Избраните условия за плащане бяха изтрити"
+
+msgid "Selected point of sale has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected printing profile has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected quick entry has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected recurrent invoice has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected sales area has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected sales group has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected sales type has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected shipping company has been deleted"
+msgstr "Избраната фирма за доставки беше изтрита"
+
+msgid "Selected tax group has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected tax type has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected transaction has been voided."
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected unit has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Selected unit has been updated"
+msgstr "Настройките за фирмата са приети"
+
+msgid "Selected work center has been deleted"
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Sending document by email failed"
+msgstr "Изпращането на документа по електронната поща беше неуспешно."
+
+msgid "September"
+msgstr "Септември"
+
+msgid "Service"
+msgstr "Услуга"
+
+msgid "Shi&pping Company"
+msgstr "Фирма за доставки"
+
+msgid "Shipping"
+msgstr "Цена за Доставката:"
+
+msgid "Shipping Charged Account:"
+msgstr "Равняване на Банкова Сметка"
+
+msgid "Shipping Company"
+msgstr "Фирма за доставки"
+
+msgid "Shipping Company:"
+msgstr "Фирма за Доставката:"
+
+msgid "Shipping Cost"
+msgstr "Цена за Доставката:"
+
+msgid "Show"
+msgstr "Покажи"
+
+msgid "Show Balance"
+msgstr "Краен Баланс"
+
+msgid "Show GL Information:"
+msgstr "Показване информация за Счетоводната Книга:"
+
+msgid "Show Item Codes:"
+msgstr "Показване кодове на артикулите:"
+
+msgid "Show Movements"
+msgstr "Преместване на инвентар"
+
+msgid "Show Pictures"
+msgstr "Покажи изображенията"
+
+msgid "Show Settled Items:"
+msgstr "Склад"
+
+msgid "Show also Inactive"
+msgstr "Показване на неактивни"
+
+msgid "Show hints for new users:"
+msgstr "Показване на подсказки за нови потребители:"
+
+msgid "Show inactive:"
+msgstr "Показване на неактивните:"
+
+msgid "Size"
+msgstr "Големина"
+
+msgid "Software Upgrade"
+msgstr "Обновяване на софтуера"
+
+msgid "Sql file"
+msgstr "Прикачене на файл"
+
+msgid "Standard &Costs"
+msgstr "Стандартна себестойност"
+
+msgid "Start Date"
+msgstr "Дата на upload"
+
+msgid "Start-up Tab"
+msgstr "Старт страница при влизане в системата"
+
+msgid "Statement"
+msgstr "Банкова извлечение"
+
+msgid "Stock Item"
+msgstr "Добави"
+
+msgid "Stock Location"
+msgstr "Склад по подразбиране:"
+
+msgid "Sub Total"
+msgstr "Общ Баланс"
+
+msgid "Sub-total"
+msgstr "Общ Баланс"
+
+msgid "Sub-total:"
+msgstr "Общ Баланс"
+
+msgid "Supp Reference"
+msgstr "Трябва да въведете референция."
+
+msgid "Supplier"
+msgstr "Доставчик"
+
+msgid "Supplier &Balances"
+msgstr "Изтрий"
+
+msgid "Supplier &Credit Notes"
+msgstr "Данъчно-кредитно известие"
+
+msgid "Supplier &Invoices"
+msgstr "Фактуриране към доставчици"
+
+msgid "Supplier Allocation &Inquiry"
+msgstr "Справки по клиенти"
+
+msgid "Supplier Allocation Inquiry"
+msgstr "Справки по клиенти"
+
+msgid "Supplier Allocations"
+msgstr "Изтрий"
+
+msgid "Supplier Balances"
+msgstr "Изтрий"
+
+msgid "Supplier Credit Note"
+msgstr "Данъчно-кредитно известие"
+
+msgid "Supplier Currency:"
+msgstr "Валута на Клиента:"
+
+msgid "Supplier Inquiry"
+msgstr "Изтрий"
+
+msgid "Supplier Invoice"
+msgstr "Фактуриране на Доставчик"
+
+msgid "Supplier Invoice/Credit"
+msgstr "Настройка на кредитния статус"
+
+msgid "Supplier Name:"
+msgstr "Описание"
+
+msgid "Supplier Payment"
+msgstr "Изпълни"
+
+msgid "Supplier Payment Entry"
+msgstr "Плащане от клиент"
+
+msgid "Supplier Purchasing Data"
+msgstr "Добави"
+
+msgid "Supplier Transaction &Inquiry"
+msgstr "Справки за транзакции по клиенти"
+
+msgid "Supplier and Purchasing &Reports"
+msgstr "Печат на справки за клиенти и продажби"
+
+msgid "Supplier has been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "Supplier invoice has been processed."
+msgstr "Фактурата на доставчика беше обработена."
+
+msgid "Supplier's Currency"
+msgstr "Валута на Клиента:"
+
+msgid "Supplier's Currency:"
+msgstr "Валута на Клиента:"
+
+msgid "Supplier's Description"
+msgstr "Описание"
+
+msgid "Supplier's Ref.:"
+msgstr "Изтрий"
+
+msgid "Supplier's Reference"
+msgstr "Изтрий"
+
+msgid "Supplier's Reference:"
+msgstr "Изтрий"
+
+msgid "Supplier's Unit"
+msgstr "Изтрий"
+
+msgid "Supplier:"
+msgstr "Доставчик"
+
+msgid "Suppliers"
+msgstr "Доставчици"
+
+msgid "Suppliers Unit of Measure:"
+msgstr "Плащания към доставчици"
+
+msgid "Suppliers and Purchasing"
+msgstr "Склад"
+
+msgid "Symbol"
+msgstr "Символ"
+
+msgid "System &Diagnostics"
+msgstr "Системна диагностика"
+
+msgid "System and &General GL Setup"
+msgstr "Настройка на системата и на Главната счетоводна книга"
+
+msgid "System and General GL Setup"
+msgstr "Настройка на системата и на Главната счетоводна книга"
+
+msgid "TOTAL CREDIT"
+msgstr "Кредитен лимит:"
+
+msgid "TOTAL CREDIT NOTE"
+msgstr "Данъчно-кредитно известие"
+
+msgid "TOTAL INVOICE"
+msgstr "Шаблони за фактуриране"
+
+msgid "TOTAL VALUE"
+msgstr "Общ Баланс"
+
+msgid "Ta&x Inquiry"
+msgstr "Справка Банкови Сметки"
+
+msgid "Ta&x Report"
+msgstr "Тип Справка:"
+
+msgid "Tax"
+msgstr "Данъци по групи"
+
+msgid "Tax &Groups"
+msgstr "Данъци по групи"
+
+msgid "Tax Group"
+msgstr "Данъчна група"
+
+msgid "Tax Group:"
+msgstr "Данъчна група:"
+
+msgid "Tax Groups"
+msgstr "Данъци по Групи"
+
+msgid "Tax Incl"
+msgstr "Данъци по групи"
+
+msgid "Tax Inquiry"
+msgstr "Данъци по групи"
+
+msgid "Tax Last Period:"
+msgstr "Последен Данъчен Период:"
+
+msgid "Tax Name"
+msgstr "Описание"
+
+msgid "Tax Periods:"
+msgstr "Данъчен период:"
+
+msgid "Tax Rate"
+msgstr "Обменен курс"
+
+msgid "Tax Report"
+msgstr "Тип Справка:"
+
+msgid "Tax Type"
+msgstr "Тип налог за артикула:"
+
+msgid "Tax Types"
+msgstr "Вид продажба"
+
+msgid "Tax exempt"
+msgstr "Данъци по групи"
+
+msgid "Tax included"
+msgstr "Данъци по групи"
+
+msgid "Telephone"
+msgstr "Телефон"
+
+msgid "Telephone No.:"
+msgstr "Тел. No:"
+
+msgid "Telephone No:"
+msgstr "Факс No"
+
+msgid "Telephone number:"
+msgstr "Факс Номер:"
+
+msgid "Template No"
+msgstr "Факс No"
+
+msgid "Template:"
+msgstr "Шаблон за доставка"
+
+msgid "Terms"
+msgstr "Условия"
+
+msgid "Terms Description:"
+msgstr "Описание на условията"
+
+msgid "Terms:"
+msgstr "Условия:"
+
+msgid "Thank you for using"
+msgstr "Благодарим Ви че използвахте"
+
+msgid "The Terms description must be entered."
+msgstr "Трябва да бъдат въведени условията за плащане"
+
+msgid "The account code must be entered."
+msgstr "Трябва да въведете име на компания"
+
+msgid "The bank account name cannot be empty."
+msgstr "Името на банковата сметка не може да е празно."
+
+msgid "The bill of material for this item is empty."
+msgstr "BOM-а за тази единица е празен."
+
+msgid "The company name must be entered."
+msgstr "Трябва да въведете име на компания"
+
+msgid "The configuration file "
+msgstr "Прикачене на файл"
+
+msgid "The credit status description cannot be empty."
+msgstr "Описанието на кредитния статус не може да е празно."
+
+msgid "The currency abbreviation must be entered."
+msgstr "Трябва да въведете име на компания"
+
+msgid "The currency name must be entered."
+msgstr "Трябва да въведете име на компания"
+
+msgid "The currency symbol must be entered."
+msgstr "Трябва да въведете име на компания"
+
+msgid "The customer name cannot be empty."
+msgstr "Името на клиента не може да е празно."
+
+msgid "The date entered is in an invalid format."
+msgstr "Въведената дата е в невалиден формат"
+
+msgid "The delivery cannot be processed because there is an insufficient "
+"quantity for item:"
+msgstr "Доставката не може да бъде изпълнена - не достатъчна наличност на "
+"артикул:"
+
+msgid "The delivery date is invalid."
+msgstr "Невалидна НАЧАЛНА година за фискалнато година"
+
+msgid "The dimension has been deleted."
+msgstr "Избраната фискална година е изтрита"
+
+msgid "The dimension has been entered."
+msgstr "ПРОЕКТА беше въведен."
+
+msgid "The dimension has been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "The dimension name must be entered."
+msgstr "Трябва да въведете име на компания"
+
+msgid "The dimension reference must be entered."
+msgstr "Трябва да въведете име на компания"
+
+msgid "The entered amount is invalid or less than zero."
+msgstr "Въведенета стойност е невалина или по-малка от нула."
+
+msgid "The entered date for the credit note is invalid."
+msgstr "Въведената дата за кретното известие е невалидна."
+
+msgid "The entered date is invalid."
+msgstr "Невалидна НАЧАЛНА година за фискалнато година"
+
+msgid "The entered discount percent is negative, greater than 100 or "
+"invalid."
+msgstr "Въведения процент за отстъпка е отрицателен, по-голям от 100 или "
+"невалиден."
+
+msgid "The entered information is a duplicate. Please go back and enter "
+"different values."
+msgstr "Въведената информация се дублира. Моля върнете се обратно и въведете "
+"различни стойности."
+
+msgid "The entered invoice date is invalid."
+msgstr "Въведената дата за фактурата е невалидна."
+
+msgid "The entered invoice date is not in fiscal year."
+msgstr "Въведената даза за фактурата не се отнася за фискалната година."
+
+msgid "The entered price is negative or invalid."
+msgstr "Въведената цена е отрицателна или невалидна."
+
+msgid "The entered reference is already in use."
+msgstr "Въведената референция е вече използвана"
+
+msgid "The entered shipping cost is invalid or less than zero."
+msgstr "Въведената цена за доставка е невалидна или по-малка от нула."
+
+msgid "The entered shipping value is not numeric."
+msgstr "Въведената стойност за доставка не е число."
+
+msgid "The existing image could not be removed"
+msgstr "Избраното изображение не може да бъде премахнато"
+
+msgid "The file size is over the maximum allowed. The maximum size allowed "
+"in KB is"
+msgstr "Файловата големина е на максимално допустимата. Максимално "
+"допустимата големина в KB е"
+
+msgid "The hundredths name must be entered."
+msgstr "Трябва да въведете име на компания"
+
+msgid "The item name must be entered."
+msgstr "Трябва да въведете име на компания"
+
+msgid "The location name must be entered."
+msgstr "Трябва да въведете име на компания"
+
+msgid "The locations to transfer from and to must be different."
+msgstr "Местоположенията за източник и дестинация трябва да са различни."
+
+msgid "The new price has been added."
+msgstr "Беше добавена нова цена."
+
+msgid "The password cannot contain the user login."
+msgstr "Вход като потребител: demouser с парола: password"
+
+msgid "The password entered must be at least 4 characters long."
+msgstr "Въведената парола трябва да е дълга минимум 4 символа. "
+
+msgid "The passwords entered are not the same."
+msgstr "Въведените пароли не съвпадат."
+
+msgid "The price entered must be numeric."
+msgstr "Трябва да въведете име на компания"
+
+msgid "The price is either not numeric or negative."
+msgstr "Цената или не е число или е отрицателна"
+
+msgid "The price is not numeric."
+msgstr "Цената не е число"
+
+msgid "The quantity entered is greater than the available quantity for this "
+"item at the source location :"
+msgstr "Въведеното количество е по-голямо от наличното, за този артикул в "
+"мястото на източника:"
+
+msgid "The quantity entered must be a positive number."
+msgstr "Въведеното количество трябва да е положително число."
+
+msgid "The quantity must be greater than zero."
+msgstr "Количеството трябва да е по-голямо от нула."
+
+msgid "The sales person name cannot be empty."
+msgstr "Името на продавача не може да е празно."
+
+msgid "The selected customer and branch are not valid, or the customer does "
+"not have any branches."
+msgstr "Избрания клиент и клон не са валидни, или клиента няма никакви "
+"клонове."
+
+msgid "The selected customer does not have any branches. Please create at "
+"least one branch."
+msgstr "Избрания клиент няма въведени клонове. Моля създайте поне един клон."
+
+msgid "The selected item to manufacture does not have a bom."
+msgstr "Избраната единица за производство няма дефиниран BOM."
+
+msgid "The selected price has been deleted."
+msgstr "Избраната фискална година е изтрита"
+
+msgid "The selected user has been updated."
+msgstr "Избрания потребител беше обновен"
+
+msgid "The supplier name must be entered."
+msgstr "Трябва да въведете име на компания"
+
+msgid "The unassembling cannot be processed because there is insufficient "
+"stock."
+msgstr "Доставката не може да бъде изпълнена - не достатъчна наличност на "
+"артикул:"
+
+msgid "The user and password combination is not valid for the system."
+msgstr "Въведената комбинация от парола и потребител не са валидни."
+
+msgid "The work centre name cannot be empty."
+msgstr "Името на производствения център не може да е празно"
+
+msgid "The work order been added."
+msgstr "Заявката за производство беше добавена."
+
+msgid "The work order been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "Theme:"
+msgstr "Тема:"
+
+msgid "There are no Requirements for this Order."
+msgstr "Няма изисквания за тази поръчка."
+
+msgid "There are no bank accounts defined in the system."
+msgstr "В системата няма дефинирани артикули."
+
+msgid "There are no customers defined in the system."
+msgstr "Няма въведени доставчици в системата."
+
+msgid "There are no inventory items defined in the system."
+msgstr "В системата няма дефинирани артикули."
+
+msgid "There are no items defined in the system."
+msgstr "В системата няма дефинирани артикули."
+
+msgid "There are no manufacturable items defined in the system."
+msgstr "В системата няма дефинирани артикули."
+
+msgid "There are no suppliers defined in the system."
+msgstr "Няма въведени доставчици в системата."
+
+msgid "There are no tax groups defined in the system. At least one tax "
+"group is required before proceeding."
+msgstr "В системата няма дефинирани типове данъци. Необходима е поне една "
+"данъчна група за да продължим."
+
+msgid "There are no work centres defined in the system. BOMs require at "
+"least one work centre be defined."
+msgstr "В системата няма въведени производствени центрове. BOM-а изисква да "
+"бъде въведен поне един производствен център."
+
+msgid "This Allocation"
+msgstr "Справки по клиенти"
+
+msgid "This Delivery"
+msgstr "Шаблон за доставка"
+
+msgid "This Invoice"
+msgstr "Шаблони за фактуриране"
+
+msgid "This Period"
+msgstr "Последен Данъчен Период:"
+
+msgid "This database settings are already used by another company."
+msgstr "Тези настройки за базата данни се използват вече от друга компания."
+
+msgid "This page is usable only with javascript enabled browsers."
+msgstr "Тази страница е използваема само с браузъри поддържащи javascript."
+
+msgid "This price has been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "This production has been voided."
+msgstr "Тази продукция беше анулирана."
+
+msgid "This work order is closed."
+msgstr "Тази поръчка за изработка е затворена."
+
+msgid "Thousand Separator:"
+msgstr "Разделител на хилядните:"
+
+msgid "Time Zone on Reports"
+msgstr "Времева зона на справките"
+
+msgid "Tmpl"
+msgstr "Шаблон"
+
+msgid "To"
+msgstr "До:"
+
+msgid "To Account"
+msgstr "Сметка"
+
+msgid "To Bank Account"
+msgstr "Към банкова сметка"
+
+msgid "To Dimension"
+msgstr "Да се достави на:"
+
+msgid "To Location"
+msgstr "Да се достави на:"
+
+msgid "To Location:"
+msgstr "Да се достави на:"
+
+msgid "To Supplier"
+msgstr "Изтрий"
+
+msgid "To Work Centre"
+msgstr "Към производствен център"
+
+msgid "To Work Centre:"
+msgstr "Към производствен център:"
+
+msgid "To the Order of:"
+msgstr "Отмени"
+
+msgid "To:"
+msgstr "До:"
+
+msgid "Total"
+msgstr "Общо"
+
+msgid "Total Allocated"
+msgstr "Общ Баланс"
+
+msgid "Total Allocated:"
+msgstr "Общ Баланс"
+
+msgid "Total Amount"
+msgstr "Отстъпка:"
+
+msgid "Total Balance"
+msgstr "Общ Баланс"
+
+msgid "Total Cost"
+msgstr "Общ Баланс"
+
+msgid "Total Order Value"
+msgstr "Въведи нова поръчка"
+
+msgid "Total Quantity"
+msgstr "Общ Баланс"
+
+msgid "Total:"
+msgstr "Общо"
+
+msgid "Trans #"
+msgstr "Транзакция No."
+
+msgid "Trans Type"
+msgstr "Тип на Артикула:"
+
+msgid "Transaction #"
+msgstr "Превод #"
+
+msgid "Transaction #:"
+msgstr "Превод #"
+
+msgid "Transaction Type"
+msgstr "Тип на Артикула:"
+
+msgid "Transaction Type:"
+msgstr "Тип транзакция:"
+
+msgid "Transactions"
+msgstr "Транзакции"
+
+msgid "Transfer Type"
+msgstr "Тип на Артикула:"
+
+msgid "Transfer Type:"
+msgstr "Тип на артикула:"
+
+msgid "Transfer has been entered"
+msgstr "Транзакцията беше въведена."
+
+msgid "Trial &Balance"
+msgstr "Текущ Баланс"
+
+msgid "Trial Balance"
+msgstr "Текущ Баланс"
+
+msgid "Type"
+msgstr "Тип на артикула:"
+
+msgid "Type Name"
+msgstr "Описание"
+
+msgid "Type/Account"
+msgstr "Сметка"
+
+msgid "Type:"
+msgstr "Тип на артикула:"
+
+msgid "Unit"
+msgstr "Мярка"
+
+msgid "Unit Cost"
+msgstr "Цена на единицата"
+
+msgid "Unit Quantity"
+msgstr "Налично Количество"
+
+msgid "Units"
+msgstr "Мярка"
+
+msgid "Units Issued"
+msgstr "Мерни единици"
+
+msgid "Units of Measure"
+msgstr "Мерни единици"
+
+msgid "Units of Measure:"
+msgstr "Мерни единици:"
+
+msgid "Update"
+msgstr "Обнови"
+
+msgid "Update Account"
+msgstr "Сметка"
+
+msgid "Update Customer"
+msgstr "Обнови"
+
+msgid "Update Item"
+msgstr "Обнови"
+
+msgid "Update Order"
+msgstr "Отмени"
+
+msgid "Update Profile"
+msgstr "Обновяване на профил"
+
+msgid "Update Supplier"
+msgstr "Обнови"
+
+msgid "Update customer data"
+msgstr "Добави"
+
+msgid "Update printer profile"
+msgstr "Създаване/Обновяване на компания"
+
+msgid "Update supplier data"
+msgstr "Създаване/Обновяване на компания"
+
+msgid "Upgrade system"
+msgstr "Обновяване на системата"
+
+msgid "Upload file"
+msgstr "Прикачене на файл"
+
+msgid "Use Item Sales Accounts"
+msgstr "Продажни цени"
+
+msgid "Use icons instead of text links:"
+msgstr "Използване на икони вместо текстови връзки:"
+
+msgid "Use popup window for reports:"
+msgstr "Използане на \"изскачащи\" прозорци за справките:"
+
+msgid "Use popup window to display reports:"
+msgstr "Използване на \"изскачащи\" прозорци за показване на справки:"
+
+msgid "User Login:"
+msgstr "Потребителски Вход:"
+
+msgid "User Quantity Decimals"
+msgstr "Налично количество"
+
+msgid "User has been deleted."
+msgstr "Беше изтрит потребител"
+
+msgid "User login"
+msgstr "Потребителски Вход:"
+
+msgid "User login:"
+msgstr "Потребителски Вход:"
+
+msgid "User name"
+msgstr "Потребителско име"
+
+msgid "User's POS"
+msgstr "Потребителски POS"
+
+msgid "Users"
+msgstr "Потребители"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Version Id"
+msgstr "Версия"
+
+msgid "Vertical bars"
+msgstr "Вертикални разделители"
+
+msgid "View"
+msgstr "Разглеждане"
+
+msgid "View Backup"
+msgstr "Възстановяване на backup-a завършено"
+
+msgid "View Bank Deposit"
+msgstr "Депозиране на пари"
+
+msgid "View Bank Payment"
+msgstr "Преглед на банковите разплащания"
+
+msgid "View Bank Transfer"
+msgstr "Транзакции между банкови сметки"
+
+msgid "View Credit Note"
+msgstr "Данъчно-кредитно известие"
+
+msgid "View Customer Payment"
+msgstr "Плащане от клиент"
+
+msgid "View Dimension"
+msgstr "Преглед и печат на транзакциите"
+
+msgid "View Inventory Adjustment"
+msgstr "Показване корекция на складови наличности"
+
+msgid "View Inventory Transfer"
+msgstr "Склад"
+
+msgid "View Purchase Order"
+msgstr "Заявка за покупка"
+
+msgid "View Purchase Order Delivery"
+msgstr "Изпълни доставка срещу тази поръчка"
+
+msgid "View Sales Dispatch"
+msgstr "Директна продажба"
+
+msgid "View Sales Invoice"
+msgstr "Директна продажба"
+
+msgid "View Sales Order"
+msgstr "Въвеждане на поръчка"
+
+msgid "View Supplier Invoice"
+msgstr "Директна продажба"
+
+msgid "View Work Order"
+msgstr "Заявка за производство"
+
+msgid "View or &Print Transactions"
+msgstr "Преглед и печат на транзакциите"
+
+msgid "View or Print Transactions"
+msgstr "Преглед и печат на транзакциите"
+
+msgid "View the GL Journal Entries for this Credit Note"
+msgstr "Показване на счетоводните записи за това кредитно известие"
+
+msgid "View this Credit Note"
+msgstr "Показване на това кредитно известие"
+
+msgid "View this Invoice"
+msgstr "Директна продажба"
+
+msgid "View this Work Order"
+msgstr "Изпълни доставка срещу тази поръчка"
+
+msgid "View this delivery"
+msgstr "Изпълни доставка срещу тази поръчка"
+
+msgid "Void Transaction"
+msgstr "Анулиране на транзакция"
+
+msgid "Void a Transaction"
+msgstr "Анулиране на транзакция"
+
+msgid "Voiding Date:"
+msgstr "Дата на анулиране"
+
+msgid "Work &Order Entry"
+msgstr "Заявка за производство"
+
+msgid "Work Centre"
+msgstr "Производствен център"
+
+msgid "Work Centre Added:"
+msgstr "Добавен произведствен център:"
+
+msgid "Work Centres"
+msgstr "Производствен център"
+
+msgid "Work Order"
+msgstr "Заявка за производство"
+
+msgid "Work Order #:"
+msgstr "Заявка за производство"
+
+msgid "Work Order &Inquiry"
+msgstr "Справка за заявки за производство"
+
+msgid "Work Order Entry"
+msgstr "Заявка за производство"
+
+msgid "Work Order Issue"
+msgstr "Заявка за производство"
+
+msgid "Work Order Production"
+msgstr "Заявка за производство"
+
+msgid "Work Order Reference:"
+msgstr "Заявка за производство"
+
+msgid "Work Order Requirements"
+msgstr "Заявка за производство"
+
+msgid "Work order has been deleted."
+msgstr "Избраната фискална година е изтрита"
+
+msgid "Year"
+msgstr "Данъчна година:"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "You can only upload *.sql backup files"
+msgstr "Може да се качват само *.sql файлове"
+
+msgid "You can pay through"
+msgstr "Може да заплатите чрез"
+
+msgid "You must enter a reference."
+msgstr "Трябва да въведете референция."
+
+msgid "You must enter an credit note reference."
+msgstr "Трябва да въведете референция за кредитното известие"
+
+msgid "You must enter an invoice reference."
+msgstr "Трябва да въведете референция за фактурата"
+
+msgid "You should automatically be forwarded."
+msgstr "Автоматично ще бъдете пренасочени."
+
+msgid "Your Ref"
+msgstr "Вашия ДДС номер"
+
+msgid "Your VAT no."
+msgstr "Вашия ДДС номер"
+
+msgid "Your password has been updated."
+msgstr "Настройките за фирмата са приети"
+
+msgid "Zero values"
+msgstr "Нулеви стойности"
+
+msgid "and"
+msgstr "Склад"
+
+msgid "at Location:"
+msgstr "Склад по подразбиране:"
+
+msgid "cannot find backup directory"
+msgstr "не може да бъде намерена директорията"
+
+msgid "click here"
+msgstr "Натисни тук за да влезеш отново"
+
+msgid "currency"
+msgstr "валута"
+
+msgid "days"
+msgstr "дни"
+
+msgid "description"
+msgstr "Описание"
+
+msgid "email Customers"
+msgstr "Всички Клиенти"
+
+msgid "for item:"
+msgstr "Добави"
+
+msgid "from #:"
+msgstr "От:"
+
+msgid "from:"
+msgstr "от:"
+
+msgid "in file"
+msgstr "Прикачене на файл"
+
+msgid "in units of : "
+msgstr "Мерни единици :"
+
+msgid "into location:"
+msgstr "Склад по подразбиране:"
+
+msgid "kit"
+msgstr "окомплектовка"
+
+msgid "kits"
+msgstr "окомплектовки"
+
+msgid "number"
+msgstr "Факс Номер:"
+
+msgid "per"
+msgstr "за"
+
+msgid "to #:"
+msgstr "До:"
+
+msgid "to continue"
+msgstr "Да се достави на:"
+
+msgid "to:"
+msgstr "до:"

@@ -1,0 +1,9293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FrontAccounting 2.3.22\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-14 09:18+0100\n"
+"PO-Revision-Date: 2014-12-26 11:09+0800\n"
+"Last-Translator: Jiro Akits <akits.tw@yahoo.com.tw>\n"
+"Language-Team: Jiro Akits <akits.tw@yahoo.com.tw>\n"
+"Language: Chinese (Traditional)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid " and "
+msgstr "和"
+
+msgid ""
+" is not writable. Change its permissions so it is, then re-run the operation."
+msgstr "不能寫入。變更權限後再執行一次。"
+
+msgid "#"
+msgstr "編號"
+
+msgid "#:"
+msgstr "編號："
+
+msgid "% amount of base"
+msgstr "金額百分比"
+
+msgid "% amount of base, increase base"
+msgstr "金額百分比，稅外加"
+
+msgid "% amount of base, reduce base"
+msgstr "金額百分比，稅內含"
+
+msgid "%d Journal Entries for AR/AP accounts have been added"
+msgstr "%d日記帳分錄為AR/ AP帳戶已被新增"
+
+msgid "%s recurrent invoice(s) created, # %s - # %s."
+msgstr "%s 經常性發票建立 # %s - # %s"
+
+msgid "&Access Setup"
+msgstr "公司設定"
+
+msgid "&Add or Edit "
+msgstr "新增或編輯(&A)"
+
+msgid "&Aged Customer Analysis"
+msgstr "年度客戶帳號分析(&A)"
+
+msgid "&Aged Supplier Analyses"
+msgstr "年度供應商分析(&A)"
+
+msgid "&Allocate Customer Payments or Credit Notes"
+msgstr "配置客戶付款或是貸方傳票(&A)"
+
+msgid "&Allocate Supplier Payments or Credit Notes"
+msgstr "配置供應商付款或是貸方傳票(&A)"
+
+msgid "&Attach Documents"
+msgstr "附加文件(&A)"
+
+msgid "&Backup and Restore"
+msgstr "備份與還原(&B)"
+
+msgid "&Balance Sheet"
+msgstr "資產負債表(&B)"
+
+msgid "&Banking and General Ledger"
+msgstr "銀行與會計(&B)"
+
+msgid "&Bill of Material Listing"
+msgstr "物料表清單(&B)"
+
+msgid "&Bills Of Material"
+msgstr "物料清單(&B)"
+
+msgid "&Budget Entry"
+msgstr "預算(&B)"
+
+msgid "&Company Setup"
+msgstr "公司設定(&C)"
+
+msgid "&Contacts"
+msgstr "聯繫"
+
+msgid "&Create and Print Recurrent Invoices"
+msgstr "建立與列印循環發票(&C)"
+
+msgid "&Currencies"
+msgstr "貨幣(&C)"
+
+msgid "&Delivery Against Sales Orders"
+msgstr "銷貨訂單出貨(&D)"
+
+msgid "&Deposits"
+msgstr "存款(&D)"
+
+msgid "&Dimensions"
+msgstr "範圍(&D)"
+
+msgid "&Display Setup"
+msgstr "顯示設定(&D)"
+
+msgid "&Email Delivery Note"
+msgstr "正在修改出貨單編號 %d 。"
+
+msgid "&Email Recurrent Invoices # %s - # %s"
+msgstr "電郵經常性發票 # %s - # %s"
+
+msgid "&Email Sales Invoice"
+msgstr "正在修改銷貨發票編號 %d 。"
+
+msgid "&Email This Credit Invoice"
+msgstr "列印這個貸方傳票(&V)"
+
+msgid "&Email This Credit Note"
+msgstr "檢視這個貸方傳票"
+
+msgid "&Email This Invoice"
+msgstr "列印發票"
+
+msgid "&Email This Order"
+msgstr "檢視這個訂單(&V)"
+
+msgid "&Email This Quotation"
+msgstr "關閉這個範圍"
+
+msgid "&Email This Remittance"
+msgstr "關閉這個範圍"
+
+msgid "&Email This Work Order"
+msgstr "檢視工作單"
+
+msgid "&Exchange Rates"
+msgstr "匯率(&E)"
+
+msgid "&Fiscal Years"
+msgstr "會計年度(&F)"
+
+msgid "&Foreign Item Codes"
+msgstr "外部產品代號(&F)"
+
+msgid "&Forms Setup"
+msgstr "表單設定(&F)"
+
+msgid "&GL Accounts"
+msgstr "會計科目(&G)"
+
+msgid "&GRN Valuation Report"
+msgstr "存貨估價報表"
+
+msgid "&General settings"
+msgstr "收銀機設定"
+
+msgid "&Invoice Against Sales Delivery"
+msgstr "出貨發票(&I)"
+
+msgid "&Items"
+msgstr "產品(&I)"
+
+msgid "&Items and Inventory"
+msgstr "產品與庫存(&I)"
+
+msgid "&Journal Entry"
+msgstr "日記帳(&J)"
+
+msgid "&Journal Inquiry"
+msgstr "範圍查詢(&I)"
+
+msgid "&Manufacturing"
+msgstr "生產(&M)"
+
+msgid "&Order Status Listing"
+msgstr "訂單狀態清單(&O)"
+
+msgid "&Outstanding Dimensions"
+msgstr "目前範圍(&O)"
+
+msgid "&Outstanding Purchase Orders Maintenance"
+msgstr "未完成採購單維護(&O)"
+
+msgid "&Outstanding Work Orders"
+msgstr "目前工作單(&O)"
+
+msgid "&Payment Report"
+msgstr "付款報表(&P)"
+
+msgid "&Payments"
+msgstr "付款(&P)"
+
+msgid "&Payments to Suppliers"
+msgstr "供應商付款(&P)"
+
+msgid "&Points of Sale"
+msgstr "收銀機(&P)"
+
+msgid "&Price Listing"
+msgstr "列出價格(&P)"
+
+msgid "&Print Delivery Note"
+msgstr "列印出貨單(&P)"
+
+msgid "&Print Profiles"
+msgstr "列印設定(&P)"
+
+msgid "&Print Recurrent Invoices # %s - # %s"
+msgstr "列印經常性發票 # %s - # %s"
+
+msgid "&Print Sales Invoice"
+msgstr "列印銷貨發票(&P)"
+
+msgid "&Print Sales Orders"
+msgstr "列印銷貨訂單(&P)"
+
+msgid "&Print Sales Quotations"
+msgstr "列印銷貨訂單(&P)"
+
+msgid "&Print This Credit Invoice"
+msgstr "列印這個貸方傳票(&V)"
+
+msgid "&Print This Credit Note"
+msgstr "列印這個貸方傳票(&P)"
+
+msgid "&Print This Invoice"
+msgstr "列印這個發票(&P)"
+
+msgid "&Print This Order"
+msgstr "列印這個訂單(&P)"
+
+msgid "&Print This Quotation"
+msgstr "列印這個訂單(&P)"
+
+msgid "&Print This Receipt"
+msgstr "列印這個訂單(&P)"
+
+msgid "&Print This Remittance"
+msgstr "列印這個訂單(&P)"
+
+msgid "&Print This Work Order"
+msgstr "檢視工作單"
+
+msgid "&Printers"
+msgstr "印表機(&P)"
+
+msgid "&Profit and Loss Drilldown"
+msgstr "損益表"
+
+msgid "&Profit and Loss Statement"
+msgstr "損益表(&P)"
+
+msgid "&Purchases"
+msgstr "採購(&P)"
+
+msgid "&Purchasing Pricing"
+msgstr "採購價格(&P)"
+
+msgid "&Quick Entries"
+msgstr "快速輸入(&Q)"
+
+msgid "&Receive Items on this Purchase Order"
+msgstr "這個採購單的驗收(&R)"
+
+msgid "&Reconcile Bank Account"
+msgstr "調整銀行帳號(&R)"
+
+msgid "&Reorder Levels"
+msgstr "安全存量(&R)"
+
+msgid "&Revaluation of Currency Accounts"
+msgstr "設定使用者帳號(&U)"
+
+msgid "&Sales"
+msgstr "銷貨(&S)"
+
+msgid "&Salesman Listing"
+msgstr "業務員列表(&S)"
+
+msgid "&Select an existing dimension"
+msgstr "選擇一個現有範圍(&S)"
+
+msgid "&Status"
+msgstr "往來狀態"
+
+msgid "&Suppliers"
+msgstr "供應商(&S)"
+
+msgid "&Taxes"
+msgstr "稅(&T)"
+
+msgid "&Template Delivery"
+msgstr "出貨範本(&T)"
+
+msgid "&Template Invoice"
+msgstr "發票範本(&T)"
+
+msgid "&Transactions"
+msgstr "交易"
+
+msgid "&Units of Measure"
+msgstr "度量單位(&U)"
+
+msgid "&User Accounts Setup"
+msgstr "設定使用者帳號(&U)"
+
+msgid "&View This Credit Note"
+msgstr "檢視這個貸方傳票(&V)"
+
+msgid "&View This Delivery"
+msgstr "檢視這個出貨(&V)"
+
+msgid "&View This Invoice"
+msgstr "檢視這個發票(&V)"
+
+msgid "&View This Order"
+msgstr "檢視這個訂單(&V)"
+
+msgid "&View This Quotation"
+msgstr "檢視這個調整(&V)"
+
+msgid "&View the GL Journal Entries for this Customer Payment"
+msgstr "檢視這個客戶付款的日記帳資料(&V)"
+
+msgid "&View the GL Journal Entries for this Transfer"
+msgstr "檢視這一筆轉帳的會計日記帳資料(&V)"
+
+msgid "&View the GL Postings for this Deposit"
+msgstr "檢視這一筆已過帳的存款資料"
+
+msgid "&View the GL Postings for this Payment"
+msgstr "檢視這一筆已過帳的付款資料(&V)"
+
+msgid "&View this Delivery"
+msgstr "檢視這個出貨(&V)"
+
+msgid "&View this GRN"
+msgstr "檢視這個調整(&V)"
+
+msgid "&View this Invoice"
+msgstr "列印發票"
+
+msgid "&View this Journal Entry"
+msgstr "檢視這一筆日記帳資料(&V)"
+
+msgid "&View this adjustment"
+msgstr "輸入一個存貨調整"
+
+msgid "&View this credit note"
+msgstr "檢視這個貸方傳票(&V)"
+
+msgid "&View this order"
+msgstr "檢視這個訂單(&V)"
+
+msgid "&View this transfer"
+msgstr "檢視這個調貨(&V)"
+
+msgid "&Void a Transaction"
+msgstr "取消交易(&V)"
+
+msgid "&Work Centres"
+msgstr "工作中心(&W)"
+
+msgid "'%s' file exists."
+msgstr "%s檔案已存在"
+
+msgid "'%s' file should be read-only"
+msgstr "“%s”的文件應該唯讀"
+
+msgid ""
+"'%s' file should be read-only if you do not plan to add or change companies"
+msgstr "'%s'的文件應該是唯讀的，如果你不打算新增或更改公司"
+
+msgid "'%s' is not writeable"
+msgstr "%s 不能寫入"
+
+msgid "* Subject to Realisation of the Cheque."
+msgstr "先交船頭辦待批準出貨"
+
+msgid ", Please create it manually"
+msgstr "，請自行人工建立"
+
+msgid ", please remove it manually"
+msgstr "，請手動移除"
+
+msgid ""
+"A default Branch has been automatically created, please check default Branch "
+"values by using link below."
+msgstr "預設分公司已經自動建立，請藉由下面的鏈接查看預設分公司的值。"
+
+msgid ""
+"A new component part has been added to the bill of material for this item."
+msgstr "這個產品的物料表已經新增了一個元件。"
+
+msgid "A new customer has been added."
+msgstr "新價格已新增"
+
+msgid "A new item has been added."
+msgstr "新產品已經新增"
+
+msgid "A new supplier has been added."
+msgstr "新價格已新增"
+
+msgid "A new user has been added."
+msgstr "增加一個新的使用者"
+
+msgid "Abandon allocations and return to selection of allocatable amounts"
+msgstr "取消配置後回到配置數量選擇"
+
+msgid "Abbreviation"
+msgstr "縮寫"
+
+msgid "Access Level"
+msgstr "存取層級"
+
+msgid "Access Level:"
+msgstr "存取層級："
+
+msgid ""
+"Access level edition in Company setup section have to be enabled for your "
+"account."
+msgstr "您的帳號尚未定義安全設定。"
+
+msgid "Access levels edition"
+msgstr "存取層級"
+
+msgid "Access setup"
+msgstr "公司設定"
+
+msgid ""
+"Access to application has been blocked until database upgrade is completed "
+"by system administrator."
+msgstr "存取應用程序已被阻止，直到系統管理員完成數據庫升級。"
+
+msgid "Account"
+msgstr "會計科目"
+
+msgid "Account &Tags"
+msgstr "應收科目："
+
+msgid "Account Code"
+msgstr "會計科目代號"
+
+msgid "Account Code 2:"
+msgstr "會計科目代碼 2："
+
+msgid "Account Code:"
+msgstr "會計科目代碼"
+
+msgid "Account Description"
+msgstr "會計科目摘要"
+
+msgid "Account Group:"
+msgstr "二級科目"
+
+msgid "Account Name"
+msgstr "會計科目名稱"
+
+msgid "Account Name:"
+msgstr "會計科目名稱："
+
+msgid "Account Tags"
+msgstr "全部標籤"
+
+msgid "Account Tags:"
+msgstr "應收科目："
+
+msgid "Account Type:"
+msgstr "帳戶類型："
+
+msgid "Account data has been updated."
+msgstr "供應商採購數據已更新"
+
+msgid "Account not added, possible duplicate Account Code."
+msgstr "帳戶沒有新增，可能重複計費代碼。"
+
+msgid "Account status:"
+msgstr "往來狀態"
+
+msgid "Account/Tax Type"
+msgstr "科目/稅別"
+
+msgid "Account:"
+msgstr "會計科目："
+
+msgid "Account<br>Total"
+msgstr "科目合計"
+
+msgid "Accounts"
+msgstr "科目"
+
+msgid "Accounts Payable Account:"
+msgstr "應付帳款金額："
+
+msgid "Accounts Receivable Account:"
+msgstr "應收帳款科目："
+
+msgid "Accruals for %s"
+msgstr "預提費用 %s"
+
+msgid "Accrued Balance Account"
+msgstr "匯差科目："
+
+msgid "Accumulate batch shipping:"
+msgstr "貨運公司維護"
+
+msgid "Accumulated"
+msgstr "累計成本"
+
+msgid "Achieved %"
+msgstr "達成率"
+
+msgid "Act Price"
+msgstr "價格表"
+
+msgid "Action"
+msgstr "餘額操作"
+
+msgid "Action For Balance"
+msgstr "試算表日期： 從"
+
+msgid "Action id"
+msgstr "行動"
+
+msgid "Activated for '%s'"
+msgstr "啟用 %s"
+
+msgid "Active"
+msgstr "啟動"
+
+msgid "Activity"
+msgstr "活躍層次"
+
+msgid "Activity Greater Than"
+msgstr "銷售大於"
+
+msgid "Activity Less Than"
+msgstr "銷售少於"
+
+msgid "Activity Since"
+msgstr "活動自從"
+
+msgid "Add"
+msgstr "新增"
+
+msgid "Add Account"
+msgstr "新增會計科目"
+
+msgid "Add All Items"
+msgstr "新增所有產品"
+
+msgid "Add GL Line"
+msgstr "增加會計線"
+
+msgid "Add Item"
+msgstr "增加產品"
+
+msgid "Add New Customer"
+msgstr "新增客戶"
+
+msgid "Add New Profile"
+msgstr "新增設定"
+
+msgid "Add New Supplier Details"
+msgstr "新增這供應商資料"
+
+msgid "Add Payment"
+msgstr "增加付款"
+
+msgid "Add Price from Std Cost:"
+msgstr "自標準成本加入價格："
+
+msgid "Add Workorder"
+msgstr "新增工作單"
+
+msgid "Add an Attachment"
+msgstr "新增附加檔案"
+
+msgid "Add and Manage &Customers"
+msgstr "新增與管理客戶(&C)"
+
+msgid "Add new"
+msgstr "新增"
+
+msgid "Add new item to document"
+msgstr "新增語言檔到系統"
+
+msgid "Add new language manually"
+msgstr "新增語言檔到系統"
+
+msgid "Add new line to journal"
+msgstr "新增語言檔到系統"
+
+msgid "Add to Credit Note"
+msgstr "新增到貸方傳票"
+
+msgid "Add to Invoice"
+msgstr "新增到發票"
+
+msgid "Additional Costs"
+msgstr "其他成本"
+
+msgid "Additional Costs:"
+msgstr "其他成本："
+
+msgid "Additional identifier for delivery e.g. name of receiving person"
+msgstr "出貨的其他識別，像是驗收人員的名稱"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Address:"
+msgstr "地址："
+
+msgid "Addresses"
+msgstr "地址"
+
+msgid "Adjustment Account"
+msgstr "應收科目："
+
+msgid "Adjustment Items"
+msgstr "調整產品"
+
+msgid "Adjustment Type"
+msgstr "調整類型"
+
+msgid "Advanced Manufacture"
+msgstr "進階生產"
+
+msgid "After No. of Days"
+msgstr "到期後天數："
+
+msgid "Aged Customer Analysis"
+msgstr "年度客戶帳號分析"
+
+msgid "Aged Supplier Analysis"
+msgstr "年度供應商分析"
+
+msgid "Alias/kit code:"
+msgstr "代號/組合編號："
+
+msgid "All"
+msgstr "全部"
+
+msgid "All Accounts"
+msgstr "銀行帳號(&A)"
+
+msgid "All Areas"
+msgstr "全部地區"
+
+msgid "All Costs Are In:"
+msgstr "所述的全部值"
+
+msgid "All Customers"
+msgstr "所有客戶"
+
+msgid "All Items"
+msgstr "控制產品"
+
+msgid "All Locations"
+msgstr "全部地區"
+
+msgid "All Orders"
+msgstr "顯示全部訂單"
+
+msgid "All Sales Folk"
+msgstr "全部銷售團"
+
+msgid "All Sales Types"
+msgstr "顯示所有已定義的銷售類別"
+
+msgid "All Suppliers"
+msgstr "所有供應商"
+
+msgid "All Types"
+msgstr "所有類型"
+
+msgid "All amounts stated in"
+msgstr "所述的全部值"
+
+msgid "All branches"
+msgstr "全部餘額"
+
+msgid "All companies data has been successfully updated"
+msgstr "所有公司的資料已經更新"
+
+msgid ""
+"All quantities on this invoice has been credited. There is nothing to modify "
+"on this invoice"
+msgstr "在此發票的所有數量已記入。此發票沒有任何修改"
+
+msgid "All yet non-invoiced items on delivery line # %d has been removed."
+msgstr "從出貨單第 %d 行開始所有未開立過發票的產品已經刪除。"
+
+msgid "Allocate"
+msgstr "指定"
+
+msgid "Allocate Customer Payment or Credit Note"
+msgstr "指定客戶付款或是借方傳票"
+
+msgid "Allocate Supplier Payment or Credit Note"
+msgstr "指定供應商付款及借方傳票"
+
+msgid "Allocated"
+msgstr "被指定"
+
+msgid "Allocation"
+msgstr "配置"
+
+msgid "Allocation of"
+msgstr "配置"
+
+msgid "Allocation of %s # %d"
+msgstr "%s 編號 %d 的配置"
+
+msgid "Allocations"
+msgstr "撥款"
+
+msgid "Allow Negative Inventory:"
+msgstr "允許負數的存貨。"
+
+msgid "Allow entry on non closed Fiscal years"
+msgstr "允許在尚未關帳的會計年度輸入"
+
+msgid "Allowed cash sale terms selection:"
+msgstr "允許的現金交易條件選擇："
+
+msgid "Allowed credit sale terms selection:"
+msgstr "允許的信用交易條件選擇："
+
+msgid "Amount"
+msgstr "金額："
+
+msgid "Amount Total"
+msgstr "及總數的"
+
+msgid "Amount and discount are in customer's currency."
+msgstr "金額與折扣會使用客戶的貨幣。"
+
+msgid "Amount max:"
+msgstr "基礎金額"
+
+msgid "Amount min:"
+msgstr "基礎金額"
+
+msgid "Amount of Discount:"
+msgstr "折扣金額"
+
+msgid "Amount of Payment:"
+msgstr "輸入金額"
+
+msgid "Amount, increase base"
+msgstr "金額，稅外加"
+
+msgid "Amount, reduce base"
+msgstr "金額，稅內含"
+
+msgid "Amount:"
+msgstr "金額："
+
+msgid "Amounts in thousands"
+msgstr "發票總計陳述於"
+
+msgid "Annual &Expense Breakdown"
+msgstr "年度費用結算(&E)"
+
+msgid "Annual Expense Breakdown"
+msgstr "年度費用檢驗"
+
+msgid "Any browser is supported"
+msgstr "列印銷售分析錯誤"
+
+msgid "Any server is supported"
+msgstr "任何"
+
+msgid "Apr"
+msgstr "4月"
+
+msgid "April"
+msgstr "4月"
+
+msgid "Are you sure you want to delete company no. "
+msgstr "您確定要刪除公司編號？"
+
+msgid ""
+"Are you sure you want to delete fiscal year %s - %s? All transactions are "
+"deleted and converted into relevant balances. Do you want to continue ?"
+msgstr ""
+"您確定要刪除財政年度嗎%s-%s?所有交易都將被刪除並轉換為相關的餘額.你要繼續嗎?"
+
+msgid "Are you sure you want to post accruals?"
+msgstr "您確定要刪除這個模組："
+
+msgid ""
+"Are you sure you want to void this transaction ? This action cannot be "
+"undone."
+msgstr "您確定要清空這筆交易嗎？這個動作不能被回復。"
+
+msgid "Area"
+msgstr "地區"
+
+msgid "Area Name"
+msgstr "地區名稱"
+
+msgid "Area Name:"
+msgstr "地區名稱"
+
+msgid "As advance / full / part / payment towards:"
+msgstr "為預付/全/兼職/用以支付："
+
+msgid "As at:"
+msgstr "地區"
+
+msgid "Assemble"
+msgstr "組裝"
+
+msgid "Assembly Account"
+msgstr "產品組裝成本科目："
+
+msgid "Assets"
+msgstr "資產"
+
+msgid "Assignment"
+msgstr "發佈"
+
+msgid "At Location"
+msgstr "地區"
+
+msgid "At least one transaction is overallocated."
+msgstr "沒有顯示交易自從"
+
+msgid "Attach Documents"
+msgstr "附加文件"
+
+msgid "Attached File"
+msgstr "附加檔案"
+
+msgid "Attached you will find "
+msgstr "請查看附頁"
+
+msgid "Attaching documents"
+msgstr "附加文件"
+
+msgid "Attachment has been deleted."
+msgstr "附加檔案已經刪除。"
+
+msgid "Attachment has been inserted."
+msgstr "附加檔案已經加入。"
+
+msgid "Attachment has been updated."
+msgstr "附加檔案已經更新。"
+
+msgid "Audit Trail"
+msgstr "及總數的"
+
+msgid "Aug"
+msgstr "8月"
+
+msgid "August"
+msgstr "8月"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Authorization timeout"
+msgstr "授權超時"
+
+msgid "Auto update"
+msgstr "更新設定"
+
+msgid "Automatic Revaluation Currency Accounts"
+msgstr "屬於此貨幣的客戶帳戶"
+
+msgid "Automatic exchange rate update:"
+msgstr "換率必須是數字"
+
+msgid "Automatically put balance on back order"
+msgstr "自動把餘額撥到下一張期貨訂單"
+
+msgid "Available"
+msgstr "可用"
+
+msgid "Available and/or installed"
+msgstr "已安裝"
+
+msgid "Available version"
+msgstr "可用"
+
+msgid "BCC Address for all outgoing mails:"
+msgstr "所有密件地址郵件傳出："
+
+msgid "BD"
+msgstr "BD"
+
+msgid "BEGIN date bigger than END date."
+msgstr "開始日期「大於」結束日期"
+
+msgid "BOM for item:"
+msgstr "產品 BOM ："
+
+msgid "BP"
+msgstr "BP"
+
+msgid "BT"
+msgstr "BT"
+
+msgid "Back"
+msgstr "回到上一頁"
+
+msgid "Back Orders Only"
+msgstr "只顯示期貨訂單"
+
+msgid "Back to Allocations"
+msgstr "返回目錄"
+
+msgid "Backup and Restore Database"
+msgstr "備份及還原資料庫"
+
+msgid "Backup paths have not been set correctly."
+msgstr "備份路徑設定不正確"
+
+msgid "Backup scripts maintenance"
+msgstr "Backup"
+
+msgid "Backup successfully generated."
+msgstr "成功產生備份"
+
+msgid "Balance"
+msgstr "餘額"
+
+msgid "Balance &Sheet Drilldown"
+msgstr "期初餘額"
+
+msgid "Balance Based"
+msgstr "試算表(&B)"
+
+msgid "Balance Sheet"
+msgstr "試算表"
+
+msgid "Balance Sheet Drilldown"
+msgstr "期初餘額"
+
+msgid "Balance for this Dimension"
+msgstr "這個範圍的餘額"
+
+msgid "Balances in Home Currency"
+msgstr "總餘額於本地貨幣"
+
+msgid "Balances in Home currency"
+msgstr "總餘額於本地貨幣"
+
+msgid "Bank"
+msgstr "銀行"
+
+msgid "Bank &Accounts"
+msgstr "銀行帳號(&A)"
+
+msgid "Bank &Statement"
+msgstr "銀行往來對帳單(&S)"
+
+msgid "Bank Account"
+msgstr "銀行帳戶"
+
+msgid "Bank Account &Inquiry"
+msgstr "銀行帳號查詢(&I)"
+
+msgid "Bank Account &Transfers"
+msgstr "銀行轉帳(&T)"
+
+msgid "Bank Account Currency:"
+msgstr "銀行帳戶貨幣："
+
+msgid "Bank Account Deposit Entry"
+msgstr "銀行帳戶存入輸入"
+
+msgid "Bank Account GL Code:"
+msgstr "銀行帳戶會計代號："
+
+msgid "Bank Account Name:"
+msgstr "銀行帳戶名稱："
+
+msgid "Bank Account Number:"
+msgstr "銀行帳戶號碼："
+
+msgid "Bank Account Payment Entry"
+msgstr "銀行帳戶付款輸入"
+
+msgid "Bank Accounts"
+msgstr "銀行帳戶"
+
+msgid "Bank Address"
+msgstr "銀行地址"
+
+msgid "Bank Address:"
+msgstr "銀行地址："
+
+msgid "Bank Balance:"
+msgstr "試算表(&B)"
+
+msgid "Bank Charge:"
+msgstr "付款人"
+
+msgid "Bank Charges Account:"
+msgstr "進入銀行帳戶："
+
+msgid "Bank Deposit"
+msgstr "銀行存入"
+
+msgid "Bank Name/Account:"
+msgstr "銀行名稱/帳號："
+
+msgid "Bank Name:"
+msgstr "銀行名稱："
+
+msgid "Bank Payment"
+msgstr "銀行付款"
+
+msgid "Bank Statement"
+msgstr "銀行報表"
+
+msgid "Bank Statement:"
+msgstr "銀行傳票："
+
+msgid "Bank account has been updated"
+msgstr "銀行帳號已經更新"
+
+msgid "Bank account transfers"
+msgstr "銀行轉帳(&T)"
+
+msgid "Bank accounts"
+msgstr "銀行帳號(&A)"
+
+msgid "Bank deposits"
+msgstr "銀行帳號(&A)"
+
+msgid "Bank payments"
+msgstr "客戶付款(&P)"
+
+msgid "Bank reconciliation"
+msgstr "銀行帳號(&A)"
+
+msgid "Bank reports and inquiries"
+msgstr "客戶與銷貨報表(&R)"
+
+msgid "Bank transactions view"
+msgstr "檢視銀行轉帳"
+
+msgid "Banking"
+msgstr "銀行作業"
+
+msgid "Banking & GL analytics"
+msgstr "顯示會計資訊："
+
+msgid "Banking & GL configuration"
+msgstr "顯示會計資訊："
+
+msgid "Banking & GL transactions"
+msgstr "會計科目交易"
+
+msgid "Banking &Reports"
+msgstr "銀行往來報表(&R)"
+
+msgid "Base"
+msgstr "智識庫"
+
+msgid "Base Amount"
+msgstr "基礎金額"
+
+msgid "Base Amount Description"
+msgstr "基礎金額說明"
+
+msgid "Base for auto price calculations:"
+msgstr "自動價格計算基礎："
+
+msgid "Basic Data"
+msgstr "數據輸出"
+
+msgid "Batch"
+msgstr "批次"
+
+msgid "Batch Invoicing"
+msgstr "批次開立發票"
+
+msgid "Before GRN Clearing Account can be changed all GRNs have to be invoiced"
+msgstr "收貨單必須開具發票，之前收貨單結算帳戶是可以改變的"
+
+msgid ""
+"Before software upgrade you have to include old $security_groups and "
+"$security_headings arrays from old config.php file to the new one."
+msgstr ""
+"軟體升級之前，你必須包括$ security_groupsc和security_headings陣列，自舊"
+"config.php檔案到新config.php的檔案。"
+
+msgid "Begin"
+msgstr "開始"
+
+msgid "Begin:"
+msgstr "開始："
+
+msgid "Beginning<br>Balance"
+msgstr "期初餘額"
+
+msgid "Below"
+msgstr "下方"
+
+msgid "Bi-weekly"
+msgstr "每週"
+
+msgid "Bill Of Materials"
+msgstr "物料表"
+
+msgid "Bill of Material Listing"
+msgstr "BOM清單"
+
+msgid "Bill of Materials"
+msgstr "物料表"
+
+msgid "Bill of materials reports"
+msgstr "查詢及報表"
+
+msgid "Billing Address:"
+msgstr "郵寄地址："
+
+msgid "Branch"
+msgstr "分公司"
+
+msgid "Branch Contact Information"
+msgstr "分公司聯繫資料"
+
+msgid "Branch Delivery Address"
+msgstr "分公司交貨地址"
+
+msgid "Branch Name"
+msgstr "分公司名稱"
+
+msgid "Branch Name:"
+msgstr "分公司名稱"
+
+msgid "Branch Short Name:"
+msgstr "分公司簡稱："
+
+msgid "Branch:"
+msgstr "分公司："
+
+msgid "Branches"
+msgstr "客戶分公司(&B)"
+
+msgid "Break Pt."
+msgstr "數量分隔"
+
+msgid "Break Pt.:"
+msgstr "數量分隔"
+
+msgid ""
+"Broken company subdirectories system. You have to remove this company "
+"manually."
+msgstr "公司子目錄系統殘破。您必須手動刪除該公司。"
+
+msgid "Brought Forward"
+msgstr "結轉/期初餘額"
+
+msgid "Browser printing support"
+msgstr "列印中"
+
+msgid "Browser support"
+msgstr "瀏覽器支援"
+
+msgid "Browser type"
+msgstr "交易類型："
+
+msgid ""
+"Brute force attack on account '%s' detected. Access for non-logged users "
+"temporarily blocked."
+msgstr "'%s'的檢驗是考慮強力攻擊。對於非登錄用戶訪問暫時受阻。"
+
+msgid "Budget"
+msgstr "預算"
+
+msgid "Budget Entry"
+msgstr "預算輸入"
+
+msgid "Budget edition"
+msgstr "預算(&B)"
+
+msgid "By Cash / Cheque* / Draft No."
+msgstr "支票編號"
+
+msgid "C.O.G.S. Account:"
+msgstr "銷貨成本科目："
+
+msgid "CN"
+msgstr "貸方"
+
+msgid "COGS Account"
+msgstr "應收科目："
+
+msgid "CP"
+msgstr "CP"
+
+msgid "CREDIT NOTE"
+msgstr "貸方傳票"
+
+msgid "CREDIT NOTE #%d"
+msgstr "貸方傳票 #%d"
+
+msgid "CSRF attack detected from: "
+msgstr "CSRF攻擊檢測來自："
+
+msgid "CU"
+msgstr "CU"
+
+msgid "CUSTOMER ACCOUNT IS ON HOLD"
+msgstr "客戶帳號保留中"
+
+msgid "Calculated Return"
+msgstr "已計算退貨"
+
+msgid "Calculation factor"
+msgstr "計算基礎"
+
+msgid "Calculation factor must be valid positive number."
+msgstr "輸入金額必須是正數。"
+
+msgid "Can't delete backup file."
+msgstr "無法刪除備份文件。"
+
+msgid "Can't write '%s' file. Check FA directory write permissions."
+msgstr "無法寫入\"%s\"的文件。檢查根目錄的寫入權限。"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel Delivery"
+msgstr "取消運送"
+
+msgid "Cancel Edition"
+msgstr "取消訂單"
+
+msgid "Cancel GRN"
+msgstr "取消訂單"
+
+msgid "Cancel Invoice"
+msgstr "發票總額"
+
+msgid "Cancel Order"
+msgstr "取消整張訂單"
+
+msgid "Cancel Quotation"
+msgstr "取消報價單"
+
+msgid "Cancel any quantites not delivered"
+msgstr "刪除未交貨的數量"
+
+msgid "Cancel changes"
+msgstr "儲存修改"
+
+msgid "Cancel edition"
+msgstr "取消訂單"
+
+msgid "Canceled."
+msgstr "取消"
+
+msgid ""
+"Cancels document entry or removes sales order when editing an old document"
+msgstr "編輯一個舊文件時取消文件輸入或是移除銷貨訂單"
+
+msgid "Cannot CLOSE this year because there are open fiscal years before"
+msgstr "未能刪除這產品記錄，因為已有這零件銷售記錄"
+
+msgid "Cannot connect to database for company"
+msgstr "無法連線資料庫"
+
+msgid "Cannot create new company due to bugs in sql file."
+msgstr "由於sql文件錯誤,不能新建新的公司"
+
+msgid "Cannot delete outdated '%s' file."
+msgstr "不能刪除過期的%s檔"
+
+msgid ""
+"Cannot delete the customer record because orders have been created against "
+"it."
+msgstr "未能刪除客戶記錄因為已有訂單"
+
+msgid ""
+"Cannot delete the supplier record because purchase orders have been created "
+"against this supplier."
+msgstr "未能刪除供應商記錄，因為已有這供應商的採購訂單"
+
+msgid "Cannot delete this POS because it is used in users setup."
+msgstr "不能刪除這個收銀機，因為有使用者設定用到"
+
+msgid ""
+"Cannot delete this account because it is used as one of the company default "
+"GL accounts."
+msgstr "不能刪除這個會計科用因為有公司使用會計科目為預設值。"
+
+msgid "Cannot delete this account because it is used by a bank account."
+msgstr "不能刪除這個會計科目因為有銀行帳戶使用到他。"
+
+msgid ""
+"Cannot delete this account because it is used by one or more Customer "
+"Branches."
+msgstr "不能刪除這個會計科目因為有一個或是數個客戶分公司使用到他。"
+
+msgid ""
+"Cannot delete this account because it is used by one or more Item Categories."
+msgstr "不能刪除這個會計科目，因為已經有 1 或多個客戶分公司使用。"
+
+msgid "Cannot delete this account because it is used by one or more Items."
+msgstr "不能刪除這個會計科目因為有一個或是數個產品使用到他。"
+
+msgid ""
+"Cannot delete this account because it is used by one or more Quick Entry "
+"Lines."
+msgstr "不能刪除這個會計科目因為有一個或是數個產品使用到他。"
+
+msgid "Cannot delete this account because it is used by one or more Taxes."
+msgstr "不能刪除這個會計科目因為有一個或是數個稅率使用到他。"
+
+msgid "Cannot delete this account because it is used by one or more suppliers."
+msgstr "不能刪除這個會計科目因為有一個或是數個供應商使用到他。"
+
+msgid ""
+"Cannot delete this account because transactions have been created using this "
+"account."
+msgstr "不能刪除會計科目，因為已有交易使用到此會計科目。"
+
+msgid ""
+"Cannot delete this account class because GL account types have been created "
+"referring to it."
+msgstr "不能刪除此一級科目，因為會計科目類型有指定到此。"
+
+msgid ""
+"Cannot delete this account group because GL account groups have been created "
+"referring to it."
+msgstr "不能刪除這個會計科目群組因為有會計科目群組指定到他。"
+
+msgid ""
+"Cannot delete this account group because GL accounts have been created "
+"referring to it."
+msgstr "不能刪除這個會計科目群組因為有會計科目指定到他。"
+
+msgid ""
+"Cannot delete this area because customer branches have been created using "
+"this area."
+msgstr "不能刪除此地區因為已有客戶分公司在這地區"
+
+msgid ""
+"Cannot delete this bank account because POS definitions have been created "
+"using this account."
+msgstr "無法刪除這個銀行帳號，因為已經有收銀機定義使用這個帳號。"
+
+msgid ""
+"Cannot delete this bank account because transactions have been created using "
+"this account."
+msgstr "不能刪除這個銀行帳戶因為有交易使用到他。"
+
+msgid ""
+"Cannot delete this branch because customer transactions have been created to "
+"this branch."
+msgstr "未能刪除此分公司因為已有客戶交易"
+
+msgid ""
+"Cannot delete this branch because sales orders exist for it. Purge old sales "
+"orders first."
+msgstr "無法刪除這個分公司，因為已經有銷貨訂單，請先刪除舊有銷貨訂單"
+
+msgid "Cannot delete this category because there are contacts related to it."
+msgstr "不能刪除這物料組, 因為已被用於銷售收入"
+
+msgid ""
+"Cannot delete this credit status because customer accounts have been created "
+"referring to it."
+msgstr "不能刪除往來狀況代號因為已有客戶帳號屬於此碼"
+
+msgid ""
+"Cannot delete this currency, because customer accounts have been created "
+"referring to this currency."
+msgstr "不能刪除此貨幣，因為已有客戶帳戶指定此貨幣。"
+
+msgid ""
+"Cannot delete this currency, because supplier accounts have been created "
+"referring to this currency."
+msgstr "不能刪除此貨幣，因為已有供應商指定此貨幣。"
+
+msgid ""
+"Cannot delete this currency, because the company preferences uses this "
+"currency."
+msgstr "不能刪除此貨幣，因為已有公司屬性使用此貨幣。"
+
+msgid ""
+"Cannot delete this currency, because thre are bank accounts that use this "
+"currency."
+msgstr "不能刪除此貨幣，因為已有銀行帳戶使用此貨幣。"
+
+msgid ""
+"Cannot delete this customer because there are branch records set up against "
+"it."
+msgstr "未能刪除這客戶，因為有分公司記錄設定"
+
+msgid "Cannot delete this fiscal year because the fiscal year is not closed."
+msgstr "不能刪除會計年度因為有產品被連到這裡。"
+
+msgid "Cannot delete this fiscal year because thera are fiscal years before."
+msgstr "不能刪除會計年度因為有產品被連到這裡。"
+
+msgid ""
+"Cannot delete this group because customers have been created using this "
+"group."
+msgstr "無法刪除這個群組，因為已經有客戶使用這個群組建立"
+
+msgid ""
+"Cannot delete this inventory movement type because item transactions have "
+"been created referring to it."
+msgstr "無法刪除這個資產調動類型，因為已經有產品交易使用。"
+
+msgid ""
+"Cannot delete this item because there are existing purchase order items for "
+"it."
+msgstr "未能刪除這產品，因為已有採購訂單產品"
+
+msgid ""
+"Cannot delete this item because there are stock movements that refer to this "
+"item."
+msgstr "未能刪除這產品，因為已有調貨使用"
+
+msgid ""
+"Cannot delete this item category because items have been created using this "
+"item category."
+msgstr "未能刪除存貨類別，因為已有產品使用"
+
+msgid ""
+"Cannot delete this item record because there are bills of material that "
+"require this part as a component."
+msgstr "未能刪除這產品記錄，因為已有物料清單使用這零件為零件"
+
+msgid ""
+"Cannot delete this item tax type because item categories have been created "
+"referring to it."
+msgstr "無法刪除這個產品稅別，因為已經有產品類別以它建立"
+
+msgid ""
+"Cannot delete this item tax type because items have been created referring "
+"to it."
+msgstr "無法刪除這個產品稅別，因為已經有產品以它建立"
+
+msgid ""
+"Cannot delete this location because it is used by some branch records as the "
+"default location to deliver from."
+msgstr "未能刪除這地區，因為已有分公司記錄設為預設發貨點"
+
+msgid ""
+"Cannot delete this location because it is used by some related records in "
+"other tables."
+msgstr "不能刪除這個位置，因為部份相關資料已經使用。"
+
+msgid ""
+"Cannot delete this location because it is used by some work orders records."
+msgstr "不能刪除這個位置因為有些工作單記錄已使用。"
+
+msgid ""
+"Cannot delete this location because item movements have been created using "
+"this location."
+msgstr "未能刪除這地區，因為已有調貨已使用這地區"
+
+msgid ""
+"Cannot delete this payment term, because customer accounts have been created "
+"referring to this term."
+msgstr "不能刪除付款期間，因為已有客戶帳戶被指定到這段期間。"
+
+msgid ""
+"Cannot delete this payment term, because supplier accounts have been created "
+"referring to this term"
+msgstr "不能刪除付款期間，因為已有供應商帳戶被指定到這段期間。"
+
+msgid ""
+"Cannot delete this printer definition, because print profile have been "
+"created using it."
+msgstr "無法刪除這個印表機定義，因為已經有列印設定以它產生。"
+
+msgid ""
+"Cannot delete this sale type because customer transactions have been created "
+"using this sales type."
+msgstr "未能刪除這銷售類別，因為已有客戶交易使用"
+
+msgid ""
+"Cannot delete this sale type because customers are currently set up to use "
+"this sales type."
+msgstr "未能刪除這銷售交易，因為已有客戶設定使用"
+
+msgid ""
+"Cannot delete this sales-person because branches are set up referring to "
+"this sales-person - first alter the branches concerned."
+msgstr "未能刪除這個業務，因為已有客戶設定使用，請先將調整客戶分公司"
+
+msgid ""
+"Cannot delete this shipping company because invoices have been created using "
+"this shipping company."
+msgstr "不能刪除運送公司，因為已有統一發票被指定到這個運送公司。"
+
+msgid ""
+"Cannot delete this shipping company because sales orders have been created "
+"using this shipper."
+msgstr "不能刪除運送公司，因為已有銷貨訂單被指定到這個運送者。"
+
+msgid ""
+"Cannot delete this supplier because there are transactions that refer to "
+"this supplier."
+msgstr "未能刪除這供應商，因為已有這供應商的交易記錄"
+
+msgid ""
+"Cannot delete this tag because records have been created referring to it."
+msgstr "不能刪除會計年度因為有產品被連到這裡。"
+
+msgid ""
+"Cannot delete this tax group because customer branches been created "
+"referring to it."
+msgstr "無法刪除這個稅組，因為已經有客戶分公司以它建立"
+
+msgid ""
+"Cannot delete this tax group because suppliers been created referring to it."
+msgstr "無法刪除這個稅組，因為已經有供應商以它建立"
+
+msgid ""
+"Cannot delete this tax type because tax groups been created referring to it."
+msgstr "無法刪除這個稅別，因為已經有稅組以它來建立"
+
+msgid ""
+"Cannot delete this unit of measure because items have been created using "
+"this unit."
+msgstr "未能刪除這度量單位，因為已有產品使用."
+
+msgid ""
+"Cannot delete this work centre because BOMs have been created referring to "
+"it."
+msgstr "無法刪除這個工作中心，因為已經有物料表使用。"
+
+msgid ""
+"Cannot delete this work centre because work order requirements have been "
+"created referring to it."
+msgstr "不能刪除因為工作單需求已被建立。"
+
+msgid "Cannot download '%s' file."
+msgstr "不能下載 %s 檔 -"
+
+msgid "Cannot download repo index file."
+msgstr "不能打開模組檔 -"
+
+msgid "Cannot flush printing queue"
+msgstr "無法清空列印佇列"
+
+msgid "Cannot insert stock id into item_codes"
+msgstr "無法新增庫存編號到品項代碼"
+
+msgid "Cannot open connection to printer"
+msgstr "無法開啟印表機連線"
+
+msgid "Cannot open the configuration file - "
+msgstr "不能開啟設定檔 -"
+
+msgid "Cannot open the extension setup file '%s' for writing."
+msgstr "不能打開擴展安裝文件%s來寫入。"
+
+msgid "Cannot open the languages file - "
+msgstr "不能打開語言檔 -"
+
+msgid "Cannot post to GL account used by more than one tax type."
+msgstr "不能刪除這個會計科目，因為已經有 1 或多個稅使用。"
+
+msgid "Cannot query max sales order number."
+msgstr "無法查詢最大銷貨訂單編號"
+
+msgid "Cannot remove temporary renamed company data directory "
+msgstr "無法移除公司資料目錄"
+
+msgid "Cannot rename company subdirectory"
+msgstr "無法連線資料庫"
+
+msgid "Cannot rename subdirectory to temporary name."
+msgstr "無法移除公司資料目錄"
+
+msgid "Cannot retrieve bank accounts codes"
+msgstr "無法取得銀行帳號代碼"
+
+msgid ""
+"Cannot retrieve currency rate from %s page. Please set the rate manually."
+msgstr "無法獲取%s的頁面匯率。請手動設置速率。"
+
+msgid ""
+"Cannot retrieve exchange rate for currency %s as of %s. Please add exchange "
+"rate manually on Exchange Rates page."
+msgstr "無法取得貨幣 %s ( %s )的匯率，請手動新增。"
+
+msgid "Cannot select stock identificators"
+msgstr "無法選擇庫存識別"
+
+msgid "Cannot send report to printer"
+msgstr "無法傳送報表到印表機"
+
+msgid "Cannot store next sales order reference."
+msgstr "無法儲存下一個銷貨訂單編號"
+
+msgid "Cannot update bank transactions"
+msgstr "無法更新銀行交易"
+
+msgid "Cannot update extensions list for company '%s'."
+msgstr "公司不能擴增列表 '%s'。"
+
+msgid "Cannot update system extensions list."
+msgstr "未能新增銀行交易"
+
+msgid ""
+"Cannot upgrade extensions system: file /modules/installed_modules.php is not "
+"writeable"
+msgstr "不能升級擴展系統：文件/模組/installed_modules.php是不可寫的"
+
+msgid "Cannot write to the configuration file - "
+msgstr "不能寫到設定檔 -"
+
+msgid "Cannot write to the extensions setup file '%s'."
+msgstr "不能寫入擴增建立檔 %s"
+
+msgid "Cannot write to the language file - "
+msgstr "不能寫入語言檔 -"
+
+msgid "Cash"
+msgstr "現金"
+
+msgid "Cash Account"
+msgstr "現金科目"
+
+msgid "Cash account:"
+msgstr "現金科目："
+
+msgid "Cash invoice"
+msgstr "現金發票"
+
+msgid "Cash payment"
+msgstr "現金付款"
+
+msgid "Cash sale"
+msgstr "現金交易"
+
+msgid "Category"
+msgstr "類別"
+
+msgid "Category Description:"
+msgstr "類別說明"
+
+msgid "Category Name:"
+msgstr "類別名稱"
+
+msgid "Category Short Name:"
+msgstr "客戶簡稱："
+
+msgid "Category description cannot be empty."
+msgstr "產品代號不能空白"
+
+msgid "Category has been deleted"
+msgstr "選擇的訊息列已刪除"
+
+msgid "Category/Items"
+msgstr "分類/產品"
+
+msgid "Category:"
+msgstr "類別："
+
+msgid "Change password"
+msgstr "修改密碼"
+
+msgid "Changed"
+msgstr "收費"
+
+msgid "Charge Branch"
+msgstr "收費分行"
+
+msgid "Charge To"
+msgstr "收費向"
+
+msgid "Charged on sales"
+msgstr "銷貨收款"
+
+msgid "Charges"
+msgstr "收費"
+
+msgid "Charset encoding"
+msgstr "代號"
+
+msgid "Chart"
+msgstr "帳戶進口走勢圖"
+
+msgid "Chart of &Accounts"
+msgstr "會計科目表(&A)"
+
+msgid "Chart of Accounts"
+msgstr "明細科目無法取得, 因為"
+
+msgid "Check"
+msgstr "檢查"
+
+msgid "Check entered data and save document"
+msgstr "檢查輸入的資料後儲存文件"
+
+msgid "Cheque"
+msgstr "支票"
+
+msgid "Chequing Account"
+msgstr "支票科目"
+
+msgid "Class"
+msgstr "科目編號"
+
+msgid "Class ID"
+msgstr "科目編號"
+
+msgid "Class ID:"
+msgstr "科目編號："
+
+msgid "Class Name"
+msgstr "科目名稱"
+
+msgid "Class Name:"
+msgstr "科目名稱"
+
+msgid "Class Type"
+msgstr "科目類型"
+
+msgid "Class Type:"
+msgstr "科目類型："
+
+msgid "Class:"
+msgstr "科目編號"
+
+msgid "Clear all GL entry fields"
+msgstr "結算所有會計資料欄位"
+
+msgid "Click Here to Pick up the date"
+msgstr "點選這裡來選擇日期"
+
+msgid "Click here to Login Again."
+msgstr "按此可再登入一次"
+
+msgid "Clone"
+msgstr "關閉"
+
+msgid "Clone This Item"
+msgstr "刪除這個產品"
+
+msgid "Clone This Role"
+msgstr "關閉這個範圍"
+
+msgid "Close"
+msgstr "期末餘額"
+
+msgid "Close Balance"
+msgstr "期末餘額"
+
+msgid "Close This Dimension"
+msgstr "關閉此範圍"
+
+msgid "Close This Work Order"
+msgstr "關閉此筆工作單"
+
+msgid "Closed"
+msgstr "關閉"
+
+msgid "Closing Year"
+msgstr "會計年度："
+
+msgid "Code"
+msgstr "代號"
+
+msgid "Comments"
+msgstr "註解"
+
+msgid "Comments:"
+msgstr "註解："
+
+msgid "Commit Order Changes"
+msgstr "接受訂單修改"
+
+msgid "Commit Quotations Changes"
+msgstr "送出報價單異動"
+
+msgid "Common view/print transactions interface"
+msgstr "檢視或列印交易"
+
+msgid "Company"
+msgstr "公司"
+
+msgid "Company GL setup"
+msgstr "系統及一般會計設定"
+
+msgid "Company Logo:"
+msgstr "公司標誌："
+
+msgid "Company Setup"
+msgstr "公司設定"
+
+msgid "Company has been updated."
+msgstr "公司設定已經更新"
+
+msgid "Company internal"
+msgstr "公司設定"
+
+msgid "Company parameters"
+msgstr "公司設定"
+
+msgid "Company setup"
+msgstr "公司設定"
+
+msgid "Company setup has been updated."
+msgstr "公司設定已被更新"
+
+msgid "Company subdirectories consistency"
+msgstr "統一編號："
+
+msgid "Compare to"
+msgstr "生效致"
+
+msgid "Component"
+msgstr "元件"
+
+msgid "Component is :"
+msgstr "元件："
+
+msgid "Component of selected kit has been updated."
+msgstr "選擇的組合元件已經更新。"
+
+msgid "Component:"
+msgstr "元件："
+
+msgid "Compression:"
+msgstr "壓縮："
+
+msgid "Confirm Delivery and Invoice"
+msgstr "確認為訂單派送和開付發票"
+
+msgid "Confirm Order Quantities and Make &Delivery"
+msgstr "確認訂單數量以及出貨(&D)"
+
+msgid "Confirm changes"
+msgstr "儲存修改"
+
+msgid "Contact"
+msgstr "聯繫"
+
+msgid "Contact &Categories"
+msgstr "產品類別(&C)"
+
+msgid "Contact Categories"
+msgstr "聯繫"
+
+msgid "Contact Category Subtype:"
+msgstr "類別："
+
+msgid "Contact Category Type:"
+msgstr "聯繫"
+
+msgid "Contact Data"
+msgstr "數據輸出"
+
+msgid "Contact Information"
+msgstr "分公司連絡人資料"
+
+msgid "Contact Person"
+msgstr "連絡人"
+
+msgid "Contact Person:"
+msgstr "連絡人："
+
+msgid "Contact Phone Number:"
+msgstr "連絡電話："
+
+msgid "Contact active for:"
+msgstr "出貨連絡人："
+
+msgid "Contact categories"
+msgstr "產品類別(&C)"
+
+msgid "Contact data"
+msgstr "數據輸出"
+
+msgid "Contact for deliveries:"
+msgstr "送貨聯繫"
+
+msgid "Contact reference cannot be empty."
+msgstr "聯絡人名稱不能留空"
+
+msgid "Content information for package '%s'"
+msgstr "內容信息包'%s'"
+
+msgid "Contribution"
+msgstr "貢獻"
+
+msgid "Conversion Factor"
+msgstr "轉換比率："
+
+msgid "Conversion Factor (to our UOM):"
+msgstr "轉換因素(到我們UOM)："
+
+msgid "Cost"
+msgstr "成本"
+
+msgid "Cost Update"
+msgstr "存貨成本更新"
+
+msgid "Cost has been updated."
+msgstr "成本已更新。"
+
+msgid "Cost of Goods Sold"
+msgstr "銷貨成本"
+
+msgid "Cost was %s changed to %s x quantity on hand for item '%s'"
+msgstr "物料目前的數量'%s'的成本%s改為%sx"
+
+msgid "Costed Bill Of Material Inquiry"
+msgstr "物料清品成本查詢"
+
+msgid "Costs"
+msgstr "成本"
+
+msgid "Country"
+msgstr "國家"
+
+msgid "Country:"
+msgstr "國家："
+
+msgid "Create Backup"
+msgstr "建立備份"
+
+msgid "Create Invoices"
+msgstr "建立發票"
+
+msgid "Create a new company"
+msgstr "建立新公司樣本模組的SQL檔案"
+
+msgid "Create and Print Recurrent Invoices"
+msgstr "建立與列印循環發票"
+
+msgid "Create backup"
+msgstr "產生備份"
+
+msgid "Create/Update &Companies"
+msgstr "建立與更新公司(&C)"
+
+msgid "Create/Update Company"
+msgstr "新建/更新公司資料"
+
+msgid "Credit"
+msgstr "貸方"
+
+msgid "Credit &Status Setup"
+msgstr "往來狀態設定(&S)"
+
+msgid "Credit Account"
+msgstr "信用交易科目"
+
+msgid "Credit Labour Account"
+msgstr "貸方直接成本科目"
+
+msgid "Credit Limit:"
+msgstr "信用額度："
+
+msgid "Credit No."
+msgstr "貸方傳票編號"
+
+msgid "Credit Note # %d has been processed"
+msgstr "貸方傳票 #%d 已經處理"
+
+msgid "Credit Note Date"
+msgstr "貸方傳票日期"
+
+msgid "Credit Note Items"
+msgstr "撰擇貸方產品"
+
+msgid "Credit Note Total"
+msgstr "貸方總計"
+
+msgid "Credit Note Type"
+msgstr "貸方傳票類別"
+
+msgid "Credit Note has been processed"
+msgstr "往來狀況記錄已更新"
+
+msgid "Credit Note has been updated"
+msgstr "往來狀況記錄已更新"
+
+msgid "Credit Notes"
+msgstr "貸方傳票"
+
+msgid "Credit Overhead Account"
+msgstr "貸方間接成本科目"
+
+msgid "Credit Quantity"
+msgstr "有數量的"
+
+msgid "Credit Shipping Cost"
+msgstr "貸方船運成本"
+
+msgid "Credit Status"
+msgstr "往來狀況"
+
+msgid "Credit Status:"
+msgstr "往來狀況："
+
+msgid "Credit This"
+msgstr "列印此貸方傳票"
+
+msgid "Credit all or part of an Invoice"
+msgstr "發票的全部或部份使用信用交易"
+
+msgid "Credit sale"
+msgstr "信用交易"
+
+msgid "Credit status definitions changes"
+msgstr "信用狀態說明不能空白。"
+
+msgid "Credited"
+msgstr "已貸方"
+
+msgid "Crediting Invoice"
+msgstr "發票總額"
+
+msgid "Credits"
+msgstr "貸方"
+
+msgid "Credits can only be applied to invoiced items."
+msgstr "貸方只能夠是已開立發票產品。"
+
+msgid "Currencies"
+msgstr "貨幣"
+
+msgid "Currency"
+msgstr "貨幣"
+
+msgid "Currency Abbreviation:"
+msgstr "貨幣縮寫："
+
+msgid "Currency Filter"
+msgstr "本地貨幣"
+
+msgid "Currency Name"
+msgstr "貨幣名稱"
+
+msgid "Currency Name:"
+msgstr "貨幣名稱："
+
+msgid "Currency Symbol:"
+msgstr "貨幣符號："
+
+msgid "Currency:"
+msgstr "貨幣："
+
+msgid "Current"
+msgstr "現在的"
+
+msgid "Current Credit:"
+msgstr "信用交易科目"
+
+msgid "Current active extensions set has been saved."
+msgstr "所選擇的交易被清空。"
+
+msgid "Current database version"
+msgstr "資料庫備份失敗"
+
+msgid "Current status:"
+msgstr "往來狀態"
+
+msgid "Cust Ord"
+msgstr "訂單數量"
+
+msgid "Cust Order Ref"
+msgstr "客戶訂單編號"
+
+msgid "Cust Ref"
+msgstr "客戶編號"
+
+msgid "Customer"
+msgstr "客戶"
+
+msgid "Customer &Balances"
+msgstr "客戶結餘(&B)"
+
+msgid "Customer &Branches"
+msgstr "客戶分公司(&B)"
+
+msgid "Customer &Credit Notes"
+msgstr "客戶貸方傳票(&C)"
+
+msgid "Customer &Detail Listing"
+msgstr "客戶細節清單(&D)"
+
+msgid "Customer &Payments"
+msgstr "客戶付款(&P)"
+
+msgid "Customer Allocation &Inquiry"
+msgstr "客戶配置查詢(&I)"
+
+msgid "Customer Allocation Inquiry"
+msgstr "客戶配置查詢"
+
+msgid "Customer Allocations"
+msgstr "客戶配置 != 借方交易配置"
+
+msgid "Customer Balances"
+msgstr "客戶餘額"
+
+msgid "Customer Branches"
+msgstr "客戶分公司"
+
+msgid "Customer Credit Note"
+msgstr "客戶的貸方通知書"
+
+msgid "Customer Currency:"
+msgstr "客戶使用的貨幣："
+
+msgid "Customer Details Listing"
+msgstr "列出客戶資料"
+
+msgid "Customer Discount:"
+msgstr "客戶折扣："
+
+msgid "Customer Name"
+msgstr "客戶名稱"
+
+msgid "Customer Name:"
+msgstr "客戶名稱："
+
+msgid "Customer Order Ref."
+msgstr "客戶訂單參號"
+
+msgid "Customer Payment"
+msgstr "付款條件"
+
+msgid "Customer Payment #%d"
+msgstr "客戶付款 #%d"
+
+msgid "Customer Payment Entry"
+msgstr "輸入客戶付款"
+
+msgid "Customer Postal Address"
+msgstr "發送到總公司"
+
+msgid "Customer Ref"
+msgstr "客戶參考號"
+
+msgid "Customer Reference:"
+msgstr "客戶參考資料："
+
+msgid "Customer Short Name:"
+msgstr "客戶簡稱："
+
+msgid "Customer Transaction &Inquiry"
+msgstr "客戶交易查詢(&I)"
+
+msgid "Customer Transactions"
+msgstr "客戶交易查詢"
+
+msgid "Customer and Sales &Reports"
+msgstr "客戶與銷貨報表(&R)"
+
+msgid "Customer branch"
+msgstr "客戶分公司代號"
+
+msgid "Customer branches"
+msgstr "客戶分公司"
+
+msgid "Customer bulk listing"
+msgstr "列出客戶資料"
+
+msgid "Customer default"
+msgstr "預設語言"
+
+msgid "Customer has been updated."
+msgstr "分公司已更新"
+
+msgid "Customer payments allocation"
+msgstr "客戶配置查詢(&I)"
+
+msgid "Customer payments entry"
+msgstr "輸入客戶付款"
+
+msgid "Customer payments report"
+msgstr "未完成驗收單報表"
+
+msgid "Customer prompt payment discount :"
+msgstr "付款折扣："
+
+msgid "Customer reference number for this order (if any)"
+msgstr "這個訂單的客戶參考編號（如果有）"
+
+msgid "Customer status report"
+msgstr "未完成驗收單報表"
+
+msgid "Customer status:"
+msgstr "客戶狀態："
+
+msgid "Customer's Currency:"
+msgstr "客戶貨幣："
+
+msgid "Customer's Reference"
+msgstr "客戶參考："
+
+msgid "Customer's payment terms '%s' cannot be selected on this POS"
+msgstr "客戶的付款條件'%s'不能被這個銷售點來選擇"
+
+msgid "Customer:"
+msgstr "客戶"
+
+msgid "Customers"
+msgstr "客戶"
+
+msgid "Customers and Sales"
+msgstr "客戶及銷售"
+
+msgid "Customers and Sales Defaults"
+msgstr "客戶及銷售預設值"
+
+msgid "Customers in"
+msgstr "客戶於"
+
+msgid "DATABASE ERROR :"
+msgstr "資料庫錯誤"
+
+msgid "DELIVERY"
+msgstr "交貨"
+
+msgid "DELIVERY NOTE"
+msgstr "貸方傳票"
+
+msgid "DISPATCH NOTE #%d"
+msgstr "配置傳票 #%d"
+
+msgid "DN"
+msgstr "DN"
+
+msgid "Database Host"
+msgstr "資料庫主機"
+
+msgid "Database Name"
+msgstr "資料庫名稱"
+
+msgid "Database Password"
+msgstr "資料庫密碼"
+
+msgid "Database Script"
+msgstr "資料庫腳本"
+
+msgid "Database User"
+msgstr "資料庫使用者"
+
+msgid "Database auth file"
+msgstr "檔案成功刪除"
+
+msgid "Database backup failed."
+msgstr "資料庫備份失敗"
+
+msgid "Database backup/restore"
+msgstr "備份及還原資料庫"
+
+msgid "Database settings are not specified."
+msgstr "資料庫設定"
+
+msgid "Database structure seems to be not upgraded to current version"
+msgstr "數據庫結構似乎沒有升級到最新版本"
+
+msgid "Database upgrade finished."
+msgstr "執行數據庫升級"
+
+msgid "Database upgrade for company '%s' (%s:%s*) started..."
+msgstr "數據庫升級為公司%s的（%s：%s）開始..."
+
+msgid "Database upgrade to version %s failed for company '%s'."
+msgstr "資料庫在升級到版本 %s 時發生錯誤，公司 '%s'。"
+
+msgid ""
+"Database upgrades marked as partially installed cannot be installed "
+"automatically.\n"
+"You have to clean database manually to enable them, or try to perform forced "
+"upgrade."
+msgstr ""
+"數據庫升級標記為部分安裝,不能自動安裝。您必須手動清除數據庫，以使它們或者嘗試"
+"進行強制升級。"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Date Items Received"
+msgstr "執行生產物品接收"
+
+msgid "Date Paid"
+msgstr "付款日期"
+
+msgid "Date Required By"
+msgstr "依查詢日期"
+
+msgid "Date Separator:"
+msgstr "資料分隔點："
+
+msgid "Date Uploaded"
+msgstr "上傳日期"
+
+msgid "Date Voided:"
+msgstr "清空的日期："
+
+msgid "Date for Revaluation:"
+msgstr "出貨連絡人："
+
+msgid "Date of Deposit"
+msgstr "派送日期"
+
+msgid "Date of Deposit:"
+msgstr "存入日期："
+
+msgid "Date of Issue"
+msgstr "發佈日期"
+
+msgid "Date of bank statement to reconcile"
+msgstr "銀行對帳單日期"
+
+msgid "Date of order receive"
+msgstr "接收採購訂單"
+
+msgid "Date to Use From"
+msgstr "使用日期從"
+
+msgid "Date to Use From:"
+msgstr "使用日期從："
+
+msgid "Date/Dim."
+msgstr "派送日期"
+
+msgid "Date:"
+msgstr "日期："
+
+msgid "Dated"
+msgstr "日期"
+
+msgid "Dateformat and Separators"
+msgstr "資料形式及分隔點"
+
+msgid "Dateformat:"
+msgstr "資料形式："
+
+msgid "Day In Following Month"
+msgstr "天數（或是下個月的天數）"
+
+msgid "Days"
+msgstr "日數"
+
+msgid "Days (Or Day In Following Month):"
+msgstr "天數（或是下個月的天數）"
+
+msgid "Days:"
+msgstr "日數："
+
+msgid "Dear"
+msgstr "親愛的先生/小姐"
+
+msgid "Debit"
+msgstr "借方"
+
+msgid "Debit Account"
+msgstr "借方科目"
+
+msgid "Debug mode database warning:"
+msgstr "除錯模式數據庫的警告："
+
+msgid "Debugging mode"
+msgstr "測試或實況模式"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Decimal Places"
+msgstr "小數點位置："
+
+msgid "Decimal Places:"
+msgstr "小數位數："
+
+msgid "Decimal Separator:"
+msgstr "小數點的分隔："
+
+msgid "Decimal values"
+msgstr "零值"
+
+msgid "Decimals"
+msgstr "小數點位置"
+
+msgid "Default"
+msgstr "預設"
+
+msgid "Default Base Amount"
+msgstr "預設基礎金額"
+
+msgid "Default Credit Limit:"
+msgstr "預設貸方限額："
+
+msgid "Default Inventory Location:"
+msgstr "預設出貨地點："
+
+msgid "Default Language"
+msgstr "重建系統預設語言檔"
+
+msgid "Default Rate (%)"
+msgstr "匯率"
+
+msgid "Default Rate:"
+msgstr "預設利率："
+
+msgid "Default Shipping Company:"
+msgstr "預設貨運公司："
+
+msgid "Default account"
+msgstr "預設科目"
+
+msgid "Default cash account"
+msgstr "預設現金科目"
+
+msgid "Default currency account:"
+msgstr "銀行帳戶貨幣："
+
+msgid "Default printing destination"
+msgstr "預設列印目標"
+
+msgid "Default values for new items"
+msgstr "新客戶設定的預設"
+
+msgid "Del Date"
+msgstr "要求交貨日期"
+
+msgid "Delete"
+msgstr "刪除"
+
+msgid "Delete Backup"
+msgstr "刪除備份"
+
+msgid "Delete Company Logo:"
+msgstr "刪除公司標誌："
+
+msgid "Delete Customer"
+msgstr "刪除客戶"
+
+msgid "Delete Image:"
+msgstr "刪除圖片："
+
+msgid "Delete Profile"
+msgstr "刪除設定"
+
+msgid "Delete Supplier"
+msgstr "刪除供應商"
+
+msgid "Delete This Dimension"
+msgstr "刪除北範圍"
+
+msgid "Delete This Item"
+msgstr "刪除這個產品"
+
+msgid "Delete This Role"
+msgstr "刪除北範圍"
+
+msgid "Delete This Work Order"
+msgstr "刪除此筆工作單"
+
+msgid "Delete account"
+msgstr "刪除會計科目"
+
+msgid "Delete customer data if have been never used"
+msgstr "刪除未有交易的客戶資料"
+
+msgid "Delete printer profile (only if not used by any user)"
+msgstr "刪除印表機設定(只有在沒有其他使用者使用時)"
+
+msgid "Delete supplier data if have been never used"
+msgstr "刪除從未使用的供應商資料"
+
+msgid "Delete unused dimension"
+msgstr "刪除循環訂單資料"
+
+msgid "Deleted."
+msgstr "檔案成功刪除"
+
+msgid "Deleting GRN items during invoice entry"
+msgstr "在發票錄入刪除收貨單項目"
+
+msgid "Deliver From Location"
+msgstr "發貨地區 "
+
+msgid "Deliver Into Location"
+msgstr "交貨到地區"
+
+msgid "Deliver Items for a Sales Order"
+msgstr "這零件的銷售訂單產品"
+
+msgid "Deliver To"
+msgstr "出貨日期到"
+
+msgid "Deliver To Branch"
+msgstr "發送到分公司"
+
+msgid "Deliver To:"
+msgstr "收貨人："
+
+msgid "Deliver from Location:"
+msgstr "出貨地點："
+
+msgid "Deliver to:"
+msgstr "交貨到"
+
+msgid "Delivered"
+msgstr "已交貨"
+
+msgid "Delivered On"
+msgstr "在手上"
+
+msgid "Delivered To"
+msgstr "交貨到"
+
+msgid "Deliveries"
+msgstr "交貨自"
+
+msgid "Delivery"
+msgstr "交貨"
+
+msgid "Delivery #"
+msgstr "交貨"
+
+msgid "Delivery # %d has been entered."
+msgstr "運送 #%d 已完成輸入"
+
+msgid "Delivery Address"
+msgstr "交貨地址 1"
+
+msgid "Delivery Date"
+msgstr "要求交貨日期"
+
+msgid "Delivery Date:"
+msgstr "要求交貨日期"
+
+msgid "Delivery Details"
+msgstr "訂單交貨資料"
+
+msgid "Delivery From"
+msgstr "交貨自"
+
+msgid "Delivery Item Selected For Adding To A Supplier Credit Note"
+msgstr "選擇的產品加入到一個供應商的貸方傳票"
+
+msgid "Delivery Items"
+msgstr "控制產品"
+
+msgid "Delivery Note"
+msgstr "貸方傳票"
+
+msgid "Delivery Note # %d has been updated."
+msgstr "出貨單編號 %d 已經更新。"
+
+msgid "Delivery Note Items"
+msgstr "撰擇貸方產品"
+
+msgid "Delivery Note No."
+msgstr "沒有輸入點算"
+
+msgid "Delivery Notes"
+msgstr "貸方傳票"
+
+msgid "Delivery Over-Receive Allowance:"
+msgstr "允許送貨超收額度："
+
+msgid "Delivery Required By:"
+msgstr "要求交貨日期"
+
+msgid "Delivery To"
+msgstr "交貨到"
+
+msgid "Delivery Total"
+msgstr "總成本"
+
+msgid "Delivery address. Default is address of customer branch"
+msgstr "出貨住址，預設是客戶分公司住址"
+
+msgid "Demand"
+msgstr "需求"
+
+msgid "Deposit %d has been entered"
+msgstr "借方 %d已經輸入"
+
+msgid "Deposit %d has been modified"
+msgstr "借方 %d 已經修改"
+
+msgid "Deposit Items"
+msgstr "存入產品"
+
+msgid "Deposit Type"
+msgstr "存款類型"
+
+msgid "Description"
+msgstr "摘要"
+
+msgid "Description:"
+msgstr "描述："
+
+msgid "Descriptive Name:"
+msgstr "名稱："
+
+msgid "Destination"
+msgstr "目的地"
+
+msgid "Destination Location:"
+msgstr "目標地區："
+
+msgid "Detail"
+msgstr "詳細資料"
+
+msgid "Detail:"
+msgstr "詳細資料如下："
+
+msgid "Detailed Report"
+msgstr "詳細報表"
+
+msgid "Dflt"
+msgstr "預設值"
+
+msgid "Difference"
+msgstr "差異"
+
+msgid "Dim"
+msgstr "包含範圍"
+
+msgid "Dim. incl."
+msgstr "包含範圍"
+
+msgid "Dimension"
+msgstr "範圍"
+
+msgid "Dimension &Entry"
+msgstr "範圍(&E)"
+
+msgid "Dimension &Inquiry"
+msgstr "範圍查詢(&I)"
+
+msgid "Dimension &Reports"
+msgstr "範圍報表(&R)"
+
+msgid "Dimension &Summary"
+msgstr "範圍摘要(&S)"
+
+msgid "Dimension &Tags"
+msgstr "範圍的預設值"
+
+msgid "Dimension Defaults"
+msgstr "範圍的預設值"
+
+msgid "Dimension Entry"
+msgstr "範圍輸入"
+
+msgid "Dimension Reference:"
+msgstr "範圍參考值："
+
+msgid "Dimension Required By After:"
+msgstr "之後的預設範圍："
+
+msgid "Dimension Summary"
+msgstr "總結報表"
+
+msgid "Dimension Tags"
+msgstr "範圍的預設 "
+
+msgid "Dimension entry"
+msgstr "範圍(&E)"
+
+msgid "Dimension is closed."
+msgstr "範圍已關閉。"
+
+msgid "Dimension reports"
+msgstr "範圍報表(&R)"
+
+msgid "Dimension tags"
+msgstr "範圍的預設值"
+
+msgid "Dimension view"
+msgstr "視視範圍"
+
+msgid "Dimensions"
+msgstr "範圍"
+
+msgid "Dimensions configuration"
+msgstr "設定檔"
+
+msgid "Direct &Delivery"
+msgstr "直接出貨(&D)"
+
+msgid "Direct &GRN"
+msgstr "直接出貨(&D)"
+
+msgid "Direct &Invoice"
+msgstr "直接開立發票(&I)"
+
+msgid "Direct GRN Entry"
+msgstr "銷貨訂單(&O)"
+
+msgid "Direct GRN has been entered"
+msgstr "日記帳已被輸入"
+
+msgid "Direct Purchase Invoice Entry"
+msgstr "輸入一個新的直接開立發票(&N)"
+
+msgid "Direct Purchase Invoice has been entered"
+msgstr "直接開立發票已經取消。"
+
+msgid "Direct Sales Delivery"
+msgstr "訂單交貨資料"
+
+msgid "Direct Sales Invoice"
+msgstr "選擇要開發票的銷售訂單"
+
+msgid "Direct delivery entry has been cancelled as requested."
+msgstr "直接出貨已經取消。"
+
+msgid "Direct invoice entry has been cancelled as requested."
+msgstr "直接開立發票已經取消。"
+
+msgid "Disable this Branch:"
+msgstr "停用這個分公司："
+
+msgid "Disabled"
+msgstr "不啟用"
+
+msgid "Discount"
+msgstr "折扣"
+
+msgid "Discount %"
+msgstr "折扣"
+
+msgid "Discount Percent:"
+msgstr "折扣百分比："
+
+msgid "Dispatch"
+msgstr "派送"
+
+msgid "Dispatch Date"
+msgstr "派送日期"
+
+msgid "Display Setup"
+msgstr "顯示設定"
+
+msgid "Display also languages not supported by server locales"
+msgstr "語言顯示不支援服務器的當地語言環境"
+
+msgid "Display preferences"
+msgstr "顯示設定"
+
+msgid "Display settings have been updated."
+msgstr "顯示設定已更新"
+
+msgid ""
+"Display settings have been updated. Keep in mind that changed settings are "
+"restored on every login in demo mode."
+msgstr "顯示設置已更新。請記住改變設置在演示模式在每次登錄時將復原。"
+
+msgid "Display: "
+msgstr "顯示："
+
+msgid "Dissallow Invoices"
+msgstr "不允可發票"
+
+msgid "Dissallow invoicing ?"
+msgstr "沒有開發中發票"
+
+msgid "Document Language:"
+msgstr "語言檔"
+
+msgid "Document reentered."
+msgstr "重新整理文件頁"
+
+msgid "Domicile"
+msgstr "發票地址"
+
+msgid "Domicile:"
+msgstr "稅籍地址："
+
+msgid "Donut"
+msgstr "圓圈圖"
+
+msgid "Dots"
+msgstr "分隔線"
+
+msgid "Download"
+msgstr "下載"
+
+msgid "Download Backup"
+msgstr "下載備份"
+
+msgid "Drawn on Bank"
+msgstr "銀行轉帳(&T)"
+
+msgid "Due After/Days"
+msgstr "到期天數"
+
+msgid "Due By"
+msgstr "及到期由"
+
+msgid "Due Date"
+msgstr "到期日"
+
+msgid "Due Date:"
+msgstr "到期日"
+
+msgid "DueDate"
+msgstr "到期日"
+
+msgid "E&mail as Packing Slip"
+msgstr "列印包裝紙"
+
+msgid "E-mail"
+msgstr "電子信箱"
+
+msgid "E-mail:"
+msgstr "電子信箱："
+
+msgid "EAN/UPC Code"
+msgstr "EAN/UPC 代碼"
+
+msgid "Edit"
+msgstr "編輯"
+
+msgid "Edit document line"
+msgstr "訊息列已更新"
+
+msgid "Edit journal line"
+msgstr "輸入日記帳列"
+
+msgid "Edit new record with current data"
+msgstr "編輯當前數據的新紀錄"
+
+msgid "Edit non standard language configuration"
+msgstr "編輯非標準語言設定"
+
+msgid "Editable description:"
+msgstr "期間說明："
+
+msgid "Email"
+msgstr "電子信箱"
+
+msgid "Email Address:"
+msgstr "電子信箱："
+
+msgid "Email Customers"
+msgstr "客戶貨幣"
+
+msgid "Email Locations"
+msgstr "印表機位置"
+
+msgid "Email:"
+msgstr "電子信箱"
+
+msgid "Encoding"
+msgstr "代號"
+
+msgid "End"
+msgstr "結束"
+
+msgid "End Date"
+msgstr "結束日期"
+
+msgid "End:"
+msgstr "結束："
+
+msgid "Ending Balance"
+msgstr "期末餘額"
+
+msgid "Ending<br>Balance"
+msgstr "期末餘額"
+
+msgid "Enter &Another Adjustment"
+msgstr "輸入其他調整(&A)"
+
+msgid "Enter &Another Direct Invoice"
+msgstr "輸入一個新的直接開立發票(&N)"
+
+msgid "Enter &Another GRN"
+msgstr "輸入其他轉帳(&A)"
+
+msgid "Enter &Another Inventory Transfer"
+msgstr "輸入另一個調貨(&A)"
+
+msgid "Enter &Another Purchase Order"
+msgstr "輸入另一個採購單(&A)"
+
+msgid "Enter &Another Transfer"
+msgstr "輸入其他轉帳(&A)"
+
+msgid "Enter &New Journal Entry"
+msgstr "輸入其他日記帳(&A)"
+
+msgid "Enter A &Deposit"
+msgstr "輸入一個存款(&D)"
+
+msgid "Enter A &Payment"
+msgstr "輸入一個付款"
+
+msgid "Enter A Payment"
+msgstr "輸入一個付款"
+
+msgid "Enter Another &Credit Note"
+msgstr "輸入另一個貸方傳票(&C)"
+
+msgid "Enter Another &Customer Payment"
+msgstr "輸入另一個客戶付款(&C)"
+
+msgid "Enter Another &Deposit"
+msgstr "輸入另一個存款"
+
+msgid "Enter Another &Payment"
+msgstr "輸入另一個付款(&P)"
+
+msgid "Enter Another Credit Note"
+msgstr "輸入其他貸方傳票"
+
+msgid "Enter Another Deposit"
+msgstr "輸入另外一筆存入款"
+
+msgid "Enter Another Invoice"
+msgstr "輸入其他發票"
+
+msgid "Enter Another Supplier &Payment"
+msgstr "輸入另一個供應商付款(&p)"
+
+msgid "Enter Credit Note"
+msgstr "輸入貸方傳票"
+
+msgid "Enter Delivery Details and Confirm Dispatch"
+msgstr "輸入交貨資料和確認訂單"
+
+msgid "Enter Delivery Details and Confirm Invoice"
+msgstr "輸入交貨資料和確認訂單"
+
+msgid "Enter Delivery Details and Confirm Order"
+msgstr "輸入交貨資料和確認訂單"
+
+msgid "Enter Delivery Details and Confirm Quotation"
+msgstr "輸入出貨日期資料和確認報價單"
+
+msgid "Enter Invoice"
+msgstr "輸入發票"
+
+msgid "Enter Payment"
+msgstr "輸入供應商付款"
+
+msgid "Enter Supplier Invoice"
+msgstr "輸入供應商發票"
+
+msgid "Enter Transfer"
+msgstr "輸入交易"
+
+msgid "Enter Valid until Date"
+msgstr "輸入有效期日期"
+
+msgid "Enter a &New Delivery"
+msgstr "輸入一個新的出貨(&N)"
+
+msgid "Enter a &New Direct Invoice"
+msgstr "輸入一個新的直接開立發票(&N)"
+
+msgid "Enter a &New Order"
+msgstr "輸入新訂單(&N)"
+
+msgid "Enter a &New Template Invoice"
+msgstr "輸入一個新的發票範本(&N)"
+
+msgid "Enter a &new dimension"
+msgstr "輸入一個新的範圍(&n)"
+
+msgid "Enter a New &Quotation"
+msgstr "輸入一個新的範圍(&n)"
+
+msgid "Enter a New Sales Delivery"
+msgstr "輸入新的銷售訂單"
+
+msgid "Enter a New Sales Invoice"
+msgstr "輸入一個新的發票範本(&N)"
+
+msgid "Enter a New Sales Order"
+msgstr "輸入新的銷售訂單"
+
+msgid "Enter a New Sales Quotation"
+msgstr "輸入新的銷售採購單"
+
+msgid "Enter a New Template &Delivery"
+msgstr "輸入一個新的出貨範本(&D)"
+
+msgid "Enter a new password to change, leave empty to keep current."
+msgstr "要改變請輸入新密碼，空白則保留現在的密碼。"
+
+msgid "Enter a new purchase order"
+msgstr "輸入一個新的採購單"
+
+msgid "Enter a new work order"
+msgstr "輸入新的工作單"
+
+msgid "Enter another additional cost."
+msgstr "輸入另一個其他成本。"
+
+msgid "Enter code fragment to search or * for all"
+msgstr "輸入部份代碼來搜尋，或是以 * 搜尋全部"
+
+msgid "Enter description fragment to search or * for all"
+msgstr "輸入部份說明來搜尋，或是以 * 搜尋全部"
+
+msgid "Enter memo fragment or leave empty"
+msgstr "借方代號不能空白"
+
+msgid "Enter reference fragment or leave empty"
+msgstr "輸入參考片段或留空白"
+
+msgid "Enter requested day of delivery"
+msgstr "交貨日期"
+
+msgid "Enter your new password in the fields."
+msgstr "請在欄位中輸入您的密碼。"
+
+msgid "Entered data has not been saved yet.\nDo you want to abandon changes?"
+msgstr "輸入數據尚未保存。\\ñ你想放棄修改？"
+
+msgid "Entered item is not defined. Please re-enter."
+msgstr "輸入的產品不是定義中的。請再輸入一次。"
+
+msgid ""
+"Entered quantities cannot be greater than the quantity entered on the "
+"purchase order including the allowed over-receive percentage"
+msgstr "輸入數量不能大於採購發票及其允可超收百份比的數量"
+
+msgid "Entry &New Journal Entry"
+msgstr "處理日記帳"
+
+msgid "Entry Type"
+msgstr "資料類型"
+
+msgid "Entry purchase &invoice for this receival"
+msgstr "返回發票輸入"
+
+msgid "Entry supplier &payment for this invoice"
+msgstr "輸入付款到供應商"
+
+msgid "Equities"
+msgstr "業主權益"
+
+msgid "Equity"
+msgstr "股東權益"
+
+msgid "Error creating Database: "
+msgstr "錯誤地建立資料庫："
+
+msgid "Error logging"
+msgstr "資料庫錯誤"
+
+msgid "Error removing Database: "
+msgstr "錯誤地移除資料庫"
+
+msgid "Error sending print job control file"
+msgstr "傳送列印工作到控制檔案時發生錯誤"
+
+msgid "Error uploading logo file"
+msgstr "上傳標誌檔案時發生錯誤"
+
+msgid "Exchange Rate"
+msgstr "匯率"
+
+msgid "Exchange Rate:"
+msgstr "匯率："
+
+msgid "Exchange Rates"
+msgstr "匯率"
+
+msgid "Exchange Rates:"
+msgstr "匯率："
+
+msgid "Exchange Variance"
+msgstr "匯差"
+
+msgid "Exchange Variances Account:"
+msgstr "銷售匯率差異總帳科目"
+
+msgid "Exchange rate table changes"
+msgstr "匯率"
+
+msgid "Exchange rates are entered against the company currency."
+msgstr "輸入對公司使用貨幣之匯率。"
+
+msgid "Exclude from sales:"
+msgstr "客戶及銷貨"
+
+msgid "Expense"
+msgstr "費用"
+
+msgid "Extension"
+msgstr "該mbstring擴展不availble的在你的PHP"
+
+msgid "Extensions configuration files and directories should be writeable"
+msgstr "擴展配置文件和目錄應該是可寫的"
+
+msgid "Extensions system"
+msgstr "系統管理者"
+
+msgid "Extensions:"
+msgstr "範圍"
+
+msgid "Facsimile No:"
+msgstr "傳真號碼"
+
+msgid "Factor"
+msgstr "十月"
+
+msgid "Fax"
+msgstr "傳真"
+
+msgid "Fax No"
+msgstr "傳真"
+
+msgid "Fax Number:"
+msgstr "傳真"
+
+msgid "Fax number:"
+msgstr "傳真"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "February"
+msgstr "2月"
+
+msgid "File successfully deleted."
+msgstr "檔案成功刪除"
+
+msgid "File uploaded to backup directory"
+msgstr "找不到備份目錄"
+
+msgid "File was not uploaded into the system."
+msgstr "檔案沒有上傳到系統中。"
+
+msgid "Filename"
+msgstr "檔案名稱"
+
+msgid "Filetype"
+msgstr "檔案類型"
+
+msgid "Final product receive"
+msgstr "要接收數量"
+
+msgid "First"
+msgstr "第一個"
+
+msgid "First Name:"
+msgstr "帳號"
+
+msgid "First date of Accruals"
+msgstr "依查詢日期"
+
+msgid "Fiscal Year"
+msgstr "會計年度"
+
+msgid "Fiscal Year Begin"
+msgstr "會計年度開始"
+
+msgid "Fiscal Year Begin:"
+msgstr "會計年度開始："
+
+msgid "Fiscal Year End"
+msgstr "會計年度結束"
+
+msgid "Fiscal Year End:"
+msgstr "會計年度結束："
+
+msgid "Fiscal Year:"
+msgstr "會計年度："
+
+msgid "Fiscal Years"
+msgstr "會計年度"
+
+msgid "Fiscal years maintenance"
+msgstr "維護備份程式"
+
+msgid "For Part :"
+msgstr "(的) 零件"
+
+msgid "For Purchase Order"
+msgstr "接收採購訂單"
+
+msgid "For Sales Order"
+msgstr "輸入銷貨訂單"
+
+msgid "For Work Order #"
+msgstr "工作單編號"
+
+msgid ""
+"For batch invoicing you should\n"
+"\t\t    select at least one delivery. All items must be dispatched to\n"
+"\t\t    the same customer branch."
+msgstr ""
+"對於批量開發票應該\n"
+"\t\t 至少選擇一個交運。所有物料必須被分派為\n"
+"\t\t 同一個客戶的分支公司。"
+
+msgid ""
+"For credit notes created to write off the stock, a general ledger account is "
+"required to be selected."
+msgstr "要產生勾銷庫存的貸方傳票需要選擇一個科目。"
+
+msgid "Force upgrade"
+msgstr "執行升級"
+
+msgid "Foreign Item Codes"
+msgstr "外部產品代號"
+
+msgid "Foreign item codes entry"
+msgstr "會計科目代號查詢"
+
+msgid "Form"
+msgstr "表單"
+
+msgid "Forms Setup"
+msgstr "表單設定"
+
+msgid "Forms settings have been updated."
+msgstr "表單設定已被更新。"
+
+msgid "Forms setup"
+msgstr "表單設定"
+
+msgid "Fr"
+msgstr "五"
+
+msgid "Freight cost cannot be less than zero"
+msgstr "運費成本不能夠少於零"
+
+msgid "Frequency"
+msgstr "次序"
+
+msgid "From"
+msgstr "從"
+
+msgid "From Account"
+msgstr "從會計科目來"
+
+msgid "From Account:"
+msgstr "從哪個會計科目："
+
+msgid "From Bank Account"
+msgstr "從銀行帳戶來的"
+
+msgid "From Bank Account:"
+msgstr "從銀行帳戶："
+
+msgid "From Customer"
+msgstr "客戶編號開始"
+
+msgid "From Customer:"
+msgstr "從哪個客戶來："
+
+msgid "From Dimension"
+msgstr "從資料庫"
+
+msgid "From Location"
+msgstr "發貨地區"
+
+msgid "From Location:"
+msgstr "發貨地點："
+
+msgid "From location :"
+msgstr "發貨地區："
+
+msgid "From product"
+msgstr "從哪個銀行帳戶："
+
+msgid "From:"
+msgstr "從："
+
+msgid "Full Name"
+msgstr "全名"
+
+msgid "Funds Transfer"
+msgstr "基金移轉"
+
+msgid "GJ"
+msgstr "GJ"
+
+msgid "GL"
+msgstr "會計"
+
+msgid "GL &Inquiry"
+msgstr "會計科目查詢(&I)"
+
+msgid "GL Account"
+msgstr "總分類會計科目"
+
+msgid "GL Account &Classes"
+msgstr "一級科目(&C)"
+
+msgid "GL Account &Groups"
+msgstr "二級科目(&G)"
+
+msgid "GL Account &Transactions"
+msgstr "顯示科目交易(&T)"
+
+msgid "GL Account Classes"
+msgstr "一級科目"
+
+msgid "GL Account Groups"
+msgstr "二級科目"
+
+msgid "GL Account Transactions"
+msgstr "會計科目交易"
+
+msgid "GL Account tags"
+msgstr "會計科目查詢(&I)"
+
+msgid "GL Accounts"
+msgstr "會計科目"
+
+msgid "GL Deposit"
+msgstr "存款會計"
+
+msgid "GL Items for this Credit Note"
+msgstr "這個貸方傳票的會計產品"
+
+msgid "GL Items for this Invoice"
+msgstr "這個發票的會計產品"
+
+msgid "GL Payment"
+msgstr "會計付款"
+
+msgid "GL account classes"
+msgstr "一級科目(&C)"
+
+msgid "GL account groups"
+msgstr "二級科目(&G)"
+
+msgid "GL accounts edition"
+msgstr "設定使用者帳號(&U)"
+
+msgid "GL analytical reports and inquiries"
+msgstr "查詢及報表"
+
+msgid "GL postings view"
+msgstr "檢視銀行轉帳"
+
+msgid "GL reports and inquiries"
+msgstr "客戶與銷貨報表(&R)"
+
+msgid "GP %"
+msgstr "毛利率"
+
+msgid "GRN"
+msgstr "收貨單"
+
+msgid "GRN Clearing Account:"
+msgstr "收貨總帳科目"
+
+msgid "GRN Removal"
+msgstr "收貨單"
+
+msgid "GRN Valuation Report"
+msgstr "存貨估價報表"
+
+msgid "GRNs"
+msgstr "未完成驗收單報表"
+
+msgid "GSTNo:"
+msgstr "統一編號："
+
+msgid "General"
+msgstr "一般"
+
+msgid "General GL"
+msgstr "一般會計"
+
+msgid "General Ledger"
+msgstr "會計"
+
+msgid "General Ledger &Reports"
+msgstr "會計報表(&R)"
+
+msgid "General Ledger Inquiry"
+msgstr "會計查詢"
+
+msgid "General Ledger Transaction Details"
+msgstr "會計交易詳細資料"
+
+msgid "General Notes:"
+msgstr "一般傳票："
+
+msgid "General contact data"
+msgstr "一般聯絡資料"
+
+msgid "Generated At"
+msgstr "地區"
+
+msgid "Generated By"
+msgstr "要求出貨日"
+
+msgid "Get"
+msgstr "取得"
+
+msgid "Get current rate from"
+msgstr "取得目前ECB匯率"
+
+msgid "Go"
+msgstr "衝"
+
+msgid "Grand Total"
+msgstr "全部總計"
+
+msgid "Graphics"
+msgstr "圖片"
+
+msgid "Greater than "
+msgstr "銷售大於"
+
+msgid "Group"
+msgstr "群組"
+
+msgid "Group ID"
+msgstr "報表編號"
+
+msgid "Group Name"
+msgstr "群組名稱"
+
+msgid "Group Name:"
+msgstr "群組名稱："
+
+msgid "Group/Account Name"
+msgstr "銀行帳戶名稱："
+
+msgid "Help"
+msgstr "說明"
+
+msgid "Home Currency:"
+msgstr "公司所在地貨幣："
+
+msgid "Home page"
+msgstr "紙張大小："
+
+msgid "Horizontal bars"
+msgstr "水平列"
+
+msgid "Host"
+msgstr "主機"
+
+msgid "Host name or IP"
+msgstr "主機名稱或 IP"
+
+msgid "Http server type"
+msgstr "科目/稅別"
+
+msgid "Hundredths Name:"
+msgstr "百位數名稱："
+
+msgid "Hundredths name"
+msgstr "百位數名稱"
+
+msgid "IA"
+msgstr "IA"
+
+msgid "ID"
+msgstr "編號"
+
+msgid "ID:"
+msgstr "編號："
+
+msgid "INVOICE"
+msgstr "發票"
+
+msgid "IT"
+msgstr "IT"
+
+msgid ""
+"If no Admin Password is entered, the new Admin Password will be "
+"'<b>password</b>' by default "
+msgstr "如果沒有輸入管理員密碼，新的管理員密碼將設定 密碼默認"
+
+msgid ""
+"If set document date is remembered on subsequent documents, otherwise "
+"default is current date"
+msgstr "如果設定的文件日期是記錄在隨後的文件，否則預設為現在日期"
+
+msgid "If this does not happen"
+msgstr "如沒有發生"
+
+msgid ""
+"If you are not an authorized user, please contact your system administrator "
+"to obtain an account to enable you to use the system."
+msgstr "如果您尚未取得授權，請連絡系統管理員來取得使用系統的權限。"
+
+msgid "Image File (.jpg)"
+msgstr "圖片檔案 (.JPG)"
+
+msgid "In case of no gettext support, php emulation is used"
+msgstr "如果沒有gettext的支援，PHP仿真使用"
+
+msgid "Inactive"
+msgstr "啟動"
+
+msgid "Included"
+msgstr "包含"
+
+msgid "Income"
+msgstr "收入"
+
+msgid "Incorrect Password"
+msgstr "密碼錯誤"
+
+msgid "Info"
+msgstr "資訊"
+
+msgid "Input Tax"
+msgstr "輸入稅"
+
+msgid "Inputs"
+msgstr "總輸出"
+
+msgid "Inquiries and Reports"
+msgstr "查詢及報表"
+
+msgid "Insert New Item"
+msgstr "新增產品"
+
+msgid "Insert New Role"
+msgstr "新增產品"
+
+msgid "Install"
+msgstr "安裝"
+
+msgid "Install Charts of Accounts"
+msgstr "安裝"
+
+msgid "Install Themes"
+msgstr "安裝"
+
+msgid "Install third-party extension."
+msgstr "安裝第三方擴展模組"
+
+msgid "Install/Activate &Chart of Accounts"
+msgstr "安裝/啟動會計科目"
+
+msgid "Install/Activate &Extensions"
+msgstr "安裝/啟動擴展模組"
+
+msgid "Install/Activate &Themes"
+msgstr "安裝/啟動版面佈局"
+
+msgid "Install/Activate extensions"
+msgstr "安裝"
+
+msgid "Install/Update &Languages"
+msgstr "安裝/更新語言(&L)"
+
+msgid "Install/Update Languages"
+msgstr "安裝/更新語言"
+
+msgid "Install/update companies"
+msgstr "建立與更新公司(&C)"
+
+msgid "Install/update languages"
+msgstr "安裝/更新語言"
+
+msgid "Install/upgrade modules"
+msgstr "安裝/更新模組"
+
+msgid "Installation path"
+msgstr "計算基礎"
+
+msgid "Installed"
+msgstr "已安裝"
+
+msgid "Insufficient stock"
+msgstr "產品"
+
+msgid "Into Bank Account"
+msgstr "進入銀行帳戶"
+
+msgid "Into Bank Account:"
+msgstr "進入銀行帳戶："
+
+msgid "Into Location"
+msgstr "交貨到地區"
+
+msgid "Into:"
+msgstr "收貨地點："
+
+msgid "Inv"
+msgstr "發票日期"
+
+msgid "Inv Date"
+msgstr "發票日期"
+
+msgid "Inv Price"
+msgstr "價格表"
+
+msgid "Invalid BEGIN date in fiscal year."
+msgstr "在會計年度中無效的「開始日期」"
+
+msgid "Invalid BEGIN or END date in fiscal year."
+msgstr "在會計年度中無效的「結束日期」"
+
+msgid "Invalid END date in fiscal year."
+msgstr "在會計年度中無效的「結束日期」"
+
+msgid "Invalid purchase invoice number."
+msgstr "輸入的發票日期有誤。"
+
+msgid "Invalid reconcile date format"
+msgstr "調整日期格式有誤"
+
+msgid "Invalid sales invoice number."
+msgstr "出貨發票(&I)"
+
+msgid "Inventory"
+msgstr "存貨"
+
+msgid "Inventory &Adjustments"
+msgstr "存貨調整(&A)"
+
+msgid "Inventory &Locations"
+msgstr "存貨地點(&L)"
+
+msgid "Inventory &Movement Report"
+msgstr "存貨估價報表"
+
+msgid "Inventory &Movement Types"
+msgstr "調貨類型(&M)"
+
+msgid "Inventory &Planning Report"
+msgstr "存貨規劃報表(&P)"
+
+msgid "Inventory &Reports"
+msgstr "庫存報表(&R)"
+
+msgid "Inventory &Sales Report"
+msgstr "銷貨分析報表(&S)"
+
+msgid "Inventory &Valuation Report"
+msgstr "存貨估價報表(&V)"
+
+msgid "Inventory Account"
+msgstr "存貨會計科目："
+
+msgid "Inventory Account:"
+msgstr "存貨會計科目："
+
+msgid "Inventory Adjustment"
+msgstr "調整數量"
+
+msgid "Inventory Adjustments Account:"
+msgstr "存貨調整科目："
+
+msgid "Inventory Category"
+msgstr "存貨類別"
+
+msgid "Inventory Column"
+msgstr "資產欄位"
+
+msgid "Inventory Item &Movements"
+msgstr "調貨(&M)"
+
+msgid "Inventory Item &Status"
+msgstr "庫存狀態(&S)"
+
+msgid "Inventory Item Cost Update"
+msgstr "存貨產品成本更新"
+
+msgid "Inventory Item Movement"
+msgstr "調貨"
+
+msgid "Inventory Item Sales prices"
+msgstr "存貨產品的銷售價格"
+
+msgid "Inventory Item Status"
+msgstr "存貨產品情況"
+
+msgid "Inventory Item Where Used &Inquiry"
+msgstr "產品用途查詢(&I)"
+
+msgid "Inventory Item Where Used Inquiry"
+msgstr "存貨產品使用查詢"
+
+msgid "Inventory Location &Transfers"
+msgstr "調貨(&T)"
+
+msgid "Inventory Location Transfers"
+msgstr "調貨"
+
+msgid "Inventory Locations"
+msgstr "存貨位置"
+
+msgid "Inventory Movement Types"
+msgstr "調貨類型"
+
+msgid "Inventory Movements"
+msgstr "調貨"
+
+msgid "Inventory P&urchasing Report"
+msgstr "存貨估價報表"
+
+msgid "Inventory Planning Report"
+msgstr "存貨規劃報表"
+
+msgid "Inventory Purchasing Report"
+msgstr "存貨估價報表"
+
+msgid "Inventory Sales Report"
+msgstr "銷售分析報表"
+
+msgid "Inventory Valuation Report"
+msgstr "存貨估價報表"
+
+msgid "Inventory adjustments"
+msgstr "存貨調整(&A)"
+
+msgid "Inventory analytics"
+msgstr "存貨會計科目："
+
+msgid "Inventory configuration"
+msgstr "設定檔"
+
+msgid "Inventory location transfers"
+msgstr "調貨(&T)"
+
+msgid "Inventory locations changes"
+msgstr "送出訂單異動"
+
+msgid "Inventory movement types"
+msgstr "調貨類型(&M)"
+
+msgid "Inventory operations"
+msgstr "存貨會計科目："
+
+msgid "Inventory transfer has been processed"
+msgstr "存貨交易已被處理"
+
+msgid "Inventory valuation report"
+msgstr "存貨估價報表"
+
+msgid "Invoice"
+msgstr "發票"
+
+msgid "Invoice # %d has been entered."
+msgstr "發票 #%d 已完成輸入。"
+
+msgid "Invoice Date"
+msgstr "發票日期"
+
+msgid "Invoice Date:"
+msgstr "發票日期"
+
+msgid "Invoice Dead-line"
+msgstr "選擇列產品到發票"
+
+msgid "Invoice Delivery Details"
+msgstr "發票遞送詳細資料"
+
+msgid "Invoice Items"
+msgstr "控制產品"
+
+msgid "Invoice No."
+msgstr "沒有開發中發票"
+
+msgid "Invoice OK"
+msgstr "發票OK"
+
+msgid "Invoice Over-Charge Allowance:"
+msgstr "允許發票超出額度："
+
+msgid "Invoice This Delivery"
+msgstr "列印這發票"
+
+msgid "Invoice Total"
+msgstr "發票總計"
+
+msgid "Invoice Total:"
+msgstr "發票總計"
+
+msgid "Invoice before"
+msgstr "發票日期"
+
+msgid "Invoice date:"
+msgstr "發票日期"
+
+msgid "Invoiced"
+msgstr "已開發票"
+
+msgid "Invoiced Quantity"
+msgstr "列產品的已開發票數量"
+
+msgid "Invoices"
+msgstr "發票"
+
+msgid "Invoices/Credits"
+msgstr "發票的總靜貸方"
+
+msgid "Is Closed:"
+msgstr "關帳："
+
+msgid "Is Fully Tax-exempt:"
+msgstr "完全免稅："
+
+msgid "Is exempt"
+msgstr "這是"
+
+msgid "Issue"
+msgstr "發行"
+
+msgid "Issue #"
+msgstr "發行編號"
+
+msgid "Issue Batch Invoice for Delivery Notes"
+msgstr "發票遞送詳細資料"
+
+msgid "Issue Date:"
+msgstr "發布日期："
+
+msgid "Issue Items to Work Order"
+msgstr "發料產品到工作單"
+
+msgid "Issue Items to Work order"
+msgstr "發出產品到工作單"
+
+msgid "Issue an Invoice for Delivery Note"
+msgstr "發票遞送詳細資料"
+
+msgid "Issue of"
+msgstr "發行"
+
+msgid "Issue to"
+msgstr "發出產品"
+
+msgid "Issues"
+msgstr "發佈"
+
+msgid "Item"
+msgstr "產品"
+
+msgid "Item &Categories"
+msgstr "產品類別(&C)"
+
+msgid "Item Adjustments Note"
+msgstr "產品調整備註"
+
+msgid "Item Amounts are Shown in :"
+msgstr "顯示產品金額在："
+
+msgid "Item Assembly Costs Account:"
+msgstr "產品組裝成本科目："
+
+msgid "Item Categories"
+msgstr "產品分類"
+
+msgid "Item Code"
+msgstr "產品編號"
+
+msgid "Item Code:"
+msgstr "產品編號："
+
+msgid "Item Description"
+msgstr "產品內容"
+
+msgid "Item Ta&x Types"
+msgstr "產品稅別(&x)"
+
+msgid "Item Tax Type:"
+msgstr "產品稅別："
+
+msgid "Item Tax Types"
+msgstr "產品稅別"
+
+msgid "Item Type:"
+msgstr "產品類型："
+
+msgid "Item categories"
+msgstr "產品類別(&C)"
+
+msgid "Item code description cannot be empty."
+msgstr "產品代號說明不能空白。"
+
+msgid "Item code has been sucessfully deleted."
+msgstr "產品代碼已經刪除。"
+
+msgid "Item code has been updated."
+msgstr "產品代碼已經更新。"
+
+msgid "Item description cannot be empty."
+msgstr "產品代號不能空白"
+
+msgid "Item has been updated."
+msgstr "產品已經更新"
+
+msgid "Item standard costs"
+msgstr "產品組裝成本科目："
+
+msgid "Item status:"
+msgstr "庫存狀態(&S)"
+
+msgid "Item tax type definitions"
+msgstr "稅別名稱不能空白"
+
+msgid "Item:"
+msgstr "產品："
+
+msgid "Items"
+msgstr "產品"
+
+msgid "Items Defaults"
+msgstr "產品預設值"
+
+msgid "Items Received Yet to be Invoiced"
+msgstr "已接收但未開發票的貨品從"
+
+msgid "Items Returned to Inventory Location"
+msgstr "沒有產品要新增"
+
+msgid "Items Returned to Location"
+msgstr "貨品退回地區"
+
+msgid "Items Written Off"
+msgstr "貨品勾消"
+
+msgid "Items adjustment has been processed"
+msgstr "產品的調整已處理"
+
+msgid "Items analytical reports and inquiries"
+msgstr "查詢及報表"
+
+msgid "Items for this Deposit"
+msgstr "這個存款產品"
+
+msgid "Items for this Issue"
+msgstr "這個發佈的產品"
+
+msgid "Items for this Payment"
+msgstr "這筆付款的產品"
+
+msgid "Items to Issue"
+msgstr "發出產品"
+
+msgid "Items to Receive"
+msgstr "要接收數量"
+
+msgid "Jan"
+msgstr "和"
+
+msgid "January"
+msgstr "1月"
+
+msgid "Journal Entry"
+msgstr "日記帳輸入"
+
+msgid "Journal Inquiry"
+msgstr "範圍查詢(&I)"
+
+msgid "Journal entries to bank related accounts"
+msgstr "日記帳輸入已被輸入"
+
+msgid "Journal entry has been entered"
+msgstr "日記帳輸入已被輸入"
+
+msgid "Journal entry has been updated"
+msgstr "日記帳已被輸入"
+
+msgid "Jul"
+msgstr "7月"
+
+msgid "July"
+msgstr "7月"
+
+msgid "Jun"
+msgstr "6月"
+
+msgid "June"
+msgstr "6月"
+
+msgid "Kindest regards"
+msgstr "祝 平安"
+
+msgid "Kit common properties has been updated"
+msgstr "組合一般設定已經更新"
+
+msgid "Kit/alias code cannot be empty."
+msgstr "組合編號/代號不能空白。"
+
+msgid "Labour Cost"
+msgstr "直接成本"
+
+msgid "Landscape"
+msgstr "信紙"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Language Code"
+msgstr ""
+"語言必須格式為, 2 個小楷字元代表國家, 下劃線 _ , 和 2 個大楷字元代表語言編碼"
+
+msgid "Language File"
+msgstr "語言檔"
+
+msgid "Language Name"
+msgstr "語言："
+
+msgid "Language configuration consistency"
+msgstr "新增語言"
+
+msgid "Language name, code nor encoding cannot be empty"
+msgstr "語言名稱、代碼不能空白。"
+
+msgid "Language:"
+msgstr "語言："
+
+msgid "Languages configuration file should be writeable."
+msgstr "設定"
+
+msgid "Languages folder should be writeable."
+msgstr "語言文件夾應該是可寫的。"
+
+msgid "Last"
+msgstr "最末個"
+
+msgid "Last Created"
+msgstr "最新建立"
+
+msgid "Last Name:"
+msgstr "帳號"
+
+msgid "Last Visit"
+msgstr "最後一次進入"
+
+msgid "Last Year"
+msgstr "最後一年"
+
+msgid "Left to Allocate"
+msgstr "左邊指定"
+
+msgid "Left to Allocate:"
+msgstr "左邊被指定："
+
+msgid "Legal Text on Invoice:"
+msgstr "發票文字無效"
+
+msgid "Less than "
+msgstr "小於"
+
+msgid "Liabilities"
+msgstr ""
+"資產負債表由三部分組成：資產，負債和所有者權益。資產的主要類別列第一和後跟的"
+"負債。資產與負債之間的差額被稱為股本或淨資產或淨值或公司的資金，並根據會計等"
+"式，淨資產必須等於資產減負債"
+
+msgid "Line Details"
+msgstr "列資料"
+
+msgid "Line Total"
+msgstr "列總數"
+
+msgid "Line Value"
+msgstr "列價值"
+
+msgid "Lines"
+msgstr "修改訂單列"
+
+msgid "List of &Journal Entries"
+msgstr "日記簿資料列表(&J)"
+
+msgid "List of Journal Entries"
+msgstr "銷售稅 (GST) 傳回建議科目"
+
+msgid "Loc"
+msgstr "地區"
+
+msgid "Location"
+msgstr "所在地"
+
+msgid "Location Code"
+msgstr "地區代號"
+
+msgid "Location Code:"
+msgstr "地區代號："
+
+msgid "Location Name"
+msgstr "地區名稱"
+
+msgid "Location Name:"
+msgstr "地區名稱："
+
+msgid "Location Transfer"
+msgstr "地區轉移參考"
+
+msgid "Location to Draw From:"
+msgstr "貨品退回地區"
+
+msgid "Location:"
+msgstr "地區："
+
+msgid "Log file is not writeable"
+msgstr "日誌文件是不可寫的"
+
+msgid "Login"
+msgstr "登入"
+
+msgid "Login -->"
+msgstr "登入"
+
+msgid "Login Timeout:"
+msgstr "超時（秒）"
+
+msgid "Login as user: demouser and password: password"
+msgstr "作為用戶登錄：demouser和密碼：密碼"
+
+msgid "Login timeout must be positive number not less than 10."
+msgstr "輸入的金額是無效的或是小於零。"
+
+msgid "Logout"
+msgstr "登出 "
+
+msgid "Mailing Address:"
+msgstr "出貨地址："
+
+msgid "Main  Menu"
+msgstr "主目錄"
+
+msgid "Main Branch"
+msgstr "客戶分公司"
+
+msgid "Main Menu"
+msgstr "主要目錄"
+
+msgid "Main config file"
+msgstr "檔案成功刪除"
+
+msgid "Maintenance"
+msgstr "維護"
+
+msgid "Make &Delivery Against This Order"
+msgstr "以這個訂單進行出貨(&D)"
+
+msgid "Make &Invoice Against This Delivery"
+msgstr "為這個出貨製作發票(&I)"
+
+msgid "Make &Sales Order Against This Quotation"
+msgstr "要輸入這採購訂單的交貨"
+
+msgid "Manual journal entries"
+msgstr "銷貨稅 (GST) 傳回建議科目"
+
+msgid "Manufacture work centres"
+msgstr "工作單(&O)"
+
+msgid "Manufactured"
+msgstr "生產"
+
+msgid "Manufactured Item"
+msgstr "製造產品"
+
+msgid "Manufacturing"
+msgstr "製造"
+
+msgid "Manufacturing &Reports"
+msgstr "生產報表(&R)"
+
+msgid "Manufacturing Defaults"
+msgstr "製造預設值"
+
+msgid "Manufacturing analytics"
+msgstr "製造預設值"
+
+msgid "Manufacturing configuration"
+msgstr "設定檔"
+
+msgid "Manufacturing cost inquiry"
+msgstr "銷貨訂單查詢(&I)"
+
+msgid "Manufacturing operations view"
+msgstr "檢視銀行轉帳"
+
+msgid "Manufacturing transactions"
+msgstr "客戶交易"
+
+msgid "Mar"
+msgstr "3月"
+
+msgid "March"
+msgstr "3月"
+
+msgid "Mark this dimension as closed"
+msgstr "範圍被關閉。"
+
+msgid "Mark this dimension as re-opened"
+msgstr "範圍被關閉。"
+
+msgid "Marked dimensions are overdue."
+msgstr "標示的範圍已經逾期。"
+
+msgid "Marked items are due."
+msgstr "標示的產品已經逾期。"
+
+msgid "Marked items are overdue."
+msgstr "選擇的產品已經逾期。"
+
+msgid "Marked items are settled."
+msgstr "標示的產品已經固定。"
+
+msgid ""
+"Marked items have insufficient quantities in stock as on day of delivery."
+msgstr "標示的產品在出貨日的數量不足。"
+
+msgid "Marked items have insufficient quantities in stock."
+msgstr "標示的產品庫存量不足。"
+
+msgid "Marked orders are overdue."
+msgstr "標示的訂單已經逾期。"
+
+msgid "Marked orders have overdue items."
+msgstr "選擇的訂單有逾期產品"
+
+msgid ""
+"Marked sales type is the company base pricelist for prices calculations."
+msgstr "標示的銷貨類型是價格表計算的基礎。"
+
+msgid "Material issues entry"
+msgstr "銷貨訂單(&O)"
+
+msgid "Max. delivery"
+msgstr "直接出貨(&D)"
+
+msgid "May"
+msgstr "5月"
+
+msgid "Memo"
+msgstr "備註"
+
+msgid "Memo:"
+msgstr "說明："
+
+msgid "Minimal software versions"
+msgstr "最低的軟體版本"
+
+msgid "Miscellaneous"
+msgstr "雜項"
+
+msgid "Missing %s translation file."
+msgstr "找不到 %s 翻譯檔案"
+
+msgid "Missing system locale: %s"
+msgstr "沒找到系統翻譯檔 %s"
+
+msgid "Mo"
+msgstr "一"
+
+msgid "Modify Bank Account Entry"
+msgstr "銀行付款"
+
+msgid "Modify Bank Deposit Entry"
+msgstr "銀行存款"
+
+msgid "Modify Purchase Order #"
+msgstr "修改採購單編號"
+
+msgid ""
+"Modify the ordered items on the purchase order if you wish to increase the "
+"quantities."
+msgstr "如您要增加數量，請修改採購發票中的訂單產品"
+
+msgid "Modifying Credit Invoice # %d."
+msgstr "正在修改貸方發票編號 %d "
+
+msgid "Modifying Customer Credit Note #%d"
+msgstr "修改客戶貸方傳票 #%d"
+
+msgid "Modifying Delivery Note # %d."
+msgstr "正在修改出貨單編號 %d 。"
+
+msgid "Modifying Journal Transaction # %d."
+msgstr "編輯交易日記 # %d"
+
+msgid "Modifying Sales Invoice # %d."
+msgstr "正在修改銷貨發票編號 %d 。"
+
+msgid "Modifying Sales Order # %d"
+msgstr "正在修改銷貨訂單編號 %d"
+
+msgid "Modifying Sales Quotation # %d"
+msgstr "正在修改銷貨發票編號 %d 。"
+
+msgid "Modules provided"
+msgstr "模組檔"
+
+msgid "Monthly"
+msgstr "每月"
+
+msgid "Monthly:"
+msgstr "按月："
+
+msgid "Months back."
+msgstr "幾個月回來。"
+
+msgid "Months."
+msgstr "月份"
+
+msgid "MySQL version"
+msgstr "版本"
+
+msgid "N/A"
+msgstr "不適用"
+
+msgid "NO INVOICING"
+msgstr "沒有開發中發票"
+
+msgid "Name"
+msgstr "名稱"
+
+msgid "Name (to appear on reports):"
+msgstr "名稱(出現在報告中)："
+
+msgid "Name and Address"
+msgstr "名稱與住址"
+
+msgid "Name and Contact"
+msgstr "聯繫電話"
+
+msgid "Name:"
+msgstr "名稱："
+
+msgid "Native gettext"
+msgstr "調整數量"
+
+msgid "Negative Adjustment"
+msgstr "調整數量"
+
+msgid "Net"
+msgstr "淨"
+
+msgid "Net Change"
+msgstr "修改密碼"
+
+msgid "Net Tax"
+msgstr "稅額"
+
+msgid "Net payable or collectible"
+msgstr "應付或應收淨值"
+
+msgid "New"
+msgstr "新增"
+
+msgid "New Company Logo (.jpg)"
+msgstr "新公司標誌 (.JPG)"
+
+msgid "New Sales Order Entry"
+msgstr "輸入新的銷售訂單"
+
+msgid "New Sales Quotation Entry"
+msgstr "輸入新的銷貨訂單"
+
+msgid "New account"
+msgstr "新增科目"
+
+msgid "New account class has been added"
+msgstr "新會計帳戶已新增"
+
+msgid "New account has been added."
+msgstr "新會計帳戶已新增"
+
+msgid "New account type has been added"
+msgstr "新科目類型已經新增"
+
+msgid "New alias code has been created."
+msgstr "新的代碼已經建立。"
+
+msgid "New bank account has been added"
+msgstr "銀行帳號已經新增"
+
+msgid "New company has been created."
+msgstr "新公司的資料庫已經建立完成"
+
+msgid "New component has been added to selected kit."
+msgstr "新元件已經加入選擇的組合。"
+
+msgid "New contact category has been added"
+msgstr "新的存貨類型記錄已更新"
+
+msgid "New credit status has been added"
+msgstr "新的往來狀況記錄已新增"
+
+msgid "New currency has been added"
+msgstr "貨幣已經新增"
+
+msgid "New customer"
+msgstr "新增客戶"
+
+msgid "New customer branch has been added"
+msgstr "新地區記錄已新增"
+
+msgid "New fiscal year has been added"
+msgstr "會計年度已經新增"
+
+msgid "New item"
+msgstr "新增產品"
+
+msgid "New item category has been added"
+msgstr "新的銷售類別記錄已新增"
+
+msgid "New item code has been added."
+msgstr "產品代碼已經新增。"
+
+msgid "New item tax type has been added"
+msgstr "新稅務記錄已加到資料庫"
+
+msgid "New kit"
+msgstr "新組合"
+
+msgid "New location has been added"
+msgstr "新地區記錄已新增"
+
+msgid "New movement type has been added"
+msgstr "新地區記錄已新增"
+
+msgid "New payment terms have been added"
+msgstr "付款條件已經新增"
+
+msgid "New point of sale has been added"
+msgstr "收銀機已經新增"
+
+msgid "New printer definition has been created"
+msgstr "新印表機定義已產生"
+
+msgid "New printing profile"
+msgstr "新增列印設定"
+
+msgid "New printing profile has been created"
+msgstr "新列印設定已經產生"
+
+msgid "New quick entry has been added"
+msgstr "快速輸入已經新增"
+
+msgid "New quick entry line has been added"
+msgstr "快速新增資料已經加入"
+
+msgid "New recurrent invoice has been added"
+msgstr "循環發票已經新增"
+
+msgid "New role"
+msgstr "新增科目"
+
+msgid "New sales area has been added"
+msgstr "新的銷售類別記錄已新增"
+
+msgid "New sales group has been added"
+msgstr "業務群組已經新增"
+
+msgid "New sales person data have been added"
+msgstr "新的銷售類別記錄已新增"
+
+msgid "New sales type has been added"
+msgstr "新的銷售類別記錄已新增"
+
+msgid "New script Admin Password"
+msgstr "新腳本的管理者密碼"
+
+msgid "New security role has been added."
+msgstr "會計年度已經新增"
+
+msgid "New shipping company has been added"
+msgstr "新地區記錄已新增"
+
+msgid "New supplier"
+msgstr "新增一個供應商"
+
+msgid "New tag has been added"
+msgstr "增加一個新的使用者"
+
+msgid "New tax group has been added"
+msgstr "新地區記錄已新增"
+
+msgid "New tax type has been added"
+msgstr "新地區記錄已新增"
+
+msgid "New unit has been added"
+msgstr "新價格已新增"
+
+msgid "New work center has been added"
+msgstr "工作中心已經新增"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Next Reference"
+msgstr "下一個參考資料"
+
+msgid "No"
+msgstr "否"
+
+msgid "No Account Group Filter"
+msgstr "沒有選取群組"
+
+msgid "No Category Filter"
+msgstr "稅別不存在"
+
+msgid "No Currency Filter"
+msgstr "供應商幣值"
+
+msgid "No Customer Filter"
+msgstr "年度客戶餘額"
+
+msgid "No Dimension Filter"
+msgstr "沒有輸入點算"
+
+msgid "No Graphics"
+msgstr "沒有開發中發票"
+
+msgid "No Location Filter"
+msgstr "發貸地區"
+
+msgid "No Quick Entries are defined."
+msgstr "沒有定義快速輸入。"
+
+msgid "No Quick Entry lines are defined."
+msgstr "沒有定義貨運商"
+
+msgid "No Revaluation was needed"
+msgstr "新地區記錄已新增"
+
+msgid "No Sales Folk Filter"
+msgstr "未設定銷售種類/價目表"
+
+msgid "No Supplier Filter"
+msgstr "年度供應商清單"
+
+msgid "No Type Filter"
+msgstr "貸方傳票類別"
+
+msgid "No Users Filter"
+msgstr "供應商幣值"
+
+msgid "No ack after report printout"
+msgstr "報表輸出後不需確認"
+
+msgid "No active tags defined."
+msgstr "沒有定義快速輸入。"
+
+msgid "No base price list"
+msgstr "沒有基礎價格表"
+
+msgid "No customer found for entered text."
+msgstr "輸入的文字找不到客戶。"
+
+msgid "No general ledger transactions have been created for"
+msgstr "沒有會計交易建立"
+
+msgid ""
+"No general ledger transactions have been created for the specified criteria."
+msgstr "沒有會計交易建立"
+
+msgid "No image"
+msgstr "沒有圖片"
+
+msgid "No key field '%s' in file '%s'"
+msgstr "沒有關鍵欄位%s的檔案%s"
+
+msgid "No payment Link"
+msgstr "付款方式不存在"
+
+msgid "No postings on GRN"
+msgstr "檢視這一筆已過帳的存款資料"
+
+msgid "No records"
+msgstr "沒有資料"
+
+msgid "No recurrent invoices are due."
+msgstr "沒有過期的循環發票"
+
+msgid "No tags defined."
+msgstr "沒有定義快速輸入。"
+
+msgid "No zero values"
+msgstr "非零值"
+
+msgid "Non-standard theme directory '%s' is not writable"
+msgstr "非標準的佈局目錄“%s'不是可以寫入的"
+
+msgid "None"
+msgstr "無"
+
+msgid "Not removed"
+msgstr "輸入的總額不是數值"
+
+msgid "Notes:"
+msgstr "一般傳票："
+
+msgid "Nov"
+msgstr "否"
+
+msgid "November"
+msgstr "11月"
+
+msgid "Number"
+msgstr "數字"
+
+msgid "Oct"
+msgstr "10月"
+
+msgid "October"
+msgstr "10月"
+
+msgid "Official Company Number:"
+msgstr "統一編號："
+
+msgid "Ok"
+msgstr "發票OK"
+
+msgid "On Hand"
+msgstr "在手上"
+
+msgid "On Order"
+msgstr "排序"
+
+msgid "On/off set of features"
+msgstr "沒有設置"
+
+msgid "Only Open:"
+msgstr "只有打開："
+
+msgid "Only Overdue:"
+msgstr "有愈期："
+
+msgid "Only Shortage"
+msgstr "只顯示缺少的部份"
+
+msgid "Only balances"
+msgstr "只顯示餘額"
+
+msgid "Only documents can be printed."
+msgstr "只可以上載圖片檔"
+
+msgid ""
+"Only graphics files are supported - a file extension of .jpg, .png or .gif "
+"is expected"
+msgstr "只支援 JPG 檔案 - 請輸入一個 .jpg 副名的檔案"
+
+msgid "Only graphics files can be uploaded"
+msgstr "只有圖檔被更新"
+
+msgid ""
+"Only jpg and png files are supported - a file extension of .jpg or .png is "
+"expected"
+msgstr "只支援 JPG 檔案 - 請輸入一個 .jpg 為副名的檔案"
+
+msgid "Open Balance"
+msgstr "期初餘額"
+
+msgid ""
+"OpenSSL PHP extension have to be enabled to use extension repository system."
+msgstr "OpenSSL的PHP擴展必須以使用擴展存儲庫系統。"
+
+msgid ""
+"OpenSSL have to be available on your server to use extension repository "
+"system."
+msgstr "OpenSSL必須是可用的服務器使用擴展存儲庫系統。"
+
+msgid "Opening"
+msgstr "期初餘額"
+
+msgid "Opening Balance"
+msgstr "期初餘額"
+
+msgid "Optional"
+msgstr "可選：在prefix_的形式"
+
+msgid "Options provided"
+msgstr "基本資料匯出"
+
+msgid "Ord Date"
+msgstr "訂單日期"
+
+msgid "Order"
+msgstr "訂單"
+
+msgid "Order #"
+msgstr "訂單"
+
+msgid "Order # %d has been entered."
+msgstr "訂單編號 %d 已經輸入。"
+
+msgid "Order # %d has been updated."
+msgstr "訂單編號 %d 已經更新。"
+
+msgid "Order Comments"
+msgstr "排序"
+
+msgid "Order Currency"
+msgstr "訂單貨幣"
+
+msgid "Order Date"
+msgstr "訂單日期"
+
+msgid "Order Date:"
+msgstr "訂單日期："
+
+msgid "Order Delivery Details"
+msgstr "訂單遞送詳細資料"
+
+msgid "Order Information"
+msgstr "輸入資料"
+
+msgid "Order Items"
+msgstr "訂單產品"
+
+msgid "Order No."
+msgstr "訂單編號"
+
+msgid "Order Status Listing"
+msgstr "訂單狀況清單"
+
+msgid "Order To"
+msgstr "（付款品項資料）併入銷貨訂單："
+
+msgid "Order Total"
+msgstr "訂單總計"
+
+msgid "Ordered"
+msgstr "已訂"
+
+msgid "Ordered On"
+msgstr "訂單于"
+
+msgid "Orientation"
+msgstr "全部地點"
+
+msgid "Other"
+msgstr "其他配置"
+
+msgid "Other Allocations"
+msgstr "其他配置"
+
+msgid "Our Customer No:"
+msgstr "我們的客戶編號："
+
+msgid "Our Order No"
+msgstr "我司訂單編號"
+
+msgid "Our Quotation No"
+msgstr "我們的客戶編號："
+
+msgid "Our VAT No."
+msgstr "我們加值稅編號"
+
+msgid "Output Tax"
+msgstr "輸出稅"
+
+msgid "Outputs"
+msgstr "總輸出"
+
+msgid "Outstanding"
+msgstr "未處理"
+
+msgid "Outstanding &GRNs Report"
+msgstr "未完成驗收單報表(&G)"
+
+msgid "Outstanding GRNs Report"
+msgstr "未完成產品收取通知報表"
+
+msgid "Outstanding Transactions"
+msgstr "未完成的交易"
+
+msgid "Over"
+msgstr "超過"
+
+msgid "Overdue Credit Notes"
+msgstr "貸方傳票由"
+
+msgid "Overdue Invoices"
+msgstr "過期發票"
+
+msgid "Overhead Cost"
+msgstr "間接成本"
+
+msgid "P&rint as Packing Slip"
+msgstr "列印包裝紙"
+
+msgid "P.O."
+msgstr "採購單"
+
+msgid "PACKING SLIP"
+msgstr "包裝紙"
+
+msgid "PC"
+msgstr "現金分配到零用金標籤"
+
+msgid "PDF/Printer"
+msgstr "列印PDF"
+
+msgid "PHP MySQL extension"
+msgstr "版本"
+
+msgid "PHP version"
+msgstr "版本"
+
+msgid "PI"
+msgstr "PI"
+
+msgid "PO"
+msgstr "採購單"
+
+msgid "PO No"
+msgstr "電話："
+
+msgid "PO Price"
+msgstr "價格表"
+
+msgid "POS Name"
+msgstr "收銀機名稱"
+
+msgid "POS location"
+msgstr "收銀機地點"
+
+msgid "POS settings"
+msgstr "收銀機設定"
+
+msgid "PURCHASE ORDER"
+msgstr "採購訂單"
+
+msgid "Pa&yment Terms"
+msgstr "付款條件(&y)"
+
+msgid "Package '%s' not found."
+msgstr "找不到 %s 檔"
+
+msgid "Package Details"
+msgstr "列資料"
+
+msgid "Package content"
+msgstr "標籤/包裝"
+
+msgid "Package maintainer"
+msgstr "標籤/包裝"
+
+msgid "Package type"
+msgstr "交易類型："
+
+msgid "Page"
+msgstr "頁"
+
+msgid "Page Size:"
+msgstr "紙張大小："
+
+msgid "Paid on purchases"
+msgstr "採購付款金額"
+
+msgid "Parent Item"
+msgstr "產品編號"
+
+msgid "Part"
+msgstr "零件"
+
+msgid "Partially installed (%s)"
+msgstr "部分安裝(%s)"
+
+msgid "Password cannot be changed in demo mode."
+msgstr "密碼不能在演示模式下進行更改。"
+
+msgid "Password changes"
+msgstr "儲存修改"
+
+msgid "Password:"
+msgstr "密碼："
+
+msgid "Past Due Days Interval:"
+msgstr "過去到期日間隔："
+
+msgid "Pay"
+msgstr "付給"
+
+msgid "Pay To"
+msgstr "付給"
+
+msgid "Pay To:"
+msgstr "收款人："
+
+msgid "Payable Account:"
+msgstr "應付科目："
+
+msgid "Payment"
+msgstr "付款"
+
+msgid "Payment %d has been entered"
+msgstr "付款 %d 已輸入"
+
+msgid "Payment %d has been modified"
+msgstr "付款 %d 已修改"
+
+msgid "Payment Currency"
+msgstr "本地貨幣"
+
+msgid "Payment Items"
+msgstr "付款產品"
+
+msgid "Payment Link"
+msgstr "此連結"
+
+msgid "Payment Report"
+msgstr "付款走向報表"
+
+msgid "Payment Terms"
+msgstr "付款條件"
+
+msgid "Payment Terms:"
+msgstr "付款條件"
+
+msgid "Payment To:"
+msgstr "輸入付款到供應商"
+
+msgid "Payment Type"
+msgstr "付款類別"
+
+msgid "Payment has been sucessfully entered"
+msgstr "已完成輸入資料庫"
+
+msgid "Payment terms"
+msgstr "付款條件"
+
+msgid "Payment terms:"
+msgstr "付款條件"
+
+msgid "Payment to Supplier"
+msgstr "輸入付款到供應商"
+
+msgid "Payment type:"
+msgstr "付款類別"
+
+msgid "Payment:"
+msgstr "付款："
+
+msgid "Payments"
+msgstr "付款"
+
+msgid "Percentages:"
+msgstr "百分比："
+
+msgid "Period"
+msgstr "期間"
+
+msgid "Period Y-1"
+msgstr "期間"
+
+msgid "Periods"
+msgstr "稅期："
+
+msgid "Person/Item"
+msgstr "人/產品"
+
+msgid "Person/Item/Memo"
+msgstr "受控產品的貸方"
+
+msgid "Ph"
+msgstr "電話"
+
+msgid "Phone"
+msgstr "電話"
+
+msgid "Phone No"
+msgstr "電話"
+
+msgid "Phone Number"
+msgstr "電話"
+
+msgid "Phone Number:"
+msgstr "電話："
+
+msgid "Phone number of ordering person. Defaults to branch phone number"
+msgstr "採購人員電話，預設是分公司電話"
+
+msgid "Phone:"
+msgstr "電話"
+
+msgid "Physical Address"
+msgstr "實體地址："
+
+msgid "Physical Address:"
+msgstr "實體地址："
+
+msgid "Pie"
+msgstr "圓餅圖"
+
+msgid "Place Delivery"
+msgstr "安排運送"
+
+msgid "Place Invoice"
+msgstr "發票總額"
+
+msgid "Place Order"
+msgstr "落單"
+
+msgid "Place Quotation"
+msgstr "建立報價單"
+
+msgid "Please contact System Administrator."
+msgstr "請連絡系統管理員"
+
+msgid "Please contact your system administrator."
+msgstr "請連絡您的系統管理員。"
+
+msgid "Please login here"
+msgstr "請在此登入"
+
+msgid "Please quote Credit no. when paying. All amounts stated in"
+msgstr "在註明外，支付時請註明票據號碼、金額。"
+
+msgid "Please quote Invoice no. when paying. All amounts stated in"
+msgstr "在註明外，支付時，請報發票號碼、金額"
+
+msgid ""
+"Please remove $security_groups and $security_headings arrays from config.php "
+"file!"
+msgstr "請從config.php檔案中刪除$ security_groups和security_headings陣列！"
+
+msgid "Please reorder"
+msgstr "請記錄"
+
+msgid ""
+"Please select an account to write the cost of the stock off to, then click "
+"on Process again."
+msgstr "請選擇一個科目來核銷庫存成本，然後再次點選處理。"
+
+msgid "Point of Sale Name"
+msgstr "收銀機名稱"
+
+msgid "Point of sales definitions"
+msgstr "客戶及銷貨"
+
+msgid "Port"
+msgstr "連接埠"
+
+msgid "Portrait"
+msgstr "列印"
+
+msgid "Positive Adjustment"
+msgstr "調整數量"
+
+msgid "Post"
+msgstr "過帳"
+
+msgid "Posted"
+msgstr "已過帳"
+
+msgid "Preferences"
+msgstr "公司設定"
+
+msgid "Prepayment"
+msgstr "付款"
+
+msgid "Press Space tab for search pattern entry"
+msgstr "輸入空白鍵來搜尋樣式"
+
+msgid "Press Space tab to filter by name fragment"
+msgstr "按空白鍵選項對名稱片段來篩選"
+
+msgid "Press Space tab to filter by name fragment; F2 - entry new customer"
+msgstr "按空白鍵選項對名稱片段來篩選; F2 - 輸入新客戶"
+
+msgid "Prev"
+msgstr "上一個"
+
+msgid "Price"
+msgstr "價格"
+
+msgid "Price %s is below Standard Cost %s"
+msgstr "價格 %s 低於標準成本 %s"
+
+msgid "Price List"
+msgstr "價格表"
+
+msgid "Price List:"
+msgstr "價格表"
+
+msgid "Price Listing"
+msgstr "列出價格"
+
+msgid "Price after Tax"
+msgstr "稅期持續："
+
+msgid "Price before Tax"
+msgstr "稅期持續："
+
+msgid "Price for inventory item must be entered and can not be less than 0"
+msgstr "輸入的價格必須是數字。"
+
+msgid "Price/Turnover"
+msgstr "價格表"
+
+msgid "Price:"
+msgstr "價格："
+
+msgid "Prices contain tax included:"
+msgstr "含稅"
+
+msgid "Prices/Amounts:"
+msgstr "價格/金額："
+
+msgid "Pricing and Costs"
+msgstr "報價及成本"
+
+msgid "Print"
+msgstr "列印"
+
+msgid "Print &Credit Notes"
+msgstr "列印發票或貸方傳票(&I)"
+
+msgid "Print &Deliveries"
+msgstr "列印出貨單(&D)"
+
+msgid "Print &Invoices"
+msgstr "列印發票或貸方傳票(&I)"
+
+msgid "Print &Receipt"
+msgstr "列印設定(&P)"
+
+msgid "Print &Statements"
+msgstr "列印結單(&S)"
+
+msgid "Print &Work Orders"
+msgstr "目前工作單(&O)"
+
+msgid "Print Out Date"
+msgstr "在日期範圍"
+
+msgid "Print Purchase &Orders"
+msgstr "列印採購單(&O)"
+
+msgid "Print Receipt"
+msgstr "列印收據"
+
+msgid "Print Receipts"
+msgstr "列印設定(&P)"
+
+msgid "Print Remittance"
+msgstr "列印設定(&P)"
+
+msgid "Print Remittances"
+msgstr "列印設定(&P)"
+
+msgid "Print as Packing Slip"
+msgstr "列印包裝紙錯誤"
+
+msgid "Print as Quote"
+msgstr "列印這訂單為副本"
+
+msgid "Print control file not accepted"
+msgstr "列印控制檔案不被接受"
+
+msgid "Print profiles"
+msgstr "列印設定(&P)"
+
+msgid "Print the GL Journal Entries for this Work Order"
+msgstr "列印這個工作單的帳務資料"
+
+msgid "Printer"
+msgstr "印表機"
+
+msgid "Printer Description"
+msgstr "印表機說明"
+
+msgid "Printer Locations"
+msgstr "全部庫存"
+
+msgid "Printer Name"
+msgstr "印表機名稱"
+
+msgid "Printer Queue"
+msgstr "印表機佇列"
+
+msgid "Printer does not acept the job"
+msgstr "印表機無法接受工作"
+
+msgid "Printer name cannot be empty."
+msgstr "會計科目代碼不能空白。"
+
+msgid "Printers configuration"
+msgstr "設定檔"
+
+msgid "Printing Profile Name"
+msgstr "列印設定名稱"
+
+msgid "Printing Profiles"
+msgstr "列印設定"
+
+msgid "Printing profile"
+msgstr "列印中"
+
+msgid "Printing profile has been updated"
+msgstr "列印設定已經更新"
+
+msgid "Printing profile name cannot be empty."
+msgstr "列印設定名稱不能空白。"
+
+msgid "Proceed"
+msgstr "處理"
+
+msgid "Process"
+msgstr "處理"
+
+msgid "Process Accruals"
+msgstr "處理付款"
+
+msgid "Process Additional Cost"
+msgstr "處理其他成本"
+
+msgid "Process Adjustment"
+msgstr "處理調整"
+
+msgid "Process And Close Order"
+msgstr "處理後關閉訂單"
+
+msgid "Process Credit Note"
+msgstr "處理貸方傳票"
+
+msgid "Process Deposit"
+msgstr "存入處理"
+
+msgid "Process Dispatch"
+msgstr "這派送"
+
+msgid "Process GRN"
+msgstr "處理付款"
+
+msgid "Process Invoice"
+msgstr "處理發票"
+
+msgid "Process Issue"
+msgstr "處理發放"
+
+msgid "Process Journal Entry"
+msgstr "處理日記帳輸入"
+
+msgid "Process Payment"
+msgstr "處理付款"
+
+msgid "Process Receive Items"
+msgstr "接收受控產品"
+
+msgid "Process Transfer"
+msgstr "處理轉帳"
+
+msgid "Process allocations"
+msgstr "處理配置"
+
+msgid "Process journal entry only if debits equal to credits"
+msgstr "只有在借貸平衡時處理日記帳資料"
+
+msgid "Produce"
+msgstr "產生"
+
+msgid "Produce Finished Items"
+msgstr "完成確認物品"
+
+msgid "Produce or Unassemble Finished Items From Work Order"
+msgstr "從工作單中生產或是未分配完成產品"
+
+msgid "Produced"
+msgstr "產生"
+
+msgid "Production #"
+msgstr "產品編號"
+
+msgid "Production."
+msgstr "產品編號"
+
+msgid "Productions"
+msgstr "產品"
+
+msgid "Profit & Loss Drilldown"
+msgstr "損益表"
+
+msgid "Profit and Loss Statement"
+msgstr "損益表"
+
+msgid "Profit/Loss Year:"
+msgstr "損益表"
+
+msgid "Prompt Payment Discount Account:"
+msgstr "付款折扣科目："
+
+msgid "Prompt Payment Discount Percent:"
+msgstr "付款折扣："
+
+msgid "Property"
+msgstr "屬性"
+
+msgid "Provision"
+msgstr "版本"
+
+msgid "Purchase &Order Entry"
+msgstr "採購單(&O)"
+
+msgid "Purchase &Orders"
+msgstr "採購單查詢(&I)"
+
+msgid "Purchase Account:"
+msgstr "二級科目"
+
+msgid "Purchase Discount Account:"
+msgstr "採購折扣科目："
+
+msgid "Purchase Order"
+msgstr "採購訂單"
+
+msgid "Purchase Order Delivery"
+msgstr "訂單交貨資料"
+
+msgid "Purchase Order Delivery has been processed"
+msgstr "採購訂單出貨已經處理"
+
+msgid "Purchase Order Entry"
+msgstr "採購訂單輸入"
+
+msgid "Purchase Order No."
+msgstr "訂單編號"
+
+msgid "Purchase Order has been entered"
+msgstr "這工作單已更新"
+
+msgid "Purchase Order has been updated"
+msgstr "這工作單已更新"
+
+msgid "Purchase Orders &Inquiry"
+msgstr "採購單查詢(&I)"
+
+msgid "Purchase analytics"
+msgstr "採購科目："
+
+msgid "Purchase configuration"
+msgstr "設定檔"
+
+msgid "Purchase order entry"
+msgstr "採購單(&O)"
+
+msgid "Purchase price changes"
+msgstr "送出訂單異動"
+
+msgid "Purchase receive"
+msgstr "用這訂單接收產品"
+
+msgid "Purchase transactions"
+msgstr "客戶交易"
+
+msgid "Purchased"
+msgstr "採購"
+
+msgid "Purchasing"
+msgstr "採購"
+
+msgid "Purchasing &Pricing"
+msgstr "採購價格(&P)"
+
+msgid "Purchasing GL Account"
+msgstr "採購會計科目"
+
+msgid "Purchasing GL Account:"
+msgstr "採購會計科目："
+
+msgid "QOH"
+msgstr "在手上數量"
+
+msgid "QUOTE"
+msgstr "列印報價"
+
+msgid "Qty"
+msgstr "已接收數量"
+
+msgid "Qty Recd"
+msgstr "已接收數量"
+
+msgid "Qty Yet To Credit"
+msgstr "信用交易數量"
+
+msgid "Qty Yet To Invoice"
+msgstr "未開發票數量"
+
+msgid "Quantities:"
+msgstr "數量："
+
+msgid "Quantity"
+msgstr "數量"
+
+msgid "Quantity Delivered"
+msgstr "一次交貨"
+
+msgid "Quantity In"
+msgstr "收貨數量"
+
+msgid "Quantity Invoiced"
+msgstr "列產品的已開發票數量"
+
+msgid "Quantity Manufactured"
+msgstr "生產產品"
+
+msgid "Quantity Manufactured:"
+msgstr "生產數量："
+
+msgid "Quantity On Hand"
+msgstr "現有庫存量"
+
+msgid "Quantity Out"
+msgstr "出貨數量"
+
+msgid "Quantity Received"
+msgstr "已接收數量"
+
+msgid "Quantity Required"
+msgstr "需求數量"
+
+msgid "Quantity Required:"
+msgstr "需求數量："
+
+msgid "Quantity on hand after"
+msgstr "調貨後數量"
+
+msgid "Quantity on hand before"
+msgstr "調貨前數量"
+
+msgid "Quantity:"
+msgstr "數量："
+
+msgid "Quarterly"
+msgstr "每季"
+
+msgid "Query page size:"
+msgstr "紙張大小："
+
+msgid "Query size must be integer and greater than zero."
+msgstr "查詢大小必須是數字且大於零。"
+
+msgid "Quick Entries"
+msgstr "快速輸入"
+
+msgid "Quick Entry"
+msgstr "快速輸入"
+
+msgid "Quick Entry Lines"
+msgstr "快速輸入資料"
+
+msgid "Quick Entry:"
+msgstr "快速輸入："
+
+msgid "Quick GL entry definitions"
+msgstr "結算所有會計資料欄位"
+
+msgid "Quick production."
+msgstr "快速輸入(&Q)"
+
+msgid "Quotation # %d has been entered."
+msgstr "報價單 # %d 已經輸入"
+
+msgid "Quotation # %d has been updated."
+msgstr "報價單 # %d 已經更新"
+
+msgid "Quotation Date:"
+msgstr "報價單日期："
+
+msgid "Quotation Delivery Details"
+msgstr "報價單配送詳細資料"
+
+msgid "Quotation No."
+msgstr "電話："
+
+msgid "Quote #"
+msgstr "報價單號"
+
+msgid "Quote Date"
+msgstr "報價日期"
+
+msgid "Quote Total"
+msgstr "報價總計"
+
+msgid "RB"
+msgstr "RB"
+
+msgid "RECEIPT"
+msgstr "收款"
+
+msgid "REMITTANCE"
+msgstr "匯款通知列印--錯誤"
+
+msgid "Rate"
+msgstr "換率"
+
+msgid "Re-Order Level"
+msgstr "再下次訂單層級"
+
+msgid "Re-Read the updated purchase order for receiving goods against"
+msgstr "重讀要收貨採購訂單更新"
+
+msgid "Re-open This Dimension"
+msgstr "範圍被關閉。"
+
+msgid "Receipt No."
+msgstr "電話："
+
+msgid "Receivable Account:"
+msgstr "應收科目："
+
+msgid "Receive"
+msgstr "接收"
+
+msgid "Receive Into:"
+msgstr "接收到"
+
+msgid "Receive Purchase Order Items"
+msgstr "用這訂單接收產品"
+
+msgid "Received"
+msgstr "已接收"
+
+msgid "Received / Sign"
+msgstr "已接收數量"
+
+msgid "Received Items Charged on this Invoice"
+msgstr "驗收產品透過這張發票請款"
+
+msgid "Received Items Credited on this Note"
+msgstr "驗收產品透過這張傳票轉信用交易"
+
+msgid "Received On"
+msgstr "在手上"
+
+msgid "Received between"
+msgstr "驗收日期介於"
+
+msgid "Recommended"
+msgstr "已接收"
+
+msgid "Reconcile"
+msgstr "調整"
+
+msgid "Reconcile Bank Account"
+msgstr "調整銀行帳號"
+
+msgid "Reconcile Date"
+msgstr "調整日期"
+
+msgid "Reconcile this transaction"
+msgstr "調整這個交易"
+
+msgid "Reconciled<br>Amount"
+msgstr "調整金額"
+
+msgid "Records %d-%d of %d"
+msgstr "資料 %d-%d of %d"
+
+msgid "Recurrent &Invoices"
+msgstr "循環發票(&I)"
+
+msgid "Recurrent Invoice covers period %s - %s."
+msgstr "經常性的發票會計區間 %s-%s"
+
+msgid "Recurrent Invoices"
+msgstr "循環發票"
+
+msgid "Recurrent invoices definitions"
+msgstr "建立與列印循環發票(&C)"
+
+msgid "Ref"
+msgstr "摘要"
+
+msgid "Reference"
+msgstr "參考"
+
+msgid "Reference number unique for this document type"
+msgstr "這個文件類型的唯一參考編號"
+
+msgid "Reference:"
+msgstr "參考值："
+
+msgid "Refresh"
+msgstr "刷新查詢"
+
+msgid "Refresh Inquiry"
+msgstr "更新查詢"
+
+msgid "Refresh document page"
+msgstr "頁分隔於(之後)"
+
+msgid "Release"
+msgstr "發佈"
+
+msgid "Release Work Order"
+msgstr "發佈工作單"
+
+msgid "Release file in repository is invalid, or public key is outdated."
+msgstr "在資源庫中發布的文件是無效的，或公鑰已經過時。"
+
+msgid "Released Date"
+msgstr "發佈日期"
+
+msgid "Released On:"
+msgstr "發出於"
+
+msgid "Released."
+msgstr "發出於"
+
+msgid "Remainder"
+msgstr "提醒"
+
+msgid "Remember last document date:"
+msgstr "無效的最後支付的日期"
+
+msgid "Remittance No."
+msgstr "電話："
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Remove line from document"
+msgstr "從文件移除資料"
+
+msgid "Remove line from journal"
+msgstr "從日記簿移除資料"
+
+msgid "Remove or rename install wizard folder for security reasons."
+msgstr "刪除或重命名的安裝精靈文件夾出於安全原因。"
+
+msgid "Removed install wizard folder"
+msgstr "刪除安裝文件夾精靈"
+
+msgid "Reorder Levels"
+msgstr "記錄層級"
+
+msgid "Reorder levels"
+msgstr "安全存量(&R)"
+
+msgid "Reorder levels has been updated."
+msgstr "您的密碼已經更新"
+
+msgid "Repeat password:"
+msgstr "再次輸入密碼："
+
+msgid "Report Classes:"
+msgstr "報表類型："
+
+msgid "Report Date"
+msgstr "上傳日期"
+
+msgid "Report Id"
+msgstr "報表編號"
+
+msgid "Report Period"
+msgstr "本期"
+
+msgid "Report has been sent to network printer "
+msgstr "報表已經送到網路印表機"
+
+msgid "Reports For Class: "
+msgstr "指定類型報表："
+
+msgid "Reports and Analysis"
+msgstr "銷售分析報表"
+
+msgid "Repository version does not match application version."
+msgstr "資源庫版本與應用程序版本不一致。"
+
+msgid "Request from outside of this page is forbidden."
+msgstr "本頁面禁止來自外部的要求"
+
+msgid "Requested By"
+msgstr "簽署人"
+
+msgid "Requested Delivery"
+msgstr "要求交貨"
+
+msgid "Requesting data..."
+msgstr "數據輸出"
+
+msgid "Required"
+msgstr "必需"
+
+msgid "Required "
+msgstr "必須"
+
+msgid "Required By"
+msgstr "必需 -"
+
+msgid "Required Delivery Date"
+msgstr "要求交貨日期"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Restore Backup"
+msgstr "還原備份"
+
+msgid "Restore backup completed."
+msgstr "還原備份完成"
+
+msgid "Restricted access"
+msgstr "不可修改"
+
+msgid "Retained Earnings:"
+msgstr "未分配利潤控制帳戶款項無法輸入。帳戶自動維持。"
+
+msgid "Return Items to Location"
+msgstr "貨品退回地區"
+
+msgid "Return Items to Work Order"
+msgstr "回覆產品到工作單"
+
+msgid "Return to Journal &Inquiry"
+msgstr "產品退回地區"
+
+msgid "Revaluate Currencies"
+msgstr "貨幣"
+
+msgid "Revaluation of Currency Accounts"
+msgstr "設定使用者帳號(&U)"
+
+msgid "Revenue / &Costs Accruals"
+msgstr "報價及成本"
+
+msgid "Revenue / Cost Account"
+msgstr "匯差科目："
+
+msgid "Revenue / Cost Accruals"
+msgstr "處理其他成本"
+
+msgid "Revenue / Cost Accruals have been processed."
+msgstr "存貨交易已被處理"
+
+msgid "Reverse Transaction:"
+msgstr "交易總數"
+
+msgid "Reversed the issue of"
+msgstr "處理發放"
+
+msgid "Reversed the issue to"
+msgstr "發出產品"
+
+msgid "Reversed the production "
+msgstr "輸入工作單"
+
+msgid "Right To Left"
+msgstr "右到左"
+
+msgid "Right to left"
+msgstr "右到左"
+
+msgid "Role description cannot be empty."
+msgstr "地區說明不能空白。"
+
+msgid "Role description:"
+msgstr "期間說明："
+
+msgid "Role name cannot be empty."
+msgstr "印表機名稱不能空白。"
+
+msgid "Role name:"
+msgstr "帳號"
+
+msgid "Role:"
+msgstr "使用者身份/角色"
+
+msgid "Round to nearest:"
+msgstr "右到左"
+
+msgid "Rounding error %s encountered for trans_type:%s,trans_no:%s"
+msgstr "捨入誤差%s的交易型態遇到：%s，交易編號：%s"
+
+msgid "Rows"
+msgstr "行"
+
+msgid "S&ales Pricing"
+msgstr "銷貨價格(&P)"
+
+msgid "S&etup"
+msgstr "設定(&S)"
+
+msgid "SALES INVOICE #%d"
+msgstr "銷售發票 #%d"
+
+msgid "SALES ORDER"
+msgstr "輸入銷貨訂單"
+
+msgid "SALES QUOTATION"
+msgstr "銷貨科目："
+
+msgid "SI"
+msgstr "SI"
+
+msgid "SO"
+msgstr "沒有結果，所以這PDF檔案是空白"
+
+msgid "SP"
+msgstr "SP"
+
+msgid "SQ"
+msgstr "SQ"
+
+msgid "SQL script execution failed in line %d: %s"
+msgstr "在 %d SQL 執行失敗： %s"
+
+msgid "STATEMENT"
+msgstr "結單"
+
+msgid "SUPPLIER CREDIT NOTE"
+msgstr "供應商貸方傳票"
+
+msgid "SUPPLIER INVOICE"
+msgstr "供應商發票"
+
+msgid "Sa"
+msgstr "六"
+
+msgid "Sales"
+msgstr "銷售"
+
+msgid "Sales &Areas"
+msgstr "業務區(&A)"
+
+msgid "Sales &Groups"
+msgstr "業務群組(&G)"
+
+msgid "Sales &Kits"
+msgstr "銷貨組合(&K)"
+
+msgid "Sales &Order Entry"
+msgstr "銷貨訂單(&O)"
+
+msgid "Sales &Orders"
+msgstr "銷貨訂單"
+
+msgid "Sales &Persons"
+msgstr "業務人員(&P)"
+
+msgid "Sales &Pricing"
+msgstr "銷貨價格(&P)"
+
+msgid "Sales &Quotation Entry"
+msgstr "銷貨訂單(&O)"
+
+msgid "Sales &Summary Report"
+msgstr "銷貨分析報表"
+
+msgid "Sales Account:"
+msgstr "銷售科目："
+
+msgid "Sales Act"
+msgstr "銷貨科目："
+
+msgid "Sales Area:"
+msgstr "業務區"
+
+msgid "Sales Areas"
+msgstr "銷售地區"
+
+msgid "Sales Discount Account:"
+msgstr "銷貨折扣科目："
+
+msgid "Sales Folk"
+msgstr "(的)銷售團"
+
+msgid "Sales GL Account"
+msgstr "銷貨會計科目"
+
+msgid "Sales GL Account:"
+msgstr "銷貨會計科目："
+
+msgid "Sales Group:"
+msgstr "業務群組："
+
+msgid "Sales Groups"
+msgstr "業務群組"
+
+msgid "Sales Invoice"
+msgstr "銷貨發票"
+
+msgid "Sales Invoice # %d has been updated."
+msgstr "銷貨發票編號　%d 已經更新。"
+
+msgid "Sales Invoice Items"
+msgstr "可以銷售 0 成本產品"
+
+msgid "Sales Invoices"
+msgstr "銷售發票"
+
+msgid "Sales Kits"
+msgstr "銷貨組合"
+
+msgid "Sales Kits & Alias Codes"
+msgstr "銷貨組合與代號"
+
+msgid "Sales Order"
+msgstr "輸入銷貨訂單"
+
+msgid "Sales Order #%d"
+msgstr "銷售訂單 #%d"
+
+msgid "Sales Order &Inquiry"
+msgstr "銷貨訂單查詢(&I)"
+
+msgid "Sales Order Entry"
+msgstr "銷貨訂單(&O)"
+
+msgid "Sales Order Items"
+msgstr "修改訂單產品"
+
+msgid "Sales Person"
+msgstr "業務員"
+
+msgid "Sales Person:"
+msgstr "業務員"
+
+msgid "Sales Persons"
+msgstr "銷售人員"
+
+msgid "Sales Quotation"
+msgstr "銷貨科目："
+
+msgid "Sales Quotation #%d"
+msgstr "銷售報價單 #%d"
+
+msgid "Sales Quotation I&nquiry"
+msgstr "客戶及銷貨"
+
+msgid "Sales Quotation Items"
+msgstr "銷售報價單品項"
+
+msgid "Sales Summary Report"
+msgstr "銷貨分析報表"
+
+msgid "Sales T&ypes"
+msgstr "銷貨類別(&y)"
+
+msgid "Sales Type"
+msgstr "銷貨類型"
+
+msgid "Sales Type Name"
+msgstr "銷售類別名稱"
+
+msgid "Sales Type/Price List:"
+msgstr "銷售類別/價格表："
+
+msgid "Sales Type:"
+msgstr "銷貨類型："
+
+msgid "Sales Types"
+msgstr "銷售類別"
+
+msgid "Sales analytical reports"
+msgstr "客戶與銷貨報表(&R)"
+
+msgid "Sales areas maintenance"
+msgstr "維護備份程式"
+
+msgid "Sales configuration"
+msgstr "設定檔"
+
+msgid "Sales credit notes against invoice"
+msgstr "這個貸方通知書已清空。"
+
+msgid "Sales customer and branches changes"
+msgstr "客戶分公司代號"
+
+msgid "Sales deliveries edition"
+msgstr "出貨連絡人："
+
+msgid "Sales document bulk reports"
+msgstr "客戶與銷貨報表(&R )"
+
+msgid "Sales freehand credit notes"
+msgstr "列印發票或貸方傳票(&I)"
+
+msgid "Sales groups changes"
+msgstr "送出訂單異動"
+
+msgid "Sales invoices edition"
+msgstr "客戶及銷貨"
+
+msgid "Sales kits"
+msgstr "銷貨組合(&K)"
+
+msgid "Sales orders edition"
+msgstr "列印銷貨訂單(&P)"
+
+msgid "Sales person name:"
+msgstr "銷售類別名稱"
+
+msgid "Sales prices edition"
+msgstr "存貨的銷貨價格"
+
+msgid "Sales prices listing"
+msgstr "存貨的銷貨價格"
+
+msgid "Sales quotations"
+msgstr "銷貨科目："
+
+msgid "Sales related reports"
+msgstr "客戶與銷貨報表(&R)"
+
+msgid "Sales staff listing"
+msgstr "列出客戶資料"
+
+msgid "Sales staff maintenance"
+msgstr "維護備份程式"
+
+msgid "Sales templates"
+msgstr "銷貨科目："
+
+msgid "Sales transactions"
+msgstr "客戶交易"
+
+msgid "Sales transactions view"
+msgstr "檢視業務派送"
+
+msgid "Sales types"
+msgstr "銷貨類別"
+
+msgid "Salesman"
+msgstr "業務員"
+
+msgid "Salesman Listing"
+msgstr "列出付款"
+
+msgid "Salesman provision breakpoint must be numeric and not less than 0."
+msgstr "業務員佣金跳級門檻必須是數字且大於 0"
+
+msgid "Salesman provision cannot be less than 0 or more than 100%."
+msgstr "業務員佣金不能小於 0 或是大於 100%"
+
+msgid "Save"
+msgstr "儲存"
+
+msgid "Save Role"
+msgstr "沒有更改到資料庫"
+
+msgid "Save changes to dimension"
+msgstr "沒有更改到資料庫"
+
+msgid "Save changes to work order"
+msgstr "發放物料到工作單"
+
+msgid "Save database and perform upgrade"
+msgstr "儲存資料庫後執行升級"
+
+msgid "Savings Account"
+msgstr "存款科目"
+
+msgid "Search"
+msgstr "尋找"
+
+msgid "Search All Deliveries"
+msgstr "搜尋所有銷售訂單"
+
+msgid "Search All Sales Orders"
+msgstr "搜尋所有銷售訂單"
+
+msgid "Search All Sales Quotations"
+msgstr "搜尋所有銷貨報價單"
+
+msgid "Search Amount"
+msgstr "基礎金額"
+
+msgid "Search Customer List"
+msgstr "搜尋客戶清單"
+
+msgid "Search Dimensions"
+msgstr "尋找範圍"
+
+msgid "Search General Ledger Transactions for account: "
+msgstr "沒有會計交易建立"
+
+msgid "Search Item List"
+msgstr "搜尋產品表"
+
+msgid "Search Not Invoiced Deliveries"
+msgstr "開發票但不補足"
+
+msgid "Search Outstanding Dimensions"
+msgstr "搜尋未完成採購訂單"
+
+msgid "Search Outstanding Purchase Orders"
+msgstr "搜尋未完成採購訂單"
+
+msgid "Search Outstanding Sales Orders"
+msgstr "搜尋未完成銷售訂單"
+
+msgid "Search Outstanding Work Orders"
+msgstr "尋找未處理工作單"
+
+msgid "Search Purchase Orders"
+msgstr "搜尋採購訂單"
+
+msgid "Search Supplier List"
+msgstr "搜尋供應商清單"
+
+msgid "Search Template for Invoicing"
+msgstr "搜尋產品"
+
+msgid "Search Work Orders"
+msgstr "尋找工作單"
+
+msgid "Sec Phone"
+msgstr "電話："
+
+msgid "Secondary Phone"
+msgstr "電話："
+
+msgid "Secondary Phone Number:"
+msgstr "連絡電話："
+
+msgid ""
+"Security alert: broken index file in repository '%s'. Please inform "
+"repository administrator about this issue."
+msgstr "安全警報：有斷裂的索引擋%s在資源庫中。請告知庫管理員這個問題。"
+
+msgid ""
+"Security alert: broken package '%s' in repository. Please inform repository "
+"administrator about this issue."
+msgstr ""
+"安全警報：安全警報：在版本庫中，應用程式包有錯誤'%s'。請告知版本庫管理員這個"
+"問題。"
+
+msgid "Security role has been sucessfully deleted."
+msgstr "產品代碼已經刪除。"
+
+msgid "Security role has been updated."
+msgstr "您的密碼已經更新"
+
+msgid "Security settings have not been defined for your user account."
+msgstr "您的帳號尚未定義安全設定。"
+
+msgid ""
+"Seems that system upgrade to version 2.1 has \n"
+"\t\t\tbeen performed for this company already.<br> If something has gone \n"
+"\t\t\twrong and you want to retry upgrade process you MUST perform \n"
+"\t\t\tdatabase restore from last backup file first."
+msgstr ""
+"看來，系統升級到2.1版本有 \n"
+"\t\t\t 進行查看這家公司了。如果事情有錯誤 \n"
+"\t\t\t 並要重試執行升級，你必須先執行 \n"
+"\t\t\t 上次備份文件的數據庫復原。"
+
+msgid "Select"
+msgstr "選取"
+
+msgid "Select A Different &Order"
+msgstr "選擇其他訂單(&O)"
+
+msgid "Select A Different &Quotation"
+msgstr "選擇另一個出貨"
+
+msgid "Select A Different Delivery"
+msgstr "選擇交貨資料"
+
+msgid "Select An &Outstanding Purchase Order"
+msgstr "選擇一個未完成採購單(&O)"
+
+msgid "Select Another &Customer Transaction for Payment"
+msgstr "輸入總帳付款"
+
+msgid "Select Another &Delivery For Invoicing"
+msgstr "選擇其他要開發票的出貨(&D)"
+
+msgid "Select Another &Invoice to Modify"
+msgstr "選擇另一個發票來修改(&I)"
+
+msgid "Select Another &Supplier Transaction for Payment"
+msgstr "輸入總帳付款"
+
+msgid "Select Another Customer Payment for &Edition"
+msgstr "輸入總帳付款"
+
+msgid "Select Another Order For Dispatch"
+msgstr "選擇其他要開發票的訂單"
+
+msgid "Select Another Sales Order for Edition"
+msgstr "選擇其他要編輯的銷貨訂單"
+
+msgid "Select Delivery to Invoice"
+msgstr "選取要開發票的訂單"
+
+msgid "Select Template for Delivery"
+msgstr "選取循環訂單範本"
+
+msgid "Select a Sales Order to Delivery"
+msgstr "選擇要開發票的銷售訂單"
+
+msgid "Select a Supplier: "
+msgstr "選取供應商"
+
+msgid "Select a currency :"
+msgstr "選擇貨幣"
+
+msgid "Select a customer: "
+msgstr "選擇客戶"
+
+msgid "Select a different &purchase order for receiving items against"
+msgstr "選擇另一個要驗收的採購單(&p)"
+
+msgid "Select a different delivery"
+msgstr "選擇交貨資料"
+
+msgid "Select a different delivery to invoice"
+msgstr "選擇其他的銷售訂單到發票"
+
+msgid "Select a different purchase order for receiving goods against"
+msgstr "請選取要接收貨品的其他訂單"
+
+msgid "Select a different sales order to delivery"
+msgstr "選擇其他的銷售訂單到發票"
+
+msgid "Select a manufacturable item:"
+msgstr "選取產品"
+
+msgid "Select a sale kit:"
+msgstr "選擇一個銷貨組合："
+
+msgid "Select a supplier:"
+msgstr "選取供應商"
+
+msgid "Select a supplier: "
+msgstr "選取供應商"
+
+msgid "Select an existing work order"
+msgstr "選擇已有的工作單"
+
+msgid "Select an item to display its parent item(s)."
+msgstr "選擇一個產品來顯示它的組成。"
+
+msgid "Select an item:"
+msgstr "選擇產品"
+
+msgid "Select another &Work Order to Process"
+msgstr "選擇另一個工作單來處理(&W)"
+
+msgid "Select another &work order"
+msgstr "選擇另一個工作單(&w)"
+
+msgid "Select attachment file."
+msgstr "附加檔案已經更新。"
+
+msgid "Select backup file first."
+msgstr "將備份文件下載到本地電腦"
+
+msgid "Select customer"
+msgstr "選擇客戶"
+
+msgid "Select customer branch"
+msgstr "客戶分公司代號"
+
+msgid "Select documents"
+msgstr "選擇文件"
+
+msgid "Select or &Add"
+msgstr "選擇或新增(&A)"
+
+msgid "Select printing profile"
+msgstr "選擇列印設定"
+
+msgid "Select supplier"
+msgstr "選取供應商"
+
+msgid "Select the taxes that are included in this group."
+msgstr "選擇這個群組包含的稅"
+
+msgid "Select this customer and return to document entry."
+msgstr "選擇這個客戶並且回到文件輸入"
+
+msgid "Select this items and return to document entry."
+msgstr "選擇這個產品後回到文件。"
+
+msgid "Select this supplier and return to document entry."
+msgstr "選擇這個供應商後回到文件輸入。"
+
+msgid "Select which taxes this item tax type is exempt from."
+msgstr "選擇這個產品可以免除的稅別。"
+
+msgid "Select your language files from your local harddisk."
+msgstr "從您的磁碟選擇您的語言檔"
+
+msgid "Selected GL Accounts cannot be used by another tax type."
+msgstr "選擇總帳帳戶無法被其他稅種使用"
+
+msgid "Selected account class has been deleted"
+msgstr "選擇的訊息列已刪除"
+
+msgid "Selected account class settings has been updated"
+msgstr "選擇的科目類型設定已經更新。"
+
+msgid "Selected account group has been deleted"
+msgstr "選擇的業務群組已經刪除"
+
+msgid "Selected account has been deleted"
+msgstr "選取的價格已刪除"
+
+msgid "Selected account type has been updated"
+msgstr "選擇的科目類型已經更新"
+
+msgid "Selected bank account has been deleted"
+msgstr "選擇的銀行帳號已經刪除"
+
+msgid "Selected chart has been successfully deleted"
+msgstr "該位置已被成功刪除"
+
+msgid "Selected company has been deleted"
+msgstr "選擇的訊息列已刪除"
+
+msgid "Selected component has been updated"
+msgstr "選取的使用者記錄已更新"
+
+msgid "Selected contact category has been updated"
+msgstr "銷售類別記錄已更新"
+
+msgid "Selected credit status has been deleted"
+msgstr "此往來狀況代號已刪除"
+
+msgid "Selected credit status has been updated"
+msgstr "往來狀況記錄已更新"
+
+msgid "Selected currency has been deleted"
+msgstr "選擇的貨幣已經刪除"
+
+msgid "Selected currency settings has been updated"
+msgstr "貨幣定義記錄已更新"
+
+msgid "Selected customer branch has been deleted"
+msgstr "選擇的訊息列已刪除"
+
+msgid "Selected customer branch has been updated"
+msgstr "選取的使用者記錄已更新"
+
+msgid "Selected customer has been deleted."
+msgstr "選取的價格已刪除"
+
+msgid "Selected deliveries has been processed"
+msgstr "選取的價格已刪除"
+
+msgid "Selected extension has been successfully deleted"
+msgstr "該位置已被成功刪除"
+
+msgid "Selected fiscal year has been deleted"
+msgstr "選擇的會計年度已經刪除"
+
+msgid "Selected fiscal year has been updated"
+msgstr "選擇的會計年度已經更新"
+
+msgid "Selected item category has been deleted"
+msgstr "選擇的訊息列已刪除"
+
+msgid "Selected item category has been updated"
+msgstr "銷售類別記錄已更新"
+
+msgid "Selected item has been deleted."
+msgstr "選取的價格已刪除"
+
+msgid "Selected item tax type has been deleted"
+msgstr "選取的稅務記錄已刪除"
+
+msgid "Selected item tax type has been updated"
+msgstr "所選擇的使用者被更新。"
+
+msgid "Selected location has been deleted"
+msgstr "選取的價格已刪除"
+
+msgid "Selected location has been updated"
+msgstr "地區記錄已更新"
+
+msgid "Selected movement type has been deleted"
+msgstr "選擇的訊息列已刪除"
+
+msgid "Selected movement type has been updated"
+msgstr "選取的使用者記錄已更新"
+
+msgid "Selected payment terms have been deleted"
+msgstr "選擇的付款條件已經刪除"
+
+msgid "Selected payment terms have been updated"
+msgstr "選擇的付款條件已經更新"
+
+msgid "Selected point of sale has been deleted"
+msgstr "選擇的收銀機已經刪除"
+
+msgid "Selected point of sale has been updated"
+msgstr "選擇的收銀機已經更新"
+
+msgid "Selected printer definition has been deleted"
+msgstr "選擇的印表機定義已經刪除"
+
+msgid "Selected printer definition has been updated"
+msgstr "選擇的印表機定義更新"
+
+msgid "Selected printing profile has been deleted"
+msgstr "選擇的列印設定已經刪除"
+
+msgid ""
+"Selected quantity cannot be less than quantity credited nor more than "
+"quantity not invoiced yet."
+msgstr "選擇的數量不能夠少於信用交易數量，或是大於未開發票數量。"
+
+msgid ""
+"Selected quantity cannot be less than quantity invoiced nor more than "
+"quantity\tnot dispatched on sales order."
+msgstr "選擇的數量不能夠少於已開發票數量，或是大於銷售訂單未出貨數量。"
+
+msgid ""
+"Selected quantity cannot be less than zero nor more than quantity not "
+"credited yet."
+msgstr "選擇的數量不能夠少於 0 或是超過尚未進行信用交易的數量。"
+
+msgid "Selected quick entry has been deleted"
+msgstr "選擇的快速新增資料已經刪除"
+
+msgid "Selected quick entry has been updated"
+msgstr "選擇的快速輸入已經更新"
+
+msgid "Selected quick entry line has been deleted"
+msgstr "選擇的快速新增資料列已經刪除"
+
+msgid "Selected quick entry line has been updated"
+msgstr "選擇的快速輸入資料已經更新"
+
+msgid "Selected recurrent invoice has been deleted"
+msgstr "選擇的循環發票已經刪除"
+
+msgid "Selected recurrent invoice has been updated"
+msgstr "選擇的循環發票已經更新"
+
+msgid "Selected sales area has been deleted"
+msgstr "銷售入帳記錄已刪除"
+
+msgid "Selected sales area has been updated"
+msgstr "銷售類別記錄已更新"
+
+msgid "Selected sales group has been deleted"
+msgstr "選擇的業務群組已經刪除"
+
+msgid "Selected sales group has been updated"
+msgstr "選擇的業務群組已經更新"
+
+msgid "Selected sales person data have been deleted"
+msgstr "選擇的價格已刪除。"
+
+msgid "Selected sales person data have been updated"
+msgstr "所選擇的使用者被更新。"
+
+msgid "Selected sales type has been deleted"
+msgstr "銷售入帳記錄已刪除"
+
+msgid "Selected sales type has been updated"
+msgstr "銷售類別記錄已更新"
+
+msgid "Selected shipping company has been deleted"
+msgstr "選擇的訊息列已刪除"
+
+msgid "Selected shipping company has been updated"
+msgstr "選取的使用者記錄已更新"
+
+msgid "Selected tag has been deleted"
+msgstr "選擇的貨幣已經刪除"
+
+msgid "Selected tag settings have been updated"
+msgstr "選擇的貨幣設定已經更新"
+
+msgid "Selected tax group has been deleted"
+msgstr "選取的稅務記錄已刪除"
+
+msgid "Selected tax group has been updated"
+msgstr "選取的使用者記錄已更新"
+
+msgid "Selected tax type has been deleted"
+msgstr "選取的稅務記錄已刪除"
+
+msgid "Selected tax type has been updated"
+msgstr "選取的使用者記錄已更新"
+
+msgid "Selected theme has been successfully deleted"
+msgstr "該位置已被成功刪除"
+
+msgid "Selected transaction does not exists."
+msgstr "交易號碼已存在"
+
+msgid "Selected transaction has been voided."
+msgstr "所選擇的交易被清空。"
+
+msgid "Selected unit has been deleted"
+msgstr "度量單位已刪除"
+
+msgid "Selected unit has been updated"
+msgstr "選取的使用者記錄已更新"
+
+msgid "Selected work center has been deleted"
+msgstr "選取的工作中心已經刪除"
+
+msgid "Selected work center has been updated"
+msgstr "選擇的工作中心已經更新"
+
+msgid "Selection"
+msgstr "供應商選項"
+
+msgid "Sending document by email failed"
+msgstr "透過 email 寄發文件失敗"
+
+msgid "Sep"
+msgstr "設定"
+
+msgid "September"
+msgstr "9月"
+
+msgid "Server system"
+msgstr "系統管理者"
+
+msgid "Service"
+msgstr "服務"
+
+msgid "Session save path"
+msgstr "沒有更改到資料庫"
+
+msgid "Set filter"
+msgstr "套裝"
+
+msgid "Set this option to on for using icons instead of text links"
+msgstr "開啟這個選項會使用圖示來取代文字連結"
+
+msgid "Set this option to on if your browser directly supports pdf files"
+msgstr "如果瀏覽器直接支援 pdf 檔案可以開啟這個選項"
+
+msgid "Set this order as a template for direct deliveries/invoices"
+msgstr "設定這個訂單作為直接出貨/開立發票的範本"
+
+msgid "Shi&pping Company"
+msgstr "貨運公司(&p) "
+
+msgid "Shipper"
+msgstr "供應商"
+
+msgid "Shipping"
+msgstr "貨運公司維護"
+
+msgid "Shipping Charge"
+msgstr "運送費用"
+
+msgid "Shipping Charged Account:"
+msgstr "運送費用科目："
+
+msgid "Shipping Company"
+msgstr "運送公司"
+
+msgid "Shipping Company:"
+msgstr "運送公司："
+
+msgid "Shipping Cost"
+msgstr "每件成本"
+
+msgid "Shipping Tax"
+msgstr "運費稅別"
+
+msgid "Shipping ways"
+msgstr "貨運公司"
+
+msgid "Short Name"
+msgstr "分公司簡稱不能空白"
+
+msgid "Shortage"
+msgstr "只顯示缺少的部份"
+
+msgid "Show"
+msgstr "顯示"
+
+msgid "Show All:"
+msgstr "全部顯示："
+
+msgid "Show Also Allocated"
+msgstr "顯示會計資訊："
+
+msgid "Show Balance"
+msgstr "顯示餘額"
+
+msgid "Show Balances"
+msgstr "顯示餘額"
+
+msgid "Show GL Information:"
+msgstr "顯示會計資訊："
+
+msgid "Show GL Rows"
+msgstr "顯示會計資訊："
+
+msgid "Show GP %"
+msgstr "一併顯示毛利 %"
+
+msgid "Show Item Codes:"
+msgstr "顯示產品的代號："
+
+msgid "Show Movements"
+msgstr "顯示移動地"
+
+msgid "Show Pictures"
+msgstr "全部顯示"
+
+msgid "Show Settled Items:"
+msgstr "顯示固定產品"
+
+msgid "Show Shortage"
+msgstr "顯示不足的部份"
+
+msgid "Show also Inactive"
+msgstr "顯示會計資訊："
+
+msgid "Show closed:"
+msgstr "關帳："
+
+msgid "Show hints for new users:"
+msgstr "是否為新使用者顯示提示："
+
+msgid "Show inactive:"
+msgstr "顯示移動地"
+
+msgid "Showing GL Transactions."
+msgstr "會計科目交易"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Software &Upgrade"
+msgstr "軟體升級(&U)"
+
+msgid "Software Upgrade"
+msgstr "執行升級"
+
+msgid "Software upgrades"
+msgstr "軟體升級"
+
+msgid ""
+"Some of the period dates are outside the fiscal year. Create a new fiscal "
+"year first!"
+msgstr "一些期間日期是會計年度外。首先新建一個新的財政年度！"
+
+msgid ""
+"Some transactions journal GL postings were not indexed due to lack of audit "
+"trail record."
+msgstr "由於缺乏審計跟踪記錄，一些交易日記總帳拋轉紀錄沒有索引。"
+
+msgid "Special maintenance"
+msgstr "維護備份程式"
+
+msgid "Sql file"
+msgstr "沒有選定的國家SQL文件。請選擇一個文件。"
+
+msgid "Standard &Costs"
+msgstr "標準成本(&C)"
+
+msgid "Standard American COA (4 digit) with demo data"
+msgstr "標準的美式COA（4位）與演示數據"
+
+msgid "Standard Labour Cost Per Unit"
+msgstr "每單位標準人工成本"
+
+msgid "Standard Material Cost Per Unit"
+msgstr "每單位標準原料成本"
+
+msgid "Standard Overhead Cost Per Unit"
+msgstr "每單位標準製造費用"
+
+msgid "Standard new company American COA (4 digit)"
+msgstr "標準新公司的美國COA（4位）"
+
+msgid ""
+"Standard package for this language is already installed. If you want to "
+"install this language manually, uninstall standard language package first."
+msgstr "已經安裝這語言的標準封裝。如果你想手動安裝此語言，請先卸載標準語言包。"
+
+msgid "Start Date"
+msgstr "開始日期"
+
+msgid "Start again allocation of selected amount"
+msgstr "再次開始配置選擇的金額"
+
+msgid "Start-up Tab"
+msgstr "開始日期"
+
+msgid "Statement"
+msgstr "描述"
+
+msgid "Status change for some extensions failed."
+msgstr "某些擴展模組失效，狀態更改"
+
+msgid "Stock &Check Sheets"
+msgstr "存貨盤點表(&C)"
+
+msgid "Stock Check Sheets"
+msgstr "存貨檢查表"
+
+msgid "Stock ID"
+msgstr "存貨編號"
+
+msgid "Stock Item"
+msgstr "產品"
+
+msgid "Stock Location"
+msgstr "存貨地區"
+
+msgid "Stock items add/edit"
+msgstr "標示的產品庫存量不足。"
+
+msgid "Stock status view"
+msgstr "檢視銀行轉帳"
+
+msgid "Stock transactions view"
+msgstr "檢視或列印交易"
+
+msgid "Stocks below Re-Order Level at "
+msgstr "庫存低於安全存量"
+
+msgid "Su"
+msgstr "日"
+
+msgid "Sub Total"
+msgstr "小計"
+
+msgid "Sub-total"
+msgstr "小計"
+
+msgid "Sub-total:"
+msgstr "小計"
+
+msgid "Subgroup Of"
+msgstr "的子群組"
+
+msgid "Subgroup Of:"
+msgstr "的子群組："
+
+msgid "Submit changes"
+msgstr "儲存修改"
+
+msgid "Sugg Ord"
+msgstr "建議訂單"
+
+msgid "Summary Only"
+msgstr "只要撮要"
+
+msgid "Supp Ord"
+msgstr "訂單數量"
+
+msgid "Supp Reference"
+msgstr "參考稅項"
+
+msgid "Supplier"
+msgstr "供應商："
+
+msgid "Supplier &Balances"
+msgstr "供應商結餘(&B)"
+
+msgid "Supplier &Credit Notes"
+msgstr "供應商貸方傳票(&C)"
+
+msgid "Supplier &Detail Listing"
+msgstr "客戶細節清單(&D)"
+
+msgid "Supplier &Invoices"
+msgstr "供應商發票(&I)"
+
+msgid "Supplier Allocation &Inquiry"
+msgstr "供應商配置查詢(&I)"
+
+msgid "Supplier Allocation Inquiry"
+msgstr "供應商撥款查詢"
+
+msgid "Supplier Allocations"
+msgstr "供應商配置"
+
+msgid "Supplier Balances"
+msgstr "供應商餘額"
+
+msgid "Supplier Credit Note"
+msgstr "供應商貸方傳票"
+
+msgid "Supplier Currency:"
+msgstr "供應商貨幣"
+
+msgid "Supplier Details Listing"
+msgstr "列出客戶資料"
+
+msgid "Supplier Inquiry"
+msgstr "供應商查詢"
+
+msgid "Supplier Invoice"
+msgstr "供應商發票"
+
+msgid "Supplier Invoice/Credit"
+msgstr "供應商發票/信用"
+
+msgid "Supplier Name:"
+msgstr "供應商名稱"
+
+msgid "Supplier Payment"
+msgstr "供應商付款"
+
+msgid "Supplier Payment Entry"
+msgstr "輸入供應商付款"
+
+msgid "Supplier Purchasing Data"
+msgstr "供應商採購資料"
+
+msgid "Supplier Short Name:"
+msgstr "供應商名稱必須輸入。"
+
+msgid "Supplier Transaction &Inquiry"
+msgstr "供應商交易查詢(&I)"
+
+msgid "Supplier analytical reports"
+msgstr "供應商與採購報表(&R)"
+
+msgid "Supplier and Purchasing &Reports"
+msgstr "供應商與採購報表(&R)"
+
+msgid "Supplier credit note has been processed."
+msgstr "供應商貸方傳票已經處理。"
+
+msgid "Supplier credit notes"
+msgstr "供應商貸方傳票(&C)"
+
+msgid "Supplier document bulk reports"
+msgstr "供應商與採購報表(&R) "
+
+msgid "Supplier has been updated."
+msgstr "供應商採購數據已更新"
+
+msgid "Supplier invoice adjustment for zero inventory of "
+msgstr "供應商發票調整為零庫存"
+
+msgid "Supplier invoice has been processed."
+msgstr "供應商聯繫已刪除"
+
+msgid "Supplier invoices"
+msgstr "供應商發票(&I)"
+
+msgid "Supplier payments"
+msgstr "客戶付款(&P)"
+
+msgid "Supplier payments allocations"
+msgstr "返回目錄"
+
+msgid "Supplier payments report"
+msgstr "未完成驗收單報表"
+
+msgid "Supplier purchasing data has been updated."
+msgstr "供應商採購資料已更新。"
+
+msgid "Supplier status:"
+msgstr "往來狀態"
+
+msgid "Supplier transactions view"
+msgstr "輸入供應商發票"
+
+msgid "Supplier's Code or Description:"
+msgstr "供應商代碼或是描述："
+
+msgid "Supplier's Currency"
+msgstr "供應商貨幣"
+
+msgid "Supplier's Currency:"
+msgstr "供應商貨幣"
+
+msgid "Supplier's Description"
+msgstr "供應商描述"
+
+msgid "Supplier's Ref.:"
+msgstr "供應商參考"
+
+msgid "Supplier's Reference"
+msgstr "供應商發票參考"
+
+msgid "Supplier's Reference:"
+msgstr "供應商發票參考"
+
+msgid "Supplier's Unit"
+msgstr "供應商單位"
+
+msgid "Supplier:"
+msgstr "供應商："
+
+msgid "Suppliers"
+msgstr "供應商"
+
+msgid "Suppliers Unit of Measure:"
+msgstr "供應商衡量單位："
+
+msgid "Suppliers and Purchasing"
+msgstr "供應商及採購"
+
+msgid "Suppliers and Purchasing Defaults"
+msgstr "供應商及採購預設"
+
+msgid "Suppliers changes"
+msgstr "儲存修改"
+
+msgid "Supported"
+msgstr "只支援 JPG 檔案 - 請輸入一個 .jpg 為副名的檔案"
+
+msgid "Suppress Zeros"
+msgstr "供應商"
+
+msgid "Symbol"
+msgstr "符號"
+
+msgid "System &Diagnostics"
+msgstr "系統管理者"
+
+msgid "System Diagnostics"
+msgstr "系統管理者"
+
+msgid "System administration"
+msgstr "系統管理者"
+
+msgid "System and &General GL Setup"
+msgstr "系統及會計設定(&G)"
+
+msgid "System and General GL Setup"
+msgstr "系統及一般會計設定"
+
+msgid "System default"
+msgstr "預設語言"
+
+msgid "System is available for site admin only until full database upgrade"
+msgstr "系統可用於網站管理員一直到完整的數據庫升級"
+
+msgid ""
+"System is blocked after source upgrade until database is updated on System/"
+"Software Upgrade page"
+msgstr "原始升級後系統被中斷，直到系統/軟體升級頁面的數據庫更新"
+
+msgid "TOTAL CREDIT"
+msgstr "貸方總計"
+
+msgid "TOTAL CREDIT NOTE"
+msgstr "貸方總計"
+
+msgid "TOTAL DELIVERY INCL. VAT"
+msgstr "BOX 5 - 總銷售和收入 (含GST)"
+
+msgid "TOTAL INVOICE"
+msgstr "發票總計"
+
+msgid "TOTAL ORDER EX VAT"
+msgstr "銷售列的數目"
+
+msgid "TOTAL ORDER VAT INCL."
+msgstr "BOX 5 - 總銷貨和收入 (含GST)"
+
+msgid "TOTAL PO"
+msgstr "採購總額(未稅)"
+
+msgid "TOTAL RECEIPT"
+msgstr "已配置總額"
+
+msgid "TOTAL REMITTANCE"
+msgstr "已配置總額"
+
+msgid "TOTAL VALUE"
+msgstr "總價值"
+
+msgid "Ta&x Inquiry"
+msgstr "稅務查詢(&x)"
+
+msgid "Ta&x Report"
+msgstr "稅務報表(&x)"
+
+msgid "Table Pref"
+msgstr "表格參考"
+
+msgid "Tag Description"
+msgstr "期間說明："
+
+msgid "Tag Description:"
+msgstr "期間說明："
+
+msgid "Tag Name"
+msgstr "帳號"
+
+msgid "Tag Name:"
+msgstr "帳號"
+
+msgid "Tags"
+msgstr "日數"
+
+msgid "Tags:"
+msgstr "日數"
+
+msgid "Tax"
+msgstr "稅別"
+
+msgid "Tax &Groups"
+msgstr "稅組(&G)"
+
+msgid "Tax Group"
+msgstr "稅區"
+
+msgid "Tax Group:"
+msgstr "稅區"
+
+msgid "Tax Groups"
+msgstr "稅組"
+
+msgid "Tax Id"
+msgstr "報表編號"
+
+msgid "Tax Id Only"
+msgstr "只顯示期貨訂單"
+
+msgid "Tax Incl"
+msgstr "含稅"
+
+msgid "Tax Inquiry"
+msgstr "查詢稅金"
+
+msgid "Tax Last Period:"
+msgstr "稅上最後期間"
+
+msgid "Tax Name"
+msgstr "稅別名稱"
+
+msgid "Tax Periods:"
+msgstr "稅務期間："
+
+msgid "Tax Rate"
+msgstr "稅率"
+
+msgid "Tax Report"
+msgstr "稅務報表"
+
+msgid "Tax Type"
+msgstr "稅別內容"
+
+msgid "Tax Types"
+msgstr "銷售類別"
+
+msgid "Tax applied to Shipping:"
+msgstr "運費使用的稅："
+
+msgid "Tax exempt"
+msgstr "不含稅"
+
+msgid "Tax groups"
+msgstr "稅組(&G)"
+
+msgid "Tax included"
+msgstr "含稅"
+
+msgid "Tax rates"
+msgstr "匯率："
+
+msgid "Tax reports and inquiries"
+msgstr "客戶與銷貨報表(&R)"
+
+msgid "Tax type"
+msgstr "稅別："
+
+msgid "Tax_Id"
+msgstr "報表編號"
+
+msgid "Taxes added"
+msgstr "含稅"
+
+msgid "Taxes added, increase base"
+msgstr "含稅，稅外加"
+
+msgid "Taxes added, reduce base"
+msgstr "含稅，稅內含"
+
+msgid "Taxes included"
+msgstr "含稅"
+
+msgid "Taxes included, increase base"
+msgstr "含稅，稅外加"
+
+msgid "Taxes included, reduce base"
+msgstr "含稅，稅內含"
+
+msgid "Telephone"
+msgstr "電話"
+
+msgid "Telephone No.:"
+msgstr "電話："
+
+msgid "Telephone No:"
+msgstr "電話號碼："
+
+msgid "Telephone number:"
+msgstr "電話號碼"
+
+msgid "Template No"
+msgstr "範本編號"
+
+msgid "Template:"
+msgstr "範本："
+
+msgid "Temporary directory"
+msgstr "找不到備份目錄"
+
+msgid "Terms"
+msgstr "條款"
+
+msgid "Terms Description:"
+msgstr "期間摘要："
+
+msgid "Terms:"
+msgstr "條款"
+
+msgid "Test"
+msgstr "條款"
+
+msgid "Test type"
+msgstr "交易類型："
+
+msgid "Th"
+msgstr "四"
+
+msgid "Thank you for using"
+msgstr "感謝您的使用"
+
+msgid ""
+"The Bank Charge Account has not been set in System and General GL Setup."
+msgstr "銀行收費帳戶尚未設置系統和通用總帳設置。"
+
+msgid "The Branch name cannot be empty."
+msgstr "借方代號不能空白"
+
+msgid "The Branch short name cannot be empty."
+msgstr "分公司簡稱不能空白"
+
+msgid "The Budget has been deleted."
+msgstr "預算已被刪除。"
+
+msgid "The Budget has been saved."
+msgstr "預算已儲存。"
+
+msgid "The GL account selected is already in use. Select another GL account."
+msgstr "選擇的總帳帳戶已被使用。選擇另一個總帳帳戶。"
+
+msgid ""
+"The Opening Balance is not in balance, probably due to a non closed Previous "
+"Fiscalyear."
+msgstr "期初餘額不平衡，可能是由於上一會計年度尚未關帳"
+
+msgid "The POS name cannot be empty."
+msgstr "收銀機名稱不能空白"
+
+msgid "The Quick Entry description cannot be empty."
+msgstr "快速輸入表單的說明不能空白。"
+
+msgid "The Quick Entry has Quick Entry Lines. Cannot be deleted."
+msgstr "快速輸入表單已經有資料，無法刪除。"
+
+msgid ""
+"The Retained Earnings Account or the Profit and Loss Year Account has not "
+"been set in System and General GL Setup"
+msgstr "留存收益帳戶或損益表年帳戶尚未在系統和通用總帳設置中設定"
+
+msgid ""
+"The Retained Earnings Account should be a Balance Account or the Profit and "
+"Loss Year Account should be an Expense Account (preferred the last one in "
+"the Expense Class)"
+msgstr ""
+"留存收益帳戶應該是一個餘額帳戶或損益表年度的費用帳戶（首選的最後一個消費類）"
+
+msgid "The Terms description must be entered."
+msgstr "期間的摘要必須輸入。"
+
+msgid "The Valid date is invalid."
+msgstr "輸入的日期無效。"
+
+msgid "The account belongs to a bank account and cannot be inactivated."
+msgstr "會計科目代碼不能空白。"
+
+msgid "The account class ID cannot be empty."
+msgstr "一級科目名稱不能被清空。"
+
+msgid "The account class name cannot be empty."
+msgstr "一級科目名稱不能被清空。"
+
+msgid ""
+"The account code entered is not a valid code, this line cannot be added to "
+"the transaction."
+msgstr "輸入的會計科目代碼不是有效的代碼，所以不能增加這筆到交易中。"
+
+msgid "The account code must be entered."
+msgstr "會計科目代碼必須輸入。"
+
+msgid "The account code must be numeric."
+msgstr "會計科目代碼必須是數字。"
+
+msgid "The account group id cannot be empty."
+msgstr "二級科目名稱不能被清空。"
+
+msgid "The account group name cannot be empty."
+msgstr "二級科目名稱不能被清空。"
+
+msgid "The account name cannot be empty."
+msgstr "會計科目代碼不能空白。"
+
+msgid ""
+"The additional cost date cannot be before the release date of the work order."
+msgstr "其他成本日期不能在工作單發佈日之前。"
+
+msgid "The additional cost has been entered."
+msgstr "其他成本已輸入"
+
+msgid ""
+"The adjustment cannot be processed because an adjustment item would cause a "
+"negative inventory balance :"
+msgstr "這筆調整不能處理因為調整產品會導致負的存貨數："
+
+msgid "The amount and discount are in the bank account's currency."
+msgstr "從銀行帳戶"
+
+msgid "The amount can not be 0."
+msgstr "只可以上載圖片檔"
+
+msgid "The amount entered is not a valid number or is less than zero."
+msgstr "輸入的借方金額有誤數字。"
+
+msgid "The amount entered is not a valid number or less then zero."
+msgstr "輸入的數量有誤或是小於 0。"
+
+msgid ""
+"The amount entered is not numeric. This line cannot be added to the "
+"transaction."
+msgstr "輸入的聯繫參考不是有效的聯繫，列未能新增到交易"
+
+msgid "The area description cannot be empty."
+msgstr "地區說明不能空白"
+
+msgid ""
+"The balance of the amount and discout is zero or negative. Please enter "
+"valid amounts."
+msgstr "餘額的金額及折識是零或是負數。請輸入有效的金額。"
+
+msgid "The bank account name cannot be empty."
+msgstr "銀行帳戶名稱不能空白"
+
+msgid ""
+"The bank transaction would result in exceed of authorized overdraft limit "
+"for transaction: %s #%s on %s."
+msgstr "該銀行的交易將導致超過授權透支額度的交易:%s #%s在%s"
+
+msgid "The base amount description cannot be empty."
+msgstr "基礎金額說明不能空白。"
+
+msgid "The bill of material for this item is empty."
+msgstr "還有這產品設定的物料清單"
+
+msgid ""
+"The company currency is the base currency so exchange rates cannot be set "
+"for it."
+msgstr "公司的貨幣是基礎貨幣因此不能設定匯率。"
+
+msgid "The company name must be entered."
+msgstr "公司名稱必須填入"
+
+msgid "The component item has been deleted from this bom"
+msgstr "範圍已刪除。"
+
+msgid "The configuration file "
+msgstr "設定檔"
+
+msgid "The contact name cannot be empty."
+msgstr "印表機名稱不能空白。"
+
+msgid ""
+"The conversion factor entered was not numeric. The conversion factor is the "
+"number by which the price must be divided by to get the unit price in our "
+"unit of measure."
+msgstr ""
+"輸入的轉換因素不是數字。轉換因素是「價格」除以用於衡量單位的「單位價格」後數"
+"字。"
+
+msgid "The cost entered is invalid or less than zero."
+msgstr "輸入的金額是無效的或是小於零。"
+
+msgid "The credit amount entered is not a valid number or is less than zero."
+msgstr "輸入的貸方金額不是有效數字。"
+
+msgid "The credit limit must be numeric and not less than zero."
+msgstr "輸入的金額是無效的或是小於零。"
+
+msgid ""
+"The credit note as entered cannot be processed because the date entered is "
+"not valid."
+msgstr "所輸入的貸方傳票不能處理，因為輸入的日期不是有效的值。"
+
+msgid ""
+"The credit note cannot be processed because the there are no items or values "
+"on the invoice.  Credit notes are expected to have a charge."
+msgstr ""
+"這個貸方船票無法處理，因為發票沒有任何產品資料，貸方傳票預期會有收費資訊。"
+
+msgid ""
+"The credit note total as entered is less than the sum of the the general "
+"ledger entires (if any) and the charges for goods received. There must be a "
+"mistake somewhere, the credit note as entered will not be processed."
+msgstr ""
+"輸入的貸方傳票總額低於會計資料與進貨費用總和，應該是有錯誤發生，輸入的貸方傳"
+"票將不會處理。"
+
+msgid "The credit status description cannot be empty."
+msgstr "信用狀態說明不能空白"
+
+msgid "The currency abbreviation must be entered."
+msgstr "貨幣縮寫必須輸入。"
+
+msgid "The currency name must be entered."
+msgstr "貨幣名稱必須輸入。"
+
+msgid "The currency symbol must be entered."
+msgstr "貨幣符號必須輸入。"
+
+msgid "The customer name cannot be empty."
+msgstr "未能取得要求的客戶名稱，因為"
+
+msgid "The customer payment has been successfully entered."
+msgstr "已完成輸入資料庫"
+
+msgid "The customer payment has been successfully updated."
+msgstr "已完成輸入資料庫"
+
+msgid "The customer short name cannot be empty."
+msgstr "客戶簡稱不能空白"
+
+msgid "The date entered is in an invalid format."
+msgstr "輸入的日期是無效的格式。"
+
+msgid "The debit amount entered is not a valid number or is less than zero."
+msgstr "輸入的借方金額不是有效數字。"
+
+msgid ""
+"The default stock location set up for this user is not a currently defined "
+"stock location. Your system administrator needs to amend your user record."
+msgstr "這個使用者的預設庫存位置目前尚未定義，需要請系統管理員協助修改。"
+
+msgid "The default tax rate must be numeric and not less than zero."
+msgstr "輸入的稅率是無效的或是小於零。"
+
+msgid ""
+"The delivery cannot be processed because there is an insufficient quantity "
+"for item:"
+msgstr "工作單不能處理因為元件沒有足夠數量："
+
+msgid "The delivery date is invalid."
+msgstr "遞送日期是無效的。"
+
+msgid "The delivery over-receive allowance must be between 0 and 100."
+msgstr "The delivery over-receive 允許值必須在 0 到 100 間"
+
+msgid "The dimension has been closed. There can be no more changes to it."
+msgstr "範圍已被關閉。不能改變它。"
+
+msgid "The dimension has been deleted."
+msgstr "範圍已刪除。"
+
+msgid "The dimension has been entered."
+msgstr "範圍已輸入。"
+
+msgid "The dimension has been re-opened. "
+msgstr "範圍已輸入。"
+
+msgid "The dimension has been updated."
+msgstr "範圍已更新。"
+
+msgid "The dimension name must be entered."
+msgstr "範圍名稱必須輸入。"
+
+msgid "The dimension number sent is not valid."
+msgstr "送出的範圍編號有誤。"
+
+msgid "The dimension reference must be entered."
+msgstr "參考範圍必需輸入。"
+
+msgid "The dimension sent is not valid."
+msgstr "傳送的範圍不是有效的。"
+
+msgid ""
+"The discount percentage must be numeric and is expected to be less than 100% "
+"and greater than or equal to 0."
+msgstr "結束交易數必須是數字且大於 0 。"
+
+msgid ""
+"The ending transaction number is expected to be numeric and greater than "
+"zero."
+msgstr "結束交易數必須是數字且大於 0 。"
+
+msgid "The entered amount is invalid or less than zero."
+msgstr "輸入的金額是無效的或是小於零。"
+
+msgid "The entered amount is invalid or negative and cannot be processed."
+msgstr "輸入金額是無效或是負數所以不能處理。"
+
+msgid "The entered cost is not numeric."
+msgstr "輸入的成本不是數字。"
+
+msgid "The entered date for the adjustment is invalid."
+msgstr "調整後所輸入日期是無效的。"
+
+msgid "The entered date for the credit note is invalid."
+msgstr "貸方傳票中所輸入的日期是無效的。"
+
+msgid "The entered date for the issue is invalid."
+msgstr "這個發料所輸入的日期是無效的。"
+
+msgid "The entered date for the payment is invalid."
+msgstr "付款所輸入的日期是無效的。"
+
+msgid "The entered date is invalid."
+msgstr "輸入的日期無效。"
+
+msgid "The entered date is invalid. Please enter a valid date for the payment."
+msgstr "輸入日期是無效的。在付款中請輸入有效日期。"
+
+msgid "The entered date is not in fiscal year"
+msgstr "輸入日期格式不明"
+
+msgid "The entered date is not in fiscal year."
+msgstr "輸入的日期不在會計年度內。"
+
+msgid "The entered date of delivery is invalid."
+msgstr "輸入日期格式無效"
+
+msgid "The entered date of delivery is not in fiscal year."
+msgstr "輸入的日期不在會計年度內。"
+
+msgid "The entered dead-line for invoice is invalid."
+msgstr "這個發料所輸入的日期是無效的。"
+
+msgid "The entered discount is invalid or less than zero."
+msgstr "輸入的折扣是無效的或是小於零。"
+
+msgid "The entered discount is not a valid number."
+msgstr "輸入的折扣不是有效數。"
+
+msgid "The entered discount percent is negative, greater than 100 or invalid."
+msgstr "輸入的折扣百分比為負數、大於 100，或是無效的。"
+
+msgid "The entered due date is invalid."
+msgstr "輸入的發票到期日有誤。"
+
+msgid ""
+"The entered information is a duplicate. Please go back and enter different "
+"values."
+msgstr "輸入的資訊重複，請回上一頁重新輸入。"
+
+msgid "The entered invoice date is invalid."
+msgstr "輸入的發票日期是無效的。"
+
+msgid "The entered invoice date is not in fiscal year."
+msgstr "輸入的發票日期不在本會計年度。"
+
+msgid "The entered invoice due date is invalid."
+msgstr "輸入的發票到期日是無效的。"
+
+msgid "The entered order date is invalid."
+msgstr "輸入的訂單日期是無效的。"
+
+msgid "The entered price is negative or invalid."
+msgstr "輸入的價格是負數或是無效的。"
+
+msgid "The entered reference is already in use."
+msgstr "輸入的參考資料已被使用。"
+
+msgid "The entered shipping cost is invalid or less than zero."
+msgstr "輸入的運送成本是無效的或是小於零。"
+
+msgid "The entered shipping value is not numeric."
+msgstr "輸入的運輸數值不是數字。"
+
+msgid "The entered standard cost is negative or invalid."
+msgstr "輸入的標準成本是負數或是無效。"
+
+msgid "The entered transaction does not exist or cannot be voided."
+msgstr "輸入的交易不存在或是不能被清空。"
+
+msgid "The entry for one or more amounts is invalid or negative."
+msgstr "一個或是數個金額在輸入是無效的"
+
+msgid "The exchange rate cannot be zero or a negative number."
+msgstr "匯率不能是零或是負數。"
+
+msgid "The exchange rate for the date is already there."
+msgstr "匯率必須是數字。"
+
+msgid "The exchange rate must be numeric and greater than zero."
+msgstr "匯率必須是數字。"
+
+msgid "The existing image could not be removed"
+msgstr "現有圖片不能移除"
+
+msgid ""
+"The file size is over the maximum allowed. The maximum size allowed in KB is"
+msgstr "檔案大小超過上限，上限為(KB)："
+
+msgid "The from date cannot be bigger than the fiscal year end."
+msgstr "輸入的日期不在會計年度內。"
+
+msgid "The general GL setup has been updated."
+msgstr "一般會計設定被更新。"
+
+msgid "The hundredths name must be entered."
+msgstr "百位數名稱必須輸入。"
+
+msgid "The inventory movement type name cannot be empty."
+msgstr "資產調動類型名稱不能空白。"
+
+msgid ""
+"The invoice as entered cannot be processed because the due date is in an "
+"incorrect format."
+msgstr "輸入的發票無法處理，因為到期日格式有誤。"
+
+msgid ""
+"The invoice as entered cannot be processed because the invoice date is in an "
+"incorrect format."
+msgstr "輸入的發票未能執行，因為發票日期不是正確格式"
+
+msgid ""
+"The invoice cannot be processed because the there are no items or values on "
+"the invoice.  Invoices are expected to have a charge."
+msgstr "無法處理這個發票，因為沒有任何產品或數值，發票需要有一個收費數值。"
+
+msgid "The invoice description cannot be empty."
+msgstr "發票說明不能空白"
+
+msgid "The invoice over-charge allowance must be between 0 and 100."
+msgstr "統一發票的議價允許值必須在  0 到 100 間。"
+
+msgid ""
+"The issue cannot be processed because an entered item would cause a negative "
+"inventory balance :"
+msgstr "發料不能處理因為輸入的產品將導致負數存貨。"
+
+msgid "The item category description cannot be empty."
+msgstr "產品代號不能空白"
+
+msgid "The item code cannot be empty"
+msgstr "產品代號不能空白"
+
+msgid ""
+"The item code cannot contain any of the following characters -  & + OR a "
+"space OR quotes"
+msgstr "產品代碼不能包含像是 & + 空白或引號等字元"
+
+msgid ""
+"The item could not be updated because you are attempting to set the quantity "
+"ordered to less than 0, or the discount percent to more than 100."
+msgstr ""
+"這產品未能更新，因為您設定的訂單數量少於 0，或價格少於 0，或折扣大於 100% 或"
+"少於0%"
+
+msgid "The item name must be entered."
+msgstr "必須輸入產品名稱。"
+
+msgid "The item tax type description cannot be empty."
+msgstr "稅別內容不能空白"
+
+msgid ""
+"The journal must balance (debits equal to credits) before it can be "
+"processed."
+msgstr "在過帳前分錄必須平衡(借方金額 = 貸方金額)。"
+
+msgid "The labour cost entered is invalid or less than zero."
+msgstr "輸入的直接成本有誤或是小於 0 。"
+
+msgid "The language files folder "
+msgstr "新增語言"
+
+msgid ""
+"The line item quantities may be modified to quantities more than already "
+"received. prices cannot be altered for lines that have already been received "
+"and quantities cannot be reduced below the quantity already received."
+msgstr ""
+"產品數量可以大於已經驗收的數量，已經驗收的產品數量不能調整價格，數量也不能夠"
+"少於已經驗收數量。"
+
+msgid ""
+"The location code must be five characters or less long (including converted "
+"special chars)."
+msgstr "地區編號長度必須少於 5 字元"
+
+msgid "The location name must be entered."
+msgstr "地區名稱必須輸入"
+
+msgid "The locations to transfer from and to must be different."
+msgstr "要轉移的來源地區和目的地區必須是不同的"
+
+msgid "The manufacturing process has been entered."
+msgstr "新銀行帳號已輸入"
+
+msgid "The marked company is the current company which cannot be deleted."
+msgstr "現在使用的公司是無法被刪除的"
+
+msgid "The marked currency is the home currency which cannot be deleted."
+msgstr "標示的貨幣不能被刪除。"
+
+msgid ""
+"The marked fiscal year is the current fiscal year which cannot be deleted."
+msgstr "現在所使用的會計年度不能被刪除。"
+
+msgid "The marked language is the current language which cannot be deleted."
+msgstr "現使用的語言不能被刪除。"
+
+msgid "The new cost is the same as the old cost. Cost was not updated."
+msgstr "新成本和舊成本是一樣的。成本不是更新的。"
+
+msgid "The new price has been added."
+msgstr "新價格已增加。"
+
+msgid "The number of days or the day in the following month must be numeric."
+msgstr "在下來的月份天數必須是數字的。"
+
+msgid ""
+"The order cannot be placed because there are no lines entered on this order."
+msgstr "訂單無法建立，因為沒有輸入任何產品購買資訊。"
+
+msgid "The order number sent is not valid."
+msgstr "傳送的訂單數不是有效的。"
+
+msgid "The over-charge percentage allowance is :"
+msgstr "超收費用比例必須是百份比"
+
+msgid "The password cannot contain the user login."
+msgstr "密碼不能使用登入名稱。"
+
+msgid "The password entered must be at least 4 characters long."
+msgstr "密碼必須至少4個字元長度。"
+
+msgid "The passwords entered are not the same."
+msgstr "輸入的密碼不同。"
+
+msgid "The past due days interval allowance must be between 0 and 100."
+msgstr "過去到期日間隔必須在 0 到 100 間。"
+
+msgid ""
+"The payment discount must be numeric and is expected to be less than 100% "
+"and greater than or equal to 0."
+msgstr "交易編號必須是數字且大於 0 。"
+
+msgid "The periods must be greater than 0."
+msgstr "每頁的列必須大於 1"
+
+msgid ""
+"The price being invoiced is more than the purchase order price by more than "
+"the allowed over-charge percentage. The system is set up to prohibit this. "
+"See the system administrator to modify the set up parameters if necessary."
+msgstr ""
+"已開立發票的價格高於可接受的採購單價格超額比例，系統不允許此類情況，如果需要"
+"請透過管理員設定相關參數。"
+
+msgid "The price entered must be numeric and not less than zero."
+msgstr "輸入的價格必須是數字。"
+
+msgid "The price entered must be numeric."
+msgstr "輸入的價格必須是數字。"
+
+msgid "The price entered was not numeric."
+msgstr "輸入價格不是數字。"
+
+msgid "The price entered was not positive number."
+msgstr "輸入價格不是數字。"
+
+msgid "The price is calculated."
+msgstr "輸入的總額不是數值"
+
+msgid "The price is either not numeric or negative."
+msgstr "價格不是數字或小於零。"
+
+msgid "The price is not numeric."
+msgstr "輸入的總額不是數值"
+
+msgid ""
+"The process cannot be completed because there is an insufficient total "
+"quantity for a component."
+msgstr "操作無法完成，因為部份元件數量不足。"
+
+msgid ""
+"The production cannot be processed because a required item would cause a "
+"negative inventory balance :"
+msgstr "發料不能處理，因為部份物料會出現負數庫存："
+
+msgid ""
+"The production date cannot be before the release date of the work order."
+msgstr "生產日期不能在工作單發布日之前。"
+
+msgid ""
+"The production exceeds the quantity needed. Please change the Work Order."
+msgstr "生產日期不能在工作單發布日之前。"
+
+msgid "The purchasing data for this supplier has already been added."
+msgstr "供應商採購資料已新增。"
+
+msgid "The purchasing data item has been sucessfully deleted."
+msgstr "採購資料產品已成功地刪除。"
+
+msgid ""
+"The quantity being invoiced is more than the outstanding quantity by more "
+"than the allowed over-charge percentage. The system is set up to prohibit "
+"this. See the system administrator to modify the set up parameters if "
+"necessary."
+msgstr ""
+"要開立發票的數量超過現有數量允許超出的比例，系統不允許這種情形發生，如果需"
+"要，請透過系統管理員調整。"
+
+msgid ""
+"The quantity cannot be changed to be less than the quantity already "
+"manufactured for this order."
+msgstr "數量不能夠少於這張訂單已經生產數量。"
+
+msgid ""
+"The quantity entered is greater than the available quantity for this item at "
+"the source location :"
+msgstr "在來源位置中，輸入的數量大於實際擁有的數量："
+
+msgid "The quantity entered is invalid or less than zero."
+msgstr "輸入的金額是無效的或是小於零。"
+
+msgid "The quantity entered is negative or invalid."
+msgstr "輸入的價格是負數或是無效的。"
+
+msgid "The quantity entered is not a valid number or less then zero."
+msgstr "輸入的數量不是有效數字。"
+
+msgid "The quantity entered must be a positive number."
+msgstr "數量分隔必須輸入正數"
+
+msgid "The quantity entered must be numeric and greater than zero."
+msgstr "輸入的數量必須是大於 0 的正數"
+
+msgid "The quantity must be greater than zero."
+msgstr "每頁的列必須大於 1"
+
+msgid "The quantity of the order item must be numeric and not less than "
+msgstr "輸入的數量必須大於零。"
+
+msgid ""
+"The quantity received can only be modified by entering a negative receipt "
+"and the quantity invoiced can only be reduced by entering a credit note "
+"against this item."
+msgstr ""
+"這產品已接收的數量，只能用負數的接收，和已開發票的數量只能用貸方傳票來扣減"
+
+msgid "The quantity to credit must be numeric and greater than zero."
+msgstr "輸入的數量必須大於零。"
+
+msgid "The quantity to invoice must be numeric and greater than zero."
+msgstr "輸入的數量必須大於零。"
+
+msgid ""
+"The reference number field has been increased. Please save the document "
+"again."
+msgstr "參考號欄位已增加。請重新儲存文檔。"
+
+msgid "The requested delivery date is before the date of the order."
+msgstr "要求的出貨日期在訂購日期前。"
+
+msgid "The requested valid date is before the date of the quotation."
+msgstr "要求的出貨日期在訂購日期前。"
+
+msgid "The required by date entered is in an invalid format."
+msgstr "輸入依日期查詢是無效的格式。"
+
+msgid ""
+"The return cannot be processed because there is an insufficient quantity for "
+"item:"
+msgstr "工作單不能處理因為元件沒有足夠數量："
+
+msgid "The sales group description cannot be empty."
+msgstr "業務群組介紹不能空白"
+
+msgid "The sales person name cannot be empty."
+msgstr "業務員名稱不能空白。"
+
+msgid ""
+"The sales pricing for this item, sales type and currency has already been "
+"added."
+msgstr "這物料的銷售定價，銷售類型和貨幣別已經新增。"
+
+msgid "The sales type description cannot be empty."
+msgstr "稅別內容不能空白"
+
+msgid ""
+"The script must be called with a valid package id to review the info for."
+msgstr "這個腳本必須呼叫有效的交易類型及交易數來檢視過帳後的分錄帳。"
+
+msgid ""
+"The script must be called with a valid transaction type and transaction "
+"number to review the general ledger postings for."
+msgstr "這個腳本必須呼叫有效的交易類型及交易數來檢視過帳後的分錄帳。"
+
+msgid ""
+"The security settings on your account do not permit you to access this "
+"function"
+msgstr "您的使用者保安設定未允可您登用這工能"
+
+msgid ""
+"The security settings on your account do not permit you to print this report"
+msgstr "您的使用者保安設定未允可您登用這工能"
+
+msgid ""
+"The selected component contains directly or on any lower level the kit under "
+"edition. Recursive kits are not allowed."
+msgstr "選擇的元件是目前組合的組成之一，系統並不支援循環式組合。"
+
+msgid ""
+"The selected component is a parent of the current item. Recursive BOMs are "
+"not allowed."
+msgstr "選擇的元件是目前產品的組成之一，系統並不支援循環式物料表。"
+
+msgid ""
+"The selected component is already in this kit. You can modify it's quantity "
+"but it cannot appear more than once in the same kit."
+msgstr ""
+"選擇的元件已經存在於組合，您可以調整數量，但是不能夠在同一個組合中出現同樣元"
+"件兩次。"
+
+msgid ""
+"The selected component is already on this bom. You can modify it's quantity "
+"but it cannot appear more than once on the same bom."
+msgstr ""
+"選擇的元件已經存在於物料表，您可以調整數量，但是不能夠在同一個物料表中出現同"
+"樣元件兩次。"
+
+msgid "The selected currency is the company currency."
+msgstr "選擇的貨幣是公司使用貨幣。"
+
+msgid ""
+"The selected customer account is currently on hold. Please contact the "
+"credit control personnel to discuss."
+msgstr "選擇的客戶帳號目前保留中，請連絡控制信用額度的負責人。"
+
+msgid ""
+"The selected customer and branch are not valid, or the customer does not "
+"have any branches."
+msgstr "所選的客戶和分公司不是有效的，或是客戶沒有仍何分公司。"
+
+msgid ""
+"The selected customer does not have any branches. Please create at least one "
+"branch."
+msgstr "選擇的客戶沒有分公司，請至少建立一個"
+
+msgid ""
+"The selected item cannot be unassembled because there is insufficient stock."
+msgstr "選擇的產品不能夠進行反組合操作，因為庫存數量。"
+
+msgid ""
+"The selected item does not exist or it is a kit part and therefore cannot be "
+"purchased."
+msgstr "選擇的產品不存在，或者它是組合產品的元件所以不能夠進行採購。"
+
+msgid "The selected item is already on this order."
+msgstr "選擇的產品已經在訂單中。"
+
+msgid "The selected item to manufacture does not have a bom."
+msgstr "選取的生產產品沒有物料清單"
+
+msgid "The selected price has been deleted."
+msgstr "選擇的價格已刪除。"
+
+msgid "The selected transaction has already been voided."
+msgstr "所選擇的交易已被清空。"
+
+msgid "The selected transaction was closed for edition and cannot be voided."
+msgstr "輸入的交易不存在或是不能被清空。"
+
+msgid "The selected user has been updated."
+msgstr "所選擇的使用者被更新。"
+
+msgid "The shipping company name cannot be empty."
+msgstr "運送公司名稱不能空白。"
+
+msgid "The shipping cost entered is expected to be numeric."
+msgstr "船運成本請費入數值"
+
+msgid "The source and destination bank accouts cannot be the same."
+msgstr "銀行帳戶的來源及目的不可一樣"
+
+msgid ""
+"The starting transaction number is expected to be numeric and greater than "
+"zero."
+msgstr "開始交易數必須是數字且大於 0 。"
+
+msgid "The supplier name must be entered."
+msgstr "必須輸入供應商發票編號"
+
+msgid "The supplier short name must be entered."
+msgstr "必須輸入供應商發票編號"
+
+msgid "The tag name cannot be empty."
+msgstr "印表機名稱不能空白。"
+
+msgid "The tax group name cannot be empty."
+msgstr "稅別名稱不能空白"
+
+msgid "The tax type name cannot be empty."
+msgstr "稅別名稱不能空白"
+
+msgid "The total bank amount cannot be 0."
+msgstr "基礎金額說明不能空白。"
+
+msgid "The total bank amount exceeds allowed limit (%s) for source account."
+msgstr "該銀行總金額超過允許的限額（%s）為原始帳戶。"
+
+msgid "The total bank amount exceeds allowed limit (%s)."
+msgstr "該銀行總金額超過允許的限制(%s)"
+
+msgid ""
+"The total of the amount and the discount is zero or negative. Please enter "
+"positive values."
+msgstr "總額與折扣是 0 或負數，請輸入大於 0 的數值。"
+
+msgid "The transaction number is expected to be numeric and greater than zero."
+msgstr "交易編號必須是數字且大於 0 。"
+
+msgid ""
+"The unassembling cannot be processed because there is insufficient stock."
+msgstr "反組合操作無法進行，因為庫存數量。"
+
+msgid "The unit of measure code cannot be empty."
+msgstr "產品代號不能空白"
+
+msgid "The unit of measure code is too long."
+msgstr "產品代號不能空白"
+
+msgid "The unit of measure description cannot be empty."
+msgstr "度量單位不能空白"
+
+msgid "The user and password combination is not valid for the system."
+msgstr "在系統中使用者與密碼相似不是有效的"
+
+msgid "The user login entered must be at least 4 characters long."
+msgstr "使用者登入必須至少4個字元長度。"
+
+msgid "The work centre name cannot be empty."
+msgstr "工作中心名稱不能空白。"
+
+msgid "The work order been added."
+msgstr "工作單已新增。"
+
+msgid "The work order been updated."
+msgstr "工作單已更新。"
+
+msgid ""
+"The work order cannot be processed because there is an insufficient quantity "
+"for component:"
+msgstr "工作單不能處理因為元件沒有足夠數量："
+
+msgid "The work order has been released to manufacturing."
+msgstr "工作單已發到製造部。"
+
+msgid "The work order issue has been entered."
+msgstr "工作單發料已輸入。"
+
+msgid "The work order number sent is not valid."
+msgstr "傳送的工作單號碼不是有效。"
+
+msgid "Theme"
+msgstr "版面樣式"
+
+msgid "Theme:"
+msgstr "主題："
+
+msgid "There are no Issues for this Order."
+msgstr "這訂單的供應商沒有正義聯繫"
+
+msgid "There are no Productions for this Order."
+msgstr "這訂單的供應商沒有正義聯繫"
+
+msgid "There are no Requirements for this Order."
+msgstr "這訂單的供應商沒有正義聯繫"
+
+msgid ""
+"There are no account groups defined. Please define at least one account "
+"group before entering accounts."
+msgstr "沒有定義會計科目組別。請在輸入金額時，至少輸入一個會計科目組別。"
+
+msgid "There are no additional costs for this Order."
+msgstr "這訂單沒有其他成本。"
+
+msgid "There are no bank accounts defined in the system."
+msgstr "在系統中沒有銀行帳戶被定義。"
+
+msgid ""
+"There are no costable inventory items defined in the system (Purchased or "
+"manufactured items)."
+msgstr "在系統中沒有定義好且可用成本的存貨產品(已採購或已生產產品)。"
+
+msgid "There are no customers defined in the system."
+msgstr "目前沒有任何客戶。"
+
+msgid ""
+"There are no customers defined in the system. Please define a customer to "
+"add customer branches."
+msgstr "目前系統沒有任何客戶，在新增分公司之前需要先新增客戶。"
+
+msgid ""
+"There are no customers, or there are no customers with branches. Please "
+"define customers and customer branches."
+msgstr "目前沒有客戶或是具有分公司的客戶，請定義客戶與客戶分公司。"
+
+msgid ""
+"There are no delivered items with a quantity left to invoice. There is "
+"nothing left to invoice."
+msgstr "已沒有未完成訂單數量可交貨，沒有可以開發票的"
+
+msgid ""
+"There are no delivery notes for this invoice.<br>\n"
+"\t\tMost likely this invoice was created in Front Accounting version prior "
+"to 2.0\n"
+"\t\tand therefore can not be modified."
+msgstr ""
+"這張發票沒有送貨單。<br> \n"
+"\t\t 之前2.0 \n"
+"大部分可能這張發票是在前面的會計版本中建立\t\t 因此不能進行修改。"
+
+msgid ""
+"There are no inventory items defined in the system (Purchased or "
+"manufactured items)."
+msgstr "在系統中(已採購或是已生產產品)沒有定義的存貨產品。"
+
+msgid ""
+"There are no inventory items defined in the system which can be adjusted "
+"(Purchased or Manufactured)."
+msgstr "在系統中沒有定義的存貨產品可以調整(已採購或是已生產)。"
+
+msgid "There are no inventory items defined in the system."
+msgstr "目前系統沒有任何庫存產品。"
+
+msgid ""
+"There are no inventory movement types defined in the system. Please define "
+"at least one inventory adjustment type."
+msgstr "在系統中沒有定義調貨類型。請至少定義一個存貨調整類型。"
+
+msgid ""
+"There are no item categories defined in the system. At least one item "
+"category is required to add a item."
+msgstr "目前系統尚未定義產品類別，在新增產品前需要至少一個產品類別。"
+
+msgid "There are no item quantities on this delivery note."
+msgstr "這筆沒有此筆存款。"
+
+msgid "There are no item quantities on this invoice."
+msgstr "這個發票沒有產品數量。"
+
+msgid ""
+"There are no item tax types defined in the system. At least one item tax "
+"type is required to add a item."
+msgstr "目前系統尚未定義產品稅別，在新增產品前需要至少一個產品稅別。"
+
+msgid "There are no items defined in the system."
+msgstr "在系統中沒有定義的產品。"
+
+msgid "There are no items for this deposit."
+msgstr "這筆沒有此筆存款。"
+
+msgid "There are no items for this issue."
+msgstr "這張發料沒有產品。"
+
+msgid "There are no items for this payment."
+msgstr "沒有付款的產品"
+
+msgid "There are no line items on this credit note."
+msgstr "這個貸方傳票沒有輸入產品"
+
+msgid "There are no line items on this dispatch."
+msgstr "這筆沒有此筆存款。"
+
+msgid "There are no line items on this invoice."
+msgstr "這個發票沒有輸入產品"
+
+msgid "There are no manufacturable items defined in the system."
+msgstr "目前系統沒有定義任何可以生產的產品。"
+
+msgid "There are no manufactured or kit items defined in the system."
+msgstr "目前系統沒有定義可生產或組合產品。"
+
+msgid ""
+"There are no outstanding items received from this supplier that have not "
+"been invoiced by them."
+msgstr "所有來自這個供應商的已開立發票產品都已驗收。"
+
+msgid "There are no prices set up for this part."
+msgstr "這個部分/零件沒有設定價格。"
+
+msgid "There are no purchasable inventory items defined in the system."
+msgstr "在系統中沒有可用的採購存貨產品。"
+
+msgid ""
+"There are no received items for the selected supplier that have been "
+"invoiced."
+msgstr "選擇的供應商尚未有已經開立發票的進貨產品。"
+
+msgid ""
+"There are no sales areas defined in the system. At least one sales area is "
+"required before proceeding."
+msgstr "目前系統沒有任何業務區，在處理前需要先新增一個。"
+
+msgid ""
+"There are no sales people defined in the system. At least one sales person "
+"is required before proceeding."
+msgstr "目前系統沒有任何業務人員，在處理前需要先新增一個。"
+
+msgid ""
+"There are no sales types defined. Please define at least one sales type "
+"before adding a customer."
+msgstr "沒有定義的銷售類型。新增一個客戶之前，請至少定義一個銷售類型。"
+
+msgid ""
+"There are no sales types in the system. Please set up sales types befor "
+"entering pricing."
+msgstr "系統中沒有銷貨類型。輸入價格前請設定銷貨類型。"
+
+msgid ""
+"There are no shipping companies defined in the system. At least one shipping "
+"company is required before proceeding."
+msgstr "目前系統沒有任何貨運公司，在處理前需要先新增一個。"
+
+msgid "There are no suppliers defined in the system."
+msgstr "系統中沒有定義供應商。"
+
+msgid ""
+"There are no tax groups defined in the system. At least one tax group is "
+"required before proceeding."
+msgstr "目前沒有定義任何稅組，在處理前至少要有一個。"
+
+msgid ""
+"There are no tax types defined. Define tax types before defining tax groups."
+msgstr "目前沒有定義任何稅別，定義稅組之前需要先定義稅別。"
+
+msgid "There are no transactions for this dimension for the selected period."
+msgstr "選擇的期間在這個範圍沒有交易。"
+
+msgid "There are no unsettled transactions to allocate."
+msgstr "沒有顯示交易自從"
+
+msgid ""
+"There are no work centres defined in the system. BOMs require at least one "
+"work centre be defined."
+msgstr "目前沒有定義任何工作中心，物料表(BOM)需要至少一個工作中心。"
+
+msgid "There is no customer selected."
+msgstr "沒有產品可選。"
+
+msgid "There is no delivery address specified."
+msgstr "沒有指定出貨地址。"
+
+msgid "There is no item selected."
+msgstr "沒有產品可選。"
+
+msgid "There is no location specified to move any items into."
+msgstr "沒有指定產品調貨的目的地。"
+
+msgid "There is no purchasing data set up for the part selected"
+msgstr "所選的部份沒有設定採購資料"
+
+msgid "There is no reference entered for this purchase order."
+msgstr "這個採購單沒有輸入參考資料。"
+
+msgid "There is no supplier selected."
+msgstr "沒有產品可選。"
+
+msgid ""
+"There is nothing to process. Please enter valid quantities greater than zero."
+msgstr "沒有處理。請輸入大於零的有效數量。"
+
+msgid ""
+"These allocations cannot be processed because the amount allocated is more "
+"than the total amount left to allocate."
+msgstr "這些配置無法處理，因為分配的數量超過可分配數量。"
+
+msgid "This Allocation"
+msgstr "客戶配置"
+
+msgid "This Delivery"
+msgstr "這交貨"
+
+msgid "This Dimension is closed."
+msgstr "範圍被關閉。"
+
+msgid "This Invoice"
+msgstr "列印這發票"
+
+msgid "This Period"
+msgstr "本期"
+
+msgid "This Sales Order is used as a Template."
+msgstr "這個銷貨訂單是用來作為樣板"
+
+msgid ""
+"This Work Order cannot be released. The selected item to manufacture does "
+"not have a bom."
+msgstr "這個工作單無法釋出，選擇要生產的產品沒有建立物料表(bom)。"
+
+msgid "This account group id is already in use."
+msgstr "輸入的參考資料已被使用。"
+
+msgid "This adjustment has been voided."
+msgstr "這筆調整已清空。"
+
+msgid "This credit note has been voided."
+msgstr "這個貸方通知書已清空。"
+
+msgid "This customer account is on hold."
+msgstr "這個客戶帳號保留中"
+
+msgid ""
+"This customer cannot be deleted because there are transactions that refer to "
+"it."
+msgstr "這客戶不能刪除，因為已有交易"
+
+msgid "This customer has no branch defined."
+msgstr "這個客戶付款已清空。"
+
+msgid "This customer payment has been voided."
+msgstr "這個客戶付款已清空。"
+
+msgid "This database settings are already used by another company."
+msgstr "這個資料庫設定已經有其他公司使用。"
+
+msgid "This delivery has all items invoiced. There is nothing to modify."
+msgstr "這個出貨單的所有產品已經開立發票，沒有可以修改的資料。"
+
+msgid "This delivery has been voided."
+msgstr "這筆運送已清空。"
+
+msgid "This deposit has been voided."
+msgstr "這一筆存款已被清空。"
+
+msgid "This dimension cannot be deleted because it has already been processed."
+msgstr "範圍不能被刪除，因為已被處理。"
+
+msgid "This dimension is closed."
+msgstr "範圍被關閉。"
+
+msgid "This dispatch has been voided."
+msgstr "這價格已刪除"
+
+msgid ""
+"This edit session has been abandoned by opening sales document in another "
+"browser tab. You cannot edit more than one sales document at once."
+msgstr ""
+"這個編輯連線已經被取消，也許是透過其他瀏覽器畫面開啟了銷貨文件，一次不能夠編"
+"輯多個銷貨文件"
+
+msgid "This invoice has been voided."
+msgstr "這張發票已清空。"
+
+msgid ""
+"This invoice number has already been entered. It cannot be entered again."
+msgstr "這個發票號碼已經使用過，不能夠重複輸入。("
+
+msgid ""
+"This is a service and cannot have a stock holding, only the total quantity "
+"on outstanding sales orders is shown."
+msgstr "這是一個服務，所以不能夠保留庫存，只會顯示目前銷售訂單產生的總數。"
+
+msgid "This issue has been voided."
+msgstr "這個發料已清空了。"
+
+msgid ""
+"This item cannot be deleted because it is the last item in the kit used by "
+"following kits"
+msgstr "這個產品無法刪除，因為下面組合有使用到"
+
+msgid ""
+"This item cannot be deleted because some code aliases \n"
+"\t\t\t\tor foreign codes was entered for it, or there are kits defined \n"
+"\t\t\t\tusing this item as component"
+msgstr ""
+"這個產品不能夠刪除，因為有代碼別稱或外部代碼產生關聯，或是有組合使用這個產品"
+"作為元件。"
+
+msgid ""
+"This item cannot be deleted because some of it has already been delivered."
+msgstr "這產品未能刪除，因為已有部份接收"
+
+msgid ""
+"This item cannot be deleted because some of it has already been received."
+msgstr "這產品未能刪除，因為已有部份接收"
+
+msgid "This item code is already assigned to stock item or sale kit."
+msgstr "這個產品代碼已經有庫存產品或銷貨組合使用。"
+
+msgid "This item is already on this document. You have been warned."
+msgstr "產品已經存在於這個文件，您已經被警告過"
+
+msgid ""
+"This order cannot be cancelled because some of it has already been received."
+msgstr "這訂單不能刪除,因為已有部份接收"
+
+msgid ""
+"This order has been changed or invoiced since this delivery was started to "
+"be actioned. Processing halted. To enter a delivery against this purchase "
+"order, it must be re-selected and re-read again to update the changes made "
+"by the other user."
+msgstr ""
+"這個訂單在出貨前已經有異動或是已經開立發票，處理產生錯誤。要輸入這張採購單的"
+"出貨資料，必須重新選擇以及重新讀取來取得其他使用者更新的資訊。"
+
+msgid "This order has no items. There is nothing to delivery."
+msgstr "這張訂單沒有產品，所以無法出貨。"
+
+msgid ""
+"This page can only be opened after delivery selection. Please select "
+"delivery to invoicing first."
+msgstr "此頁面只能交付選擇後打開。首先發票請選擇送貨。++"
+
+msgid ""
+"This page can only be opened if a purchase order has been selected. Please "
+"select a purchase order first."
+msgstr "此頁只有在已選取工作單才能開啟, 請先選取要接收的工作單"
+
+msgid ""
+"This page can only be opened if an invoice has been selected for crediting."
+msgstr "此頁只有選取要貸方發票時才會開啟"
+
+msgid ""
+"This page can only be opened if an order or delivery note has been selected. "
+"Please select it first."
+msgstr "這個頁面只有在選擇訂單或出貨單時才會開啟，請先選擇。"
+
+msgid "This page is usable only with javascript enabled browsers."
+msgstr "這個頁面需要支援 javascript 的瀏覽器。"
+
+msgid ""
+"This page must be called with a Purchase Order Delivery number to review."
+msgstr "這個頁面必須透過輸入採購單出貨編號來檢視。"
+
+msgid "This page must be called with a purchase order number to review."
+msgstr "此頁必須從採購訂單編號來叫出顯示"
+
+msgid "This payment has been voided."
+msgstr "這筆付款已被清空"
+
+msgid "This price has been updated."
+msgstr "價格已更新。"
+
+msgid "This production has been voided."
+msgstr "這筆生產已清空。"
+
+msgid "This purchase order has been cancelled."
+msgstr "要求的銷售訂單已刪除"
+
+msgid "This role is currently assigned to some users and cannot be deleted"
+msgstr "標示的貨幣不能被刪除。"
+
+msgid "This sales order has been cancelled as requested."
+msgstr "要求的銷售訂單已刪除"
+
+msgid "This sales quotation has been cancelled as requested."
+msgstr "要求的銷貨訂單已刪除"
+
+msgid "This supplier purchasing data has been added."
+msgstr "供應商採購資料已新增。"
+
+msgid "This transaction has been voided."
+msgstr "這筆交易已清空。"
+
+msgid "This transfer has been voided."
+msgstr "這一筆交易被清空。"
+
+msgid ""
+"This work order cannot be deleted because it has already been processed."
+msgstr "工作單不能刪除因為已處理。"
+
+msgid "This work order has already been released."
+msgstr "工作單已發出。"
+
+msgid ""
+"This work order has been closed. There can be no more issues against it."
+msgstr "這個工作單已關閉。不能再發料了。"
+
+msgid "This work order has been voided."
+msgstr "這張工作單已清空。"
+
+msgid "This work order is closed and cannot be edited."
+msgstr "工作單已關閉且不能編輯。"
+
+msgid "This work order is closed."
+msgstr "這工作單已完結"
+
+msgid "Thousand Separator:"
+msgstr "千位數分隔點："
+
+msgid "Time"
+msgstr "金額"
+
+msgid "Time Zone on Reports"
+msgstr "時區"
+
+msgid "Timeout"
+msgstr "時間限制"
+
+msgid "Timeout cannot be less than zero nor longer than 60 (sec)."
+msgstr "時間限制不能夠小於 0 或大於 60 (秒)。 "
+
+msgid "Tmpl"
+msgstr "樣板"
+
+msgid "To"
+msgstr "至"
+
+msgid "To Account"
+msgstr "給會計枓目"
+
+msgid "To Account:"
+msgstr "到哪個會計科目："
+
+msgid "To Bank Account"
+msgstr "給銀行帳戶"
+
+msgid "To Be Invoiced Before"
+msgstr "已接收但未開發票的產品從"
+
+msgid "To Dimension"
+msgstr "生效致"
+
+msgid "To Location"
+msgstr "收貨地區"
+
+msgid "To Location:"
+msgstr "到存貨地區"
+
+msgid "To Supplier"
+msgstr "供應商編號結束"
+
+msgid "To Work Centre"
+msgstr "目的工作中心"
+
+msgid "To Work Centre:"
+msgstr "工作中心已增加"
+
+msgid ""
+"To avoid problems with manual journal entry all tax types should have unique "
+"Sales/Purchasing GL accounts."
+msgstr ""
+"為了避免出現問題與人工日記帳分錄的所有稅種應該有單一的銷售/採購總帳帳戶。"
+
+msgid "To have cash POS first define at least one cash bank account."
+msgstr "有現金銷售點，首先至少定義一個現金的銀行賬戶。"
+
+msgid "To product"
+msgstr "到哪個銀行帳戶："
+
+msgid "To switch debugging on set $go_debug>0 in config.php file"
+msgstr "切換調試，在config.php文件中設定$ go_debug>0"
+
+msgid "To switch error logging set $error_logging in config.php file"
+msgstr "切換錯誤日誌記錄並設置$ error_logging的config.php文件"
+
+msgid "To the Order of:"
+msgstr "返回銷售訂單"
+
+msgid "To:"
+msgstr "到："
+
+msgid "Too many failed login attempts.<br>Please wait a while or try later."
+msgstr "過多失敗的登錄嘗試。 <br>請稍候片刻，或稍後再試。"
+
+msgid "Total"
+msgstr "全部"
+
+msgid "Total Allocated"
+msgstr "全部被指定"
+
+msgid "Total Allocated:"
+msgstr "全部指定："
+
+msgid "Total Amount"
+msgstr "全部金額"
+
+msgid "Total Balance"
+msgstr "總餘額"
+
+msgid "Total Cost"
+msgstr "全部成本"
+
+msgid "Total Debit / Credit"
+msgstr "貸方總計 "
+
+msgid "Total Quantity"
+msgstr "總數量"
+
+msgid "Total Tax Excluded"
+msgstr "稅前銷貨總額"
+
+msgid "Total ex. Tax"
+msgstr "稅前銷貨總額"
+
+msgid "Total payable or refund"
+msgstr "應付或退款總額"
+
+msgid "Total:"
+msgstr "總計"
+
+msgid "Trans #"
+msgstr "交易類別"
+
+msgid "Trans Date"
+msgstr "上傳日期"
+
+msgid "Trans Type"
+msgstr "交易類別"
+
+msgid "Transaction #"
+msgstr "交易 #："
+
+msgid "Transaction #:"
+msgstr "交易 #："
+
+msgid "Transaction Type"
+msgstr "交易類型"
+
+msgid "Transactions"
+msgstr "交易"
+
+msgid "Transfer"
+msgstr "轉帳"
+
+msgid "Transfer Date:"
+msgstr "轉帳日期："
+
+msgid "Transfer Type"
+msgstr "交易類型"
+
+msgid "Transfer Type:"
+msgstr "交易類型："
+
+msgid "Transfer between Bank Accounts"
+msgstr "銀行帳戶間轉帳"
+
+msgid "Transfer has been entered"
+msgstr "交易已被輸入"
+
+msgid "Trial &Balance"
+msgstr "試算表(&B)"
+
+msgid "Trial Balance"
+msgstr "試算表"
+
+msgid "Try again"
+msgstr "再試一次"
+
+msgid "Tu"
+msgstr "二"
+
+msgid "Turnover"
+msgstr "營業額"
+
+msgid "Type"
+msgstr "類型"
+
+msgid "Type Name"
+msgstr "類別名稱"
+
+msgid "Type id"
+msgstr "報表編號"
+
+msgid "Type/Account"
+msgstr "類型/會計科目"
+
+msgid "Type:"
+msgstr "類別："
+
+msgid "UOM"
+msgstr "單位"
+
+msgid "UPC/EAN code:"
+msgstr "UPC/EAN 代碼："
+
+msgid "Unassemble"
+msgstr "反組裝"
+
+msgid "Undelivered part of order has been cancelled as requested."
+msgstr "訂單無法出貨的部份品項已經依據要求取消"
+
+msgid "Unit"
+msgstr "單位"
+
+msgid "Unit Abbreviation:"
+msgstr "單位代號："
+
+msgid "Unit Cost"
+msgstr "單位成本"
+
+msgid "Unit Price"
+msgstr "價格表"
+
+msgid "Unit Quantity"
+msgstr "有數量的"
+
+msgid "Units"
+msgstr "單位"
+
+msgid "Units Issued"
+msgstr "發放日期"
+
+msgid "Units of Measure"
+msgstr "度量單位"
+
+msgid "Units of Measure:"
+msgstr "度量單位："
+
+msgid "Units of measure"
+msgstr "度量單位(&U)"
+
+msgid "Unknown"
+msgstr "我們願與你做生意，但這些登錄憑證為我們未知的。"
+
+msgid "Unknown report parameter type:"
+msgstr "報表類型"
+
+msgid "Unspecified tag type"
+msgstr "科目/稅"
+
+msgid ""
+"Unsuspected overallocation happened due to sparse credit notes exists for "
+"this invoice.\n"
+" Check all credit notes allocated to this invoice for summarized freight "
+"charges."
+msgstr ""
+"非預期的過度分配發生了因短少的信用票據存在此發票。\n"
+" 檢查分配給該發票總運費的所有信用票據。"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update Account"
+msgstr "更新會計科目"
+
+msgid "Update Customer"
+msgstr "更新客戶"
+
+msgid "Update GRN"
+msgstr "更新設定"
+
+msgid "Update Invoice"
+msgstr "直接開立發票(&I)"
+
+msgid "Update Item"
+msgstr "更新產品"
+
+msgid "Update Order"
+msgstr "更新訂單"
+
+msgid "Update Payment"
+msgstr "付款條件"
+
+msgid "Update Profile"
+msgstr "更新設定"
+
+msgid "Update Supplier"
+msgstr "更新供應商"
+
+msgid "Update credit value for quantities entered"
+msgstr "更新貸方數值為輸入的數量"
+
+msgid "Update customer data"
+msgstr "維護客戶資料"
+
+msgid "Update default"
+msgstr "未能更新為這分公司的預設物流公司, 因為"
+
+msgid "Update kit/alias name"
+msgstr "更新組合名稱/代稱"
+
+msgid "Update printer profile"
+msgstr "更新印表機設定"
+
+msgid "Update supplier data"
+msgstr "供應商採購數據"
+
+msgid "Update view"
+msgstr "檢視備份"
+
+msgid "Updated."
+msgstr "更新"
+
+msgid "Upgrade MySQL server to version at least 4.1"
+msgstr "升級MySQL的服務器的版本至少4.1"
+
+msgid "Upgrade PHP to version at least 4.3.3"
+msgstr "PHP升級至少到版本4.3.3"
+
+msgid ""
+"Upgrade cannot be done because database has been already partially upgraded. "
+"Please downgrade database to clean previous version or try forced upgrade."
+msgstr ""
+"升級無法完成，因為數據庫已被部分升級。請降級數據庫清理以前的版本，或嘗試強制"
+"升級。"
+
+msgid "Upgrade from version 2.0 to 2.1"
+msgstr "從 2.0 版升級到 2.1"
+
+msgid "Upgrade from version 2.1/2.2beta to 2.2"
+msgstr "從 2.1/2.2beta 升級到 2.2"
+
+msgid "Upgrade from version 2.2 to 2.3"
+msgstr "從 2.2 版升級到 2.3"
+
+msgid "Upgrade system"
+msgstr "執行升級"
+
+msgid "Upload and install latest extension package"
+msgstr "上傳和安裝最新擴展包"
+
+msgid "Upload and install latest language package"
+msgstr "上傳和安裝最新的語言包"
+
+msgid "Upload file"
+msgstr "上傳檔案"
+
+msgid "Use Dimensions:"
+msgstr "使用範圍："
+
+msgid "Use Item Inventory/COGS Account"
+msgstr "存貨會計科目："
+
+msgid "Use Item Sales Accounts"
+msgstr "產品銷售科目"
+
+msgid "Use icons instead of text links:"
+msgstr "使用圖示取代文字連結："
+
+msgid "Use popup window for reports:"
+msgstr "使用彈出視窗來顯示報表："
+
+msgid "Use popup window to display reports:"
+msgstr "使用彈出視窗來顯示報表："
+
+msgid "User"
+msgstr "帳號"
+
+msgid "User Login:"
+msgstr "使用者登入："
+
+msgid "User Quantity Decimals"
+msgstr "自訂數量小數點位置"
+
+msgid "User has been deleted."
+msgstr "使用者被刪除。"
+
+msgid "User login"
+msgstr "使用者登入"
+
+msgid "User login:"
+msgstr "使用者登入："
+
+msgid "User name"
+msgstr "帳號"
+
+msgid "User's POS"
+msgstr "使用者的收銀機"
+
+msgid "Users"
+msgstr "使用者"
+
+msgid "Users setup"
+msgstr "公司設定"
+
+msgid "Valid until"
+msgstr "有效"
+
+msgid "Validate changes and update document"
+msgstr "檢查異動與更新文件"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Version Id"
+msgstr "版本"
+
+msgid "Vertical bars"
+msgstr "垂直列"
+
+msgid "View"
+msgstr "檢視"
+
+msgid "View Attachment"
+msgstr "新增附加檔案"
+
+msgid "View Backup"
+msgstr "檢視備份"
+
+msgid "View Bank Deposit"
+msgstr "檢視銀行存款"
+
+msgid "View Bank Payment"
+msgstr "檢視銀行付款"
+
+msgid "View Bank Transfer"
+msgstr "檢視銀行轉帳"
+
+msgid "View Credit Note"
+msgstr "貸方傳票編號"
+
+msgid "View Customer Payment"
+msgstr "付款折扣百份比"
+
+msgid "View Dimension"
+msgstr "視視範圍"
+
+msgid "View Inventory Adjustment"
+msgstr "輸入一個存貨調整"
+
+msgid "View Inventory Transfer"
+msgstr "檢視調貨"
+
+msgid "View Payment to Supplier"
+msgstr "輸入付款到供應商"
+
+msgid "View Purchase Order"
+msgstr "接收採購訂單"
+
+msgid "View Purchase Order Delivery"
+msgstr "訂單交貨差異報表"
+
+msgid "View Sales Dispatch"
+msgstr "派送範圍至"
+
+msgid "View Sales Invoice"
+msgstr "選擇要開發票的銷售訂單"
+
+msgid "View Sales Order"
+msgstr "輸入銷貨訂單"
+
+msgid "View Sales Quotation"
+msgstr "檢視銷售報價單"
+
+msgid "View Supplier Credit Note"
+msgstr "供應商貸方傳票參考"
+
+msgid "View Supplier Invoice"
+msgstr "輸入供應商發票"
+
+msgid "View Work Order"
+msgstr "檢視工作單"
+
+msgid "View Work Order Issue"
+msgstr "檢視工作單發行"
+
+msgid "View Work Order Production"
+msgstr "這工作單已新增"
+
+msgid "View or &Print Transactions"
+msgstr "檢視或列印交易(&P)"
+
+msgid "View or Print Transactions"
+msgstr "檢視或列印交易"
+
+msgid "View the GL &Journal Entries for this Credit Note"
+msgstr "檢視這個貸方傳票的日記帳(&J)"
+
+msgid "View the GL &Journal Entries for this Invoice"
+msgstr "檢視這個發票的日記帳資料(&J)"
+
+msgid "View the GL &Journal Entries for this Payment"
+msgstr "檢視這個付款的日記簿資料(&J)"
+
+msgid "View the GL &Postings for this Adjustment"
+msgstr "檢視這個調整的會計過帳(&P)"
+
+msgid "View the GL Journal Entries for this Cost Update"
+msgstr "檢視這筆成本更新的會計日記簿輸入產品"
+
+msgid "View the GL Journal Entries for this Credit Note"
+msgstr "檢視這張貸方船票的日記帳資料"
+
+msgid "View the GL Journal Entries for this Delivery"
+msgstr "檢視這一筆轉帳的會計日記帳資料(&V)"
+
+msgid "View the GL Journal Entries for this Dispatch"
+msgstr "檢視這筆成本更新的會計日記簿輸入產品"
+
+msgid "View the GL Journal Entries for this Invoice"
+msgstr "檢視這個發票的會計資料"
+
+msgid "View the GL Journal Entries for this Work Order"
+msgstr "檢視這個工作單的帳務資料"
+
+msgid "View the GL Postings for this Deposit"
+msgstr "檢視這一筆已過帳的存款資料"
+
+msgid "View this Credit Note"
+msgstr "列印此貸方傳票"
+
+msgid "View this Invoice"
+msgstr "列印這發票"
+
+msgid "View this Work Order"
+msgstr "檢視工作單"
+
+msgid "View this delivery"
+msgstr "訂單交貨資料"
+
+msgid "Void Transaction"
+msgstr "清空的交易"
+
+msgid "Void a Transaction"
+msgstr "取消一筆交易"
+
+msgid "Voided."
+msgstr "清空的日期："
+
+msgid "Voiding Date:"
+msgstr "清空日期："
+
+msgid "Voiding Work Order Trans # "
+msgstr "檢視工作單"
+
+msgid "Voiding transactions"
+msgstr "客戶交易"
+
+msgid "W"
+msgstr "三"
+
+msgid ""
+"WARNING! Be careful with removal. The operation is executed immediately and "
+"cannot be undone !!!"
+msgstr "警告！移除的操作是無法還原的！"
+
+msgid "WI"
+msgstr "三"
+
+msgid "WO"
+msgstr "三"
+
+msgid "WORK ORDER"
+msgstr "工作單編號："
+
+msgid "WP"
+msgstr "三"
+
+msgid "Warning:  This may cause a delay in GL postings"
+msgstr "警告：這可能會導致總帳過帳延遲"
+
+msgid ""
+"Warning: Deleting a fiscal year all transactions \n"
+"\t\tare removed and converted into relevant balances. This process is "
+"irreversible!"
+msgstr ""
+"警告：刪除一個會計年度的所有交易將被移除，並轉換成相應的平衡。這個過程是不可"
+"逆的！"
+
+msgid "We"
+msgstr "三"
+
+msgid "Website:"
+msgstr "網站："
+
+msgid "Weekly"
+msgstr "每週"
+
+msgid "With thanks from"
+msgstr "從銀行帳戶來的"
+
+msgid "Work &Order Entry"
+msgstr "工作單(&O)"
+
+msgid "Work Centre"
+msgstr "工作中心"
+
+msgid "Work Centre Added:"
+msgstr "新增的工作中心："
+
+msgid "Work Centres"
+msgstr "工作中心"
+
+msgid "Work Order"
+msgstr "工作單"
+
+msgid "Work Order #:"
+msgstr "工作單編號："
+
+msgid "Work Order &Inquiry"
+msgstr "工作單查詢(&I)"
+
+msgid "Work Order Additional Costs"
+msgstr "工作單其他成本"
+
+msgid "Work Order Entry"
+msgstr "工作單輸入"
+
+msgid "Work Order Issue"
+msgstr "發放到工作單"
+
+msgid "Work Order No."
+msgstr "訂單編號"
+
+msgid "Work Order Production"
+msgstr "輸入工作單"
+
+msgid "Work Order Reference:"
+msgstr "工作單參考："
+
+msgid "Work Order Release to Manufacturing"
+msgstr "工作單發布到製造部"
+
+msgid "Work Order Required By After:"
+msgstr "預設之後的需求工作單："
+
+msgid "Work Order Requirements"
+msgstr "工作單需求"
+
+msgid "Work order analytical reports and inquiries"
+msgstr "工作單的分析報告和查詢"
+
+msgid "Work order bulk reports"
+msgstr "檢視工作單"
+
+msgid "Work order entry"
+msgstr "工作單(&O)"
+
+msgid "Work order has been deleted."
+msgstr "工作單已被刪除。"
+
+msgid "Work order releases"
+msgstr "工作單(&O)"
+
+msgid "Write off the cost of the items to"
+msgstr "勾消貨品的成本到"
+
+msgid "Wrk Ctr"
+msgstr "工作中心"
+
+msgid "YTD"
+msgstr "年度至指定日期"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Yearly"
+msgstr "年"
+
+msgid "Yes"
+msgstr "是"
+
+msgid ""
+"You are about to cancel undelivered part of this order.\\nDo you want to "
+"continue?"
+msgstr "您將要取消該訂單未交付的一部分。\\ñ你要繼續嗎？"
+
+msgid ""
+"You are about to remove all yet non-invoiced items from selected delivery "
+"line. This operation also irreversibly changes related order line. Do you "
+"want to continue ?"
+msgstr ""
+"您將要刪除選定的派送行，尚未全部未開發票物料。此操作也不可逆轉地改變相關訂單"
+"行。你要繼續嗎？"
+
+msgid ""
+"You are about to remove language \\'%s\\'.\n"
+"Do you want to continue ?"
+msgstr "您正在移除這個語言 %s,確定繼續?"
+
+msgid ""
+"You are about to remove package \\'%s\\'.\n"
+"Do you want to continue ?"
+msgstr "您正在移除這個系統 %s,確定繼續?"
+
+msgid ""
+"You are about to remove selected backup file.\n"
+"Do you want to continue ?"
+msgstr "您將要刪除選定的備份文件。你要繼續嗎？"
+
+msgid ""
+"You are about to restore database from backup file.\n"
+"Do you want to continue?"
+msgstr "你即將從備份文件復原數據庫。你要繼續嗎？"
+
+msgid "You are about to void this Document.\\nDo you want to continue?"
+msgstr "您正在取消這個文件\n確定繼續？"
+
+msgid ""
+"You are attempting to make the quantity ordered a quantity less than has "
+"already been invoiced or received.  This is prohibited."
+msgstr "您試嘗制定訂單數量小於改開發票或已接收的數量，這是不允的"
+
+msgid ""
+"You attempting to make the quantity ordered a quantity less than has already "
+"been delivered. The quantity delivered cannot be modified retrospectively."
+msgstr "您正試著讓訂購數量低於已出貨數量，已出貨數量不能夠回頭修改。"
+
+msgid ""
+"You can edit directly only journal entries created via Journal Entry page."
+msgstr "您可以經由編輯日記帳分錄頁面直接新建日記帳。"
+
+msgid "You can only upload *.sql backup files"
+msgstr "你只能上傳*.SQL備份文件"
+
+msgid "You can only use Balance Based together with Journal Entries."
+msgstr "您只能使用基於平衡與日記帳分錄。"
+
+msgid "You can pay through"
+msgstr "付款可以透過"
+
+msgid ""
+"You cannot have table set without prefix together with prefixed sets in the "
+"same database."
+msgstr "在同一個資料庫中不能夠同時存在有無前置字元的資料表設定。"
+
+msgid ""
+"You cannot make a journal entry for a bank account. Please use one of the "
+"banking functions for bank transactions."
+msgstr "您不能為銀行帳戶產生一筆日記帳輸入。銀行交易請使用銀行功能。"
+
+msgid "You cannot set an account group to be a subgroup of itself."
+msgstr "您不能設定會計科目群組到他自己的子群組內。"
+
+msgid "You have no email contact defined for this type of document for '%s'."
+msgstr "你有這種類型的文檔'%s'的電子郵件沒有設定聯絡人。"
+
+msgid "You have selected printing to server at user IP."
+msgstr "您已經選擇在使用者 IP 列印到伺服器。"
+
+msgid "You have to enter valid stock code or nonempty description"
+msgstr "您必須輸入正確的庫存代碼或非空白的描述"
+
+msgid "You have to select at least one category."
+msgstr "請選擇檔案以便更新"
+
+msgid "You have to select customer and customer branch."
+msgstr "選擇這個客戶並且回到文件輸入。"
+
+msgid "You have to select supplier."
+msgstr "輸入付款到供應商"
+
+msgid "You must enter a reference."
+msgstr "您必須輸入一個參考值。"
+
+msgid "You must enter a supplier's credit note reference."
+msgstr "您必須輸入供應商的貸方傳票參考。"
+
+msgid "You must enter a supplier's invoice reference."
+msgstr "您必須輸入一個供應商的發票參考。"
+
+msgid "You must enter an credit note reference."
+msgstr "您必須輸入貸方通知書的參考資料"
+
+msgid "You must enter an invoice reference."
+msgstr "您必須輸入一個發票參考。"
+
+msgid "You must enter at least one journal line."
+msgstr "至少需要輸入一筆日記帳資料。"
+
+msgid "You must enter at least one non empty item line."
+msgstr "您必須輸入貸方通知書的參考資料"
+
+msgid "You must enter at least one payment line."
+msgstr "付款資料至少需要輸入一筆。"
+
+msgid "You must enter either a debit amount or a credit amount."
+msgstr "您必須輸入借方或是貸方金額。"
+
+msgid ""
+"You must enter the person or company to whom delivery should be made to."
+msgstr "必須輸入收貸人或公司"
+
+msgid "You need to define a cash account for your Sales Point."
+msgstr "您需要定義您的銷售點現金帳戶。"
+
+msgid "You should automatically be forwarded."
+msgstr "畫面會自動轉換。"
+
+msgid ""
+"You should enter the street address in the box provided. Orders cannot be "
+"accepted without a valid street address."
+msgstr "您必須在所提供的箱子中輸入街名。訂單沒有有效的街名是不被接受。"
+
+msgid "You should restore company database from latest backup file"
+msgstr "需要將最近一次的備份資料還原"
+
+msgid "Your PHP has to have MySQL extension enabled."
+msgstr "你的PHP必須有MySQL擴展功能。"
+
+msgid "Your VAT no."
+msgstr "您們的加值稅編號"
+
+msgid "Your password has been updated."
+msgstr "您的密碼已經更新"
+
+msgid "Zero values"
+msgstr "零值"
+
+msgid "Zero/negative inventory handling"
+msgstr "允許負數的存貨。"
+
+msgid "and"
+msgstr "和"
+
+msgid "as of"
+msgstr "截止"
+
+msgid "at Location:"
+msgstr "地區："
+
+msgid "at line "
+msgstr "地址列 1"
+
+msgid "balance from account"
+msgstr "從銀行帳戶來的"
+
+msgid "cannot find backup directory"
+msgstr "找不到備份目錄"
+
+msgid "click here"
+msgstr "按此"
+
+msgid "currency"
+msgstr "貨幣"
+
+msgid "days"
+msgstr "天數"
+
+msgid "description"
+msgstr "說明"
+
+msgid "email"
+msgstr "電子信箱"
+
+msgid "email Customers"
+msgstr "客戶貨幣"
+
+msgid "for item:"
+msgstr "產品："
+
+msgid "from #:"
+msgstr "從 # ："
+
+msgid "from:"
+msgstr "從："
+
+msgid "has been sent by email to destination."
+msgstr "上次已發送到無線電指標"
+
+msgid "in file"
+msgstr "檔案路徑"
+
+msgid "in units of : "
+msgstr "單位"
+
+msgid "into location:"
+msgstr "交貨到地區"
+
+msgid "kit"
+msgstr "組合"
+
+msgid "kits"
+msgstr "組"
+
+msgid "no title was found in this report definition file."
+msgstr "在報表定義檔案中沒有發現標題。"
+
+msgid "number"
+msgstr "數字"
+
+msgid "per"
+msgstr "件"
+
+msgid "qty Inv"
+msgstr "發票數量"
+
+msgid "seconds"
+msgstr "超時（秒）"
+
+msgid "show settled:"
+msgstr "顯示上月清算"
+
+msgid "to #:"
+msgstr "到 # ："
+
+msgid "to continue"
+msgstr "繼續"
+
+msgid "to:"
+msgstr "到："
+
+msgid "user online"
+msgstr "帳號"
+
+msgid "users online"
+msgstr "客戶於"

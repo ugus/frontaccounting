@@ -59,7 +59,6 @@
 		{
 			$this->LineTo($col += $width, $iline2,$col, $iline4);
 		}
-		$this->LineTo($right, $iline2 ,$right, $iline4);
 		$this->LineTo($this->leftMargin, $iline5 ,$this->leftMargin, $iline7);
 		if ($this->l['a_meta_dir'] == 'rtl') // avoid line overwrite in rtl language
 			$this->LineTo($this->cols[$cols - 2], $iline5 ,$this->cols[$cols - 2], $iline7);
@@ -143,8 +142,19 @@
 		$this->Text($mcol + 100, $this->formData['document_name']);
 		$this->Text($mcol + 180, $this->formData['document_number']);
 
+		if ($print_preparer)
+		{
+			$this->NewLine();
+			$this->Text($mcol + 100, _("Prepared by"));
+			$preparer = trim($user['real_name']);
+			if (empty($preparer)) $preparer = $user['user_id'];
+			$this->Text($mcol + 180, $preparer);
+		}
+
+		$this->NewLine(2);
+
 		if ($this->pageNumber > 1)
-			$this->Text($this->endLine - 35, _("Page") . ' ' . $this->pageNumber);
+			$this->Text($mcol + 180, _("Page") . ' ' . $this->pageNumber);
 		$this->row = $iline1 - $this->lineHeight;
 		$this->fontSize -= 4;
 		$this->Text($ccol, $Addr1['title'], $icol);

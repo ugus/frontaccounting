@@ -1,0 +1,675 @@
+msgid ""
+msgstr "Project-Id-Version: FrontAccounting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-08 15:59+0200\n"
+"PO-Revision-Date: 2009-11-30 17:07+0100\n"
+"Last-Translator: Translation Team <info@frontaccounting.net>\n"
+"Language-Team: ESPAÑOL <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.5\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: COLOMBIA\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-KeywordsList: _\n"
+
+msgid "A new customer has been added."
+msgstr "El Nuevo Cliente ha sido Creado."
+
+msgid "A new user has been added."
+msgstr "El nuevo usuario a  sido insertado."
+
+msgid "Abbreviation"
+msgstr "Abreviacion"
+
+msgid "Access Level"
+msgstr "Nivel de  acceso"
+
+msgid "Access Level:"
+msgstr "Nivel de  acceso:"
+
+msgid "Account"
+msgstr "Cuenta"
+
+msgid "Account Code"
+msgstr "Código de cuenta"
+
+msgid "Account Code:"
+msgstr "Código de cuenta:"
+
+msgid "Account Group:"
+msgstr "Grupo de Cuentas:"
+
+msgid "Account Name"
+msgstr "Cuenta"
+
+msgid "Account Name:"
+msgstr "Cuenta:"
+
+msgid "Account:"
+msgstr "Cuenta:"
+
+msgid "Accounts"
+msgstr "Cuentas"
+
+msgid "Actual Price"
+msgstr "Ejecutado"
+
+msgid "Add New Customer"
+msgstr "Crear Cliente"
+
+msgid "Add to Credit Note"
+msgstr "Adicionar a nota de crédito"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Address:"
+msgstr "Dirección:"
+
+msgid "Adjustment Items"
+msgstr "Diferencia"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "Allocate"
+msgstr "Asignado"
+
+msgid "Allocated"
+msgstr "Provisto"
+
+msgid "Allocation"
+msgstr "Asignación"
+
+msgid "Allocations"
+msgstr "Provisiones"
+
+msgid "Amount"
+msgstr "Cuantía"
+
+msgid "Amount:"
+msgstr "Monto:"
+
+msgid "Area"
+msgstr "Territorio"
+
+msgid "Area Name"
+msgstr "Nombre de Territorio"
+
+msgid "Available"
+msgstr "Disponible"
+
+msgid "BOM for item:"
+msgstr "Lista de Materiales por item:"
+
+msgid "Balance"
+msgstr "Saldo"
+
+msgid "Balance Sheet"
+msgstr "Balance"
+
+msgid "Bank"
+msgstr "Banco"
+
+msgid "Bank Account GL Code:"
+msgstr "Código Contable del Banco:"
+
+msgid "Bank Account Name:"
+msgstr "Nombre de Cuenta Bancaria:"
+
+msgid "Bank Account Number:"
+msgstr "Número de Cuenta Bancaria:"
+
+msgid "Bank Accounts"
+msgstr "Cuentas Bancarias"
+
+msgid "Bank Address"
+msgstr "Dirección del Banco"
+
+msgid "Bank Address:"
+msgstr "Dirección del Banco:"
+
+msgid "Branch"
+msgstr "Sucursal-Representante"
+
+msgid "Branch:"
+msgstr "Sucursal-Representante:"
+
+msgid "CREDIT NOTE"
+msgstr "NOTA CRÉDITO"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Charge Branch"
+msgstr "Cargar a Sucursal"
+
+msgid "Charge To"
+msgstr "Cargar a"
+
+msgid "Close This Work Order"
+msgstr "Cerrar esta orden de trabajo"
+
+msgid "Code"
+msgstr "Código"
+
+msgid "Comments"
+msgstr "Comentarios"
+
+msgid "Commit Order Changes"
+msgstr "Grabar la Orden"
+
+msgid "Component"
+msgstr "Componente"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Costed Bill Of Material Inquiry"
+msgstr "Consulta Extracto Costo de Materiales"
+
+msgid "Country"
+msgstr "Pais"
+
+msgid "Credit"
+msgstr "Crédito"
+
+msgid "Credit Note Date"
+msgstr "Fecha Nota de Credito"
+
+msgid "Credit Note Total"
+msgstr "Total Nota de Credito"
+
+msgid "Credit Note Type"
+msgstr "Tipo Nota Crédito"
+
+msgid "Credit Notes"
+msgstr "Notas de Crédito"
+
+msgid "Credit Status"
+msgstr "Calificación Cliente"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Currency Name"
+msgstr "Nombre Moneda"
+
+msgid "Current"
+msgstr "Corriente"
+
+msgid "Customer"
+msgstr "Cliente"
+
+msgid "Customer Branches"
+msgstr "Representantes Clientes(Sucursales)"
+
+msgid "Customer Name"
+msgstr "Nombre del Cliente"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Date Paid"
+msgstr "Fecha cancelado"
+
+msgid "Date Required By"
+msgstr "Fecha requerida"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Delete Customer"
+msgstr "Eliminar Cliente"
+
+msgid "Delete Supplier"
+msgstr "Borrar proveedor"
+
+msgid "Delete This Item"
+msgstr "Eliminar el Item"
+
+msgid "Delete This Work Order"
+msgstr "Borrar esta orden de trabajo"
+
+msgid "Deliver From Location"
+msgstr "Entregar desde localidad:"
+
+msgid "Delivered"
+msgstr "Despachado"
+
+msgid "Delivered To"
+msgstr "Despachado A"
+
+msgid "Delivery"
+msgstr "Enviado"
+
+msgid "Delivery To"
+msgstr "Enviar a"
+
+msgid "Demand"
+msgstr "Demanda"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Discount"
+msgstr "Descuento"
+
+msgid "Dissallow Invoices"
+msgstr "Control Facturación"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Enter Another Credit Note"
+msgstr "Ingresar Otra Nota Crédito"
+
+msgid "Enter Credit Note"
+msgstr "Ingrese Nota de Credito"
+
+msgid "Enter Delivery Details and Confirm Order"
+msgstr "Ingresar Detalle del Despacho y Confirmar la Órden"
+
+msgid "Enter Invoice"
+msgstr "Generar Factura"
+
+msgid "Enter Supplier Invoice"
+msgstr "Crear Factura de Proveedor"
+
+msgid "Enter a new work order"
+msgstr "Ingrese una nueva orden de trabajo"
+
+msgid "Exchange Rate"
+msgstr "Tasa de Cambio"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Fax No"
+msgstr "Numero de Fax"
+
+msgid "From"
+msgstr "De"
+
+msgid "Full Name"
+msgstr "Nombre completo"
+
+msgid "GL Account"
+msgstr "Plan de Cuentas"
+
+msgid "General Ledger"
+msgstr "Contabilidad"
+
+msgid "Inquiries and Reports"
+msgstr "Consultas e Informes"
+
+msgid "Insert New Item"
+msgstr "Inserte nuevo item"
+
+msgid "Inventory"
+msgstr "Inventario"
+
+msgid "Inventory Item Status"
+msgstr "Inventario por Item"
+
+msgid "Inventory Location Transfers"
+msgstr "Transferencia de Inventario entre Bodegas"
+
+msgid "Inventory Planning Report"
+msgstr "Proyección de Inventario "
+
+msgid "Inventory Valuation Report"
+msgstr "Valorización de Inventario"
+
+msgid "Invoice"
+msgstr "Factura"
+
+msgid "Invoice Date"
+msgstr "Fecha Factura"
+
+msgid "Invoice OK"
+msgstr "Permite  Facturación"
+
+msgid "Invoice Total"
+msgstr "Total Factura"
+
+msgid "Item"
+msgstr "Ítem"
+
+msgid "Item Code"
+msgstr "Código Ítem"
+
+msgid "Item Description"
+msgstr "Descripción"
+
+msgid "Journal Entry"
+msgstr "Registro Contable"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Last Visit"
+msgstr "Ultima visita"
+
+msgid "Line Details"
+msgstr "Detalles de la Orden"
+
+msgid "Line Total"
+msgstr "Total"
+
+msgid "Line Value"
+msgstr "Valor de Línea"
+
+msgid "Location"
+msgstr "Ubicación"
+
+msgid "Location Code"
+msgstr "Codigo Localidad"
+
+msgid "Location Name"
+msgstr "Nombre  Localidad"
+
+msgid "Logout"
+msgstr "Salir"
+
+msgid "Main  Menu"
+msgstr "Menú Principal"
+
+msgid "Main Menu"
+msgstr "Menú Principal"
+
+msgid "Maintenance"
+msgstr "Administración"
+
+msgid "Manufactured"
+msgstr "Fabricado"
+
+msgid "Manufacturing"
+msgstr "Producción"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "NO INVOICING"
+msgstr "No Permite  Facturación"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "No"
+msgstr "No"
+
+msgid "Number"
+msgstr "Número"
+
+msgid "On Order"
+msgstr "En Ordenes"
+
+msgid "Order"
+msgstr "Orden"
+
+msgid "Order Currency"
+msgstr "Moneda de Orden"
+
+msgid "Order Date"
+msgstr "Fecha de la Orden"
+
+msgid "Order Price"
+msgstr "Precio de Orden"
+
+msgid "Order Status Listing"
+msgstr "Lists de Estado de Orden"
+
+msgid "Order Total"
+msgstr "Total Ordenado"
+
+msgid "Ordered"
+msgstr "Cant. Ordenada"
+
+msgid "Ordered On"
+msgstr "Ordenado el"
+
+msgid "Our Order No"
+msgstr "Nomero Orden Compra"
+
+msgid "Outstanding"
+msgstr "Pendiente"
+
+msgid "Outstanding GRNs Report"
+msgstr "Remisiones Pendientes"
+
+msgid "Over"
+msgstr "Sobre los"
+
+msgid "Payment Terms"
+msgstr "Terminos de Pago"
+
+msgid "Payment Type"
+msgstr "Tipo de Pago"
+
+msgid "Payments"
+msgstr "Pagos"
+
+msgid "Period"
+msgstr "Periodo"
+
+msgid "Phone No"
+msgstr "Numero del Telefono"
+
+msgid "Phone Number"
+msgstr "Numero Telefono"
+
+msgid "Place Order"
+msgstr "Colocar Orden"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Price Listing"
+msgstr "Listado de precios"
+
+msgid "Print"
+msgstr "Imprimir"
+
+msgid "Process"
+msgstr "Procesar"
+
+msgid "Process Credit Note"
+msgstr "Procesar Nota Crédito"
+
+msgid "Process Invoice"
+msgstr "Procesar Factura"
+
+msgid "Profit and Loss Statement"
+msgstr "Estado de Perdidas y Ganancias"
+
+msgid "Purchase Order"
+msgstr "Orden de Compra"
+
+msgid "Purchase Order Entry"
+msgstr "Crear Orden de Compra"
+
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgid "Quantity On Hand"
+msgstr "Cantidad Disponible"
+
+msgid "Quantity Received"
+msgstr "Cantidades recibidas"
+
+msgid "Quantity Required"
+msgstr "Cantidad Requerida"
+
+msgid "Re-Order Level"
+msgstr "Nivel  Re-ordenamiento"
+
+msgid "Receive"
+msgstr "Recibo"
+
+msgid "Received"
+msgstr "Recibido"
+
+msgid "Ref"
+msgstr "Ref."
+
+msgid "Reference"
+msgstr "Referencia"
+
+msgid "Released Date"
+msgstr "Emitido en"
+
+msgid "Required"
+msgstr "Requerido"
+
+msgid "Sales Areas"
+msgstr "Zonificación de Ventas"
+
+msgid "Sales Person"
+msgstr "Vendedor"
+
+msgid "Sales Type"
+msgstr "Tipo Venta/Lista de Precios:"
+
+msgid "Sales Types"
+msgstr "Tipos de Venta"
+
+msgid "Search All Sales Orders"
+msgstr "Buscar Todas la Órdenes de Venta"
+
+msgid "Search Outstanding Purchase Orders"
+msgstr "Buscar Ordenes de Compra Pendientes"
+
+msgid "Search Outstanding Sales Orders"
+msgstr "Buscar Órdenes de Compra Pendientes"
+
+msgid "Search Purchase Orders"
+msgstr "Buscar Ordenes de Compra"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Show Movements"
+msgstr "Mostrar Movimientos Item"
+
+msgid "Standard Labour Cost Per Unit"
+msgstr "Costo nomal de mano de obra por unidad"
+
+msgid "Standard Material Cost Per Unit"
+msgstr "Costo normal de material por unidad"
+
+msgid "Standard Overhead Cost Per Unit"
+msgstr "Costo fijo normal por unidad"
+
+msgid "Stock Check Sheets"
+msgstr "Hojas de chequeo de existencia"
+
+msgid "Sub Total"
+msgstr "Sub Total"
+
+msgid "Supplier"
+msgstr "Proveedor"
+
+msgid "Supplier Allocations"
+msgstr "Provisión para Pagos a Proveedores"
+
+msgid "Supplier Balances"
+msgstr "Balance de Proveedores"
+
+msgid "Supplier Credit Note"
+msgstr "Nota de Crédito del Proveedor"
+
+msgid "Supplier Purchasing Data"
+msgstr "Datos de la Compra al Proveedor"
+
+msgid "TOTAL CREDIT"
+msgstr "TOTAL CREDITO"
+
+msgid "TOTAL INVOICE"
+msgstr "TOTAL FACTURA"
+
+msgid "Tax"
+msgstr "Impuestos"
+
+msgid "Telephone"
+msgstr "Teléfono"
+
+msgid "Terms"
+msgstr "Terminos"
+
+msgid "There is no purchasing data set up for the part selected"
+msgstr "No hay datos de compra para la parte seleccionada"
+
+msgid "This Delivery"
+msgstr "Esta entrega"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total Allocated"
+msgstr "Total Asignado"
+
+msgid "Total Balance"
+msgstr "Balance total"
+
+msgid "Transactions"
+msgstr "Transacciones"
+
+msgid "Trial Balance"
+msgstr "Balance de Prueba"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Type Name"
+msgstr "Nombre Tipo"
+
+msgid "Unit"
+msgstr "Unidad"
+
+msgid "Unit Cost"
+msgstr "Costo Unitario"
+
+msgid "Units"
+msgstr "Unidades"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Update Customer"
+msgstr "Actualizar Cliente"
+
+msgid "Update Order"
+msgstr "Actualizar Orden"
+
+msgid "Update Supplier"
+msgstr "Actualizar Proveedor"
+
+msgid "Version"
+msgstr "Versión"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Work Centre"
+msgstr "Centro de Costos"
+
+msgid "Work Centres"
+msgstr "Centros de Costo"
+
+msgid "Work Order Entry"
+msgstr "Ingreso de Orden de Trabajo"
+
+msgid "Work Order Requirements"
+msgstr "Requerimientos de la Orden de Trabajo"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "days"
+msgstr "días"
+
+msgid "number"
+msgstr "Numero"
